@@ -8,7 +8,7 @@ It ended without a plaintext. The repository exists so that the next person or a
 does not repeat the work, knows which negative results are strong and which are weak,
 and can start from the open leads.
 
-If you are an agent picking this up, read sections 1 to 5 of this file, then
+If you are an agent picking this up, read sections 1 to 5a of this file, then
 `research/13`, `research/15` and `research/11` in that order. Everything else is reference.
 
 Everything here was written by LLM agents and checked by running code where code could
@@ -190,6 +190,73 @@ The compute route has covered the likeliest wheel orders once and found nothing,
 covering the rest at a detection rate of one in four would take months of desktop time for
 the least likely configurations. Nothing that we could do with more agent time changes
 either fact. What would change them is outside material, listed next.
+
+---
+
+## 5a. What it would take, and whether compute alone would do it
+
+**Any one of three things decodes the message.**
+
+1. **The Thetis daily key** for the key day that began at noon on 1 May 1945: reflector,
+   wheels, ring settings and plugboard. The message key is then one of 26^4 values and can
+   simply be tried. This takes seconds, with or without the indicator.
+2. **A crib**: about 25 to 30 or more consecutive letters of the plaintext, correctly guessed,
+   at a known or guessable position. The bombe then tests every rotor setting exactly rather
+   than heuristically. A full-length crib clears the whole machine space in minutes on a
+   desktop and tolerates up to three wrong letters.
+3. **Neither, but a ciphertext that is nearly right and a plaintext that is ordinary German.**
+   Then a ciphertext-only search can find it. This is the only route that money buys, and
+   it is probabilistic.
+
+**Is the message decodable in principle? Yes.** The M4 key space is about 6 x 10^25
+(wheel orders, positions and rings about 4 x 10^11, times 1.5 x 10^14 plugboards), or 86 bits.
+German carries about 3 bits of redundancy per letter, so beyond roughly 30 letters only one
+key gives German text. At 72 letters the right answer is unique and would be recognised on
+sight. There is no realistic chance of a second, false, readable solution.
+
+**Can it be brute-forced? No.** 6 x 10^25 trial decrypts is on the order of 10^14 core-hours,
+about a trillion dollars at cloud prices. Every practical attack therefore splits the key.
+The rotor side is small enough to enumerate completely. The plugboard is not, so it is
+found by hill-climbing: start from a guess, swap plugs, keep what makes the decrypt look
+more like German. That climb is a heuristic. At the true rotor setting, on our control
+messages, a single climb reached the true plugboard 2 to 3% of the time (`research/15`).
+Hence many restarts per rotor setting, and hence a search that can pass straight over the
+right answer.
+
+**What money buys.** Our sweep used 20 restarts per key on the likeliest wheel orders and
+5 to 10 on the rest, pinned the middle ring, and finished about a third of the jobs. A
+thorough pass would run all 1,344 jobs, all middle-ring classes (about 5.7 times the keys)
+and 200 restarts per key. By the cost model in `research/07` section 5 that is about 1.5
+million thread-hours, or roughly 50,000 dollars at 3 cents per vCPU-hour. A million
+dollars buys about twenty such passes, or one pass at several thousand restarts. Beyond
+the first fifty to hundred thousand dollars, compute is no longer what limits the result.
+
+**Would a million dollars definitely decode it? No.** It would very probably decode it if
+all of the following hold, and it would find nothing if any one fails:
+
+- **The published ciphertext is within a few letters of what was sent**, with no letter
+  dropped or inserted. A handful of wrong letters is tolerable: our control message has two
+  and was found. A lost or doubled letter would shift everything after it. The group count
+  on the form argues against that, but the form is a copy by ear.
+- **The body is plain German.** If it is an officer-grade message, enciphered a second time
+  under a key we also lack, the outer decrypt is noise and no language score can find it.
+  The same goes for a code-book body.
+- **This message is not unusually hard for the climb.** Measured end to end, detection in
+  the correct job was about 10% at 5 restarts, 20 to 35% at 20, and 60% or more at 100
+  (`research/07` section 6). That rises more slowly than the single-climb rate predicts,
+  which means messages differ, and some need far more restarts than others.
+- **The plaintext resembles the language model**, which was built from other U-534 traffic.
+  A text made mostly of call signs, numbers or abbreviations scores closer to junk.
+
+Our judgement, which is not a measurement: a thorough pass has somewhat better than even
+odds, and a million dollars perhaps four in five. The remainder is the first two
+assumptions, which no amount of compute repairs. A clean null at that scale would itself
+be a result: it would point to a damaged ciphertext or a doubly enciphered body.
+
+**The comparison that matters.** Thirty correct letters of crib are worth more than a
+million dollars of compute, because they turn a probabilistic search into an exact one.
+That is why the leads in the next section put a sharper photograph, key material and war
+diaries ahead of more processor time.
 
 ---
 
