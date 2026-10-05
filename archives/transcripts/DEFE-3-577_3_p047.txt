@@ -1,0 +1,17 @@
+META serial=367458 too=0401 toi=0309/1/5/45 freq=2247 from=ND.13 to=?
+GIST S.S. Edna proceeding north to south on independent passage has passed position K on 1 May 1945.
+
+ADM (33)
+
+TO: I D 8 G
+
+FROM: N S
+
+2247 KC/S        TOO 0401                TOI 0309/1/5/45
+
+FROM: ND.13
+
+S.S 'EDNA', PROCEEDING NORTH TO SOUTH ON INDEPENDENT PASSAGE,
+HAS PASSED POSITION 'K'.
+
+[handwritten marking at bottom] 0832/1/5/45++CEL/FA

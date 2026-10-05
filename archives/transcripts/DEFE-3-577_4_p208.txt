@@ -1,0 +1,18 @@
+META serial=ZTPG367809 too=2030 toi=1949/5/4/45 freq=3764 from=U_2357_HEINRICH_WITH_U_2359_BISCHOFF to=CONTROL
+GIST U-boats 2357 and 2359 reporting departure from Roenne for Warnemuende with specified speed.
+
+ADM C3)
+TO: I D 8 G
+FROM: N S
+
+ZIP/ZTPG/367809
+
+3764 KC/S     TOO 2030 ..     TOI 1949/5/4/45
+
+FROM: U 2357 C HEINRICH ) WITH
+      U 2359 C BISCHOFF )
+TO:   CONTROL
+
+LEAVING ROENNE FOR WARNEMUENDE AT 2030/5/4. SPEED 9 KNOTS .
+
+1653/2/5/45     EE/UAK+++

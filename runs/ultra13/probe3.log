@@ -1,0 +1,21 @@
+crib 0 SSDOTTOWUENS..(66)@0 used=66 excluded=[] blocks=2 sizes: 33(pivot R, loops 17) 33(pivot E, loops 18)
+crib 1 SSDOTTOWUENS..(69)@0 used=69 excluded=[] blocks=2 sizes: 35(pivot E, loops 19) 34(pivot G, loops 19)
+crib 2 SSDOTTOWUENS..(67)@0 used=67 excluded=[] blocks=2 sizes: 34(pivot O, loops 18) 33(pivot E, loops 18)
+crib 3 SSDOTTOWUENS..(70)@0 used=70 excluded=[] blocks=2 sizes: 35(pivot R, loops 19) 35(pivot X, loops 20)
+crib 4 SSDOTTOWUENS..(69)@0 used=69 excluded=[] blocks=2 sizes: 35(pivot E, loops 19) 34(pivot N, loops 19)
+crib 5 SSDOTTOWUENS..(71)@0 used=71 excluded=[] blocks=2 sizes: 36(pivot E, loops 19) 35(pivot B, loops 19)
+crib 6 SSDOTTOWUENS..(72)@0 used=72 excluded=[] blocks=2 sizes: 36(pivot N, loops 21) 36(pivot O, loops 20)
+crib 7 SSDOTTOWUENS..(66)@0 used=66 excluded=[] blocks=2 sizes: 33(pivot T, loops 18) 33(pivot G, loops 18)
+crib 8 SSDOTTOWUENS..(69)@0 used=69 excluded=[] blocks=2 sizes: 35(pivot N, loops 19) 34(pivot E, loops 19)
+crib 9 SSDOTTOWUENS..(70)@0 used=70 excluded=[] blocks=2 sizes: 35(pivot R, loops 20) 35(pivot G, loops 19)
+DONE settings=5940688 time=2.9s rate=2.036M settings/s (0.509M/s/thread, 4 threads) T-evals/setting=0.0 stops=0
+crib 0 SSDOTTOWUENS..(66)@0: block-stops=0; verified g histogram:
+crib 1 SSDOTTOWUENS..(69)@0: block-stops=0; verified g histogram:
+crib 2 SSDOTTOWUENS..(67)@0: block-stops=0; verified g histogram:
+crib 3 SSDOTTOWUENS..(70)@0: block-stops=0; verified g histogram:
+crib 4 SSDOTTOWUENS..(69)@0: block-stops=0; verified g histogram:
+crib 5 SSDOTTOWUENS..(71)@0: block-stops=0; verified g histogram:
+crib 6 SSDOTTOWUENS..(72)@0: block-stops=0; verified g histogram:
+crib 7 SSDOTTOWUENS..(66)@0: block-stops=0; verified g histogram:
+crib 8 SSDOTTOWUENS..(69)@0: block-stops=0; verified g histogram:
+crib 9 SSDOTTOWUENS..(70)@0: block-stops=0; verified g histogram:

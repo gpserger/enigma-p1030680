@@ -1,0 +1,24 @@
+# build products and local environments
+.venv/
+__pycache__/
+*.o
+tools/bombe/bombe
+tools/blind/blindrank
+tools/blind/bombe_ah
+tools/ctonly2/ct2
+tools/ctonly2/ct2dn
+tools/run_m4/m4hc
+tools/run_m4/potsdam
+tools/run_m4/score
+# third-party checkouts (see NOTICE.md)
+tools/enigma/
+tools/enigma-suite/
+tools/enigma_attacks/
+# large or restricted source material (see archives/SOURCES.md)
+archives/*.pdf
+archives/pages*/
+archives/ocr/
+# restored sweep state and raw stop lists
+runs/m4_ctonly/pass1/
+*.tsv.zst
+*.tsv.gz

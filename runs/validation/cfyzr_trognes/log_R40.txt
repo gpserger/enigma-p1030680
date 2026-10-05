@@ -1,0 +1,39 @@
+Ciphertext: 72 letters
+Scoring:    weighted all-orders + IC (language: wehrmacht)
+            n-gram files in tools/enigma/ngrams
+Hillclimb:  yes
+            40 restarts, 10-pair kick
+            staged: m4f10
+            quadgram-gain 2-ply+3-ply cascade once on the best board (--polish)
+            first-improvement climb (dynamic move order)
+            seed: 7
+Threads:    16
+Machine:    standard Enigma; reflector B, wheels 531
+            ring AA., start ...
+Plugboard:  (none)
+   Score W    R   G   S                                      Text
+ -8.9546 B531 AAA AAA AZ BU EH FS GP JL RX                   UUNDXARFAUPIXBOUBER
+ -8.8813 B531 AAA AAA AZ BU EH FS GP JL RX TY                UUNDXARFAUPIXBOUBER
+ -8.8651 B531 AAA HXZ AN BO CT EL GY HZ KM PQ RS WX          BHGIEREPCXTEEBEEAGC
+ -8.7786 B531 AAA AAA AB FS GJ HK MV RZ UX                   AANDZRUICAUBEXPAXEU
+ -8.4975 B531 AAB DBF AD BZ EW FU GM HN IO KL PV QT          EDLISDUENSRCEFEEIIW
+ -8.4006 B531 AAB AKO AJ BI CF DK EG NU OZ PX QV RT          HESTUEHAASISTSWKASA
+ -8.0777 B531 AAA CQR AZ BN DS EM GK HL IJ OP QX VW          ISRXXPORDETEMORTENA
+ -7.9704 B531 AAA VDI AW CD FL GK HY IM JU NT OP VZ          ZNDNDDAUSENFUSNUNPE
+ -7.8609 B531 AAB FSK AB CH DN EW FX LQ MT OR PV YZ          PEMHEEWANOXGENWEZEE
+ -7.7782 B531 AAA XUT AS BH DI EQ FG JT KY PR UX VZ          LSZELNDOLZINTEINASP
+ -7.5630 B531 AAA CSX AX BQ CG DO FL HU JT MV NZ PW          EJLBEROZUXGEFEAUSKA
+ -7.5565 B531 AAA VTQ BO CX DE FL GS HT IR KZ QV WY          SBVEEFNGEENNFANENKA
+ -7.5207 B531 AAA DMC AH BZ CY EF MU OW PT RV                YHTOPANSTTITEINEAPE
+ -7.4691 B531 AAA VZI AE CY GM HX IT JR KL OZ QW UV          OPENHOOSSBOLDNVEYEN
+ -7.4320 B531 AAB JNN AO CP DQ GX HZ JL KR SY TU             YEARELYLHALINSERENZ
+ -7.3707 B531 AAB JPD AS BI CD EG FV HU JX LO MP             RELLLXGRLTUEXEINEOA
+ -7.1958 B531 AAB QIR BT CH DR EW FU GK JO LV MS PZ          ANROEMEINSBERTAXQUA
+ -7.1089 B531 AAE DSY BI CT DG FL HR KQ MP NX SZ WY          ARIEGEXESTRUHNCHMAR
+ -7.0873 B531 AAD TSE BX CF DN EZ HR IL JQ KY MP OV          SYANUEINSSIESAREGSK
+ -6.9005 B531 AAK FPR BL CZ DM EP FY GV IX JK NW OR          SIEHXENSSEPEEUEKRGI
+
+Analysed 456976 rotor combinations, scored 42210515265 plugboards
+Finished in 453.11 s using 16 threads
+Precomputed 1 rotor table (0.4 MB); peak memory 10 MB
+wall=453.11 s

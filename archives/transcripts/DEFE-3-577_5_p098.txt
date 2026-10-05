@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367899 too=2045 toi=2048/27/4/45 freq=3764 from=S.O. 4TH U/B FLOTILLA to=U-BOATS ON PASSAGE SWINEMUENDE-TRAVEMUNDE
+GIST S.O. 4th U/B Flotilla orders U-boats: 1) Escort from Gruen 03 will be ordered by flotilla, R/V time to follow. 2) Anchor in Travemunde roads at least 15 metres in groups of 3.
+
+ADM (3)
+TO ID8 G                                        ZIP/ZTPG/367899
+FROM N S
+
+3764 KC/S         TOO 2045            T O I 2048/27/4/45
+
+FROM: S.O. 4TH U/B FLOTILLA
+TO:   U-BOATS ON PASSAGE SWINEMUENDE-TRAVEMUNDE
+
+1) ESCORT FROM 'GRUEN 03' ORDERED BY FLOT ILLA. T IME OF R/V WILL
+   FOLLOW IN GOOD TIME.
+2) ANCHOR IN TRAVEMUNDE ROADS IN AT LEAST 15 METRES IN GROUPS
+   OF 3.
+
+0337/3/5/45         EGT+++MPS+++

@@ -1,0 +1,20 @@
+META serial=368503 too=1143 toi=1001/2/5/45 freq=4835 from=V806 to=5THDEFENCEDIVISION
+GIST V 806 reports to 5th Defence Division that proceeding with FJ 23 and diving tender Wulf to Sperrbrecher 167 to establish whether salvage is possible.
+
+ADM .5)
+
+TO: I D B G                ZIP/ ZTPG/368503
+
+FROM: N S
+
+4835 KC/S     T O O 1143     T O I 1001/2/5/45
+
+FROM: V 806
+
+TO: 5TH DEFENCE DIVISION
+
+AM PROCEEDING WITH FJ 23 AND DIVING 4 TENDER WULF TO
+SPERRBRECHER 167 IN ORDER TO ESTABLISH WHETHER SALVAGE IS POSSIBLE.
+
+
+1757/6/5/45 EE/MJU

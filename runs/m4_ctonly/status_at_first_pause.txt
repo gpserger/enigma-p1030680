@@ -1,0 +1,8 @@
+run dir      : /opt/enigma-p1030680/runs/m4_ctonly/pass1
+workers alive: 15   stop flag: False
+jobs done    : 0/1344   right-ring units done: 163/28392
+by tier      : T0:0/12  T1:0/156  T2:0/336  T3:0/600  T4:0/240
+running jobs : 0001_cG438 0002_bG438 0003_cB438 0004_bB438 0005_cG568 0006_bG568 0007_cB568 0008_bB568 0009_cG528 0010_bG528 0011_cB528 0012_bB528 0013_cG678 0014_bG678 0015_cB678
+unit wall    : mean 4232 s (last 163 units, 1 thread each)
+ETA all jobs : 2212.2 h with 15 workers (stage B adds ~1%)
+ETA tiers 0-1: 171.2 h

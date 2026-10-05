@@ -1,0 +1,14 @@
+META serial=? too=? toi=? freq=? from=? to=?
+GIST Continuation of the numbered situation report begun on p-204 (ZTPG/367595): points 6-10 covering the Vilaine/Pornic coast held by German forces, radio-beacon secrecy, radar detections, mine danger, and R/S (radio station) breakdown procedure with patrol drifters.
+
+6)   THE COAST SOUTH OF THE RIVER VILAINE IS IN OUR HANDS.  THE
+     SOUTHERN BANK AS FAR AS PORNIC IS LIKEWISE IN OUR HANDS.
+7)   FOR REASONS OF SECRECY NO RADIOBEACONS OR LIGHTS.
+8)   TO DATE ISOLATED RADAR LOCATION OF ENEMY SEA AND AIR TARGETS.
+9)   ACCORDING TO LATEST EXPERIENCES DANGER OF GROUND MINES IS
+     SLIGHT.  OTHERWISE NO MINEFIELDS.
+10)  IF R/S IS OUT OF ORDER, GIVE NAME OF COMMANDING OFFICER TO
+     THE PATROL DRIFTERS.  PATROL DRIFTERS WILL THEN REPLY WITH
+     'BEHRMANN'.
+
+2111/1/5/45+++++++EE/SMH

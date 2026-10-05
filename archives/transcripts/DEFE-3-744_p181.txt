@@ -1,0 +1,20 @@
+META serial=ZTPGU/39155 too=1602 toi=1421/3/5/45 freq=9040 kc/s from=WAECHTER to=CAPTAIN U/B WEST; 8TH DEFENCE DIVISION
+GIST Waechter reports to Captain U/B West and 8th Defence Division that it has passed RQT 17, the boat has an oil trace, and there is heavy enemy air activity in the western Baltic.
+
+ADM (2)
+TO: I D 8G                                     ZIP/ZTPGU/39155
+FROM: N S
+
+9040KC/S               TOO : 1602   TOI : 1421/3/5/45  (day digit faint, "3?")
+
+FROM: WAECHTER
+TO:   CAPTAIN U/B WEST
+      8TH DEFENCE DIVISION
+
+HAVE PASSED RQT 17. BOAT HAS OIL TRACE. HEAVY ENEMY AIR IN
+WESTERN BALTIC.
+
+
+
+
+2227/17/5/45 EGT/JG

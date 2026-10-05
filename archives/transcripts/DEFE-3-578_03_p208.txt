@@ -1,0 +1,16 @@
+META serial=3687/49 too=1640 toi=1504/6/5/45 freq=350KC/S from=V 1816 to=1ST COASTAL DEFENCE UNIT
+GIST: V 1816 reports arrival in Melsovik at 1630 to first coastal defence unit.
+
+ADM C4D
+TO I D B G                                 ZIP/ZTPG/3687/49
+
+FROM N S
+
+350 KC/S        T O O 1640        T O I 1504/6/5/45
+
+FROM: V 1816
+TO:   1ST COASTAL DEFENCE UNIT
+
+ARRIVED IN MELSOVIK AT 1630.
+
+0531/8/5/45+++CFG/UC

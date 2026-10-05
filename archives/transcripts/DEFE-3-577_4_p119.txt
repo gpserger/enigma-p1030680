@@ -1,0 +1,16 @@
+META serial=367727 too=0203 toi=0526/1/5/45 freq=382 kc/s from=TF7 THROUGH ((DUALA)) to=10TH DEFENCE DIVISION
+
+GIST TF7 reports on orders from F 1 in Reiher standing by in Warnmuende ready to sail.
+
+ADM (3)
+TO: I D 8 G    ZIP/ZTPG/367727
+FROM: N S
+
+382 KC/S    T O O 0203    T O I 0526/1/5/45
+
+FROM: TF7 THROUGH ((DUALA))
+TO: 10TH DEFENCE DIVISION
+
+ON ORDERS OF F 1 (IN 'REIHER') AM STANDING BY IN WARNEMUENDE READY TO SAIL.
+
+0905/2/5/45+++EGT/FA

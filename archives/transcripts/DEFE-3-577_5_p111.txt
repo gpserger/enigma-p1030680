@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367911 too=0517 toi=0525/30/4/45 freq=3978 from=FLEET TRAINING UNIT to=REPEATED. TO CAPTAIN 'D'
+GIST Emergency Most Secret 1027: Previous message from 1st Division Naval War Staff I OPS 907 for S.O. Only, dated 28/4.
+
+ADM (1)
+TO: IDBG                                         ZIP/ZTPG/367911
+FROM: N S
+
+3978 KC/S         TOO 0517            T O I 0525/30/4/45
+
+FROM: FLEET TRAINING UNIT
+TO:   REPEATED. TO CAPTAIN 'D'
+
+EMERGENCY                  MOST SECRET 1027
+
+PREVIOUS: 1 ST DIVISION NAVAL WAR STAFF I OPS 907 FOR
+          S.O. ONLY DATED 28/4 PARA 2)
+
+0512/3/5/45 EGT+MDT++

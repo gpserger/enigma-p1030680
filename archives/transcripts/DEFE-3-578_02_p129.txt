@@ -1,0 +1,9 @@
+META serial=ADM C(5) too=? toi=1950/5/5/45 freq=4265 from=HARBOUR OFFICER LE PALAIS to=I D 8 G
+GIST Harbour officer reports no observations to Defence Unit Lorient.
+
+FROM: HARBOUR OFFICER (( LE PALAIS ))
+TO: DEFENCE UNIT LORIENT
+
+NO OBSERVATIONS '\
+
+2324/5/5/45 EE/MJU

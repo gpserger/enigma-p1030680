@@ -1,0 +1,15 @@
+META serial=367524 too=1157 toi=1132/22/4/45 freq=4282 from=LOCATION GROUP, 25TH U/B FLOTILLA to=ADMIRAL (U/B)
+GIST Location group for 25th U-boat flotilla reports Nibelungen device installed in six U-boats.
+
+ADM (C3)
+TO ID 8 G       Z1P/ZTPG/367524
+FROM N S
+
+4282 KC/S       T O O 1157       T O I 1132/22/4/45
+
+FROM: LOCATION GROUP, 25TH U/B FLOTILLA.
+TO: ADMIRAL (U/B)
+
+6 'N IBELUNGEN' INSTALLED IN U 2528, 3025, 2525, 3516, 3020, 2536, 3002, 301(C(B)).
+
+1450/1/5/45 EE/HW

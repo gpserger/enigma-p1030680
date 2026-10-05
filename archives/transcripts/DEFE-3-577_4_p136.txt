@@ -1,0 +1,19 @@
+META serial=367743 too=1514 toi=1410/30/4/45 freq=382 from=SPERBRECHER 24 to=10TH DEFENCE DIVISION
+
+GIST Sperbrecher 24 reports taking up escort at 1500 of convoy with Lothringen, T. 35, S.S. Bischoff, ice-breaker Ostpreussen, and Gauleiter aboard.
+
+TO: I D 8 G    ZIP/ZTPG/367743    741
+
+FROM: N S
+
+382  KC/S    T O O    1514    T O I 1410/30/4/45
+
+FROM: SPERBRECHER 24
+
+TO: 10TH DEFENCE DIVISION
+
+TOOK UP ESCORT AT 1500 OF CONVOY CONSISTING OF 'LOTHRINGEN',
+T. 35, S.S. 'BISCHOFF' AND ICE-BREAKER 'OSTPREUSSEN' WITH
+GAULEITER ((KOCH)) ON BOARD.
+
+1132/2/5/45    CEL/AHM++++

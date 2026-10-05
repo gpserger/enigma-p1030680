@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPGU/39016 (ND) too=2001 toi=1840/1/5/45 freq=10200 KC/S from=CAPTAIN FMX (U/B) NORTHERN WATERS to=?
+GIST Captain commanding Northern Waters U-boats reports air reconnaissance of convoys in squares AC 4670 and AC 4290 with enemy fighters.
+
+ADM C2)
+
+TO I D 8 G                                   ZIP/ZTPGU/39016 (ND)
+
+FROM N S
+
+10200 KC/S           T O O 2001           T O I 1840/1/5/45
+
+FROM: CAPTAIN FMX (U/B) NORTHERN WATERS
+
+MOST IMMEDIATE
+
+AIR REPORTS AT 1715 CONVOY OF 35 SHIPS SQUARE AC 4670,
+COURSE WEST, 9 KNOTS. AT 1720 SECOND STRONG CONVOY GROUP
+SQUARE AC 4290, ENEMY FIGHTER(S).
+
+0447/7/5/45 GFC/MW

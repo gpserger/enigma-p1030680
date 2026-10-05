@@ -1,0 +1,21 @@
+META serial=3671411 too=0152 toi=0017/29/4/45 freq=3545KC/S from=S.O.12THUJFLOTILLA to=?
+GIST Most immediate report from 12th U.J.Flotilla regarding repeated approach flights at convoy by German Bf.138 firing and dropping bombs.
+
+C52
+TO: I D 8 G                           ZIP/ZTPG/3671411
+FROM: N S
+[seal mark]
+
+3545 KC/S             T O O 0152              T O I 0017/29/4/45
+
+FROM: S.O. 12TH UJ.FLOTILLA
+
+MOST IMMEDIATE.
+
+REPEATED APPROACH FLIGHTS AT THE CONVOY BY A BY.138 FIRING R/S
+PYROTECHNIC 3, DROPPING BOMBS AND LOCATING ON 283 MC/S IN SQUARE
+AO 8439.
+
+[seal mark]
+
+0410/1/5/45 CEL/EB+

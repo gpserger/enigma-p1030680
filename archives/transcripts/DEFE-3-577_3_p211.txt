@@ -1,0 +1,16 @@
+META serial=367599 too=2202 toi=2055/23/4/45 freq=3764 from=U 2544 to=5TH U/B FLOTILLA
+GIST U 2544 reports to 5th U-boat Flotilla that at 2100 it was in convoy from ROT 33A to Aarhus.
+
+ADM (4)
+TO: I D 8G                                     ZIP/ZTPG/367599
+
+FROM: N S
+
+3764 KC/S       TOO : 2202            TOI : 2055/23/4/45
+
+FROM: U 2544
+TO:   5TH U/B FLOTILLA
+
+AT 2100 IN CONVOY FROM ROT 33A TO AARHUS.
+
+2036/1/5/45 EE/JG

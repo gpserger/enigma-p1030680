@@ -1,0 +1,5 @@
+crib 0 LEITUNGVVVUU..(16)@0 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 1)
+DONE settings=23762752 time=9.5s rate=2.508M settings/s (1.254M/s/thread, 2 threads) T-evals/setting=3.9 stops=5922668
+crib 0 LEITUNGVVVUU..(16)@0: block-stops=5922668; verified g histogram: g0:805719 g1:1000494 g2:1251150 g3:1382678 g4:1054864 g5:382469 g6:44647 g7:647
+9.47 s
+stats: 805167 lines in 48.8s

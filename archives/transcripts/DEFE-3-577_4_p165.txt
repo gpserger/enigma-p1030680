@@ -1,0 +1,20 @@
+META serial=367772 too=1610 toi=1546/30/4/45 freq=4262 from=ADMIRAL (U/B) to=S.O. 26TH U/B FLOTILLA RPTD. TO: CAPTAIN (U/B) TRAINING
+GIST Emergency: telephonic instruction regarding transport of U-boat dockyard personnel from Warneuende area confirmed; Leopard to be used for one transfer to Copenhagen.
+
+ADM (C)
+TO: I D B G                                    ZIP/ZTPG/367772
+FROM: N S
+
+4262 KC/S            T O O 1610            T O I 1546/30/4/45
+
+FROM: ADMIRAL (U/B)
+TO: S.O. 26TH U/B FLOTILLA
+     RPTD. TO: CAPTAIN (U/B) TRAINING
+
+EMERGENCY
+
+TELEPHONIC INSTRUCTION REGARDING THE TRANSPORT AWAY OF U/BOAT
+DOCKYARD PERSONNEL FROM THE WARNEUENDE AREA IS CONFIRMED TO THE
+EFFECT THAT 'LEOPARD' IS TO BE USED FOR ONE TRANSFER TO COPENHAGEN.
+
+[handwritten] 1342 /3/5/45+++CEL/EA

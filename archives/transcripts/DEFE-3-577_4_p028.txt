@@ -1,0 +1,16 @@
+META serial=367645 too=2033/28 toi=1040/29/4/45 freq=368 from=NAVY OFFICE DANZIG-HELA to=OKM/ NAVAL WAR STAFF QU 6
+GIST Message from Navy Office Danzig-Hela to Naval War Staff and various Baltic commands.
+
+ADM: C4D)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367645
+
+368 KC/S                T00 2033/28              T O I 1040/29/4/45
+
+FROM: NAVY OFFICE DANZIG- HELA
+TO:    OKM/ NAVAL WAR STAFF QU 6
+       NAVAL CHIEF COMMAND BALTIC QU 3
+       NAVY OFFICE SASSNITZ
+       ADMIRAL SKAGERRAK

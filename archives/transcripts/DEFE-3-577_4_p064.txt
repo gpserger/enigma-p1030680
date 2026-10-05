@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367677 too=1723 toi=1718/28/4/45 freq=368 KCS from=CONVOY OFFICE SWINEMUENDE to=((CORRUPT GROUP))
+GIST Convoy Office Swinemuende reports with corrupted message about groups.
+
+ADM (C4)
+
+TO I D 8 G    ZIP/ZTPG/367677
+
+FROM NS
+
+368 KCS    TOO 1723    TOI 1718/28/4/45
+
+((FROM)): CONVOY OFFICE SWINEMUENDE
+
+((TO)) : (( CORRUPT GROUP ))
+
+'N'
+
+CC4 GROUPS ))

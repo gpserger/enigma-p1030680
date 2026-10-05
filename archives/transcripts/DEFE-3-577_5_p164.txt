@@ -1,0 +1,21 @@
+META serial=367953 too=1328 toi=1400/29/4/45 freq=4282 from=N S to=IDB G
+GIST Admiral of U-boats to 4th U-boat flotilla querying whether loss report for U-boat U 2342 has been sent.
+
+ADM (5)
+
+TO: IDB G                                       Z IP/ ZTPG/367953
+
+FROM: N S
+
+4282 KC/S         T O O 1328              T O I 1400/29/4/45
+
+FROM: ADMIRAL (U/B) PM
+
+TO:   4TH U/B FLOTILLA
+
+SECRET 1469 P 2
+
+REPORT WHETHER REPORT OF LOSS OF U 2342 HAS MEANWHILE BEEN
+SENT OFF.
+
+0919/3/5/45 EGT/HJU

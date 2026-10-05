@@ -1,0 +1,20 @@
+META serial=367935 too=1845/29 toi=0643/30/4/45 freq=4282 from=N S to=IDB G
+GIST Page 2 continuation of Admiral U-boat volksliste modifications with additional U-boat list transfers.
+
+PAGE TWO.
+
+Z IP/ZTPG/367935 CONTD.
+
+B) TO 'VOLKSLISTE ' 3 U 267 (KNIEPER)
+                  U 3514 (FRITZE)
+
+3) FOLLOWING IS TRANSFERRED FROM 'VOLKSLISTE ' 3 TO 'VOLKSLISTE' 1:
+
+               U 1233 (NIEMEIER)
+
+4) ADDITION TO 'VOLKSLISTE' 3.
+
+   NEW CONSTRUCTION U 2552 (RUDOLF)
+
+
+0729/3/5/45           EGT+++MPS+++

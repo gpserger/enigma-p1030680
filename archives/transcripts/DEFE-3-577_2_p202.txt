@@ -1,0 +1,20 @@
+META serial=3671399 too=1900 toi=1929/28/4/45 freq=3764KC/S from=U.3014HARBACH to=ADMIRALCU/BD
+GIST U-boat 3014 reports proceeding in group to Gruen 03 with U.2530 carrying 130 cbm heavy diesel oil with own stock of 200 cbm at 12 knots.
+
+C52
+TO: I D 8 G                           ZIP/ZTPG/3671399
+FROM: N S
+[seal mark]
+
+3764 KC/S             T O O 1900              T O I 1929/28/4/45
+
+FROM: U.3014 (HARBACHD)
+TO: ADMIRAL CU/BD
+
+AM PROCEEDING IN GROUP TO GRUEN 03 WITH U.2530 (HEAVY DIESEL
+OIL STOCK 130 CBM). MY OWN STOCK OF HEAVY DIESEL OIL IS 200
+CBM. SPEED 12 KNOTS.
+
+[seal mark]
+
+0246/X 1/5/45 CEL/EB+

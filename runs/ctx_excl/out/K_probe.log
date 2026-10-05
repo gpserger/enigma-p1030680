@@ -1,0 +1,135 @@
+crib 0 BOOTEKLARZUM..(21)@26 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot B, loops 0) 10(pivot E, loops 3)
+crib 1 BOOTEKLARZUM..(21)@27 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot R, loops 0) 10(pivot V, loops 2)
+crib 2 BOOTEKLARZUM..(21)@29 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot E, loops 1) 10(pivot B, loops 1)
+crib 3 BOOTEKLARZUM..(21)@31 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot E, loops 3) 10(pivot K, loops 1)
+crib 4 BOOTEKLARZUM..(21)@35 used=21 excluded=[] blocks=2 sizes: 11(pivot E, loops 3) 10(pivot N, loops 1)
+crib 5 BOOTEKLARZUM..(21)@37 used=21 excluded=[] blocks=2 sizes: 11(pivot G, loops 1) 10(pivot R, loops 3)
+crib 6 BOOTEKLARZUM..(21)@39 used=20 excluded=[58 ] blocks=2 sizes: 10(pivot V, loops 1) 10(pivot E, loops 1)
+crib 7 FESTUNGSALAR..(21)@28 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot L, loops 1) 10(pivot R, loops 1)
+crib 8 FESTUNGSALAR..(21)@29 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot P, loops 2) 10(pivot R, loops 1)
+crib 9 FESTUNGSALAR..(21)@30 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot P, loops 1) 10(pivot R, loops 1)
+crib 10 FESTUNGSALAR..(21)@32 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot B, loops 0) 10(pivot R, loops 1)
+crib 11 FESTUNGSALAR..(21)@33 used=21 excluded=[] blocks=2 sizes: 11(pivot B, loops 2) 10(pivot L, loops 1)
+crib 12 FESTUNGSALAR..(21)@36 used=21 excluded=[] blocks=2 sizes: 11(pivot L, loops 3) 10(pivot E, loops 1)
+crib 13 FESTUNGSALAR..(21)@37 used=21 excluded=[] blocks=2 sizes: 11(pivot B, loops 0) 10(pivot G, loops 2)
+crib 14 FESTUNGSALAR..(21)@38 used=20 excluded=[58 ] blocks=2 sizes: 10(pivot R, loops 0) 10(pivot E, loops 2)
+crib 15 FESTUNGSALAR..(31)@7 used=27 excluded=[10 20 25 32 ] blocks=2 sizes: 14(pivot E, loops 2) 13(pivot R, loops 3)
+crib 16 FESTUNGSALAR..(31)@9 used=27 excluded=[10 20 25 32 ] blocks=2 sizes: 14(pivot E, loops 2) 13(pivot P, loops 1)
+crib 17 FESTUNGSALAR..(31)@13 used=28 excluded=[20 25 32 ] blocks=2 sizes: 14(pivot E, loops 5) 14(pivot K, loops 2)
+crib 18 FESTUNGSALAR..(31)@22 used=29 excluded=[25 32 ] blocks=2 sizes: 15(pivot R, loops 5) 14(pivot B, loops 4)
+crib 19 FESTUNGSALAR..(31)@23 used=29 excluded=[25 32 ] blocks=2 sizes: 15(pivot R, loops 4) 14(pivot F, loops 3)
+crib 20 FESTUNGSALAR..(31)@24 used=29 excluded=[25 32 ] blocks=2 sizes: 15(pivot F, loops 3) 14(pivot E, loops 3)
+crib 21 FESTUNGSALAR..(31)@25 used=29 excluded=[25 32 ] blocks=2 sizes: 15(pivot E, loops 3) 14(pivot B, loops 4)
+crib 22 FESTUNGSALAR..(31)@28 used=29 excluded=[32 58 ] blocks=2 sizes: 15(pivot P, loops 3) 14(pivot E, loops 3)
+crib 23 FESTUNGSALAR..(31)@29 used=29 excluded=[32 58 ] blocks=2 sizes: 15(pivot L, loops 6) 14(pivot N, loops 1)
+crib 24 FESTUNGSALAR..(31)@30 used=28 excluded=[32 58 60 ] blocks=2 sizes: 14(pivot L, loops 5) 14(pivot E, loops 2)
+crib 25 FESTUNGSALAR..(31)@36 used=29 excluded=[58 60 ] blocks=2 sizes: 15(pivot L, loops 5) 14(pivot S, loops 3)
+crib 26 FESTUNGSALAR..(31)@37 used=28 excluded=[58 60 67 ] blocks=2 sizes: 14(pivot E, loops 2) 14(pivot B, loops 3)
+crib 27 FESTUNGSALAR..(31)@38 used=27 excluded=[58 60 67 68 ] blocks=2 sizes: 14(pivot S, loops 5) 13(pivot H, loops 1)
+crib 28 FESTUNGSALAR..(31)@40 used=27 excluded=[58 60 67 68 ] blocks=2 sizes: 14(pivot S, loops 4) 13(pivot G, loops 4)
+crib 29 FESTUNGSALAR..(28)@7 used=24 excluded=[10 20 25 32 ] blocks=2 sizes: 12(pivot R, loops 2) 12(pivot E, loops 2)
+crib 30 FESTUNGSALAR..(28)@9 used=24 excluded=[10 20 25 32 ] blocks=2 sizes: 12(pivot E, loops 2) 12(pivot E, loops 1)
+crib 31 FESTUNGSALAR..(28)@13 used=25 excluded=[20 25 32 ] blocks=2 sizes: 13(pivot K, loops 2) 12(pivot P, loops 2)
+crib 32 FESTUNGSALAR..(28)@22 used=26 excluded=[25 32 ] blocks=2 sizes: 13(pivot E, loops 2) 13(pivot P, loops 4)
+crib 33 FESTUNGSALAR..(28)@23 used=26 excluded=[25 32 ] blocks=2 sizes: 13(pivot F, loops 1) 13(pivot E, loops 6)
+crib 34 FESTUNGSALAR..(28)@24 used=26 excluded=[25 32 ] blocks=2 sizes: 13(pivot F, loops 3) 13(pivot E, loops 4)
+crib 35 FESTUNGSALAR..(28)@29 used=27 excluded=[32 ] blocks=2 sizes: 14(pivot L, loops 4) 13(pivot E, loops 2)
+crib 36 FESTUNGSALAR..(28)@30 used=27 excluded=[32 ] blocks=2 sizes: 14(pivot G, loops 4) 13(pivot B, loops 2)
+crib 37 FESTUNGSALAR..(28)@32 used=26 excluded=[32 58 ] blocks=2 sizes: 13(pivot P, loops 2) 13(pivot E, loops 2)
+crib 38 FESTUNGSALAR..(28)@33 used=26 excluded=[58 60 ] blocks=2 sizes: 13(pivot B, loops 2) 13(pivot E, loops 5)
+crib 39 FESTUNGSALAR..(28)@36 used=26 excluded=[58 60 ] blocks=2 sizes: 13(pivot B, loops 4) 13(pivot E, loops 2)
+crib 40 FESTUNGSALAR..(28)@37 used=26 excluded=[58 60 ] blocks=2 sizes: 13(pivot G, loops 1) 13(pivot N, loops 3)
+crib 41 FESTUNGSALAR..(28)@38 used=26 excluded=[58 60 ] blocks=2 sizes: 13(pivot E, loops 2) 13(pivot B, loops 2)
+crib 42 FESTUNGSALAR..(28)@41 used=24 excluded=[58 60 67 68 ] blocks=2 sizes: 12(pivot S, loops 1) 12(pivot E, loops 3)
+crib 43 FESTUNGSALAR..(28)@42 used=24 excluded=[58 60 67 68 ] blocks=2 sizes: 12(pivot G, loops 3) 12(pivot S, loops 2)
+crib 44 FESTUNGSALAR..(28)@43 used=24 excluded=[58 60 67 68 ] blocks=2 sizes: 12(pivot B, loops 3) 12(pivot E, loops 3)
+crib 45 KLARZUMVERSE..(26)@6 used=23 excluded=[10 20 25 ] blocks=2 sizes: 12(pivot K, loops 1) 11(pivot C, loops 1)
+crib 46 KLARZUMVERSE..(26)@7 used=22 excluded=[10 20 25 32 ] blocks=2 sizes: 11(pivot R, loops 2) 11(pivot E, loops 2)
+crib 47 KLARZUMVERSE..(26)@8 used=22 excluded=[10 20 25 32 ] blocks=2 sizes: 11(pivot E, loops 2) 11(pivot R, loops 2)
+crib 48 KLARZUMVERSE..(26)@10 used=22 excluded=[10 20 25 32 ] blocks=2 sizes: 11(pivot E, loops 3) 11(pivot R, loops 0)
+crib 49 KLARZUMVERSE..(26)@12 used=23 excluded=[20 25 32 ] blocks=2 sizes: 12(pivot R, loops 3) 11(pivot E, loops 1)
+crib 50 KLARZUMVERSE..(26)@18 used=23 excluded=[20 25 32 ] blocks=2 sizes: 12(pivot E, loops 2) 11(pivot L, loops 2)
+crib 51 KLARZUMVERSE..(26)@20 used=23 excluded=[20 25 32 ] blocks=2 sizes: 12(pivot R, loops 3) 11(pivot E, loops 1)
+crib 52 KLARZUMVERSE..(26)@22 used=24 excluded=[25 32 ] blocks=2 sizes: 12(pivot P, loops 2) 12(pivot L, loops 3)
+crib 53 KLARZUMVERSE..(26)@28 used=25 excluded=[32 ] blocks=2 sizes: 13(pivot R, loops 3) 12(pivot E, loops 3)
+crib 54 KLARZUMVERSE..(26)@30 used=25 excluded=[32 ] blocks=2 sizes: 13(pivot R, loops 3) 12(pivot E, loops 3)
+crib 55 KLARZUMVERSE..(26)@31 used=25 excluded=[32 ] blocks=2 sizes: 13(pivot P, loops 2) 12(pivot B, loops 3)
+crib 56 KLARZUMVERSE..(26)@32 used=25 excluded=[32 ] blocks=2 sizes: 13(pivot R, loops 3) 12(pivot B, loops 3)
+crib 57 KLARZUMVERSE..(26)@34 used=25 excluded=[58 ] blocks=2 sizes: 13(pivot E, loops 4) 12(pivot B, loops 1)
+crib 58 KLARZUMVERSE..(26)@42 used=23 excluded=[58 60 67 ] blocks=2 sizes: 12(pivot E, loops 2) 11(pivot B, loops 2)
+crib 59 KLARZUMVERSE..(26)@44 used=22 excluded=[58 60 67 68 ] blocks=2 sizes: 11(pivot K, loops 2) 11(pivot E, loops 2)
+crib 60 KLARZUMVERSE..(26)@45 used=22 excluded=[58 60 67 68 ] blocks=2 sizes: 11(pivot E, loops 4) 11(pivot B, loops 1)
+crib 61 KLARZUMVERSE..(26)@46 used=21 excluded=[58 60 67 68 71 ] blocks=2 sizes: 11(pivot B, loops 1) 10(pivot E, loops 1)
+crib 62 SOFORTINMARS..(20)@33 used=20 excluded=[] blocks=2 sizes: 10(pivot R, loops 0) 10(pivot S, loops 2)
+crib 63 SOFORTINMARS..(20)@34 used=20 excluded=[] blocks=2 sizes: 10(pivot R, loops 2) 10(pivot S, loops 0)
+crib 64 SOFORTINMARS..(20)@35 used=20 excluded=[] blocks=2 sizes: 10(pivot P, loops 2) 10(pivot B, loops 1)
+crib 65 SOFORTINMARS..(20)@36 used=20 excluded=[] blocks=2 sizes: 10(pivot H, loops 0) 10(pivot R, loops 2)
+DONE settings=29703440 time=609.8s rate=0.049M settings/s (0.024M/s/thread, 2 threads) T-evals/setting=536.7 stops=367246179
+crib 0 BOOTEKLARZUM..(21)@26: block-stops=29559133; verified g histogram: g0:71992 g1:359528 g2:900602 g3:1710612 g4:2665306 g5:3450113 g6:4613242 g7:6664096 g8:6250905 g9:2556957 g10:311007 g11:4773
+crib 1 BOOTEKLARZUM..(21)@27: block-stops=25851274; verified g histogram: g0:99693 g1:414366 g2:959535 g3:2008188 g4:3151702 g5:3911026 g6:4581384 g7:4960846 g8:3942747 g9:1612356 g10:206489 g11:2942
+crib 2 BOOTEKLARZUM..(21)@29: block-stops=11628929; verified g histogram: g0:260723 g1:350704 g2:606687 g3:1044490 g4:1680054 g5:2063890 g6:2212264 g7:2084643 g8:1098282 g9:217378 g10:9814
+crib 3 BOOTEKLARZUM..(21)@31: block-stops=7402193; verified g histogram: g0:25672 g1:98910 g2:188277 g3:338725 g4:605904 g5:898937 g6:1376696 g7:1905900 g8:1457669 g9:461396 g10:43583 g11:524
+crib 4 BOOTEKLARZUM..(21)@35: block-stops=12257433; verified g histogram: g0:1779000 g1:230074 g2:417607 g3:695776 g4:1131131 g5:1585135 g6:1857852 g7:1866709 g8:1570226 g9:900362 g10:212266 g11:11295
+crib 5 BOOTEKLARZUM..(21)@37: block-stops=9552636; verified g histogram: g0:51306 g1:149163 g2:300918 g3:558531 g4:965920 g5:1455060 g6:1866603 g7:1957859 g8:1459249 g9:647276 g10:133728 g11:7023
+crib 6 BOOTEKLARZUM..(21)@39: block-stops=11281483; verified g histogram: g0:774048 g1:563535 g2:1024620 g3:1612495 g4:1959611 g5:1945595 g6:1705675 g7:1185215 g8:451849 g9:57849 g10:991
+crib 7 FESTUNGSALAR..(21)@28: block-stops=2891011; verified g histogram: g0:11029 g1:57175 g2:137246 g3:244404 g4:401085 g5:596300 g6:670456 g7:501413 g8:224833 g9:45020 g10:2050
+crib 8 FESTUNGSALAR..(21)@29: block-stops=2238073; verified g histogram: g0:6983 g1:38683 g2:110732 g3:221021 g4:338843 g5:437446 g6:471367 g7:374695 g8:191144 g9:44776 g10:2383
+crib 9 FESTUNGSALAR..(21)@30: block-stops=2861777; verified g histogram: g0:5924 g1:36883 g2:93171 g3:174853 g4:307840 g5:497886 g6:654055 g7:621843 g8:358450 g9:101677 g10:9048 g11:147
+crib 10 FESTUNGSALAR..(21)@32: block-stops=250878; verified g histogram: g0:764 g1:5028 g2:13438 g3:25699 g4:41393 g5:50055 g6:46326 g7:38919 g8:23283 g9:5754 g10:219
+crib 11 FESTUNGSALAR..(21)@33: block-stops=2182180; verified g histogram: g0:3928 g1:19891 g2:64292 g3:152590 g4:280040 g5:395629 g6:448301 g7:397818 g8:261116 g9:126648 g10:30380 g11:1547
+crib 12 FESTUNGSALAR..(21)@36: block-stops=4794081; verified g histogram: g0:8384 g1:50148 g2:154993 g3:323287 g4:524023 g5:726213 g6:900363 g7:924110 g8:712396 g9:365043 g10:98647 g11:6474
+crib 13 FESTUNGSALAR..(21)@37: block-stops=29548703; verified g histogram: g0:27413 g1:135143 g2:411719 g3:1073947 g4:2212250 g5:3698970 g6:5061678 g7:5749886 g8:5366997 g9:3761587 g10:1678947 g11:352980 g12:17186
+crib 14 FESTUNGSALAR..(21)@38: block-stops=29543835; verified g histogram: g0:266178 g1:819816 g2:1729247 g3:2713417 g4:3731195 g5:4494007 g6:4785315 g7:4539995 g8:3620597 g9:2096977 g10:696710 g11:50381
+crib 15 FESTUNGSALAR..(31)@7: block-stops=5857; verified g histogram: g1:3 g2:17 g3:42 g4:110 g5:268 g6:458 g7:607 g8:806 g9:1049 g10:1005 g11:849 g12:433 g13:190 g14:20
+crib 16 FESTUNGSALAR..(31)@9: block-stops=310018; verified g histogram: g0:2 g1:53 g2:381 g3:1405 g4:4212 g5:10481 g6:19375 g7:30644 g8:41503 g9:48560 g10:50201 g11:45325 g12:32889 g13:18383 g14:6035 g15:569
+crib 17 FESTUNGSALAR..(31)@13: block-stops=88441; verified g histogram: g0:14 g1:81 g2:312 g3:727 g4:1638 g5:2743 g6:4712 g7:6963 g8:9426 g9:11708 g10:12866 g11:12550 g12:10931 g13:8023 g14:4150 g15:1451 g16:146
+crib 18 FESTUNGSALAR..(31)@22: block-stops=160; verified g histogram: g1:1 g4:5 g5:5 g6:6 g7:18 g8:16 g9:15 g10:5 g11:40 g12:36 g13:12 g14:1
+crib 19 FESTUNGSALAR..(31)@23: block-stops=65; verified g histogram: g3:1 g4:2 g6:4 g7:3 g8:9 g9:9 g10:13 g11:6 g12:12 g13:5 g14:1
+crib 20 FESTUNGSALAR..(31)@24: block-stops=1229; verified g histogram: g2:3 g3:3 g4:4 g5:36 g6:51 g7:81 g8:135 g9:162 g10:180 g11:203 g12:191 g13:104 g14:59 g15:17
+crib 21 FESTUNGSALAR..(31)@25: block-stops=3829; verified g histogram: g2:1 g3:29 g4:57 g5:137 g6:168 g7:266 g8:407 g9:517 g10:571 g11:589 g12:516 g13:361 g14:185 g15:25
+crib 22 FESTUNGSALAR..(31)@28: block-stops=426; verified g histogram: g4:3 g5:14 g6:18 g7:16 g8:41 g9:41 g10:64 g11:63 g12:91 g13:50 g14:21 g15:4
+crib 23 FESTUNGSALAR..(31)@29: block-stops=12219702; verified g histogram: g0:695468 g1:18028 g2:18979 g3:36757 g4:74197 g5:140765 g6:250478 g7:418953 g8:637644 g9:888194 g10:1190949 g11:1437291 g12:1608425 g13:1622899 g14:1390220 g15:1036520 g16:609640 g17:140693 g18:3602
+crib 24 FESTUNGSALAR..(31)@30: block-stops=88573; verified g histogram: g0:64 g1:186 g2:527 g3:1016 g4:1817 g5:3136 g6:4646 g7:6462 g8:8627 g9:10255 g10:11971 g11:11727 g12:10057 g13:8988 g14:6843 g15:2105 g16:146
+crib 25 FESTUNGSALAR..(31)@36: block-stops=83; verified g histogram: g3:3 g5:4 g6:3 g7:6 g8:5 g9:3 g10:21 g11:15 g12:11 g13:7 g14:5
+crib 26 FESTUNGSALAR..(31)@37: block-stops=9205; verified g histogram: g1:7 g2:23 g3:43 g4:74 g5:217 g6:440 g7:658 g8:1058 g9:1448 g10:1530 g11:1428 g12:1088 g13:782 g14:363 g15:46
+crib 27 FESTUNGSALAR..(31)@38: block-stops=12059643; verified g histogram: g0:769183 g1:26037 g2:38613 g3:78710 g4:154418 g5:288337 g6:492209 g7:770419 g8:1116530 g9:1485630 g10:1792061 g11:1862784 g12:1587909 g13:1012045 g14:479607 g15:102470 g16:2681
+crib 28 FESTUNGSALAR..(31)@40: block-stops=54; verified g histogram: g4:1 g5:3 g7:2 g8:1 g9:9 g10:11 g11:25 g12:2
+crib 29 FESTUNGSALAR..(28)@7: block-stops=43450; verified g histogram: g0:5 g1:98 g2:505 g3:1446 g4:2936 g5:5036 g6:7433 g7:8083 g8:8073 g9:5934 g10:3086 g11:769 g12:46
+crib 30 FESTUNGSALAR..(28)@9: block-stops=13018134; verified g histogram: g0:9475 g1:55554 g2:206394 g3:544430 g4:1086674 g5:1722134 g6:2241852 g7:2417389 g8:2123069 g9:1500299 g10:785744 g11:287986 g12:37134
+crib 31 FESTUNGSALAR..(28)@13: block-stops=220850; verified g histogram: g0:72 g1:572 g2:1772 g3:5148 g4:10533 g5:18701 g6:28412 g7:36525 g8:39219 g9:36964 g10:26212 g11:12779 g12:3653 g13:288
+crib 32 FESTUNGSALAR..(28)@22: block-stops=215786; verified g histogram: g0:47 g1:211 g2:889 g3:2435 g4:5579 g5:10601 g6:17144 g7:24869 g8:31983 g9:35512 g10:33399 g11:28389 g12:17799 g13:6348 g14:581
+crib 33 FESTUNGSALAR..(28)@23: block-stops=4748652; verified g histogram: g0:36750 g1:38505 g2:39278 g3:64258 g4:111220 g5:170758 g6:240931 g7:338441 g8:452803 g9:589686 g10:717327 g11:743254 g12:638887 g13:416785 g14:138683 g15:11086
+crib 34 FESTUNGSALAR..(28)@24: block-stops=337; verified g histogram: g2:2 g3:5 g4:10 g5:36 g6:45 g7:36 g8:45 g9:38 g10:73 g11:36 g12:11
+crib 35 FESTUNGSALAR..(28)@29: block-stops=32082; verified g histogram: g0:15 g1:34 g2:151 g3:387 g4:906 g5:1435 g6:2274 g7:3230 g8:3767 g9:4509 g10:4931 g11:4480 g12:3556 g13:1968 g14:432 g15:7
+crib 36 FESTUNGSALAR..(28)@30: block-stops=205232; verified g histogram: g0:39 g1:269 g2:748 g3:1533 g4:3227 g5:6341 g6:10299 g7:15372 g8:22249 g9:29640 g10:33317 g11:32821 g12:27540 g13:16739 g14:4738 g15:360
+crib 37 FESTUNGSALAR..(28)@32: block-stops=97411; verified g histogram: g0:25 g1:77 g2:329 g3:1023 g4:2641 g5:5493 g6:9351 g7:12842 g8:15518 g9:16390 g10:14727 g11:10814 g12:5993 g13:2051 g14:137
+crib 38 FESTUNGSALAR..(28)@33: block-stops=8563; verified g histogram: g0:18 g1:29 g2:74 g3:143 g4:334 g5:470 g6:751 g7:999 g8:1130 g9:1324 g10:1332 g11:1051 g12:646 g13:235 g14:27
+crib 39 FESTUNGSALAR..(28)@36: block-stops=9047; verified g histogram: g1:13 g2:70 g3:170 g4:304 g5:558 g6:815 g7:1129 g8:1385 g9:1407 g10:1477 g11:1109 g12:529 g13:78 g14:3
+crib 40 FESTUNGSALAR..(28)@37: block-stops=220046; verified g histogram: g0:6 g1:107 g2:537 g3:1886 g4:5179 g5:10461 g6:17444 g7:25276 g8:32165 g9:34840 g10:34153 g11:27042 g12:19429 g13:9721 g14:1754 g15:46
+crib 41 FESTUNGSALAR..(28)@38: block-stops=89106; verified g histogram: g0:2 g1:62 g2:287 g3:904 g4:2508 g5:5064 g6:8613 g7:12457 g8:14943 g9:15998 g10:13595 g11:9267 g12:4430 g13:942 g14:34
+crib 42 FESTUNGSALAR..(28)@41: block-stops=223704; verified g histogram: g0:67 g1:734 g2:2347 g3:5334 g4:8808 g5:13951 g6:21089 g7:25933 g8:31030 g9:40202 g10:43436 g11:24886 g12:5648 g13:239
+crib 43 FESTUNGSALAR..(28)@42: block-stops=3892; verified g histogram: g1:4 g2:11 g3:64 g4:165 g5:360 g6:612 g7:883 g8:844 g9:592 g10:291 g11:55 g12:11
+crib 44 FESTUNGSALAR..(28)@43: block-stops=24869; verified g histogram: g0:64 g1:222 g2:501 g3:990 g4:1715 g5:2765 g6:4076 g7:5294 g8:4857 g9:3191 g10:1074 g11:116 g12:4
+crib 45 KLARZUMVERSE..(26)@6: block-stops=18191220; verified g histogram: g0:22664 g1:135366 g2:421898 g3:914804 g4:1640823 g5:2672363 g6:3575949 g7:3676500 g8:2853794 g9:1568597 g10:591074 g11:114035 g12:3353
+crib 46 KLARZUMVERSE..(26)@7: block-stops=121888; verified g histogram: g0:175 g1:1327 g2:5224 g3:11717 g4:18319 g5:23888 g6:24844 g7:20901 g8:11610 g9:3610 g10:273
+crib 47 KLARZUMVERSE..(26)@8: block-stops=122835; verified g histogram: g0:46 g1:628 g2:2936 g3:7144 g4:12577 g5:18818 g6:24236 g7:25504 g8:19298 g9:9374 g10:2165 g11:109
+crib 48 KLARZUMVERSE..(26)@10: block-stops=1232536; verified g histogram: g0:185 g1:2162 g2:11058 g3:35753 g4:80601 g5:141941 g6:199926 g7:233103 g8:220457 g9:171594 g10:102178 g11:30979 g12:2577 g13:22
+crib 49 KLARZUMVERSE..(26)@12: block-stops=782827; verified g histogram: g0:572 g1:3089 g2:9114 g3:21075 g4:40224 g5:73207 g6:109522 g7:139451 g8:143489 g9:120897 g10:77634 g11:35595 g12:8619 g13:339
+crib 50 KLARZUMVERSE..(26)@18: block-stops=400642; verified g histogram: g0:507 g1:2323 g2:6396 g3:13331 g4:24785 g5:43740 g6:67322 g7:82789 g8:78111 g9:52304 g10:23383 g11:5298 g12:353
+crib 51 KLARZUMVERSE..(26)@20: block-stops=8563098; verified g histogram: g0:2662 g1:10501 g2:40566 g3:124084 g4:282325 g5:525630 g6:815909 g7:1184316 g8:1628370 g9:1862584 g10:1452668 g11:561528 g12:70902 g13:1053
+crib 52 KLARZUMVERSE..(26)@22: block-stops=12600; verified g histogram: g0:8 g1:13 g2:67 g3:202 g4:588 g5:1113 g6:1757 g7:2168 g8:2329 g9:2249 g10:1484 g11:523 g12:97 g13:2
+crib 53 KLARZUMVERSE..(26)@28: block-stops=2498; verified g histogram: g0:2 g1:6 g2:11 g3:50 g4:90 g5:153 g6:267 g7:369 g8:442 g9:478 g10:370 g11:223 g12:37
+crib 54 KLARZUMVERSE..(26)@30: block-stops=751; verified g histogram: g0:1 g1:1 g2:1 g3:8 g4:41 g5:41 g6:77 g7:115 g8:121 g9:154 g10:110 g11:62 g12:19
+crib 55 KLARZUMVERSE..(26)@31: block-stops=9366; verified g histogram: g1:11 g2:58 g3:184 g4:422 g5:715 g6:1183 g7:1443 g8:1518 g9:1483 g10:1219 g11:797 g12:312 g13:21
+crib 56 KLARZUMVERSE..(26)@32: block-stops=3785; verified g histogram: g1:12 g2:37 g3:54 g4:159 g5:238 g6:398 g7:503 g8:618 g9:821 g10:645 g11:249 g12:49 g13:2
+crib 57 KLARZUMVERSE..(26)@34: block-stops=8005; verified g histogram: g0:39 g1:90 g2:163 g3:246 g4:393 g5:594 g6:717 g7:809 g8:1240 g9:1075 g10:934 g11:881 g12:704 g13:110 g14:10
+crib 58 KLARZUMVERSE..(26)@42: block-stops=240492; verified g histogram: g0:248 g1:1291 g2:3157 g3:6334 g4:12387 g5:20495 g6:32074 g7:47310 g8:57124 g9:43237 g10:15088 g11:1712 g12:35
+crib 59 KLARZUMVERSE..(26)@44: block-stops=405118; verified g histogram: g0:284 g1:1809 g2:7428 g3:18262 g4:35286 g5:54970 g6:70199 g7:78596 g8:81021 g9:47012 g10:9717 g11:534
+crib 60 KLARZUMVERSE..(26)@45: block-stops=8573322; verified g histogram: g0:24231 g1:73794 g2:155126 g3:312318 g4:582596 g5:905594 g6:1207502 g7:1459225 g8:1666083 g9:1409381 g10:653431 g11:119186 g12:4855
+crib 61 KLARZUMVERSE..(26)@46: block-stops=1540863; verified g histogram: g0:1229 g1:8064 g2:28477 g3:74156 g4:147099 g5:232278 g6:295238 g7:315449 g8:275587 g9:137443 g10:25013 g11:830
+crib 62 SOFORTINMARS..(20)@33: block-stops=29527159; verified g histogram: g0:224072 g1:765330 g2:1659801 g3:3039564 g4:4433798 g5:5287626 g6:5553886 g7:4869690 g8:2799766 g9:829638 g10:63988
+crib 63 SOFORTINMARS..(20)@34: block-stops=29703240; verified g histogram: g0:195015 g1:832797 g2:2008869 g3:3346888 g4:4322678 g5:5113494 g6:5425430 g7:4703676 g8:2855623 g9:835089 g10:63681
+crib 64 SOFORTINMARS..(20)@35: block-stops=12308641; verified g histogram: g0:74241 g1:265018 g2:637857 g3:1317202 g4:2124263 g5:2594006 g6:2654194 g7:1905584 g8:673322 g9:62954
+crib 65 SOFORTINMARS..(20)@36: block-stops=29703228; verified g histogram: g0:103506 g1:610839 g2:1484751 g3:2324446 g4:3153545 g5:4818174 g6:6826804 g7:6360251 g8:3232688 g9:741188 g10:47036
+ranking 175244 hits with corpus/ngrams/navalblend_quadgrams.txt (restarts=4)
+ranking done in 48.0s -> runs/ctx_excl/out/K_probe.rank.tsv

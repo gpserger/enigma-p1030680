@@ -1,0 +1,15 @@
+META serial=367563 too=1746 toi=1637/23/4/45 freq=4282 from=CAPTAIN (U/B) BALTIC to=U-BOAT BASE WESERNUENDE
+GIST Captain U-boat Baltic orders U-boat base Wesernuende to arrange crew exchange between U-boats 368 and 1232.
+
+ADM (C3)
+TO: I D 8 G       Z1P/ZTPG/367563
+FROM: N S
+
+4282 KC/S       T O O 1746       T O I 1637/23/4/45
+
+FROM: CAPTAIN (U/B) BALTIC
+TO: U-BOAT BASE WESERNUENDE
+
+ARRANGE FOR THE CREW OF U 368 TO CHANGE PLACES WITH THAT OF U 1232 .
+
+1736/1/5/45       EE/UAK++++

@@ -1,0 +1,11 @@
+META serial=ZIP/ZTPc/368134 too=1910 toi=1751/1/5/45 freq=3205kc/s from=PAULSEN to=9TH DEFENCE DIVISION
+GIST Paulsen reports Paulsen Group left at 1900 according to orders.
+
+FROM: PAULSEN
+TO: 9TH DEFENCE DIVISION
+
+
+PAULSEN GROUP LEFT AT 1900 ACCORDING TO ORDERS.
+
+
+0719/4/5/45+EGT/MH+

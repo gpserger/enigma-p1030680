@@ -1,0 +1,15 @@
+META serial=367607 too=1159 toi=1055/1/5/45 freq=3930 from=S.O. GROUP IN VG 529 to=S.O. 65TH V-FLOTILLA
+GIST S.O. Group in VG 529 informs S.O. 65th V-Flotilla it is leaving Nuvsfjord at 1300 for Skjervoey.
+
+ADM (3)
+TO: I D 8 G                                    ZIP/ZTPG/367607
+FROM: N S
+
+3930 KC/S       T O O 1159            T O I 1055/1/5/45
+
+FROM: S.O. GROUP IN VG 529
+TO: S.O. 65TH V-FLOTILLA
+
+LEAVING NUVSFJORD AT 1300 FOR SKJERVOEY.
+
+2112/1/5/45          EE/UAK+++

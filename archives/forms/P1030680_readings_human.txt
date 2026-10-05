@@ -1,0 +1,16 @@
+# the human reader’s reading of P1030680 form (24 Sep 2026), 800px scan, cross-referenced with P1030679 (same hand).
+# Header: "um 16 30 Uhr" (6 swirly, could be 0); Datum 1.5.45; Uhrzeitgruppe ?552/70 (first digit likely 1,
+#   last digit closest to 2, maybe 3). Indicator repeat at tail reads VAOL or VDOL vs VROL at head.
+# Systematic confusions in this hand: T/F/H look alike; C looks like lowercase e.
+# pos published alternates
+1  C  E
+10 E  Q G
+20 H  F T
+25 T  F
+32 F  T
+58 T  F
+60 T  F
+67 C  E T F
+68 H  F T
+71 F  T
+# 47 B: matches neighbouring B, keep. 12 (our low-confidence): no comment.

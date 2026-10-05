@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367910 too=0742 toi=0620/30/4/45 freq=3764 from=LOEVE to=ADMIRAL U.B.
+GIST Loeve reports left Kiel at 0730 for Neustadt with S.O. 19th U.B. Flotilla, W/T 4860 KC/S.
+
+ADM(4)
+TO: IDBG                                         ZIP/ZTPG/367910
+FROM: NS
+
+3764 KCS         TOO 0742            T O I 0620/30/4/45
+
+FROM: LOEVE
+TO  : ADMIRAL U.B.
+      CAPTAIN U.B TRAINING
+      5TH U.B. FLOTILLA
+
+LEFT CC KIEL)) AT 0730 FOR NEUSTADT WITH S.O. 19TH U.B. FLOTILLA.
+W/T 4860KCS
+
+CTN READ U.B. TRAINING
+
+0409/3/5/45+++EGT/IW

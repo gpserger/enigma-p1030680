@@ -1,0 +1,19 @@
+META serial=3671389 too=2112 toi=2030/28/4/45 freq=3764KC/S from=U3523 to=5THUBFLOTILLA
+GIST U-boat 3523 reports arrival in Kiel at 2000 with U-3017 and anchored in Stranderbucht with W/T watch maintained.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671389
+FROM: N S
+[seal mark]
+
+3764 KC/S             T O O 2112              T O I 2030/28/4/45
+
+FROM: U 3523
+TO: 5TH U/B FLOTILLA
+
+ARRIVED KIEL AT 2000 WITH U 3017 AND ANCHORED IN STRANDERBUCHT.
+W/T WATCH IS BEING MAINTAINED.
+
+[seal mark]
+
+0305/1/5/45++CEL/FA

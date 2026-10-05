@@ -1,0 +1,21 @@
+META serial=367502 too=0631 toi=0700/29/4/45 freq=6747 from=Lutz to=B.D.U. (Cops)
+GIST Lutz sends message of 107 groups in special cipher to U-boat operations command.
+
+ADM C1D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367502
+
+6747 KC/S        TOO 0631        TOI 0700/29/4/45
+
+FROM: LUTZ
+
+TO: B.D.U. (COPS)
+
+MOST IMMEDIATE
+
+MESSAGE OF 107 GROUPS IN SPECIAL CIPHER NO.401
+
+1304/1/5/45+EE/AM

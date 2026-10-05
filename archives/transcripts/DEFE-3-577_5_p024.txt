@@ -1,0 +1,17 @@
+META serial=367836 too=1704 toi=1642/26/4/45 freq=4282 from=ADMIRAL U/B P1 to=25TH U/B FLOTILLA RPTD: CAPTAIN (U/B) TRAINING
+GIST Send Lexx Lieut. (J.G.) Aurin forthwith to Kiel for U-boat 3044.
+
+ADM (C)
+TO: I D B G                                    ZIP/ZTPG/367836
+FROM: N S
+
+4282 KC/S            TOO 1704            TOI 1642/26/4/45
+
+FROM: ADMIRAL U/B P1
+TO: 25TH U/B FLOTILLA
+     RPTD: CAPTAIN (U/B) TRAINING
+
+SEND LEXX LIEUT. (J.G.) (NA) AURIN FORTHWITH TO KIEL FOR
+U 3044.
+
+2052/2/5/45++++EE/SMH

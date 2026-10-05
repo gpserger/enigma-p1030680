@@ -1,0 +1,20 @@
+META serial=367463 too=1720 toi=1842/27/4/45 freq=5310 from=Naval War Staff (4th Division) to=Naval Chief Command West
+GIST Naval War Staff notifies Naval Chief Command West that 800 watt transmitter to be handed over to Armed Forces Ops Staff at Berghtesgaden.
+
+C1D
+TO: IDBG
+FROM: NS
+
+ZIP/ZTPG/367463
+
+5310 KC/S        TOO 1720        TOI 1842/27/4/45
+
+FROM: NAVAL WAR STAFF (4TH DIVISION) CROMAN32
+
+TO: NAVAL CHIEF COMMAND WEST
+
+AN 800 WATT LONG-RANGE SHORT WAVE TRANSMITTER IS TO BE HANDED OVER
+TO ARMED FORCES OPS. STAFF, OUTSTATION SOUTH, BERGHTESGADEN.
+ARMED FORCES OPS. STAFF WILL GIVE DETAILS REGARDING DESPATCH.
+
+0838/1/5/45 CEL/E+

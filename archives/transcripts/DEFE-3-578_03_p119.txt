@@ -1,0 +1,22 @@
+META serial=368665 too=1236 toi=1113/1/5/45 freq=350 from=8THDEFENCEDIVISION to=M386
+GIST 8th Defence Division orders M 386 that on completion of escort duty to go to Aarhus, and cancels wireless messages 0945, 1055 and 1107.
+
+ADM C1)
+
+TO I D B G                ZIP/ZTPG/368665
+
+FROM N S
+
+350 KC/S     TOO 1236     TOI 1113/1/5/45
+
+FROM: 8TH DEFENCE DIVISION
+
+TO: M 386
+
+REFERENCE W/T MESSAGE 1058:
+
+ON COMPLETION OF ESCORT DUTY GO TO AARHUS. W/T MESSAGES
+0945, 1055 AND 1107 ARE CANCELLED.
+
+
+1823/7/5/45   EE+++MPS+++

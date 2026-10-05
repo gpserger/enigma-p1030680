@@ -1,0 +1,21 @@
+META serial=368517 too=2312 toi=2148/1/5/45 freq=3930 from=2NDCOASTALDEFENCEUNIT to=M306
+GIST 2nd Coastal Defence Unit orders M 306 to discontinue Klavier until further notice.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368517
+
+FROM N S
+
+3930 KC/S     T O O 2312     T O I 2148/1/5/45
+
+FROM: 2ND COASTAL DEFENCE UNIT
+
+TO: M 306
+
+EMERGENCY
+
+DISCONTINUE 'KLAVIER' [handwritten]UNTIL[/handwritten] FURTHER NOTICE.
+
+
+1914/6/5/45+++EE/UC

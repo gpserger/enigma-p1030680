@@ -1,0 +1,18 @@
+META serial=367357 too=1812 toi=1621/30/4/45 freq=3370 kcs from=03 to=I D 8 G
+GIST Aircraft reported was an HE 109 on 30 April 1945.
+
+ADM C 5D
+
+TO: I D 8 G
+
+FROM: N S
+
+3370 KC/S        TOO 1812                T O I 1621/30/4/45
+
+FROM: 03
+
+HOST IMMEDIATE
+
+THE AIRCRAFT REPORTED WAS AN HE 109.
+
+2355/30/4/45 EGT+MD1++

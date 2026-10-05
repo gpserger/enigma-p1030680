@@ -1,0 +1,22 @@
+META serial=3687/15 too=1145 toi=1043/7/5/45 freq=382KC/S from=S.O. 3RD T.FLOTILLA to=?
+GIST: Senior officer 3rd torpedo flotilla sends most immediate message referencing wireless message 0614 with transport vessel and personnel information.
+
+ADM(C2)
+TO I D B G                                 ZIP/ZTPG/3687/15
+
+FROM N S
+
+382 KC/S        T O O 1145        T O I 1043/7/5/45
+
+FROM: S.O. 3RD T.FLOTILLA
+
+MOST IMMEDIATE
+
+REFERENCE W/T MESSAGE 0614:
+1)  'GEFITA' WITH 4500 MEN
+2)  'POMPEJI' WITH 1700 MEN AND 3700 REFUGEES
+3)  T.35 WITH 750 MEN, T.17 WITH 625 MEN AND T.19 WITH 600
+    INCLUDING 100 FRENCHMEN AND 250 REFUGEES.
+4)  GRUEN 05 AT 1830, SPEED 10 KNOTS.
+
+0525/9/5/45+CEL+DJL

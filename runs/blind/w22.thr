@@ -1,0 +1,4 @@
+#stratum(crib*16+npairs)	threshold	count	stat=llr2 keep=0.1000
+0	-0.2000	797231
+16	-2.0000	3789
+32	-0.4500	59386

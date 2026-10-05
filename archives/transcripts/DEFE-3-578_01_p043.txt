@@ -1,0 +1,31 @@
+META serial=368034 too=1558 toi=1548/1/5/45 freq=4580 from=S.O.5thAFlotilla to=NavalHarbourmasterWarnemuende
+GIST S.O. 5th A Flotilla instructs Naval Harbourmaster Warnemuende: AF.39, MAL.47 and supply boats to be forwarded to Wismar; AF.81 to return to Swinemuende if with convoy.
+
+ADM C1D
+
+TO ID8G                                                ZIP/ZTPG/368034
+
+FROM N S .
+
+
+[handwritten bullet]
+
+4580 KC/S     TOO 1558     TOI 1548/1/5/45
+
+
+FROM: S.O. 5TH A FLOTILLA
+
+TO: NAVAL HARBOURMASTER WARNEMUENDE
+
+
+EMERGENCY
+
+
+AF.39. MAL.47 AND SUPPLY BOATS WILL BE ARRIVING AT YOUR END AND
+
+[handwritten marking] ARE TO BE FORWARDED TO WISMAR. IN THE EVENT OF AF.81 STILL BEING
+
+WITH THE CONVOY, SHE IS TO RETURN TO SWINEMUENDE.
+
+
+1606/3/5/45+++AND/UC

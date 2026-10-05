@@ -1,0 +1,21 @@
+META serial=3687/04 too=2338 toi=2217/12/5/45 freq=4860KCS from=CHIEF OF STAFF CAPT U/B BALTIC to=U 1103
+GIST: Chief of staff captain U/B Baltic sends most immediate message to U 1103 regarding reporting and transmission arrangements.
+
+ADM(C2)
+TO I D B G                                 ZIP/ZTPG/3687/04
+
+FROM NS
+
+4860 KCS        TOO 2338        TOI 2217/12/5/45
+
+FROM: CHIEF OF STAFF CAPT U/B BALTIC
+TO: :U 1103
+
+MOST IMMEDIATE
+
+REPORT TO ME AT 0800 IN SENSBURG AT KM-70.5.
+
+ADDITIONAL: BOATS ARE TO ENSURE TRANSMISSION TO BRUENS PUETTEL.
+U1103 IS TO ACKNOWLEDGE IMMEDIATE
+
+1205/13/5/45++ECT/IW

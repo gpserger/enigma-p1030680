@@ -1,0 +1,21 @@
+META serial=367453 too=0331 toi=0156/1/5/45 freq=350 from=M 293 to=ATTILA VS.1003
+GIST Emergency: Am passing Schwarz 01 at speed 7 knots on 1 May 1945.
+
+ADM (23)
+
+TO: I D 8 G
+
+FROM: N S
+
+350 KC/S        TOO 0331                TOI 0156/1/5/45
+
+FROM: M 293
+
+TO: ATTILA
+     VS.1003
+
+EMERGENCY
+
+AM PASSING SCHWARZ 01, SPEED 7 KNOTS,
+
+[handwritten marking at bottom] 0604/1/5/45++ CEL/FA

@@ -1,0 +1,21 @@
+META serial=367942 too=1134 toi=1201/29/4/45 freq=4412 from=N S to=IDB G
+GIST Senior Officer Bartelt Group 8th A-Flotilla to Sea Defence Commandant Pomerania regarding movement north of Wolgast to Swinmünde.
+
+ADM (3)
+
+TO IDB G                                        Z IP/ZTPG/367942
+
+FROM N S
+
+4412 KC/S         TOO 1134              TOI 1201/29/4/45
+
+FROM: S.O. BARTELT GROUP 8TH A-FLOTILLA
+
+TO: SEA DEFENCE COMMANDANT POMERANIA
+
+MOST IMMEDIATE
+
+AMYING NORTH OF WOLGAST WITH 4 GUN CARRIERS, MFP DETACHED
+TO SWINEMUENDE. INTEND TO PROCEED TO GREIFSWALD.
+
+0710/3/5/45         EGT+++MPS+++

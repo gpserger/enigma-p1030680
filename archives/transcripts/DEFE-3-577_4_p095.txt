@@ -1,0 +1,22 @@
+META serial=ZIP/ZTPG/367706 too=1604 toi=1435/30/4/45 freq=3545 KCS from=FLIEGERFUEHRER 6 to=10TH DEFENCE DIVISION
+GIST Fliegerfuehrer 6 tells 10th Defence Division that details of steamship Haussa arrived at 1530 but no special air search will be made because her position after 20 hours is too uncertain.
+
+ADM(4)
+
+TO I D 8 G    ZIP/ZTPG/367706
+
+FROM NS
+
+3545KCS    TOO 1604    TOI 1435:/30/4/45
+
+FROM: FLIEGERFUEHRER 6
+
+TO   10TH DEFENCE DIVISION
+
+EMERGENCY
+
+DETAILS ABOUT 'HAUSSA' REACHED HERE AT 1530. NO SPECIAL SEARCH
+BY A/C AS POSITION AFTER 20 HOURS TOO UNCERTAIN. CURRENT OPERATION
+HAS ENDED
+
+0730/2/5/45+++EGT/IW

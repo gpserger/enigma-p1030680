@@ -1,0 +1,13 @@
+META serial=ADM C(3) too=2356 toi=0141/4/5/45 freq=446 from=K-BASE WILHELMSHAVEN to=I D 8 G
+GIST Most secret message no. 432 from Wilhelmshaven naval base: encrypted 74-group message in officer cipher.
+
+FROM: K-BASE WILHELMSHAVEN
+TO: 1ST DEFENCE DIVISION
+    ADMIRAL NETHERLANDS
+    ALSO TO OTHER ADDRESSEES
+
+MOST SECRET NO.432
+
+MESSAGE OF 74 GROUPS IN OFFIZIER CYPHER.
+
+0146/6/5/45 EGT/MU

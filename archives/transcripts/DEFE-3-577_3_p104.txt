@@ -1,0 +1,21 @@
+META serial=367515 too=0428 toi=0646/24/4/45 freq=4860 from=U 930 (Mohr) to=B.D.U., Admiral (U/B)
+GIST U-boat 930 anchored east of Moelen at 0415.
+
+ADM C5D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ ZTPG/367515
+
+4860 KC/S        TOO 0428        TOI 0646/24/4/45
+
+FROM: U 930 C MOHR)
+
+TO: B.D.U.
+
+ADMIRAL (U/B)
+
+ANCHORED EAST OF MOELEN AT 0415.
+
+1455/1/5/45 EE/HJU

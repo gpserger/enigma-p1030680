@@ -1,0 +1,18 @@
+META serial=368517A too=2312/1/5/45 toi=? freq=3930 from=? to=?
+GIST Correction note: read "until further notice" not "unit further notice" as sent.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368517 A
+
+FROM N S
+
+3930 KC/S
+
+T O O 2312/1/5/45
+
+PLEASE READ ''UNTIL FURTHER NOTICE'' NOT ''UNIT FURTHER NOTICE''
+AS SENT.
+
+
+2007/6/5/45+++EE/UC

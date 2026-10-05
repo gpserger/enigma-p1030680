@@ -1,0 +1,11 @@
+META serial=ADM C(3) too=2335 toi=2351/1/5/45 freq=2360 from=SPERRBRECHER 167 to=I D 8 G
+GIST Sperrbrecher 167 reports: held 6-8 metres forward of bridge with forward holds flooded; sinking slowly; crew on board V.806; awaiting daybreak.
+
+FROM: SPERRBRECHER (( 167 ))
+TO: 5TH DEFENCE DIVISION
+
+SHIP IS HELD 6 TO 8 METRES FORWARD OF THE BRIDGE AND HOLDS
+FORWARD ARE FLOODED . SHIP IS ONLY SINKING SLOWLY , HOWEVER .
+CREW IS ON BOARD V. 806 . AM AWAITING DAYBREAK .
+
+1039/6/5/45      CEL/UAK++++

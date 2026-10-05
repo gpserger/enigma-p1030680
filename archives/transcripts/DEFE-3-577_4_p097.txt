@@ -1,0 +1,21 @@
+META serial=ZIP/ZTPG/367707 too=1339 toi=1235/30/4/45 freq=382 KCS from=10TH DEFENCE DIVISION to=ALL
+GIST 10th Defence Division orders all units that steamship Haussa, if met, is to be stopped or brought to Swinemuende.
+
+ADM(4)
+
+TO I D 8 G    ZIP/ZTPG/367707
+
+FROM NS
+
+382 KCS    TOO 1339    TOI 1835/30/4/45 [handwritten: "18" struck through, "12" written above]
+
+FROM: 10TH DEFENCE DIVISION
+
+TO  : ALL
+
+EMERGENCY
+
+IF MET, STEAMSHIP ' HAUSSA' IS TO BE STOPPED OR BROUGHT TO
+SWINEMUENDE
+
+0728/2/5/45+++EGT/IW

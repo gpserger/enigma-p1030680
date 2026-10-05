@@ -1,0 +1,16 @@
+META serial=367593 too=0952 toi=0819/1/5/45 freq=3930 from=V 6712 through Naval W/T Station Harstad to=2ND COASTAL DEFENCE UNIT, 67TH V-FLOTILLA
+GIST V 6712 (via Harstad) informs 2nd Coastal Defence Unit and 67th V-Flotilla it is leaving at 1000 for Stokmarknes.
+
+ADM (5)
+TO: I D 8 G                                    ZIP/ZTPG/367593
+FROM: N S
+
+3930 KC/S            TOO 0952            TOI 0819/1/5/45
+
+FROM: V 6712 THROUGH NAVAL W/T STATION HARSTAD
+TO:   2ND COASTAL DEFENCE UNIT
+      67TH V-FLOTILLA
+
+LEAVING AT 1000 FOR STOKMARKNES.
+
+1916/1/5/45+++++EE/SMH

@@ -1,0 +1,24 @@
+META serial=367374 too=2147 toi=2021/28/4/45 freq=3764 kcs from=S.O. 4TH U/B FLOTILLA to=U.3017, U.3523 AND CAPTAIN (U/B) TRAINING
+GIST S.O. 4th U/B Flotilla orders U.3017 and U.3523 to fill with heavy diesel oil and lubricating oil and bring to Kiel on 28 April 1945.
+
+C 5J
+
+TO: I D 8 G
+
+FROM: N S
+
+3764 KC/S        T O O 2147                T O I 2021/28/4/45
+
+FROM: S.O. 4TH U/B FLOTILLA
+
+TO: U.3017, U.3523
+
+RPTD TO: CAPTAIN (U/B) TRAINING
+
+EMERGENCY.
+
+FILL UP TO FULL CAPACITY ON TRAVEHUNDE ROADS WITH HEAVY DIESEL
+
+OIL AND LUBRICATING OIL AND BRING IT TO KIEL.
+
+0141/1/5/45 CEL/EB+

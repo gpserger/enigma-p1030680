@@ -1,0 +1,18 @@
+META serial=3671382 too=2252 toi=2104/30/4/45 freq=350KC/S from=8THDEFENCEDIVISION to=M293
+GIST Order from 8th Defence Division to M293 to carry out task alone.
+
+ADM C22
+TO: I D R C                           ZIP/ZTPG/3671382
+FROM: N S
+[seal mark]
+
+350 KC/S                  T O O 2252           T O I 2104/30/4/45
+
+FROM: 8TH DEFENCE DIVISION
+TO: M 293
+
+CARRY OUT TASK ALONE. .
+
+[seal mark]
+
+0140/1/5/45++++CEL/FA

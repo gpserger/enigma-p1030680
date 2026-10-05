@@ -1,0 +1,24 @@
+META serial=367479 too=1842 toi=1659/29/4/45 freq=5740 from=Naval W/T Detachment with C in C West to=Naval Chief Command West
+GIST C. in C. West position Pullach, 8 kilometres south of Munich; new transfer can take place hourly.
+
+ADM C4D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367479
+
+5740 KC/S        TOO 1842        TOI 1659/29/4/45
+
+FROM: NAVAL W/T DETACHMENT WITH C IN C WEST
+
+TO: NAVAL CHIEF COMMAND WEST
+
+MOST IMMEDIATE
+
+POSITION OF C IN C WEST IS PULLACH, 8 KILOMETRES SOUTH OF
+MUNICH. NEW TRANSFER CAN TAKE PLACE HOURLY.
+
+IT IS NOT KNOWN WHERE TO.
+
+1108/1/5/45 EE/HW

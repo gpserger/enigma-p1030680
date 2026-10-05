@@ -1,0 +1,25 @@
+META serial=999 too=1234 toi=1215/29/4/45 freq=4800 KC/S from=PELZERHAGEN to=SONDERBURG
+
+GIST Fumb material available at Neustadt for storage, transport by ship, requesting better arrangements from Sonderburg.
+
+ADM C52
+
+TO: I D 8 G ....... ........ ZIP/ZTPG/367970
+
+FROM: N S
+
+4800 KC/S ..... T O O 1234 ....[handwritten: TYXXXXXX] T OI 1215/29/4/45
+
+FROM: PELZERHAGEN
+
+TO: SONDERBURG
+
+MATERIAL FOR 'FUMB' IS IN THE MAIN AVAILABLE AND WILL BE
+
+STORED IN NEUSTADT. TRANSPORT FACILITIES PROBABLY BY SHIP.
+
+SHOULD THERE BE ANY BETTER POSSIBILITY, REQUEST I BE INFORMED
+
+FORTHWITH.
+
+[handwritten: XX] 1030/3/5/45 CEL/MJU

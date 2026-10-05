@@ -1,0 +1,4 @@
+[rank] 4 lines, 4 climbed, 0 surv(mm<=2) 0s
+DONE lines=4 climbed=4 (100.00%) surv(mm<=2)=0 time=0s restarts=8 stat=llr2
+per crib seen/climbed: 52:1/1 84:3/3
+post-climb crib mismatch histogram: mm10:1 mm11:1 mm12:1 mm17:1

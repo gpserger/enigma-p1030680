@@ -1,0 +1,29 @@
+META serial=368011 too=1355 toi=1316/1/5/45 freq=4580 from=SupremeCommandNavy to=Flotte
+GIST Supreme Command Navy reports fuel stock in Kurland confiscated for U-boats with 50 CBM residue for small consumers.
+
+C53
+
+TO: ID8G                                                ZIP/ZTPG/368011
+
+FROM: NS
+
+
+[handwritten bullet] XBX6
+
+4580 KC/S     TOO 1355     TOI 1316/1/5/45
+
+
+FROM: SUPREME COMMAND OF THE NAVY, NAVAL WAR STAFF, QU.3
+
+TO: FLOTTE
+
+
+EMERGENCY.
+
+THE STOCK OF FUEL IN 'KURLAND' WAS CONFISCATED FOR U/BOATS.
+
+THERE IS A RESIDUE OF 50 CBM ON BOARD FOR SMALL CONSUMERS.
+
+
+[handwritten bullet]
+1235/3/5/45 CEL/EB+

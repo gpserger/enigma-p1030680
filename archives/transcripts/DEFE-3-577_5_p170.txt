@@ -1,0 +1,24 @@
+META serial=367959 too=1711 toi=1647/29/4/45 freq=382 from=N S to=IDB G
+GIST Senior Officer 12th UJ-Flotilla to Naval Harbourmaster Copenhagen requesting Langelinie berth for refugee disembarkation from ships.
+
+ADM (5)
+
+TO: IDB G                                       Z IP/ ZTPG/367959
+
+FROM: N S
+
+382 KC/S         T O O 1711              T O I 1647/29/4/45
+
+FROM: S.O.  12TH UJ- FLOTILLA
+
+TO:   NAVAL HARBOURMASTER COPENHAGEN
+      8TH DEFENCE FLOTILLA
+
+EMERGENCY
+
+S.S. ' HESTIA', ' NAUTIK', ' GANTER' AND UJ 1225, 1222 WILL
+ENTER COPENHAGEN AT ABOUT 0130. REQUEST LANGELINIE BERTH FOR
+DISEMBARKATION OF 6100 REFUGEES, 1749 WOUNDED (554 COT CASES)
+AND 92 DRAFTED MEN.
+
+0908/3/5/45 EGT/HJU

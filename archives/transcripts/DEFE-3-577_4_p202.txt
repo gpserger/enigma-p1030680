@@ -1,0 +1,18 @@
+META serial=ZTPG367804 too=1802 toi=1645/30/4/45 freq=4860 from=U_2368_CUFERMANN to=CONTROL
+GIST U-boat 2368 reporting arrival at Rendsburg with ceasing W/T watch and connection via Saar.
+
+ADM C52
+TO: I D 8 G
+FROM: N S
+
+ZIP/ZTPG/367804
+
+4860 KC/S     TOO 1802     TOI 1645/30/4/45
+
+FROM: U.2368 (CUFERMANN)
+TO:   CONTROL
+
+ARRIVED RENDSBURG AT 1700. AM CEASING W/T WATCH. W/T CONNECTION
+VIA 'SAAR'.
+
+1610/2/5/45+CEL/MH+

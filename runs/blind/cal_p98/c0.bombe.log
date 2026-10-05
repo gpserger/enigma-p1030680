@@ -1,0 +1,5 @@
+crib 0 TRAVEMUENDEB..(14)@30 used=14 excluded=[] blocks=1 sizes: 14(pivot E, loops 1)
+DONE settings=17822064 time=2.1s rate=8.627M settings/s (4.313M/s/thread, 2 threads) T-evals/setting=4.6 stops=1313482
+crib 0 TRAVEMUENDEB..(14)@30: block-stops=1313482; verified g histogram: g0:325918 g1:626159 g2:318308 g3:42382 g4:715
+2.06 s
+stats: 323079 lines in 18.7s

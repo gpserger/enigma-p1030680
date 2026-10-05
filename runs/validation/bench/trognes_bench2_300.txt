@@ -1,0 +1,13 @@
+--score m4f10 -f --polish -R 1                          success 7/300 =   2.3%   boards/key      18169   success per Mboard  128.42%
+--score m4f10 -f --polish -R 5                          success 24/300 =   8.0%   boards/key      23642   success per Mboard  338.38%
+--score m4f10 -f --polish -R 25                         success 47/300 =  15.7%   boards/key      66340   success per Mboard  236.16%
+--score m4f10 -f --polish -R 75                         success 67/300 =  22.3%   boards/key     180020   success per Mboard  124.06%
+--score m4f10 -f -R 1 --exhaust 1 --exhaust-letters E   success 9/300 =   3.0%   boards/key      48691   success per Mboard   61.61%
+--score m4f10 -f -R 3 --exhaust 1 --exhaust-letters E   success 19/300 =   6.3%   boards/key     145508   success per Mboard   43.53%
+--score m4f10 -f -R 1 --exhaust 1 --exhaust-letters ENRXSI success 27/300 =   9.0%   boards/key     265011   success per Mboard   33.96%
+--score m4f10 -f -R 1                                   success 2/300 =   0.7%   boards/key       2295   success per Mboard  290.45%
+--score m4f10 -f -R 3                                   success 6/300 =   2.0%   boards/key       6800   success per Mboard  294.13%
+--score m4f10 -f -R 5                                   success 9/300 =   3.0%   boards/key      11397   success per Mboard  263.23%
+--score m4f10 -f -R 10                                  success 19/300 =   6.3%   boards/key      22526   success per Mboard  281.15%
+--score m4f10 -f -R 25                                  success 37/300 =  12.3%   boards/key      56808   success per Mboard  217.11%
+--score m4f10 -f -R 75                                  success 52/300 =  17.3%   boards/key     171171   success per Mboard  101.26%

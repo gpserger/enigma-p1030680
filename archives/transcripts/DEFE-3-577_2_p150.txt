@@ -1,0 +1,19 @@
+META serial=367348 too=1959 toi=1857/30/4/45 freq=478 kcs from=NOIC CHRISTIANSUND NORTH to=I D 8 G
+GIST Steamship Spree (2867 tons) departing Christiansund North for Aalesund on 30 April 1945, proceeding independently at 9 knots.
+
+ADM C 4J
+
+TO I D 8 G
+
+FROM NS
+
+478 KCS        TOO1959                TOI 1857/30/4/45
+
+FROM: NOIC CHRISTIANSUND NORTH
+
+STEAMSHIP 'SPREE', 2867GRT, LEAVES CHRISTIANSUND NORTH
+AT 2100/30 FOR AALESUND, PROCEEDING INDEPENTLY, 9 KNOTS
+
+CTN READ INDEPENDENTLY,
+
+2312/30/4/45++EGT/IW

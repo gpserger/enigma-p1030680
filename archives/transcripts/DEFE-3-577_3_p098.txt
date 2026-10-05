@@ -1,0 +1,19 @@
+META serial=367510 too=1129 toi=0952/30/4/45 freq=6747 from=? to=?
+GIST Channel Islands morning report: destroyer sighted at 0700 in BF 3552 course north.
+
+ADM C4D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367510
+
+6747 KC/S        TOO 1129        TOI 0952/30/4/45
+
+EMERGENCY:
+
+CHANNEL ISLANDS MORNING REPORT:
+
+SIGHTED: AT 0700 ONE DESTROYER IN BF 3552, COURSE NORTH.
+
+1354/1/5/45++ EE/WAB++++

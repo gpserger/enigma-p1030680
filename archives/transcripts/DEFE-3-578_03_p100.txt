@@ -1,0 +1,20 @@
+META serial=368647 too=2252 toi=2130/1/5/45 freq=3015 from=SMDDISTRIBUTION to=?
+GIST SMD Distribution informs that DB. 14 S.S. Steenwijk will leave Borkum at 2300 to proceed east via the Watt Channel.
+
+ADM C1)
+
+TO: I D B G                ZIP/ZTPG/368647
+
+FROM: N S
+
+3015 KC/S     T O O 2252     T O I 2130/1/5/45
+
+FROM: 'SMD' DISTRIBUTION
+
+WITH
+
+DB. 14 S.S. 'STEENWIJK' WILL LEAVE BORKUM AT 2300 TO PROCEED
+EAST VIA THE WATT CHANNEL.
+
+
+1219/7/5/45   CEL/AHM++++

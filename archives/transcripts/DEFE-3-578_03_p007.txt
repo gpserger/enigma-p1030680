@@ -1,0 +1,20 @@
+META serial=368501 too=1222 toi=?1105/3/5/45 freq=478 from=CONTROL to=?
+GIST Control reports that coastal R/S and G.A.F. R/S for 3/5 and 4/5 are compromised, G.A.F. R/S not altered with caution ordered, and valid coastal R/S from 1200 is Schehel-Glatze.
+
+ADM C5)
+
+TO: I D B G                ZIP/ ZTPG/368501
+
+FROM: N S
+
+478 KC/S     T O O 1222     T O I ?@ 1105/3/5/45
+
+FROM: CONTROL
+
+COASTAL R/S AND G.A.F. R/S FOR 3/5 AND 4/5 COMPROMISED.
+G.A.F. R/S NOT ALTERED, CAUTION IN USE IS ORDERED. VALID COASTAL
+R/S FROM 1200 IS:
+SCHEHEL - GLATZE.
+
+
+1802/6/5/45 EE/MJU

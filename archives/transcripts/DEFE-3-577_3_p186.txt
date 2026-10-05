@@ -1,0 +1,17 @@
+META serial=ZTPG/367584 too=1047 toi=1043/1/5/45 freq=3930 kc/s from=V 6708 to=CAPTAIN (U/B) NORTHERN WATERS
+GIST V 6708 acknowledges to Captain (U/B) Northern Waters W/T message 0948.
+
+ADM (3)
+TO: I D 8 G                                    ZIP/ZTPG/367584
+FROM: N S
+
+3930 KC/S        T O O 1047            T O I 1043/1/5/45
+
+FROM: V 6708
+TO: CAPTAIN (U/B) NORTHERN WATERS
+
+W/T MESSAGE 0948 ACKNOWLEDGED .
+
+
+
+1917/1/5/45        EE/UAK++++

@@ -1,0 +1,17 @@
+META serial=994 too=2114 toi=1929/29/4/45 freq=3764 KC/S from=U 3017 C LINDSCHAUD to=UNKNOWN
+
+GIST U-boat 3017 reports departure from Kiel for anchorage with supply details.
+
+ADM C52
+
+TO: [handwritten: c59] I D 8 G ZIP/ZTPG/367966
+
+FROM: N S
+
+3764 KC/S T O O 2114 T O I 1929/29/4/45
+
+FROM: U 3017 C LINDSCHAUD
+
+LEFT KIEL AT 2045 FOR ANCHORAGE 'G'.
+
+1041/3 XTXRT CEL/MJU

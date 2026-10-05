@@ -1,0 +1,16 @@
+case 0 leftstep C Beta 761 rings=CRDL pos=SBZG garbles=[37] -> PASS ('QKMG', 'AAQL', '1', '761') | block-stops=9; verified g histogram: g1:2 g3:4 g5:2 g8:1
+case 1 dnright  B Beta 586 rings=FDSS pos=UGLD garbles=[36, 43, 57] -> PASS ('PDLD', 'AASS', '2', '586') | block-stops=4; verified g histogram: g2:1 g8:1 g11:2
+case 2 random   C Beta 624 rings=NBVC pos=YRSZ garbles=[2, 59] -> PASS ('LPEZ', 'AAIC', '2', '624') | block-stops=6; verified g histogram: g2:2 g5:4
+case 3 leftstep B Gamma 123 rings=EXHM pos=MPDF garbles=[0, 36] -> PASS ('ISDF', 'AAHM', '1', '123') | block-stops=2; verified g histogram: g1:1 g5:1
+case 4 dnright  C Gamma 146 rings=ZRMM pos=MMDP garbles=[19, 32, 44] -> PASS ('NUJC', 'AATZ', '3', '146') | block-stops=2; verified g histogram: g3:2
+case 5 random   B Beta 847 rings=PJCE pos=DXKX garbles=[24, 28] -> PASS ('ONJK', 'AACR', '2', '847') | block-stops=7; verified g histogram: g2:2 g5:3 g6:2
+case 6 leftstep B Beta 836 rings=AAZI pos=PITW garbles=[] -> PASS ('PITJ', 'AAZV', '0', '836') | block-stops=3; verified g histogram: g0:1 g7:2
+case 7 dnright  C Beta 618 rings=MOMX pos=CXFF garbles=[3] -> PASS ('QIQF', 'AAYX', '1', '618') | block-stops=5; verified g histogram: g1:2 g6:2 g9:1
+case 8 random   B Gamma 475 rings=KIRN pos=EBXL garbles=[] -> PASS ('UTKL', 'AAEN', '0', '475') | block-stops=7; verified g histogram: g0:1 g2:1 g4:1 g6:1 g9:1 g12:1 g15:1
+case 9 leftstep C Gamma 251 rings=HGIB pos=YDXO garbles=[15, 17, 53] -> PASS ('RXXO', 'AAIB', '3', '251') | block-stops=3; verified g histogram: g3:1 g6:1 g13:1
+case 10 dnright  B Beta 367 rings=VLEI pos=EOHX garbles=[] -> PASS ('JDHK', 'AAEV', '0', '367') | block-stops=4; verified g histogram: g0:1 g7:1 g12:1 g18:1
+case 11 random   C Gamma 581 rings=DZHD pos=CIIB garbles=[10, 28] -> PASS ('ZIMB', 'AAMD', '2', '581') | block-stops=9; verified g histogram: g2:2 g4:2 g5:2 g7:1 g8:2
+case 12 leftstep B Gamma 135 rings=NITE pos=BQVH garbles=[65] -> PASS ('OIVH', 'AATE', '1', '135') | block-stops=8; verified g histogram: g1:2 g2:1 g3:2 g4:2 g6:1
+case 13 dnright  B Gamma 267 rings=NVPR pos=MQJW garbles=[31, 37] -> PASS ('ZVJJ', 'AAPE', '2', '267') | block-stops=3; verified g histogram: g2:1 g8:1 g9:1
+case 14 random   B Beta 541 rings=ILKR pos=KHBJ garbles=[2, 29, 38] -> PASS ('CVJJ', 'AATR', '3', '541') | block-stops=6; verified g histogram: g3:2 g6:4
+15/15 passed

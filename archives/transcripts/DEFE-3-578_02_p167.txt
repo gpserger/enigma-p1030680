@@ -1,0 +1,8 @@
+META serial=ADM(1) too=2253 toi=2139/3/5/45 freq=2115 from=GROUP V 5515 to=I D 8 G
+GIST Group V 5515 reports night position for anti-MTB hunt operation in square 2486/2489.
+
+FROM: GROUP V 5515
+
+NIGHT POSITION ANTI-MTB HUNT SQUARE 2486/ 2489
+
+0553/6/5/45+EGT/AM

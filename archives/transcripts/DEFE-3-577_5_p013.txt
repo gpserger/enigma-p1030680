@@ -1,0 +1,17 @@
+META serial=367828 too=0103 toi=0155/1/5/45 freq=382 from=S.O. 4TH U/B FLOTILLA to=10TH DEFENCE DIVISION REPEATED 1ST AND 2ND DEFENCE FLOTILLAS
+GIST Request escort from Sassnitz roads to Hoerup for 2 U-boats with dumb barges.
+
+ADM (C)
+TO: I D B G                                    ZIP/ZTPG/367828
+FROM: N S
+
+382 KC/S            T O O 0103            T O I 0155/1/5/45
+
+FROM: S.O. 4TH U/B FLOTILLA
+TO: 10TH DEFENCE DIVISION
+     REPEATED 1ST AND 2ND DEFENCE FLOTILLAS
+
+REQUEST ESCORT FROM SASSNITZ ROADS TO HOERUP HAV FOR ? U-BOATS
+WITH DUMB BARGES .
+
+2057/2/5/45            EE/UAK+++

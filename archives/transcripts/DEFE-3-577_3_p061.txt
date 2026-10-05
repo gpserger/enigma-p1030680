@@ -1,0 +1,23 @@
+META serial=367472 too=0558 toi=0510/1/5/45 freq=433 from=V.6703 to=67th V. Flotilla (Eng.)
+GIST V.6703 submits fuel report to 67th V. Flotilla with working hours 50.
+
+ADM C1
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367472
+
+433 KC/S        TOO 0558        TOI 0510/1/5/45
+
+FROM: V.6703
+
+TO: 67TH V. FLOTILLA (ENG.)
+
+FUEL REPORT:
+
+A) 3900    B) 1300    C) 650    D) 4550.
+
+((WORKING HOURS)): 50
+
+0923/21/5/45+CEL/AM

@@ -1,0 +1,22 @@
+META serial=367487 too=0758 toi=0614/1/5/45 freq=2115 from=5th Coastal Defence Unit to=V 5513
+GIST Emergency order: escort U 256 forthwith from Leeroey to Bergen, then take up position.
+
+ADM C5D
+
+TO: IDBG
+FROM:N S
+
+ZIP/ ZTPG/367487
+
+2115 KC/S        TOO 0758        TOI 0614/1/5/45
+
+FROM: 5TH COASTAL DEFENCE UNIT
+
+TO: V 5513
+
+EMERGENCY
+
+ESCORT U 256 FORTHWITH FROM LEEROEY TO BERGEN, THEN TAKE UP
+POSITION.
+
+1122/1/5/45 EE/HJU

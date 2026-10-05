@@ -1,0 +1,35 @@
+META serial=368058 too=0829 toi=0716/26/4/45 freq=5310 from=KielXrsmArsenal to=NavalChiefCommandWest
+GIST Kiel Arsenal reports air supply base Reichenbach cannot be reached from Kiel by rail; requests new instructions; has filter elements and spares in store.
+
+ADM C3D
+
+TO ID 8 G                                                ZIP/ZTPG/368058
+
+FROM N S
+
+
+[handwritten bullet]
+
+5310 KC/S     TOO 0829     TOI 0716/26/4/45
+
+
+FROM: K IEL XRSM ARSENAL.
+
+TO: NAVAL CHIEF COMMAND WEST
+
+
+SECRET 26196
+
+
+[handwritten bullet]
+AIR SUPPLY BASE REICHENBACH (CSAULGAU)) CANNOT BE REACHED
+
+FROM KIEL BY RAIL. REQUEST NEW INSTRUCTIONS. WE HAVE IN STORE .
+
+[handwritten bullet]
+HERE F ILTER ELEMENTS FOR TYPE F 6 M 517, ALSO SPARES FROM
+
+KLOECKNER - HUMBOLDT - DEUTZ A.G.
+
+
+0905/3/5/45 EE/HW

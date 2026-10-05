@@ -1,0 +1,21 @@
+META serial=367570 too=2014 toi=1915/25/4/45 freq=360KC/S from=DEFENCE UNIT CC 2 GROUPS to=?
+GIST Defence Unit CC 2 Groups provides alarm battery instructions for Belle Ile and Naval Artillery Abteilung 280 with specific timing for operations and counter-manding procedures.
+
+ADM (3)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367570
+
+360 KC/S        T O O 2014        T O I 1915/25/4/45
+
+FROM: DEFENCE UNIT CC 2 GROUPS ))
+
+ALARM BATTERY :
+BELLE ILE FROM 2300 TO 0400, NAVAL ARTILLERY ABTEILUNG 280 FROM 0330 UNTIL COUNTER-MANDED.
+
+TUNING TIMES:
+FOR BELLE ILE: 2345 TO 2400, NAVAL ARTILLERY ABTEILUNG 280:
+0330 TO 0345:.
+
+1725/1/5/45      EE/UAK++

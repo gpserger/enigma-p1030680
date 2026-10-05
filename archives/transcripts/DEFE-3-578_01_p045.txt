@@ -1,0 +1,21 @@
+META serial=368035 too=1732 toi=? freq=4580 from=S.O.6thZFlotilla to=NavalChiefCommandBaltic,Fleet,Captain
+GIST S.O. 6th Z. Flotilla to Naval Chief Command Baltic, Fleet and Captain.
+
+[handwritten bullet]
+ADMC4D
+
+TO ID8G                                                ZIP/ZTPG/368035
+
+FROM N S
+
+
+4580 KC/S      TOO 1732/1/5/45     TOI (CNOT GIVEN))
+
+
+FROM: S.O. 6TH Z. FLOTILLA
+
+[handwritten bullet] TO: NAVAL CHIEF COMMAND BALTIC
+
+     FLEET (FLOTTE)
+
+     CAPTAIN (CD)

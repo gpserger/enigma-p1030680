@@ -1,0 +1,23 @@
+META serial=367528 too=1502/1758 toi=1410/1545/30/4/45 freq=3930 from=((2 GROUPS)) GROUP 'G' ((16 GROUPS MISSED)) to=?
+GIST Vessel status data for group G including V 6722 and V 6723 specifications and sea hours.
+
+ADM (C3)
+TO I D 8 G       Z1P/ZTPG/367528
+FROM N S
+
+3930 KC/S       T O O 1502/1758       T O I 1410/1545/30/4/45
+
+FROM: ((2 GROUPS)) GROUP 'G'
+((16 GROUPS MISSED))
+
+V 6722 : A - 4.3
+         B - 0
+         C - 1.2
+         D - 3.1
+HOURS AT SEA - 86
+
+V 6723 : A - 5.7      [handwritten] End ?Page One.
+         B - 1.4
+         C - 1.1
+         D - 6.0
+HOURS AT SEA - 7/5

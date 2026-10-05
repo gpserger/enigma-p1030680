@@ -1,0 +1,22 @@
+META serial=367511 too=1905 toi=1725/30/4/45 freq=4265 from=Sea Defence Commandant Lorient to=Island Commandant Belle Ile
+GIST Sea Defence Commandant Jentzsch will arrive with Roscher on 2/5/45 for joint discussions.
+
+ADM C5D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ ZTPG/367511
+
+4265 KC/S        TOO 1905        TOI 1725/30/4/45
+
+FROM: SEA DEFENCE COMMANDANT LORIENT
+
+TO: ISLAND COMMANDANT (?) BELLE ILE
+
+(C3 GROUPS)) SEA DEFENCE COMMANDANT, LT. C S.G.) JENTZSCH,
+WILL ARRIVE AT YOUR END TOGETHER WITH LT. (S.G.) ROSCHER ON 2/5/45 KE
+
+FOR JOINT DISCUSSIONS.
+
+1945/1/5/45 EE/HJU

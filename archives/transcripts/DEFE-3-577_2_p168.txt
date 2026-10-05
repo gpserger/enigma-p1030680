@@ -1,0 +1,18 @@
+META serial=367366 too=1425 toi=1246/30/4/45 freq=4835 kcs from=AF 84 to=5TH DEFENCE DIVISION
+GIST AF 84 arrived in Norddeich at 1430 with HM 56 on 30 April 1945.
+
+ADM C 3J
+
+TO I D 8 G
+
+FROM N S
+
+4835 KC/S        TOO 1425                TOI 1246/30/4/45
+
+FROM: AF 84
+
+TO: 5TH DEFENCE DIVISION
+
+ARRIVED IN NORDDEICH AT 1430 WITH HM 56
+
+2352/30/4/45        EGT+++MPS+++

@@ -1,0 +1,17 @@
+META serial=ZTPGU/39160 too=2027/2046 toi=1933/2020/18/5/45 freq=5585 kc/s from=BDU OPS to=U 518 (OFFERMANN), U 530, U 546 (JUST), U 548 (KREMPL), U 866 (POGOWSKI), U 880 (SCHOETZAU), U 1235 (BARSCH)
+GIST BDU Ops sends a message to a list of U-boats (U 518, 530, 546, 548, 866, 880, 1235, list continues); the page ends after the addressee list, body on the next page.
+
+ADM (5)
+TO: I D 8 G                                    ZIP/ZTPGU/39160
+FROM: NS
+
+5585 KC/S     T O O 2027/2046              T O I 1933/2020/18/5/45
+
+FROM: BDU OPS
+TO:   U 518 (OFFERMANN)
+      530 ?? (WERMUTH)  [word before the bracket overstruck with XX, partly unreadable]
+      546 (JUST)
+      548 (KREMPL)
+      866 (POGOWSKI)
+      880 (SCHOETZAU)
+     1235 (BARSCH)

@@ -1,0 +1,19 @@
+META serial=1017 too=1914 toi=1746/29/4/45 freq=382 KC/S from=5TH S.FLOTILLA to=UNKNOWN
+
+GIST 5th S-boat Flotilla reports S.127 and S.132 departed Roenne for Swinemuende with watch on 'KO.1'.
+
+ADM C4
+
+TO: I D 8 G ZIP/ZTPG/367988
+
+FROM: N S
+
+382 KC/S T O O 1914 T O I 1746/29/4/45
+
+FROM: 5TH S.FLOTILLA
+
+S.127 AND S.132 LEFT ROENNE AT 1900 FOR SWINEMUENDE. W/T WATCH
+
+ON 'KO.1', SPEED 12 KNOTS.
+
+1127/3/5/45 CEL/EB+

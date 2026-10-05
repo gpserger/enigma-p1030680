@@ -1,0 +1,19 @@
+META serial=367471 too=0658 toi=0514/1/5/45 freq=3005 from=8th Defence Division to=VS. 1011
+GIST 8th Defence Division references previous message 0508: wait until weather improves.
+
+ADM C4D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ZTPG/367471
+
+3005 KC/S        TOO 0658        TOI 0514/1/5/45
+
+FROM: 8TH DEFENCE DIVISION
+
+TO: VS. 1011
+
+REFERENCE W/T MESSAGE 0508: WAIT UNTIL THE WEATHER IMPROVES.
+
+0925/1/5/45        CEL/AHM++++

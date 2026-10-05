@@ -1,0 +1,5 @@
+crib 0 FXDXUUUOSTVO..(16)@0 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 2)
+DONE settings=11881376 time=0.5s rate=23.793M settings/s (11.897M/s/thread, 2 threads) T-evals/setting=0.2 stops=36264
+crib 0 FXDXUUUOSTVO..(16)@0: block-stops=36264; verified g histogram: g0:5718 g1:12473 g2:11339 g3:5458 g4:1226 g5:50
+0.50 s
+stats: 5687 lines in 0.4s

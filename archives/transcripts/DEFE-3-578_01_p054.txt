@@ -1,0 +1,33 @@
+META serial=368041 too=2106 toi=2007/1/5/45 freq=4860 from=S.O.4thUBFlotilla to=Control,Admiral,CaptainBaltic
+GIST S.O. 4th U/B Flotilla reports Oceana has 504 refugees and 854 soldiers on board, requests disembarkation at Hoerup-Haff on 3/5.
+
+ADMC4D
+
+TO ID8G                                                ZIP/ZTPG/368041
+
+FROM N S
+
+
+[handwritten bullet]
+
+4860 KC/S      TOO 2106     TOI 2007/1/5/45
+
+
+FROM: S.O. 4TH U/B FLOTILLA
+
+TO: CONTROL .
+
+RPTM. TO: ADMIRAL (U/B)
+
+           CAPTAIN (U/B) BALTIC
+
+
+'OCEANA' HAS 504 REFUGEES AND 854 SOLDIERS (INCLUDING 199
+
+ITALIANS AND 98 HUNGARIANS) ON BOARD. REQUEST DISEMBARKATION AT
+
+[handwritten bullet]
+HOERUP-HAFF ON 3/5 BE [handwritten strikethrough: AXXXXXX] ARRANGED.
+
+
+1604/3/5/45++ AND/WAB+++

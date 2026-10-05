@@ -1,0 +1,19 @@
+META serial=368515 too=2032 toi=1922/2/5/45 freq=2247 from=3RDCOASTALDEFENCEMUNIT to=ALL
+GIST 3rd Coastal Defence M Unit informs all units that steamship Bauta passed Roe at 2000 at 9 knots regarding ship movement.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368515
+
+FROM N S
+
+2247 KC/S     T O O 2032     T O I 1922/2/5/45
+
+FROM: 3RD COASTAL DEFENCE M UNIT
+
+TO: ALL
+
+INTENTION DR 229 MJ STEAMSHIP.BAUTA PASSED 'ROE' AT 2000 C9 KNOTS.)
+
+
+1907/6/5/45+++EE/UC

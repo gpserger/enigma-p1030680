@@ -1,0 +1,9 @@
+META serial=ZIP/ZTPc/368137 too=1422/1458 toi=1534/1520/4/4/45 freq=3764kc/s from=ADMIRAL (U/B) to=25TH U/B FLOTILLA PASS TO ADMIRAL XR FOR SPECIAL DUTIES KORALLE FOR B.D.U. OKM
+GIST Admiral U-Boats most immediate dispatch regarding special duties Koralle for B.D.U. to 25th U-Boat Flotilla and concerned offices.
+
+FROM: ADMIRAL (U/B)
+TO: 25TH U/B FLOTILLA, PASS TO
+1) ADMIRAL XR FOR SPECIAL DUTIES 'KORALLE' FOR B.D.U.
+2) OKM, PASS TO OFFICES OF ADMIRAL (U/B) CONCERNED.
+
+MOST IMMEDIATE

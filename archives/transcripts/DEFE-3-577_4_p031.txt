@@ -1,0 +1,27 @@
+META serial=367646 too=0218 toi=0124/29/4/45 freq=382 from=1 ST DEFENCE FLOTILLA to=10 TH DEFENCE DIVISION
+GIST Emergency request from 1st Defence Flotilla for onward escort of U-boats 2534, 3026 to Travemünde.
+
+AD
+
+ADM: C4D)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367646
+
+382 KC/S             T00 0218               T O I 0124/29/4/45
+
+FROM: 1 ST DEFENCE FLOTILLA
+TO:    10 TH DEFENCE DIVISION
+       36 TH M/S FLOTILLA
+       M 3608
+
+EMERGENCY
+
+REQUEST ONWARD ESCORT OF U 2534, U 3026 TO TRAVEMUENDE. T 1 TO .
+
+WAIT AT ROT 07 FOR ONWARD ESCORT.
+
+[handwritten] 0413/2/5/45 EGT+ MJT++
+
+0413/2/5/45 EGT+MDT++

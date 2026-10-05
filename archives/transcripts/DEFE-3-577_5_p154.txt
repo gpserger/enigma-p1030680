@@ -1,0 +1,19 @@
+META serial=367943 too=1653 toi=1949/29/4/45 freq=3920 from=N S to=IDB G
+GIST Admiral of U-boats M 3 to 25th U-boat flotilla ordering dispatch of engineer officer to Kiel for U-boat command.
+
+ADM (3)
+
+TO IDB G                                        Z IP/ZTPG/367943
+
+FROM N S
+
+3920 KC/S         TOO 1653              TOI 1949/29/4/45
+
+FROM: ADMIRAL (U/B) M 3
+
+TO: 25TH U/B FLOTILLA
+
+SEND SUB-LT.(E) SCHUTOTZ (WALTER), THE ENGINEER OFFICER OF U 3511,
+TO KIEL FORTHWITH FOR KETELS' U-BOAT.
+
+0708/3/5/45         EGT+++MPS+++

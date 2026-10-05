@@ -1,0 +1,21 @@
+META serial=368743 too=0003/2 toi=2243/1/5/45 freq=3930 from=2NDCOASTALDEFENCEUNIT to=TANKERUTSIRE
+GIST 2nd Coastal Defence Unit queries Tanker Uts Ire about crash-boat sighted south of Skraaven.
+
+ADM C3)
+
+TO I D B G                ZIP/ZTPG/368743
+
+FROM N S
+
+3930 KC/S     T O O 0003/2     T O I 2243/1/5/45
+
+FROM: 2ND COASTAL DEFENCE UNIT
+
+TO: TANKER 'UTS IRE'
+
+MOST IMMEDIATE
+
+QUERY: CRASH-BOAT SIGHTED SOUTH OF SKRAAVEN?
+
+
+0429/8/5/45+GFG+DJL

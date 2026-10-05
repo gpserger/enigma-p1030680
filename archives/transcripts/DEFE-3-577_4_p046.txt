@@ -1,0 +1,22 @@
+META serial=ZIP/ZTPG/367660 too=1624 toi=1531/26/4/45 freq=382 KC/S from='EISBAER' to=SALVAGE COMMAND
+GIST Eisbaer has anchored in Trayemuende Roads and escort has not yet been provided.
+
+ADM (4)
+
+TO: | D 8 G    ZIP/ZTPG/367660
+
+FROM: N S
+
+382 KC/S    TOO 1624    T O I 1531/26/4/45
+
+FROM: 'EISBAER'
+
+TO:  SALVAGE COMMAND
+
+HAVE ANCHORED IN TRAYEMUENDE ROADS. ESCORT HAS NOT YET BEEN
+
+PROVIDED.
+
+[handwritten] ONXXXXXXXX [end handwritten]
+
+0443/2/5/45 EGT+MDT++

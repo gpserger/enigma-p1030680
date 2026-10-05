@@ -1,0 +1,14 @@
+META serial=3687/16 A too=0717/3/5 toi=? freq=350KC/S from=N.S to=?
+GIST: Reading instructions for check sweeps notation.
+
+ADM (C2)
+TO: I D B G                                 ZIP/ZTPG/3687/16 A
+
+FROM: N.S
+
+350 KC/S        TOO 0717/3/5
+
+IN 4 TH LINE READ '' AND/ OR CHECK SWEEPS', NOT '' FOR
+CHECK SWEEPS'' AS SENT.
+
+1505/13/5/45 ECT+MDT++

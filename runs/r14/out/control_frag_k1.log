@@ -1,0 +1,5 @@
+crib 0 TRAVEMUENDEB..(33)@30 used=30 excluded=[32 58 60 ] blocks=2 sizes: 15(pivot E, loops 3) 15(pivot E, loops 4)
+DONE settings=5940688 time=0.4s rate=16.388M settings/s (8.194M/s/thread, 2 threads) T-evals/setting=0.0 stops=10
+crib 0 TRAVEMUENDEB..(33)@30: block-stops=10; verified g histogram: g0:2 g2:2 g3:2 g4:4
+ranking 2 hits with corpus/ngrams/navalblend_quadgrams.txt (restarts=4)
+ranking done in 0.0s -> runs/r14/out/control_frag_k1.rank.tsv

@@ -1,0 +1,14 @@
+META serial=367367A too=1810/25/4/45 toi=? freq=4282 kcs from=? to=I D 8 G
+GIST Request to add 'HIGH' as last group of last line.
+
+C 5J
+
+TO: I D 8 G
+
+FROM: N S
+
+4282 KC/S        T O O 1810/25/4/45
+
+PLEASE ADD 'HIGH' AS LAST GROUP OF LAST LINE.
+
+0603/1/5/45 CEL/EB+

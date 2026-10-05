@@ -1,0 +1,14 @@
+META serial=ADM C(4) too=2328 toi=2146/5/5/45 freq=4265 from=DEFENCE UNIT LORIENT to=I D 8 G
+GIST Most immediate ship movement report for night 5-6 May; reference message 1623 para 2 confirms sailing time 0400.
+
+[KG] (handling mark)
+
+FROM: DEFENCE UNIT LORIENT
+
+MOST IMMEDIATE:
+
+SHIP MOVEMENT REPORT NIGHT 5/6XXXX 5-6/5
+
+REF. W/T MESSAGE 1623 PARA 2): SAILING TIME IS 0400.
+
+0369/6/5/45++EGT/WAB++++

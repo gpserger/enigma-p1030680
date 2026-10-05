@@ -1,0 +1,17 @@
+META serial=368489 too=2047 toi=1918/1/5/45 freq=3015 from=AF85 to=5THDEFENCEDIVISION
+GIST AF 85 reports to 5th Defence Division that Bingen is not occupied due to weather conditions but Heinken is occupied.
+
+ADN (5)
+TO: I D B G                ZIP/ ZTPG/368489
+FROM: N S
+
+3015 KC/S     T O O 2047     T O I 1918/1/5/45
+
+FROM: AF 85
+TO: 5TH DEFENCE DIVISION
+
+'BINGEN' NOT OCCUPIED OWING TO WEATHER CONDITIONS.
+'HEINKEN' OCCUPIED.
+
+
+1746/6/5/45 EE/MJU

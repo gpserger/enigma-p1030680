@@ -1,0 +1,9 @@
+crib 0 WEITEREBEFEH..(22)@48 used=22 excluded=[] blocks=2 sizes: 11(pivot E, loops 3) 11(pivot R, loops 1)
+crib 1 WEITEREBEFEH..(22)@49 used=22 excluded=[] blocks=2 sizes: 11(pivot G, loops 3) 11(pivot E, loops 1)
+crib 2 WEITEREBEFEH..(22)@50 used=22 excluded=[] blocks=2 sizes: 11(pivot E, loops 4) 11(pivot G, loops 2)
+[200/572 items] 29s settings=91395200 (3.21M/s) stops=15566191
+[400/572 items] 57s settings=182790400 (3.21M/s) stops=31048311
+DONE settings=261390272 time=81.4s rate=3.212M settings/s (1.606M/s/thread, 2 threads) T-evals/setting=10.7 stops=44390242
+crib 0 WEITEREBEFEH..(22)@48: block-stops=38279476; verified g histogram: g0:275974 g1:522571 g2:715278 g3:1170233 g4:2487024 g5:4706649 g6:6911917 g7:7812819 g8:6744402 g9:4389540 g10:2048354 g11:469235 g12:25480
+crib 1 WEITEREBEFEH..(22)@49: block-stops=508529; verified g histogram: g0:306 g1:3521 g2:14251 g3:32369 g4:55573 g5:74995 g6:86238 g7:83010 g8:74369 g9:57277 g10:23612 g11:2953 g12:55
+crib 2 WEITEREBEFEH..(22)@50: block-stops=5602237; verified g histogram: g0:12772 g1:46707 g2:133059 g3:306596 g4:571298 g5:853721 g6:1054781 g7:1110430 g8:901012 g9:477138 g10:126404 g11:8319

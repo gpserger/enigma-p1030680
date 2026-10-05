@@ -1,0 +1,11 @@
+const fs = require('fs');
+const path = require('path');
+const { JSDOM } = require('jsdom');
+const html = fs.readFileSync(path.join(__dirname,'..','enigma-u_v262_en.utf8.html'),'utf8');
+const dom = new JSDOM(html, { url: 'https://example.org/e.html', runScripts:'outside-only', resources:'usable', pretendToBeVisual:true });
+const doc = dom.window.document;
+console.log('forms count', doc.forms.length);
+for (const f of doc.forms) console.log('form name=', f.name);
+console.log('document.a ?', typeof doc.a);
+console.log('document.forms.a ?', typeof doc.forms.a);
+console.log('getElementsByName preset:', doc.getElementsByName('preset').length);

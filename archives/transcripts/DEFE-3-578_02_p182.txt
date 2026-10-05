@@ -1,0 +1,9 @@
+META serial=ADM C(4) too=1659 toi=1510/1/5/45 freq=2115 from=5TH COAST DEFENCE UNIT to=I D 8 G
+GIST 5th Coast Defence Unit reports southbound movement from Aalesund at 1800: vessel 5309 plus 1 plus 2 ships at 10 knots.
+
+FROM: 5TH COAST DEFENCE UNIT
+
+FROM AALESUND SOUTHBOUND AT 1800 5309 PLUS 1 PLUS 2 SHIPS,
+10 KNOTS.
+
+0711/6/5/45++EGT/WAB++++

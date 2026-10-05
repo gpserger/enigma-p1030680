@@ -1,0 +1,11 @@
+META serial=ADM C(4) too=1234 toi=1059/1/5/45 freq=2115 from=6TH COAST DEFENCE UNIT to=I D 8 G
+GIST Emergency order to UJ 1706: onward passage with convoy at 2200 hours.
+
+FROM: 6TH COAST DEFENCE UNIT
+TO: UJ 1706
+
+EMERGENCY:
+
+ONWARD PASSAGE WITH CONVOY AT 2200.
+
+0143/6/5/45+++ EGT/WAB++++

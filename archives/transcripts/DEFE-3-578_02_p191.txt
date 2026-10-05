@@ -1,0 +1,12 @@
+META serial=ADM (1) too=2316 toi=2136/1/5/45 freq=3015 from=5TH DEFENCE DIVISION to=I D 8 G
+GIST 5th Defence Division orders V.803 to proceed in company with V.802 from Hellrot via small shipping route to Wesermuende.
+
+FROM: 5TH DEFENCE DIVISION
+TO: V.803
+
+PROCEED IN COMPANY WITH V.802 FROM HELLROT 1/VIA THE SMALL
+SHIPPING ROUTE TO WESERMUENDE.
+
+CC 'VIA'
+
+1031/6/5/45++++CEL/SMH

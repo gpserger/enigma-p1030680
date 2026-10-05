@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPG/367854 too=2207 toi=2030/30/4/45 freq=4860 KC/S from=5TH U/B FLOTILLA to=U 3029
+GIST Message from 5th U/B Flotilla to U 3029 confirming W/T message 1751 remains valid and directing to Nordland berth.
+
+ADM (3)
+TO: I D B G                            ZIP/ZTPG/367854
+FROM: N S
+
+4860 KC/S         TOO 2207              TOI 2030/30/4/45
+
+FROM: 5TH U/B FLOTILLA
+TO: U 3029 .
+
+    W/T MESSAGE 1751 REMAINS VALID.  GO TO NORDLAND BERTH.
+
+CC TO I 2030/20/4/45 RPT 30/4
+2230/2/5/45+++++EE/SHH

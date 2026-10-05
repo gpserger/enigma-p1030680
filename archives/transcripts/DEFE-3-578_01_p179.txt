@@ -1,0 +1,11 @@
+META serial=ZIP/ZTPc/368158 too=1707 toi=1543/1/5/45 freq=4282kc/s from=CAPTAIN (U/B) TRAINING U.1 to=FRONT LINE TRAINING GROUP BORNHOLM
+GIST Captain U-Boat Training U.1 instructs Front Line Training Group Bornholm to confirm transfer of Peter von Danzig to Warnemuende and report departure.
+
+FROM: CAPTAIN (U/B) TRAINING U.1
+TO: FRONT LINE TRAINING GROUP BORNHOLM
+
+CONFIRM THE TRANSFER OF 'PETER VON DANZIG' TO WARNEMUENDE.
+REPORT DEPARTURE
+
+
+1601/4/5/45+CEL/AM

@@ -1,0 +1,15 @@
+META serial=ZIP/ZTPc/368321 too=1855 toi=1841/1/5/45 freq=3015kc/s from=12TH V-FLOTILLA to=?
+GIST 12th V-Flotilla ship movement reporting service for vessels leaving Wesermuende for Elbe approach with patrol-vessel subdivision routing to Heligoland and Buesum.
+
+FROM: 12TH V-FLOTILLA
+
+SHIP MOVEMENT REPORTING SERVICE:
+
+V 1263, 1264 WITH STEAMSHIPS BELT, ZANDER, LAUDON, LAUTHTING AND
+G. HARTMANN LEAVING WESERMUENDE AT 2100 FOR ELBE APPROACH.
+
+PATROL-VESSEL SUBDIVISION ONWARD PASSAGE TO HELIGOLAND AND
+BUETSUM, CONVOY TO THE ELBE
+
+
+/2251/5/4/45+EE/AH

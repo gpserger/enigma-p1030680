@@ -1,0 +1,15 @@
+META serial=ZIP/ZTPG/367889 too=0430 toi=0325/28/4/45 freq=3764 from=U 3521 (KELLER) to=?
+GIST U-boat U 3521 reports leaving Swinemuende at 0500 at 0600 from guardship group for passage to Gruen 03 at 11 knots.
+
+ADM (5)
+TO: ID8 G                                        ZIP/ZTPG/367889
+FROM: N S
+
+3764 KC/S         TOO 0430            T O I 0325/28/4/45
+
+FROM: U 3521 ( KELLER)
+
+LEAVING SWINEMUENDE AT 0500, AT 0600 FROM GUARDSHIP GROUP-
+PASSAGE TO 'GRUEN 03'. SPEED 11 KNOTS.
+
+0202/3/5/45 EGT+HDT++

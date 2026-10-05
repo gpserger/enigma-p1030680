@@ -1,0 +1,18 @@
+META serial=367817 too=2150 toi=2310/25/4/45 freq=3515 from=? to=?
+GIST Channel Islands day report: supply trip by 2 HS-boats from Alderney; no Cherbourg traffic observed; Lancaster sighted east of Jersey.
+
+ADM (C)
+TO: I D B G                                    Z.IP/ZTPG/367817
+FROM: N S
+
+3515 KC/S            T O O 2150            T O I 2310/25/4/45
+
+EMERGENCY
+
+EXX
+CHANNEL ISLANDS DAY REPORT :
+1) SUPPLY TRIP BY 2 HS-BOATS FROM ALDERNEY TO CASQUETS AND BACK.
+2) IN MODERATE VISIBILITY NO OBSERVATION OF CHERBOURG TRAFFIC.
+3) AT 1532 ONE LANCASTER FLEW PAST EAST OF JERSEY OUT OF RANGE.
+
+1730/2/5/45 EE/UAK+++

@@ -1,0 +1,33 @@
+META serial=368050 too=0122 toi=0534/2/5/45 freq=382 from=NavalChiefCommandBaltic to=R28,NOICTravemunde
+GIST Naval Chief Command Baltic orders detainment at Travemünde of tug Nordergruende with floating flak battery Undine pending transfer to Kiel.
+
+ADM C1D
+
+[handwritten bullet] TO ID8G                                                ZIP/ZTPG/368050
+
+FROM NS
+
+
+[handwritten bullet]
+
+382 KC/S     TOO 0122     TOI 0534/2/5/45
+
+
+FROM: NAVAL CHIEF COMMAND BALTIC
+
+TO: R 28 FOR N.O.I.C. TRAVEMÜNDE
+
+
+[handwritten bullet]
+EMERGENCY                    MOST SECRET
+
+
+TUG NORDERGRUENDE WITH FLOATING FLAK BATTERY (UNDINE)) LEFT
+
+SWINEMUENDE ON 27/4 FOR TRAVEMÜNDE. DETAIN THEM THERE PENDING
+
+[handwritten bullet]
+FURTHER ORDERS. INTENDED TO TRANSFER THEM TO KIEL.
+
+
+1902/3/5/45+++EE/UC

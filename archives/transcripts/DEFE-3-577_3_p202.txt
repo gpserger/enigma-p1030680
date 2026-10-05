@@ -1,0 +1,11 @@
+META serial=367596 too=1031/1034/1041 toi=1017/1343/1106/1/5/45 freq=3930 from=67TH V-FLOTILLA to=2ND COASTAL DEFENCE UNIT (ENGINEER)
+GIST Header (page 1) of ZTPG/367596: 67th V-Flotilla to 2nd Coastal Defence Unit (Engineer) - a three-part signal (TOO 1031/1034/1041) whose numeric data table continues on the following pages (marked "Page 2" and "Page 3 ZTPG/596").
+
+ADM (4)
+TO: I D 8G                                     ZIP/ZTPG/ 367596
+FROM: N S
+
+3930 KC/S       TOO : 1031/1034/1041.    TOI: 1017/1343/1106/1/5/45
+
+FROM: 67TH V - FLOTILLA
+TO:   2ND COASTAL DEFENCE UNIT (ENGINEER)

@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPG/367849 too=2357/27 toi=0032/28/4/45 freq=3764 KC/S from=CAPTAIN (U/B) BALTIC to=5TH U/B FLOTILLA
+GIST Report from Captain U/B Baltic about U 349 at Brunsbuettel scheduled to sail for Kiel on 29 April.
+
+ADM (4)
+TO: I D 8G                            ZIP/ZTPG/ 367849
+FROM: N S
+
+3764 KC/S         TOO : 2357/27  TOI: 0032/28/4/45
+
+FROM: CAPTAIN (U/B) BALTIC
+TO: 5TH U/B FLOTILLA
+
+U 349 IS LYING IN BRUNSBUETTEL, WILL CARRY OUT D/F CALIBRATION AND
+SAIL FOR KIEL ON 29/4.
+
+2224/2/5/45 EE/JG

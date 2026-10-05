@@ -1,0 +1,32 @@
+META serial=368014 too=0959 toi=0828/3xx/2/5/45 freq=3978 from=Flotte to=NavalChiefCommandBaltic,CaptainCD,S.O.6thZFlotilla
+GIST Flotte requests immediate wireless transmission of promised order for Jacobi and Z.43 from last night.
+
+C53
+
+TO: ID8G                                                ZIP/ZTPG/358014
+
+FROM: NS
+
+
+[handwritten bullet]
+
+3978 KC/S     TOO 0959     TOI 0828/3XX 2/5/45
+
+
+FROM: FLOTTE
+
+TO: NAVAL CHIEF COMMAND BALTIC COPS. STAFF)
+
+    RPTD TO: CAPTAIN (CD)
+
+            S.O. 6TH Z.FLOTILLA
+
+
+MOST IMMEDIATE.
+
+REQUEST THE ORDER PROMISED FOR 'JACOBI' AND Z.43 LAST NIGHT
+
+BE WIRELESSED FORTHWITH.
+
+
+1230/3/5/45 CEL/EB+

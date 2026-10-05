@@ -1,0 +1,28 @@
+META serial=367528 too=? toi=? freq=? from=? to=?
+GIST Continuation of previous message containing vessel status data for V 6724, V 6725, V 6726, and V 6728.
+
+ZIP/ZTPG/367528
+(CONT)
+
+V 6724 : A - 5.5
+        B - 0
+        C - 0.8
+        D - 4.7        [handwritten] Page two
+HOURS AT SEA - 67.
+
+V 6725 : A - 3.1       ZIP/ZTPG/3675...
+         B - 0          (contd)
+         C - 1.2
+         D - 1.9
+HOURS AT SEA - 70
+
+V 6726 : A - 4.2
+         B - 0
+         C - 0.2
+         D - 4.0        [handwritten] CC: On Page(?) half line read: YS Not alt Sent
+HOURS AT SEA - 14.                     152/1/5/45 EE/PW
+V 6728 : A - 1.7
+         B - 0
+         C - 0.5
+         D - 1.2
+HOURS AT SEA - 20.

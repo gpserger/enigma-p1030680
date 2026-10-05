@@ -1,0 +1,21 @@
+META serial=367644 too=1539 toi=1435/28/4/45 freq=3545 from=9TH DEFENCE DIVISION to=ALL
+GIST Emergency order from 9th Defence Division to all units regarding night 26-29/4 positions.
+
+ADM: C3)
+TO: I D 8 G
+FROM: NS
+
+Z IP/ZTPG/367644
+
+3545KCS            T00 1539                 T0I 1435/28/4/45
+
+FROM:9TH DEFENCE DIVISION
+TO:    ALL
+
+EMERGENCY
+
+NIGHT 26-29/4 POSITION 'SUS)'. NORTHERN HALF OF 'MAX' AND
+
+SOUTHERN HALF OF 'MORITZ' OCCUPIED.
+
+0416/2/5/45+++EGT/IW

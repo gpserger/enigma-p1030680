@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367907 too=1155 toi=1516/30/4/45 freq=4412 from=AF 81 to=S.O. 5 TH A-FLOTILLA
+GIST Most Immediate: AF 81 reports at 1600 armoured spearheads before Stralsund, harbour closed by obstructions, Daenholm bridge blocked.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367907
+FROM: N S
+
+4412 KC/S         TOO 1155            T O I 1516/30/4/45
+
+FROM: AF 81
+TO:   S.O. 5 TH A-FLOTILLA
+
+MOST IMMEDIATE
+
+AT 1600 ARMOURED SPEARHEADS BEFORE STRALSUND. HARBOUR CLOSED
+BY OBSTRUCTIONS, DAENHOLM BRIDGE BLOCKED. AF 81 AND CONVOY LEFT
+PORT. IF WEATHER IMPROVES INTEND TO PROCEED WESTWARD A.M. TOMORROW
+WITH CONVOY.
+
+0406/3/5/45 EGT+MDT++

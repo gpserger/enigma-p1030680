@@ -1,0 +1,20 @@
+META serial=367936 too=1114 toi=1044/30/4/45 freq=3978 from=N S to=IDB G
+GIST Naval Chief Command Baltic to Fleet regarding minelayer Linz transfer in convoy to Aarhus.
+
+ADM (3)
+.TO IDB G                                       Z IP/ZTPG/367936
+FROM N S
+
+3978 KC/S         TOO 1114              TOI 1044/30/4/45
+
+FROM: NAVAL CHIEF COMMAND BALTIC COPS STAFF)
+RPTD.TO: FLEET
+
+                                       MOST SECRET 02135 F 1 OPS.
+
+MINELAYER 'LINZ' IS TO TRANSFER FORTHWITH IN SPECIAL CONVOY
+OF S.S. 'DUBURG' TO AARHUS, TO BE PAID OFF THERE.
+
+CC: PLS DELETE 'STOP' AFTER AARHUS IN LAST LINE
+
+0724/3/5/45         EGT+++MPS+++

@@ -1,0 +1,6 @@
+== stride 1
+stageA>=cut: 94
+DETECTED (rank 1 in unit) 106/272   wall 0s  settings 0  evals 0.00G  (8 threads)
+== stride 5
+stageA>=cut: 28
+DETECTED (rank 1 in unit) 58/272   wall 0s  settings 0  evals 0.00G  (8 threads)

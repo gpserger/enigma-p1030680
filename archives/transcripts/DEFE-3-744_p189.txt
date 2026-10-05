@@ -1,0 +1,26 @@
+META serial=ZIP/ZTPCU/39160 too=? toi=? freq=? from=? to=?
+GIST Continuation of U-boat command list.
+
+853 (FPOEMSDORF)
+
+879 (MANCHEN)
+
+881 'FPLSCHKE)
+
+857 (PREHAUER)
+
+242 (PIEDEL)
+
+285 (BORNHAUPT)
+
+296 (PASCH)
+
+321 (BEHRENDS)
+
+325 (DOHPN)
+
+326 (MATTHES)
+
+395 (SIMON)
+
+END OF PAGE ONE

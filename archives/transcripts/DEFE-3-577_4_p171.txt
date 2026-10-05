@@ -1,0 +1,16 @@
+META serial=367777 too=2354/30/4 toi=0111/1/5/45 freq=3764 from=U. 748 (DINGLER) to=5TH U/B FLOTILLA
+GIST U-boat 748 reports arrival at Rendsburg at 2230; communications connection via Captain (U/B) Baltic.
+
+ADM (40)
+TO: I D B G                                    ZIP/ZTPG/367777
+FROM: N S
+
+3764 KC/S            T O O 2354/30/4            T O I 0111/1/5/45
+
+FROM: U. 748 (DINGLER)
+TO: 5TH U/B FLOTILLA
+
+ARRIVED RENDSBURG AT 2230. COMMUNICATIONS CONNECTION VIA
+CAPTAIN (U/B) BALTIC.
+
+1430/2/5/45 CEL/AHM++++

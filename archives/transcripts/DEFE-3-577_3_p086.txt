@@ -1,0 +1,24 @@
+META serial=367496 too=0928 toi=0741/30/4/45 freq=6747 from=Admiral Atlantic to=Naval Chief Command West, B.D.U.
+GIST Admiral Atlantic reports 2 large stationary units shelling Oleron Island at 0905, bearing 198 degrees from Chassiron, 18 km off.
+
+ADM C1
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367496
+
+6747 KC/S        TOO 0928        TOI 0741/30/4/45
+
+FROM: ADMIRAL ATLANTIC
+
+TO: NAVAL CHIEF COMMAND WEST
+
+B.D.U.
+
+MOST IMMEDIATE
+
+2 LARGE STATIONARY UNITS SHELLING OLERON ISLAND AT 0905 IN
+198 DEGREES FROM CHASSIRON, 18 KILOMETRES OFF
+
+1252/1/5/45+EE/AM

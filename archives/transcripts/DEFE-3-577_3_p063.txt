@@ -1,0 +1,20 @@
+META serial=367474 too=2211 toi=2314/30/4/45 freq=4885 from=Commandant La Rochelle Defence Area to=Naval Chief Command West
+GIST New HS-position to be occupied commencing night 30/4 to 1/5 at position 460315 North 011950 West.
+
+ADM C1
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367474
+
+4885 KC/S        TOO 2211        TOI 2314/30/4/45
+
+FROM: COMMANDANT LA ROCHELLE DEFENCE AREA
+
+TO: NAVAL CHIEF COMMAND WEST
+
+COMMENCING THE NIGHT 30/4 TO 1/5, NEW HS-POSITION WILL BE
+OCCUPIED IN POSITION 460315 NORTH 011950 WEST
+
+0925/1/5/45+CEL/AM

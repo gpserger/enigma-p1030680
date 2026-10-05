@@ -1,0 +1,15 @@
+META serial=ZIP/ZTPc/368323 too=1421 toi=1241/1/5/45 freq=4645kc/s from=G.A.F. GENERAL IN DENMARK IC to=ADMIRAL HELIGOLAND BIGHT
+GIST Most immediate most secret message from Luftwaffe General in Denmark regarding Westa 1 operations with grid coordinates via Husum and status on enemy sightings.
+
+FROM: G.A.F. GENERAL IN DENMARK IC
+TO: ADMIRAL HELIGOLAND BIGHT
+
+MOST IMMEDIATE MOST SECRET
+
+WESTA 1, 0445-0755 HUSUM 05 EAST 853 - 553 - 167 - 066- 275 - 362
+- HUSUM.
+
+NO W/T REPORT CONCERNING ENEMY SIGHTING.
+
+
+2333/5/5/45+++EE/UC

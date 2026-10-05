@@ -1,0 +1,22 @@
+META serial=ZIP/ZTPG/367894 too=2012 toi=2049/7/4/45 freq=382 from=NET BARRAGE UNIT THROUGH 'W'.BAUER' to=NET LAYER 8 ('EGGEROE')
+GIST Host Secret 267/45: Order regarding anti-torpedo net barrage Proerwik to be laid out according to T/P Secret 262 of 3/4.
+
+ADM (4)
+TO: IDBG                                         ZIP/ZTPG/367894
+FROM: N S
+
+382 KC/S         TOO 2012            T O I 2049/7/4/45
+
+FROM: NET BARRAGE UNIT THROUGH 'W'.BAUER'
+TO:   NET LAYER 8 ( 'EGGEROE')
+
+                HOST SECRET 267/45
+
+ANTI TORPEDO NET BARRAGE PROERWIK TO BE LAID OUT IN ACCORDANCE
+WITH OUR ORDER T/ P SECRET 262 OF 3/4: SUGGESTION OF 10 TH
+DEFENCE DIVISION NOT KNOWN HERE.
+
+CC- PSE READ 'W.BAUER'
+    T/ P MOST SECRET ETC
+
+0150/3/5/45 EGT+HDT++

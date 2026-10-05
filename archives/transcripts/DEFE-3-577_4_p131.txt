@@ -1,0 +1,19 @@
+META serial=367738 too=0835 toi=0645/27/4/45 freq=4860 from=U/BOAT BASE EMDEN to=U.560
+
+GIST U/Boat Base Emden directs U.560 to proceed to Wilhelmshaven and requests acknowledgement.
+
+C5))
+
+TO: I D 8 G    ZIP/ZTPG/367738
+
+FROM: N S
+
+4860 KC/S    T O O 0835    T O I 0645/27/4/45
+
+FROM: U/BOAT BASE EMDEN
+
+TO: U.560
+
+FOLLOW TO WILHELMSHAVEN. ACKNOWLEDGE.
+
+1036/2/5/45 CEL/EB+

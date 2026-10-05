@@ -1,0 +1,21 @@
+META serial=368646 too=1234 toi=1059/1/5/45 freq=2115 from=6THCOASTALDEFENCEUNIT to=UJ.1706
+GIST 6th Coastal Defence Unit orders UJ. 1706 to continue onward passage with convoy at 2200.
+
+ADM C1)
+
+TO: I D B G                ZIP/ZTPG/368646
+
+FROM: N S
+
+2115 KC/S     T O O 1234     T O I 1059/1/5/45
+
+FROM: 6TH COASTAL DEFENCE UNIT
+
+TO: UJ. 1706
+
+EMERGENCY
+
+ONWARD PASSAGE WITH CONVOY AT 2200.
+
+
+1220/7/5/45   CEL/AHM++++

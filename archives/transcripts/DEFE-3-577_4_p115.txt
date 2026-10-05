@@ -1,0 +1,13 @@
+META serial=367724 A too=1138 toi=? freq=382 kc/s from=? to=?
+
+GIST Message noting to read corrected line regarding 'shall there' vs 'shall these' as sent.
+
+ADM (3)
+TO: I D 8 G    ZIP/ZTPG/367724 A
+FROM: N S
+
+382 KC/S    T O O 1138/1/5/45
+
+PLEASE READ IN PENULTIMATE LINE 'SHALL THERE' NOT 'SHALL THESE' AS SENT.
+
+0956/2/5/45+CEL/FA

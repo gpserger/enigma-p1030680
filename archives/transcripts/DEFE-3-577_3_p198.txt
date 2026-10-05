@@ -1,0 +1,16 @@
+META serial=? too=? toi=? freq=? from=LORIENT DOCKYARD to=ST. NAZAIRE DOCKYARD
+GIST Lorient Dockyard tells St Nazaire Dockyard that cam-shafts and battery cells with spare parts are ready for the next transport, and requests 150 bottles of oxygen in exchange for caustic soda and carbide.
+
+FROM: LORIENT DOCKYARD
+
+TO:   ST.NAZAIRE DOCKYARD
+
+CAM - SHAFTS ORDERED AS WELL AS BATTERY CELLS WITH SPARE PARTS
+ARE READY FOR N[E inserted, handwritten]XT TRANSPORT. DATE STILL UNCERTAIN, PROBABLY IN 5
+OR 6 DAYS' TIME. REQUEST THAT FOR ONE OCCASION 150 BOTTLES OF
+OXYGEN BE MADE AVAILABLE. WE SHOULD PROVIDE IN EXCHANGE 40
+KILOGRAMS OF CAUSTIC SODA AND 5 KILOGRAMS OF CARBIDE PER BOTTLE.
+
+CC LINE 2:GR 4:NEXT
+
+2015/1/5/45 EE/JG

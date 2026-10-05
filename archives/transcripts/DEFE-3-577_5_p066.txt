@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367871 too=1555 toi=1415/27/4/45 freq=382 from=10TH DEFENCE DIVISION to=36TH N/S FLOTILLA
+GIST Emergency order to send escort vessels to Gruen 03 continuously for transfer of 18 Type 21 U-boats to the West.
+
+ADM (3)
+TO IDBG                                         ZIP/ZTPG/367871
+FROM N S
+
+382 KC/S         TOO 1555            TOI 1415/27/4/45
+
+FROM: 10TH DEFENCE DIVISION
+TO: 36TH N/S FLOT ILLA
+
+EMERGENCY
+
+SEND ESCORT VESSELS TO GRUEN 03 CONTINUOUSLY FOR TRANSFER
+OF 18 TYPE 21 U-BOATS TO THE WEST.
+
+0020/3/5/45         EGT+++MPS++

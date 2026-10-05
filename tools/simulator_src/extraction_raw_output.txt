@@ -1,0 +1,125 @@
+=== ROTORS (walze[]) ===
+0 ['Arb.W (Maintenance wheel): pass-through; 26 notches', '=']
+1 ['ekmflgdqvzntowyhxuspaibrcj', 'q', 'Q|R', 'I']
+2 ['ajdksiruxblhwtmcqgznpyfvoe', 'e', 'E|F', 'II']
+3 ['bdfhjlcprtxvznyeiwgakmusqo', 'v', 'V|W', 'III']
+4 ['esovpzjayquirhxlnftgkdcmwb', 'j', 'J|K', 'IV']
+5 ['vzbrgityupsdnhlxawmjqofeck', 'z', 'Z|A', 'V']
+6 ['jpgvoumfyqbenhzrdkasxlictw', 'zm', 'Z|A, M|N', 'VI']
+7 ['nzjhgrcxmyswboufaivlpekqdt', 'zm', 'Z|A, M|N', 'VII']
+8 ['fkqhtlxocbjspdzramewniuygv', 'zm', 'Z|A, M|N', 'VIII']
+9 ['wtokasuyvrbxjhqcpzefmdinlg', 'q', 'Q|R', '1N']
+10 ['gjlpubswemctqvhxaofzdrkyni', 'e', 'E|F', '2N']
+11 ['jwfmhnbpusdytixvzgrqlaoekc', 'v', 'V|W', '3N']
+12 ['fgzjmvxepbwshqtliudykcnrao', 'j', 'J|K', '4N']
+13 ['hejxqotzbvfdascilwpgynmurk', 'z', 'Z|A', '5N']
+14 ['veosirzujdqckgwypnxaflthmb', 'q', 'Q|R', '1S']
+15 ['uemoatqlshpkcyfwjzbgvxidnr', 'e', 'E|F', '2S']
+16 ['tzhxmbsipnurjfdkeqvcwglaoy', 'v', 'V|W', '3S']
+17 ['z', 'Z|A (RS=01)', '1D']
+18 ['z', 'Z|A (RS=01)', '2D']
+19 ['z', 'Z|A (RS=01)', '3D']
+20 ['y', 'Y|Z', '1K']
+21 ['e', 'E|F', '2K']
+22 ['n', 'N|O', '3K']
+23 ['pezuohxscvfmtbglrinqjwaydk', 'y', 'Y|Z', '1SK']
+24 ['zouesydkfwpciqxhmvblgnjrat', 'e', 'E|F', '2SK']
+25 ['ehrvxgaobqusimzflynwktpdjc', 'n', 'N|O', '3SK']
+26 ['jgdqoxuscamifrvtpnewkblzyh', 'n', 'N|O', '1R']
+27 ['ntzpsfbokmwrcjdivlaeyuxhgq', 'e', 'E|F', '2R']
+28 ['jviubhtcdyakeqzposgxnrmwfl', 'y', 'Y|Z', '3R']
+29 ['evlpkudjhtgszfrabwyicoxnmq', 'y', 'Y|Z', '1R°']
+30 ['hxmqkgjtsczflbernawyidovpu', 'e', 'E|F', '2R°']
+31 ['jhdbskypznmvxurecligqoawtf', 'n', 'N|O', '3R°']
+32 ['kptyuelocvgrfqdanjmbswhzxi', 'wzekq', '5x', '1T']
+33 ['uphzlweqmtdjxcaksoigvbyfnr', 'wzflr', '5x', '2T']
+34 ['qudlyrfekonvzaxwhmgpjbsict', 'wzekq', '5x', '3T']
+35 ['ciwtbkxnrespflydagvhquojzm', 'wzflr', '5x', '4T']
+36 ['uaxgisnjbverdylfzwtpckohmq', 'ycfkr', '5x', '5T']
+37 ['xfuzgalvhcnysewqtdmrbkpioj', 'xeimq', '5x', '6T']
+38 ['bjvftxplnayozikwgdqeruchsm', 'ycfkr', '5x', '7T']
+39 ['ymtpnzhwkodajxeluqvgcbisfr', 'xeimq', '5x', '8T']
+40 ['veziojcxkyduntwaplqgbhsfmr', 'suyaehlnq', '9x', '1KD']
+41 ['hgrbsjzetdlvpmqycxaokinfuw', 'suyaehlnq', '9x', '2KD']
+42 ['nwlhxgrbyojsazdvtpkfqmeuic', 'suyaehlnq', '9x', '3KD']
+43 ['suvwzabcefgiklopq', '17x (A-865)', '1A8']
+44 ['stvyzacdfghkmnq', '15x (A-865)', '2A8']
+45 ['uwxaefhkmnr', '11x (A-865)', '3A8']
+46 ['wlrhbqundkjczsexotmagyfpvi', 'suvwzabcefgiklopq', '17x (G-111)', '1G1']
+47 ['tfjqazwmhlcuixrdygoevbnskp', 'stvyzacdfghkmnq', '15x (G-111)', '2G1']
+48 ['qtpixwvdfrmusljohcanezkybg', 'swzfhmq', '7x (G-111)', '5G1']
+49 ['rcspblkqaumhwytifzvgojnexd', 'suvwzabcefgiklopq', '17x (G-260)', '1G2']
+50 ['wcmibvpjxarosgndlzkeyhufqt', 'stvyzacdfghkmnq', '15x (G-260)', '2G2']
+51 ['fvdhzelsqmaxokyiwpgcbujtnr', 'uwxaefhkmnr', '11x (G-260)', '3G2']
+52 ['dmtwsilruyqnkfejcazbpgxohv', 'suvwzabcefgiklopq', '17x (G-312)', '1G3']
+53 ['hqzgpjtmoblncifdyawveusrkx', 'stvyzacdfghkmnq', '15x (G-312)', '2G3']
+54 ['uqntlszfmrehdpxkibvygjcwoa', 'uwxaefhkmnr', '11x (G-312)', '3G3']
+55 ['wrvsuejfptlxhbiqyokcagnzdm', 'suvwzabcefgiklopq', '17x (G-401)', '1G4']
+56 ['kgrzmsibanyhtqxfwclovedjpu', 'stvyzacdfghkmnq', '15x (G-401)', '2G4']
+57 ['fnwjuhpzxrgokasibytdlcqemv', 'uwxaefhkmnr', '11x (G-401)', '3G4']
+
+=== REFLECTORS (ukw[]) ===
+0 ['onvsrgfjuhpmlbakwedzicqyxt', 'X', 'Maintenance reflector (swaps adjacent keys)']
+1 ['ejmzalyxvbwfcrquontspikhgd', 'A', 'UKW A']
+2 ['yruhqsldpxngokmiebfzcwvjat', 'B', 'UKW B']
+3 ['', 'B.&beta;', "UKW B(thin) + \\'Beta\\'"]
+4 ['', 'B.&gamma;', "UKW B(thin) + \\'Gamma\\'"]
+5 ['fvpjiaoyedrzxwgctkuqsbnmhl', 'C', 'UKW C']
+6 ['', 'C.&beta;', "UKW C(thin) + \\'Beta\\'"]
+7 ['', 'C.&gamma;', "UKW C(thin) + \\'Gamma\\'"]
+8 ['', 'D*', 'UKW D [*rewirable]']
+9 ['rulqmzjsygocetkwdahnbxpvif', 'uG3', 'UKW(G312)']
+10 ['ydubjgfwseorvzkxtliqcmhpan', 'uG4', 'UKW(G401)']
+11 ['imetcgfraysqbzxwlhkdvupojn', 'u$', 'UKW(commercial)']
+12 ['mowjypuxndsraibfvlkzgqchet', 'uN', 'UKW(N)']
+13 ['qyhognecvpuztfdjaxwmkisrbl', 'uR', 'UKW(R)']
+14 ['dnsajqipgexrwbvhflczyomkut', 'uR°', 'UKW(R°)']
+15 ['ciagsndrbytpzfulvhekoqxwjm', 'S', 'UKW S']
+16 ['gekpbtaumocniljdxzyfhwvqsr', 'uT', 'UKW(T)']
+
+=== M4 special constants (thin reflectors, Greek wheels) ===
+ukbduenn enkqauywjicopblmdxzvfthrgs
+ukcduenn rdobjntkvehmlfcwzaxgyipsuq
+walzebeta leyjvcnixwpbqmdrtakzgfuhos
+walzegamma fsokanuerhmbtiycwlqpzxvgjd
+
+=== ETW wirings ===
+etq jwulcmnohpqzyxiradkegvbtsf
+ett ilxrztkgjyamwvdufcpqeonshb
+
+=== commercial wiring blocks (D/K/Swiss-K/A28/G-machines) ===
+com1 lpgszmhaeoqkvxrfybutnicjdw
+com2 slvgbtfxjqohewirzyamkpcndu
+com3 cjgdpshkturawzxfmynqobvlie
+
+=== UKW-D presets (upairs[]) ===
+0 ['', '', '']
+1 ['aqbgckdielfxhzmwnvotpurs', 'KD', 'KD machine wiring (FRA, Sweden)']
+2 ['avboctdmezfngxhqiskrlupw', 'I', 'GAF wiring, 11 Mar 1945\\n[Ostwald/Weierud 2016]']
+3 ['hlknfmeiacbgdsowpzqxrutv', 'L1', 'Luftwaffe key sheet #2744\\n(Days 1-9)']
+4 ['agirbhcsdzewfklxmpountqv', 'L2', 'Luftwaffe key sheet #2744\\n(Days 10-21)']
+5 ['hkglnqsvuxtzrwadbfcoepim', 'L3', 'Luftwaffe key sheet #2744\\n(Days 22-31)']
+
+=== udlabels ===
+a-zxwvutsrqpon-mlkihgfedcb
+
+=== models m[] (presets) ===
+0 mod:'custom', mech:false, etw:0, ukwhash:Math.pow(2,ukws +1)-1, uset:true, urot:false, w1st:0, wlast:wheels-1, stk:true
+1 mod:'Arb.W', mech:false, etw:1, ukwhash:1, uset:false, urot:false, w1st:0, wlast:0, stk:true
+2 mod:'I', mech:false, etw:1, ukwhash:294, uset:false, urot:false, w1st:1, wlast:5, stk:true
+3 mod:'M3', mech:false, etw:1, ukwhash:36, uset:false, urot:false, w1st:1, wlast:8, stk:true
+4 mod:'M4', mech:false, etw:1, ukwhash:472, uset:true, urot:false, w1st:1, wlast:8, stk:true
+5 mod:'N', mech:false, etw:1, ukwhash:4096, uset:false, urot:false, w1st:9, wlast:13, stk:true
+6 mod:'S', mech:false, etw:1, ukwhash:32768, uset:false, urot:false, w1st:14, wlast:16, stk:true
+7 mod:'D', mech:false, etw:2, ukwhash:2048, uset:true, urot:false, w1st:17, wlast:19, stk:false
+8 mod:'K', mech:false, etw:2, ukwhash:2048, uset:true, urot:false, w1st:20, wlast:22, stk:false
+9 mod:'Swiss-K', mech:false, etw:2, ukwhash:2048, uset:true, urot:false, w1st:23, wlast:25, stk:false
+10 mod:'R (BP wiring w/o correction)', mech:false, etw:2, ukwhash:8192, uset:true, urot:false, w1st:26, wlast:28, stk:false
+11 mod:'R (original wiring)', mech:false, etw:2, ukwhash:16384, uset:true, urot:false, w1st:29, wlast:31, stk:false
+12 mod:'T', mech:false, etw:3, ukwhash:65536, uset:true, urot:false, w1st:32, wlast:39, stk:false
+13 mod:'KD', mech:false, etw:2, ukwhash:256, uset:false, urot:false, w1st:40, wlast:42, stk:false
+14 mod:'A28 (A-865) / G31', mech:true, etw:2, ukwhash:2048, uset:true, urot:true, w1st:43, wlast:45, stk:false
+15 mod:'G-111', mech:true, etw:2, ukwhash:2048, uset:true, urot:true, w1st:46, wlast:48, stk:false
+16 mod:'G-260', mech:true, etw:2, ukwhash:2048, uset:true, urot:true, w1st:49, wlast:51, stk:false
+17 mod:'G-312', mech:true, etw:2, ukwhash:512, uset:true, urot:true, w1st:52, wlast:54, stk:false
+18 mod:'G-401', mech:true, etw:2, ukwhash:1024, uset:true, urot:true, w1st:55, wlast:57, stk:false

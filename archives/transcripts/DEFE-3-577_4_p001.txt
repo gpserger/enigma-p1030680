@@ -1,0 +1,13 @@
+META serial=ZIP/ZTPG/367607 too=1159 toi=1159/1/5/45 freq=3930 KCS from=NS to=I D 8 G |
+GIST Correction to message: reading last group of originator V 6529 not VG 529 as sent. |
+
+ADM C33
+TO I D 8 G                  Z IF/ZTPG/367607
+FROM N S
+
+3930 KC/S        TOO 1159       TOI 1159/1/5/45
+
+READING OF LAST GROUP OF ORIGINATOR - V 6529 NOT
+'VG 529' AS SENT.
+
+2210/1/5/45  EE/UAK+++++

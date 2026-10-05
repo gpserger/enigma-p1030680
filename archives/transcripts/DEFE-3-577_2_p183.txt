@@ -1,0 +1,20 @@
+META serial=3671380 too=2214 toi=2054/30/4/45 freq=3015KC/S from=S.O.9THRFLOTILLA to=1STDEFENCEDIVISION,5THDEFENCEDIVISION
+GIST Report from 9th R.Flotilla regarding minesweeper Terschelling arrival at 2200 with three R-boats and onward passage delayed due to weather.
+
+ADM C22
+TO: I D P C                           ZIP/ZTPG/3671380
+FROM: N S
+
+3015 KC/S                   T O O 2214           T O I 2054/30/4/45
+[seal mark]
+
+FROM: S.O. 9TH R. FLOTILLA
+TO: 1ST DEFENCE DIVISION
+5TH DEFENCE DIVISION
+
+ARRIVED TERSCHELLING AT 2200 WITH 3 R-BOATS. ONWARD PASSAGE
+IMPOSSIBLE TONIGHT ON ACCOUNT OF THE WEATHER.
+
+[seal mark]
+
+0144/1/5/45++CEL/FA

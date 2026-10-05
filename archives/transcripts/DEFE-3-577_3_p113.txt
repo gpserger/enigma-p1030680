@@ -1,0 +1,14 @@
+META serial=367519 too=1014 toi=1012/24/4/45 freq=4860 from=U 2552 (RUDOLPH) to=?
+GIST U-boat 2552 (Rudolph) reports made fast at Schuelp passing place.
+
+ADM(C1)
+TO I D 8 G       ZIP/ZTPG/367519
+FROM N S
+
+4860 KC/S       T O O 1014       TOI 1012/24/4/45
+
+FROM: U 2552 (RUDOLPH)
+
+HAVE MADE FAST AT SCHUELP PASSING PLACE
+
+1453/1/5/45+EE/AM

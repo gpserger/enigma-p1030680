@@ -1,0 +1,20 @@
+META serial=3671394 too=1029 toi=0928/29/4/45 freq=3565KC/S from=CAPTAINCU/BDTRAININGU.4 to=ADMIRALCU/BD
+GIST Proposal from Captain CU/BD Training U.4 to bring Cipher Memoranda over by T/B Loeve from 19th U/B Flotilla Kiel if not yet despatched.
+
+C52
+TO: I D 8 G                           ZIP/ZTPG/3671394
+FROM: N S
+[seal mark]
+
+3565 KC/S             T O O 1029              T O I 0928/29/4/45
+
+FROM: CAPTAIN CU/BD TRAINING U.4
+TO: ADMIRAL CU/BD
+
+IF CIPHER MEMORANDA HAS NOT YET BEEN DESPATCHED, PROPOSE IT BE
+BROUGHT OVER BY T/B 'LOEVE' LEAVING THE 19TH U/B FLOTILLA KIEL
+ON 30/4 FOR NEUSTADT.
+
+[seal mark]
+
+0253/1/5/45 CEL/EB+

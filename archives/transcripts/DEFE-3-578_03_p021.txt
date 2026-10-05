@@ -1,0 +1,22 @@
+META serial=368513 too=2917 toi=2135/1/5/45 freq=2247 from=4THCOASTALDEFENCEUNIT to=M436
+GIST 4th Coastal Defence Unit orders M 436 to proceed with convoy direct to protective berth in Norangsvfjord south of Aalesund.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368513
+
+FROM N S
+
+2247 KC/S     T O O 2917     T O I 2135/1/5/45
+
+FROM: 4TH COASTAL DEFENCE UNIT
+
+TO: M 436 CTO ACKNOWLEDGED).
+
+EMERGENCY
+
+PROCEED WITH CONVOY DIRECT TO PROTECTIVE BERTH IN NORANGSVFJORD.
+SOUTH OF AALESUND.
+
+
+A1904/6/5/45+++EE/UC

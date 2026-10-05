@@ -1,0 +1,91 @@
+[hist] 16777216 lines 852s
+[hist] 33554432 lines 1718s
+[hist] 50331648 lines 2589s
+[hist] 67108864 lines 3472s
+[hist] 83886080 lines 4379s
+[hist] done: 87019261 lines, 8 strata, 4542s
+[rank] 1048576 lines, 143772 climbed, 0 surv(mm<=2) 4702s
+[rank] 2097152 lines, 288722 climbed, 0 surv(mm<=2) 4869s
+[rank] 3145728 lines, 432575 climbed, 0 surv(mm<=2) 5033s
+[rank] 4194304 lines, 578101 climbed, 0 surv(mm<=2) 5200s
+[rank] 5242880 lines, 721653 climbed, 0 surv(mm<=2) 5366s
+[rank] 6291456 lines, 866294 climbed, 0 surv(mm<=2) 5539s
+[rank] 7340032 lines, 1011285 climbed, 0 surv(mm<=2) 5704s
+[rank] 8388608 lines, 1155523 climbed, 0 surv(mm<=2) 5870s
+[rank] 9437184 lines, 1298708 climbed, 0 surv(mm<=2) 6034s
+[rank] 10485760 lines, 1438855 climbed, 0 surv(mm<=2) 6201s
+[rank] 11534336 lines, 1583531 climbed, 0 surv(mm<=2) 6372s
+[rank] 12582912 lines, 1729144 climbed, 0 surv(mm<=2) 6538s
+[rank] 13631488 lines, 1872481 climbed, 0 surv(mm<=2) 6704s
+[rank] 14680064 lines, 2017645 climbed, 0 surv(mm<=2) 6864s
+[rank] 15728640 lines, 2161309 climbed, 0 surv(mm<=2) 7025s
+[rank] 16777216 lines, 2307229 climbed, 0 surv(mm<=2) 7196s
+[rank] 17825792 lines, 2449941 climbed, 0 surv(mm<=2) 7364s
+[rank] 18874368 lines, 2593767 climbed, 0 surv(mm<=2) 7529s
+[rank] 19922944 lines, 2740638 climbed, 0 surv(mm<=2) 7702s
+[rank] 20971520 lines, 2885269 climbed, 0 surv(mm<=2) 7873s
+[rank] 22020096 lines, 3029118 climbed, 0 surv(mm<=2) 8019s
+[rank] 23068672 lines, 3172125 climbed, 0 surv(mm<=2) 8152s
+[rank] 24117248 lines, 3313438 climbed, 0 surv(mm<=2) 8284s
+[rank] 25165824 lines, 3458004 climbed, 0 surv(mm<=2) 8418s
+[rank] 26214400 lines, 3602043 climbed, 0 surv(mm<=2) 8552s
+[rank] 27262976 lines, 3747113 climbed, 0 surv(mm<=2) 8687s
+[rank] 28311552 lines, 3891012 climbed, 0 surv(mm<=2) 8821s
+[rank] 29360128 lines, 4032393 climbed, 0 surv(mm<=2) 8953s
+[rank] 30408704 lines, 4178067 climbed, 0 surv(mm<=2) 9088s
+[rank] 31457280 lines, 4322184 climbed, 0 surv(mm<=2) 9222s
+[rank] 32505856 lines, 4465450 climbed, 0 surv(mm<=2) 9355s
+[rank] 33554432 lines, 4610333 climbed, 0 surv(mm<=2) 9490s
+[rank] 34603008 lines, 4755000 climbed, 0 surv(mm<=2) 9625s
+[rank] 35651584 lines, 4900327 climbed, 0 surv(mm<=2) 9759s
+[rank] 36700160 lines, 5042990 climbed, 0 surv(mm<=2) 9892s
+[rank] 37748736 lines, 5187667 climbed, 0 surv(mm<=2) 10026s
+[rank] 38797312 lines, 5333903 climbed, 0 surv(mm<=2) 10161s
+[rank] 39845888 lines, 5477864 climbed, 0 surv(mm<=2) 10296s
+[rank] 40894464 lines, 5621685 climbed, 0 surv(mm<=2) 10429s
+[rank] 41943040 lines, 5764609 climbed, 0 surv(mm<=2) 10562s
+[rank] 42991616 lines, 5909842 climbed, 0 surv(mm<=2) 10697s
+[rank] 44040192 lines, 6053942 climbed, 0 surv(mm<=2) 10831s
+[rank] 45088768 lines, 6198556 climbed, 0 surv(mm<=2) 10965s
+[rank] 46137344 lines, 6340085 climbed, 0 surv(mm<=2) 11098s
+[rank] 47185920 lines, 6484603 climbed, 0 surv(mm<=2) 11232s
+[rank] 48234496 lines, 6629062 climbed, 0 surv(mm<=2) 11367s
+[rank] 49283072 lines, 6773233 climbed, 0 surv(mm<=2) 11501s
+[rank] 50331648 lines, 6916688 climbed, 0 surv(mm<=2) 11634s
+[rank] 51380224 lines, 7060539 climbed, 0 surv(mm<=2) 11768s
+[rank] 52428800 lines, 7205275 climbed, 0 surv(mm<=2) 11902s
+[rank] 53477376 lines, 7347623 climbed, 0 surv(mm<=2) 12035s
+[rank] 54525952 lines, 7491095 climbed, 0 surv(mm<=2) 12168s
+[rank] 55574528 lines, 7637578 climbed, 0 surv(mm<=2) 12304s
+[rank] 56623104 lines, 7781627 climbed, 0 surv(mm<=2) 12438s
+[rank] 57671680 lines, 7927873 climbed, 0 surv(mm<=2) 12572s
+[rank] 58720256 lines, 8072988 climbed, 0 surv(mm<=2) 12707s
+[rank] 59768832 lines, 8217654 climbed, 0 surv(mm<=2) 12841s
+[rank] 60817408 lines, 8362255 climbed, 0 surv(mm<=2) 12976s
+[rank] 61865984 lines, 8505090 climbed, 0 surv(mm<=2) 13110s
+[rank] 62914560 lines, 8649815 climbed, 0 surv(mm<=2) 13244s
+[rank] 63963136 lines, 8795011 climbed, 2 surv(mm<=2) 13380s
+[rank] 65011712 lines, 8939203 climbed, 2 surv(mm<=2) 13515s
+[rank] 66060288 lines, 9084437 climbed, 2 surv(mm<=2) 13650s
+[rank] 67108864 lines, 9229140 climbed, 2 surv(mm<=2) 13784s
+[rank] 68157440 lines, 9373039 climbed, 2 surv(mm<=2) 13919s
+[rank] 69206016 lines, 9520605 climbed, 2 surv(mm<=2) 14055s
+[rank] 70254592 lines, 9665639 climbed, 2 surv(mm<=2) 14190s
+[rank] 71303168 lines, 9810414 climbed, 2 surv(mm<=2) 14325s
+[rank] 72351744 lines, 9954090 climbed, 3 surv(mm<=2) 14459s
+[rank] 73400320 lines, 10098308 climbed, 3 surv(mm<=2) 14593s
+[rank] 74448896 lines, 10240467 climbed, 3 surv(mm<=2) 14725s
+[rank] 75497472 lines, 10382301 climbed, 3 surv(mm<=2) 14858s
+[rank] 76546048 lines, 10525692 climbed, 3 surv(mm<=2) 14992s
+[rank] 77594624 lines, 10668624 climbed, 3 surv(mm<=2) 15125s
+[rank] 78643200 lines, 10812813 climbed, 3 surv(mm<=2) 15259s
+[rank] 79691776 lines, 10958988 climbed, 3 surv(mm<=2) 15395s
+[rank] 80740352 lines, 11102200 climbed, 3 surv(mm<=2) 15529s
+[rank] 81788928 lines, 11246268 climbed, 3 surv(mm<=2) 15664s
+[rank] 82837504 lines, 11390327 climbed, 3 surv(mm<=2) 15799s
+[rank] 83886080 lines, 11534596 climbed, 3 surv(mm<=2) 15933s
+[rank] 84934656 lines, 11678270 climbed, 3 surv(mm<=2) 16068s
+[rank] 85983232 lines, 11821345 climbed, 3 surv(mm<=2) 16201s
+DONE lines=87019261 climbed=11962876 (13.75%) surv(mm<=2)=3 time=16333s restarts=8 stat=llr2
+per crib seen/climbed: 0:47320796/6423199 1:37346602/5289503 2:11/2 3:1/1 4:3/1 5:2258535/240108 10:76274/8321 17:17039/1741
+post-climb crib mismatch histogram: mm2:3 mm3:14 mm4:145 mm5:1454 mm6:10104 mm7:51580 mm8:202548 mm9:593109 mm10:1338423 mm11:2351306 mm12:3204170 mm13:2984799 mm14:1225221

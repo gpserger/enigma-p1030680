@@ -1,0 +1,17 @@
+META serial=ZTPG367811 too=1112 toi=1029/8/4/45 freq=4860 from=5TH_U_B_FLOTILLA to=U_2539
+GIST 5th U/B Flotilla directing U-boat movement with escort at specified location and time.
+
+ADMCAD C2)
+TO: I D 8 C
+FROM: NS
+
+ZIP/ZTPG/367811
+
+4860 KC/S     TOO 1112     TOI 1029/8/4/45
+
+FROM: 5TH U/B FLOTILLA
+TO:   U 2539
+
+B/W WITH ESCORT AT ''H1 1'' AT 1500/8/4.
+
+1651/2/5/45+EE/MH+

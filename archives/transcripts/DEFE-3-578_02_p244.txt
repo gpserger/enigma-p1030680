@@ -1,0 +1,8 @@
+META serial=ADM C(5) too=0138 toi=0006/2/5/45 freq=2115 from=5TH COASTAL DEFENCE UNIT to=I D 8 G
+GIST 5th Coastal Defence Unit reports correction: Proevik light on west side of Leeroey is not functioning.
+
+FROM: 5TH COASTAL DEFENCE UNIT
+
+CC PROEVIK)) LIGHT ON WEST SIDE OF LEEROEEY IS NOT FUNCTIONING.
+
+1745/6/5/45 EE/MJU

@@ -1,0 +1,17 @@
+META serial=367930 too=1156 toi=1110/30/4/45 freq=4860 from=NS to=IDB G
+GIST Request for information about whereabouts of U-boat U 2339 from 5th U-boat flotilla, probably in Borgstedt.
+
+ADM C4)
+TO IDB G                                        Z IP/ZTPG/367930
+
+FROM NS
+
+4860 KCS         TOO 1156                TOI 1110/30/4/45
+
+TO: NCSO RENDSBURG
+
+REQUEST INFORMATION ABOUT WHEREABOUTS OF U 2339, BOAT
+PROBABLY IN BORGSTEDT. ADDITIONAL: SAAR ENSURE PASSING TO
+5TH U.B. FLOTILLA
+
+0724/3/5/45++EGT/IW

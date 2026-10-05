@@ -1,0 +1,18 @@
+META serial=367944 too=1701 toi=1534/29/4/45 freq=4860 from=N S to=IDB G
+GIST Senior Officer 5th U-boat flotilla ordering U-boats 2548, 924, and 2551 to proceed immediately into Kiel harbour.
+
+ADM (3)
+
+TO IDB G                                        Z IP/ZTPG/367944
+
+FROM N S
+
+4860 KC/S         TOO 1701              TOI 1534/29/4/45
+
+FROM: S.O. 5TH U/B FLOTILLA
+
+TO: U 2548, 924, 2551
+
+PROCEED INTO KIEL (TIRPITZ HARBOUR) IMMEDIATELY.
+
+0707/3/5/45         EGT+++NPS+++

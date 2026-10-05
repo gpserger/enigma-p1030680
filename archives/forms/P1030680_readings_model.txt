@@ -1,0 +1,28 @@
+# Sonnet's reading of P1030680 form (24 Sep 2026), 800px scan, cross-referenced with P1030679 (same hand,
+#   confirmed: both show Q as a closed "2"-loop, E as a double-loop "figure-8", H/T/F collapsed to a bare
+#   diagonal stroke, and U with a small breve mark over a double arc).
+# Header: "um 1630 Uhr" (6 swirly, could be 0, matches task's stated 16:30 reception); Datum 1.5.45;
+#   Uhrzeitgruppe mostly obscured by a burn stain, legible remainder "...53/70" plus a separate "E"
+#   (likely an Eingang marker, as on P1030679) -- consistent with but not confirming "?552/70".
+#   Indicator repeat: head clearly VROL; tail V_OL with a softer, rounder second letter (A/D-like,
+#   not the head's bold R) -- genuinely ambiguous, matches the human reader’s VAOL/VDOL note.
+# Systematic confusions in this hand: T/F/H collapse to one bare stroke (biggest confusion family);
+#   Q/Z both loop+diagonal-tail; B/D both loop+rising-diagonal; C/E can compress into each other;
+#   E/A/G/Q all loop-family shapes that blur when a stroke is compressed or multi-part.
+# No position produced positive evidence for a different definite letter than published; the
+# interesting result is low confidence at several positions rather than a different reading.
+# pos published alternates
+1  C  (confident C -- clean open curve, does not match this hand's figure-8 E; disagrees with an "E" guess)
+10 E  Q G  (atypical multi-stroke "fan" shape, does not cleanly match E's double loop or A's simple oval)
+12 E  (confident E -- clean double loop, matches P1030679's verified E almost exactly)
+20 H  F T  (bare diagonal stroke, T/F/H family genuinely ambiguous in this hand)
+25 T  F  (angular diagonal+cross, T/F/H family)
+32 F  (bare diagonal stroke, reasonably confident F)
+47 B  (rounded closed loop, moderate confidence B)
+58 T  F  (long diagonal stroke bleeding into row 18, T/F/H family)
+60 T  F  (continues same stroke bleeding up from row 17 col 3, T/F/H family)
+67 C  E  (small rounded loop, genuinely ambiguous C/E)
+68 H  F T  (bare diagonal stroke, T/F/H family)
+71 F  T  (diagonal stroke with small hook, reasonable F, T possible given family confusion)
+# 38, 46: dark/blotted ink, kept as published (P, B) with low-moderate confidence, no clear alternate.
+# All other positions read as published with moderate-to-high confidence.

@@ -1,0 +1,36 @@
+META serial=368051 too=1542 toi=1507/1/5/45 freq=4412 from=SeaDefenceCommandantPomerania to=AF107,BarteltGroup
+GIST Sea Defence Commandant Pomerania orders bombardment of Lassan this evening; Sub-Lt. Knippe to come on board; river boats to break through Wolgast at 2200.
+
+ADMC4D
+
+TO ID8G                                                ZIP/ZTPG/368051
+
+FROM NS
+
+
+4412 KC/S      TOO 1542     TOI 1507/1/5/45
+
+
+[handwritten bullet]
+FROM: SEA DEFENCE COMMANDANT POMERANIA
+
+TO: AF 107 FOR BARTELT GROUP
+
+
+MOST IMMEDIATE:
+
+
+BOMBARDMENT OF LASSAN THIS EVENING. FOR THAT PURPOSE SUB-LT.
+
+KN IPPE WILL COME ON BOARD. 2 RIVER-BOATS OF GROUP 11 WILL BREAK
+
+THROUGH WOLGAST AT 2200 AND RENDER ASSISTANCE AT RENEBED ATTEMPT AT
+
+TOWING OFF AFTER COMPLETION OF BATTLE TASK.
+
+
+[handwritten bullet]
+CC IN LINE 3 READ RENEWED NOT RENEBED
+
+
+1850/3/5/45++ EE/WAB++++

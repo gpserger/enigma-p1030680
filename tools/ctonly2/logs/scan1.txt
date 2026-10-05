@@ -1,0 +1,27 @@
+== FLOOR=3
+scorefail(best>truth, wrong) 11
+m4f10 R=20 poff=0 k=10: success 82/408 = 20.1%  evals/trial 45805  ns/eval 1823 (thread, contended)
+== FLOOR=1
+scorefail(best>truth, wrong) 11
+m4f10 R=20 poff=0 k=10: success 76/408 = 18.6%  evals/trial 45365  ns/eval 2217 (thread, contended)
+== FLOOR=10
+scorefail(best>truth, wrong) 11
+m4f10 R=20 poff=0 k=10: success 92/408 = 22.5%  evals/trial 46342  ns/eval 1987 (thread, contended)
+== FLOOR=3 KICK=6
+scorefail(best>truth, wrong) 9
+m4f10 R=20 poff=0 k=10: success 79/408 = 19.4%  evals/trial 38295  ns/eval 2518 (thread, contended)
+== FLOOR=3 KICK=13
+scorefail(best>truth, wrong) 10
+m4f10 R=20 poff=0 k=10: success 78/408 = 19.1%  evals/trial 50219  ns/eval 3169 (thread, contended)
+== FLOOR=3 LAMBDA=0
+scorefail(best>truth, wrong) 0
+m4f10 R=20 poff=0 k=10: success 77/408 = 18.9%  evals/trial 44574  ns/eval 3011 (thread, contended)
+== FLOOR=3 LAMBDA=60
+scorefail(best>truth, wrong) 87
+m4f10 R=20 poff=0 k=10: success 71/408 = 17.4%  evals/trial 48464  ns/eval 2520 (thread, contended)
+== FLOOR=3 MCAP=0
+scorefail(best>truth, wrong) 10
+m4f10 R=20 poff=0 k=10: success 79/408 = 19.4%  evals/trial 28311  ns/eval 3285 (thread, contended)
+== FLOOR=3 MCAP=6
+scorefail(best>truth, wrong) 10
+m4f10 R=20 poff=0 k=10: success 84/408 = 20.6%  evals/trial 46269  ns/eval 1788 (thread, contended)

@@ -1,0 +1,10 @@
+META serial=ADM C(4) too=1143 toi=1005/2/5/45 freq=4835 from=V 806 to=I D 8 G
+GIST V 806 proceeding with FJ 23 and diving tender Wulf to Sperrbrecher 167 to investigate salvage possibilities.
+
+FROM: V 806
+TO: 5TH DEFENCE DIVISION
+
+AM PROCEEDING WITH FJ 23 AND DIVING TENDER 'WULF' TO
+SPERRBRECHER 167 TO FIND OUT WHETHER SALVAGE IS POSSIBLE.
+
+0710/6/5/45++ EGT/WAB++++

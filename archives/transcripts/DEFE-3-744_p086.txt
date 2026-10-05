@@ -1,0 +1,14 @@
+META serial=ZIP/ZTPGU/39075 A too=1720/6/5/45 toi=? freq=? from=? to=?
+GIST Correction: line 7 of message 39075 should read 'efforts' not 'effort'.
+
+ADM (4)
+
+TO I D 8 G                                   ZIP/ZTPGU/39075 A
+
+FROM N S
+
+T O O 1720/6/5/45
+
+IN LINE 7 OF TEXT, PLEASE READ 'EFFORTS', NOT 'EFFORT'.
+
+0043/9/5/45+++CEL/UC

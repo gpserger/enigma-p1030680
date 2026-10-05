@@ -1,0 +1,276 @@
+crib 0 ALLEVVVZEHNX..(17)@0 used=17 excluded=[] blocks=1 sizes: 17(pivot E, loops 2)
+crib 1 ALLEVVVZEHNX..(18)@0 used=18 excluded=[] blocks=1 sizes: 18(pivot E, loops 2)
+crib 2 ALLEVVVFXDXU..(18)@0 used=18 excluded=[] blocks=1 sizes: 18(pivot X, loops 3)
+crib 3 ALLEVVVFXDXU..(19)@0 used=19 excluded=[] blocks=1 sizes: 19(pivot X, loops 4)
+crib 4 ALLEVVVFXDXU..(19)@0 used=19 excluded=[] blocks=1 sizes: 19(pivot U, loops 4)
+crib 5 ALLEVVVZEHNX..(19)@0 used=19 excluded=[] blocks=1 sizes: 19(pivot X, loops 2)
+crib 6 ANALLEVVVFXD..(20)@0 used=20 excluded=[] blocks=1 sizes: 20(pivot S, loops 3)
+crib 7 ALLEVONVONZE..(20)@0 used=20 excluded=[] blocks=1 sizes: 20(pivot E, loops 3)
+crib 8 ALLEVVVFXDXU..(20)@0 used=20 excluded=[] blocks=1 sizes: 20(pivot X, loops 5)
+crib 9 ALLEVVVFXDXU..(20)@0 used=20 excluded=[] blocks=1 sizes: 20(pivot X, loops 5)
+crib 10 ALLEVVVFUNFU..(20)@0 used=20 excluded=[] blocks=1 sizes: 20(pivot U, loops 3)
+crib 11 ALLEVVVFUENF..(21)@0 used=21 excluded=[] blocks=1 sizes: 21(pivot E, loops 3)
+crib 12 ANALLEVVVFXD..(21)@0 used=21 excluded=[] blocks=1 sizes: 21(pivot A, loops 3)
+crib 13 ALLEVVVFUNFX..(21)@0 used=21 excluded=[] blocks=1 sizes: 21(pivot U, loops 3)
+crib 14 ALLEVVVFXDXU..(21)@0 used=21 excluded=[] blocks=1 sizes: 21(pivot X, loops 5)
+crib 15 ANALLEVVVFXD..(21)@0 used=21 excluded=[] blocks=1 sizes: 21(pivot X, loops 3)
+crib 16 ANALLEVVVFUN..(21)@0 used=21 excluded=[] blocks=1 sizes: 21(pivot E, loops 3)
+crib 17 ALLEVVVFUNFU..(21)@0 used=21 excluded=[] blocks=1 sizes: 21(pivot U, loops 3)
+crib 18 ALLEVONVONZE..(21)@0 used=21 excluded=[] blocks=1 sizes: 21(pivot E, loops 4)
+crib 19 ANALLEVVVFUN..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot U, loops 4)
+crib 20 ALLEVVVFUENF..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 21 ALLEVONVONZE..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot X, loops 5)
+crib 22 ALLEVONVONFU..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 3)
+crib 23 ANALLEVVVFXD..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot X, loops 4)
+crib 24 ANALLEVONVON..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 25 ALLEBOOTEVVV..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 26 ALLEVVVFUENF..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 5)
+crib 27 ALLEVVVFUNFX..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot U, loops 4)
+crib 28 ANALLEVVVFUN..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 29 ALLEVONVONFU..(23)@0 used=23 excluded=[] blocks=1 sizes: 23(pivot U, loops 5)
+crib 30 ANALLEVVVFUE..(23)@0 used=23 excluded=[] blocks=1 sizes: 23(pivot U, loops 5)
+crib 31 ANALLEVVVFUE..(24)@0 used=24 excluded=[] blocks=1 sizes: 24(pivot U, loops 6)
+crib 32 ALLEVVVKOMXA..(24)@0 used=24 excluded=[] blocks=1 sizes: 24(pivot E, loops 6)
+crib 33 ALLEVONVONFU..(24)@0 used=24 excluded=[] blocks=1 sizes: 24(pivot U, loops 6)
+crib 34 ALLEBOOTEVVV..(25)@0 used=25 excluded=[] blocks=1 sizes: 25(pivot U, loops 6)
+crib 35 ALLEUUUBOOTE..(25)@0 used=25 excluded=[] blocks=1 sizes: 25(pivot E, loops 6)
+crib 36 ANALLEVONVON..(25)@0 used=25 excluded=[] blocks=1 sizes: 25(pivot U, loops 7)
+crib 37 ALLEBOOTEVON..(25)@0 used=25 excluded=[] blocks=1 sizes: 25(pivot E, loops 6)
+crib 38 ANALLEVVVKOM..(26)@0 used=26 excluded=[] blocks=1 sizes: 26(pivot A, loops 7)
+crib 39 ALLEUUUBOOTE..(26)@0 used=26 excluded=[] blocks=1 sizes: 26(pivot U, loops 8)
+crib 40 ANALLEVONVON..(26)@0 used=26 excluded=[] blocks=1 sizes: 26(pivot U, loops 8)
+crib 41 ANALLEVONVON..(26)@0 used=26 excluded=[] blocks=1 sizes: 26(pivot U, loops 8)
+crib 42 ALLEBOOTEVVV..(26)@0 used=26 excluded=[] blocks=1 sizes: 26(pivot E, loops 7)
+crib 43 ALLEBOOTEVVV..(26)@0 used=26 excluded=[] blocks=1 sizes: 26(pivot T, loops 7)
+crib 44 ALLEBOOTEVON..(26)@0 used=26 excluded=[] blocks=1 sizes: 26(pivot O, loops 6)
+crib 45 ALLEUUUBOOTE..(27)@0 used=27 excluded=[] blocks=1 sizes: 27(pivot U, loops 7)
+crib 46 ALLEBOOTEVON..(27)@0 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 7)
+crib 47 ALLEBOOTEVON..(27)@0 used=27 excluded=[] blocks=1 sizes: 27(pivot O, loops 7)
+crib 48 ALLEUUUBOOTE..(27)@0 used=27 excluded=[] blocks=1 sizes: 27(pivot U, loops 8)
+crib 49 ALLEBOOTEVON..(28)@0 used=28 excluded=[] blocks=1 sizes: 28(pivot O, loops 8)
+crib 50 ALLEUUUBOOTE..(28)@0 used=28 excluded=[] blocks=1 sizes: 28(pivot U, loops 9)
+crib 51 ANALLEUUUBOO..(29)@0 used=29 excluded=[] blocks=1 sizes: 29(pivot U, loops 9)
+crib 52 ANALLEUUUBOO..(30)@0 used=30 excluded=[] blocks=1 sizes: 30(pivot E, loops 10)
+crib 53 ANALLEUUUBOO..(31)@0 used=31 excluded=[] blocks=1 sizes: 31(pivot U, loops 11)
+crib 54 ALLEUUUBOOTE..(32)@0 used=32 excluded=[] blocks=1 sizes: 32(pivot U, loops 13)
+crib 55 ALLEUUUBOOTE..(32)@0 used=32 excluded=[] blocks=1 sizes: 32(pivot U, loops 13)
+crib 56 ANALLEUUUBOO..(32)@0 used=32 excluded=[] blocks=1 sizes: 32(pivot U, loops 12)
+crib 57 ANALLEUUUBOO..(32)@0 used=32 excluded=[] blocks=1 sizes: 32(pivot U, loops 11)
+crib 58 ANALLEUUUBOO..(32)@0 used=32 excluded=[] blocks=1 sizes: 32(pivot U, loops 11)
+crib 59 ANALLEUUUBOO..(33)@0 used=33 excluded=[] blocks=1 sizes: 33(pivot U, loops 12)
+crib 60 ANALLEUUUBOO..(34)@0 used=34 excluded=[] blocks=1 sizes: 34(pivot U, loops 12)
+crib 61 ANALLEUUUBOO..(34)@0 used=34 excluded=[] blocks=1 sizes: 34(pivot U, loops 14)
+crib 62 ANALLEUUUBOO..(34)@0 used=34 excluded=[] blocks=1 sizes: 34(pivot U, loops 14)
+crib 63 ANALLEUUUBOO..(35)@0 used=35 excluded=[] blocks=1 sizes: 35(pivot U, loops 15)
+crib 64 ALLEUUUBOOTE..(35)@0 used=35 excluded=[] blocks=1 sizes: 35(pivot O, loops 13)
+crib 65 ANALLEUUUBOO..(37)@0 used=37 excluded=[] blocks=1 sizes: 37(pivot O, loops 15)
+[200/28392 items] 63s settings=91395200 (1.46M/s) stops=3833664
+[400/28392 items] 123s settings=182790400 (1.48M/s) stops=7723544
+[600/28392 items] 185s settings=274185600 (1.48M/s) stops=11517774
+[800/28392 items] 249s settings=365580800 (1.47M/s) stops=15357878
+[1000/28392 items] 312s settings=456976000 (1.47M/s) stops=19216142
+[1200/28392 items] 377s settings=548371200 (1.45M/s) stops=23088615
+[1400/28392 items] 442s settings=639766400 (1.45M/s) stops=26888354
+[1600/28392 items] 502s settings=731161600 (1.46M/s) stops=30703602
+[1800/28392 items] 561s settings=822556800 (1.47M/s) stops=34560097
+[2000/28392 items] 620s settings=913952000 (1.47M/s) stops=38295530
+[2200/28392 items] 681s settings=1005347200 (1.48M/s) stops=42070716
+[2400/28392 items] 740s settings=1096742400 (1.48M/s) stops=45776843
+[2600/28392 items] 801s settings=1188137600 (1.48M/s) stops=49564988
+[2800/28392 items] 866s settings=1279532800 (1.48M/s) stops=53477770
+[3000/28392 items] 928s settings=1370928000 (1.48M/s) stops=57270119
+[3200/28392 items] 993s settings=1462323200 (1.47M/s) stops=61101560
+[3400/28392 items] 1053s settings=1553718400 (1.48M/s) stops=64988454
+[3600/28392 items] 1120s settings=1645113600 (1.47M/s) stops=68809011
+[3800/28392 items] 1184s settings=1736508800 (1.47M/s) stops=72507468
+[4000/28392 items] 1247s settings=1827904000 (1.47M/s) stops=76323150
+[4200/28392 items] 1310s settings=1919299200 (1.46M/s) stops=80045005
+[4400/28392 items] 1373s settings=2010694400 (1.46M/s) stops=83879563
+[4600/28392 items] 1436s settings=2102089600 (1.46M/s) stops=87674567
+[4800/28392 items] 1502s settings=2193484800 (1.46M/s) stops=91540042
+[5000/28392 items] 1565s settings=2284880000 (1.46M/s) stops=95298750
+[5200/28392 items] 1629s settings=2376275200 (1.46M/s) stops=99140445
+[5400/28392 items] 1692s settings=2467670400 (1.46M/s) stops=102977127
+[5600/28392 items] 1775s settings=2559065600 (1.44M/s) stops=106741079
+[5800/28392 items] 1861s settings=2650460800 (1.42M/s) stops=110542761
+[6000/28392 items] 1922s settings=2741856000 (1.43M/s) stops=114352845
+[6200/28392 items] 1983s settings=2833251200 (1.43M/s) stops=118191528
+[6400/28392 items] 2047s settings=2924646400 (1.43M/s) stops=122048688
+[6600/28392 items] 2107s settings=3016041600 (1.43M/s) stops=125780990
+[6800/28392 items] 2168s settings=3107436800 (1.43M/s) stops=129634230
+[7000/28392 items] 2229s settings=3198832000 (1.43M/s) stops=133397142
+[7200/28392 items] 2291s settings=3290227200 (1.44M/s) stops=137288611
+[7400/28392 items] 2352s settings=3381622400 (1.44M/s) stops=141110506
+[7600/28392 items] 2413s settings=3473017600 (1.44M/s) stops=144932423
+[7800/28392 items] 2475s settings=3564412800 (1.44M/s) stops=148794582
+[8000/28392 items] 2535s settings=3655808000 (1.44M/s) stops=152679287
+[8200/28392 items] 2597s settings=3747203200 (1.44M/s) stops=156469431
+[8400/28392 items] 2657s settings=3838598400 (1.44M/s) stops=160354272
+[8600/28392 items] 2719s settings=3929993600 (1.45M/s) stops=164186509
+[8800/28392 items] 2782s settings=4021388800 (1.45M/s) stops=168060571
+[9000/28392 items] 2844s settings=4112784000 (1.45M/s) stops=171804227
+[9200/28392 items] 2904s settings=4204179200 (1.45M/s) stops=175590313
+[9400/28392 items] 2966s settings=4295574400 (1.45M/s) stops=179320754
+[9600/28392 items] 3025s settings=4386969600 (1.45M/s) stops=183047840
+[9800/28392 items] 3087s settings=4478364800 (1.45M/s) stops=186911077
+[10000/28392 items] 3151s settings=4569760000 (1.45M/s) stops=190754392
+[10200/28392 items] 3211s settings=4661155200 (1.45M/s) stops=194546822
+[10400/28392 items] 3271s settings=4752550400 (1.45M/s) stops=198426970
+[10600/28392 items] 3331s settings=4843945600 (1.45M/s) stops=202293675
+[10800/28392 items] 3389s settings=4935340800 (1.46M/s) stops=206042902
+[11000/28392 items] 3451s settings=5026736000 (1.46M/s) stops=209810034
+[11200/28392 items] 3510s settings=5118131200 (1.46M/s) stops=213575814
+[11400/28392 items] 3565s settings=5209526400 (1.46M/s) stops=217328274
+[11600/28392 items] 3625s settings=5300921600 (1.46M/s) stops=221168118
+[11800/28392 items] 3682s settings=5392316800 (1.46M/s) stops=224946044
+[12000/28392 items] 3744s settings=5483712000 (1.46M/s) stops=228805703
+[12200/28392 items] 3802s settings=5575107200 (1.47M/s) stops=232571925
+[12400/28392 items] 3864s settings=5666502400 (1.47M/s) stops=236406652
+[12600/28392 items] 3926s settings=5757897600 (1.47M/s) stops=240236950
+[12800/28392 items] 3991s settings=5849292800 (1.47M/s) stops=244035312
+[13000/28392 items] 4054s settings=5940688000 (1.47M/s) stops=247809989
+[13200/28392 items] 4115s settings=6032083200 (1.47M/s) stops=251651167
+[13400/28392 items] 4176s settings=6123478400 (1.47M/s) stops=255499849
+[13600/28392 items] 4237s settings=6214873600 (1.47M/s) stops=259286617
+[13800/28392 items] 4298s settings=6306268800 (1.47M/s) stops=263128353
+[14000/28392 items] 4360s settings=6397664000 (1.47M/s) stops=266931527
+[14200/28392 items] 4425s settings=6489059200 (1.47M/s) stops=270770032
+[14400/28392 items] 4490s settings=6580454400 (1.47M/s) stops=274590369
+[14600/28392 items] 4551s settings=6671849600 (1.47M/s) stops=278475911
+[14800/28392 items] 4612s settings=6763244800 (1.47M/s) stops=282280451
+[15000/28392 items] 4676s settings=6854640000 (1.47M/s) stops=286115421
+[15200/28392 items] 4736s settings=6946035200 (1.47M/s) stops=289981009
+[15400/28392 items] 4796s settings=7037430400 (1.47M/s) stops=293836852
+[15600/28392 items] 4856s settings=7128825600 (1.47M/s) stops=297666217
+[15800/28392 items] 4915s settings=7220220800 (1.47M/s) stops=301512812
+[16000/28392 items] 4978s settings=7311616000 (1.47M/s) stops=305361839
+[16200/28392 items] 5037s settings=7403011200 (1.47M/s) stops=309091223
+[16400/28392 items] 5099s settings=7494406400 (1.47M/s) stops=312841294
+[16600/28392 items] 5163s settings=7585801600 (1.47M/s) stops=316561334
+[16800/28392 items] 5224s settings=7677196800 (1.47M/s) stops=320335037
+[17000/28392 items] 5287s settings=7768592000 (1.47M/s) stops=324262466
+[17200/28392 items] 5347s settings=7859987200 (1.47M/s) stops=328075111
+[17400/28392 items] 5409s settings=7951382400 (1.47M/s) stops=331888268
+[17600/28392 items] 5470s settings=8042777600 (1.47M/s) stops=335790408
+[17800/28392 items] 5530s settings=8134172800 (1.47M/s) stops=339597724
+[18000/28392 items] 5590s settings=8225568000 (1.47M/s) stops=343299071
+[18200/28392 items] 5652s settings=8316963200 (1.47M/s) stops=347102891
+[18400/28392 items] 5713s settings=8408358400 (1.47M/s) stops=350830601
+[18600/28392 items] 5773s settings=8499753600 (1.47M/s) stops=354674218
+[18800/28392 items] 5834s settings=8591148800 (1.47M/s) stops=358463197
+[19000/28392 items] 5896s settings=8682544000 (1.47M/s) stops=362301909
+[19200/28392 items] 5958s settings=8773939200 (1.47M/s) stops=366060940
+[19400/28392 items] 6022s settings=8865334400 (1.47M/s) stops=369902785
+[19600/28392 items] 6086s settings=8956729600 (1.47M/s) stops=373769349
+[19800/28392 items] 6147s settings=9048124800 (1.47M/s) stops=377529118
+[20000/28392 items] 6208s settings=9139520000 (1.47M/s) stops=381337261
+[20200/28392 items] 6270s settings=9230915200 (1.47M/s) stops=385156891
+[20400/28392 items] 6330s settings=9322310400 (1.47M/s) stops=388981896
+[20600/28392 items] 6393s settings=9413705600 (1.47M/s) stops=392836767
+[20800/28392 items] 6455s settings=9505100800 (1.47M/s) stops=396558276
+[21000/28392 items] 6515s settings=9596496000 (1.47M/s) stops=400412923
+[21200/28392 items] 6574s settings=9687891200 (1.47M/s) stops=404216789
+[21400/28392 items] 6634s settings=9779286400 (1.47M/s) stops=408112997
+[21600/28392 items] 6696s settings=9870681600 (1.47M/s) stops=411924642
+[21800/28392 items] 6757s settings=9962076800 (1.47M/s) stops=415728131
+[22000/28392 items] 6819s settings=10053472000 (1.47M/s) stops=419591053
+[22200/28392 items] 6880s settings=10144867200 (1.47M/s) stops=423452957
+[22400/28392 items] 6943s settings=10236262400 (1.47M/s) stops=427253155
+[22600/28392 items] 7005s settings=10327657600 (1.47M/s) stops=431115773
+[22800/28392 items] 7065s settings=10419052800 (1.47M/s) stops=434964474
+[23000/28392 items] 7126s settings=10510448000 (1.48M/s) stops=438809459
+[23200/28392 items] 7187s settings=10601843200 (1.48M/s) stops=442573710
+[23400/28392 items] 7248s settings=10693238400 (1.48M/s) stops=446329114
+[23600/28392 items] 7310s settings=10784633600 (1.48M/s) stops=450059617
+[23800/28392 items] 7371s settings=10876028800 (1.48M/s) stops=453769112
+[24000/28392 items] 7435s settings=10967424000 (1.48M/s) stops=457630247
+[24200/28392 items] 7496s settings=11058819200 (1.48M/s) stops=461475407
+[24400/28392 items] 7557s settings=11150214400 (1.48M/s) stops=465259574
+[24600/28392 items] 7621s settings=11241609600 (1.48M/s) stops=469145759
+[24800/28392 items] 7682s settings=11333004800 (1.48M/s) stops=473000623
+[25000/28392 items] 7739s settings=11424400000 (1.48M/s) stops=476740615
+[25200/28392 items] 7798s settings=11515795200 (1.48M/s) stops=480495873
+[25400/28392 items] 7855s settings=11607190400 (1.48M/s) stops=484259722
+[25600/28392 items] 7913s settings=11698585600 (1.48M/s) stops=487986735
+[25800/28392 items] 7972s settings=11789980800 (1.48M/s) stops=491841218
+[26000/28392 items] 8030s settings=11881376000 (1.48M/s) stops=495587281
+[26200/28392 items] 8089s settings=11972771200 (1.48M/s) stops=499443870
+[26400/28392 items] 8148s settings=12064166400 (1.48M/s) stops=503213011
+[26600/28392 items] 8208s settings=12155561600 (1.48M/s) stops=507070536
+[26800/28392 items] 8266s settings=12246956800 (1.48M/s) stops=510911930
+[27000/28392 items] 8323s settings=12338352000 (1.48M/s) stops=514709194
+[27200/28392 items] 8381s settings=12429747200 (1.48M/s) stops=518490137
+[27400/28392 items] 8437s settings=12521142400 (1.48M/s) stops=522316586
+[27600/28392 items] 8498s settings=12612537600 (1.48M/s) stops=526162190
+[27800/28392 items] 8556s settings=12703932800 (1.48M/s) stops=529950307
+[28000/28392 items] 8614s settings=12795328000 (1.49M/s) stops=533790820
+[28200/28392 items] 8671s settings=12886723200 (1.49M/s) stops=537593106
+DONE settings=12974462592 time=8728.3s rate=1.486M settings/s (0.186M/s/thread, 8 threads) T-evals/setting=0.6 stops=541262941
+crib 0 ALLEVVVZEHNX..(17)@0: block-stops=249326664; verified g histogram: g0:47324231 g1:41559867 g2:61745685 g3:49521973 g4:33022920 g5:14228548 g6:1893441 g7:29999
+crib 1 ALLEVVVZEHNX..(18)@0: block-stops=249326664; verified g histogram: g0:37348499 g1:29523723 g2:50510674 g3:50625443 g4:42131420 g5:27971099 g6:9997116 g7:1200555 g8:18135
+crib 2 ALLEVVVFXDXU..(18)@0: block-stops=72; verified g histogram: g0:11 g1:39 g2:19 g3:3
+crib 3 ALLEVVVFXDXU..(19)@0: block-stops=6; verified g histogram: g0:1 g1:5
+crib 4 ALLEVVVFXDXU..(19)@0: block-stops=4; verified g histogram: g0:3 g1:1
+crib 5 ALLEVVVZEHNX..(19)@0: block-stops=40496312; verified g histogram: g0:2261341 g1:3254565 g2:5225656 g3:8618784 g4:8081563 g5:6501364 g6:4782886 g7:1614518 g8:153994 g9:1641
+crib 6 ANALLEVVVFXD..(20)@0: block-stops=0; verified g histogram:
+crib 7 ALLEVONVONZE..(20)@0: block-stops=0; verified g histogram:
+crib 8 ALLEVVVFXDXU..(20)@0: block-stops=0; verified g histogram:
+crib 9 ALLEVVVFXDXU..(20)@0: block-stops=0; verified g histogram:
+crib 10 ALLEVVVFUNFU..(20)@0: block-stops=1564325; verified g histogram: g0:76380 g1:155699 g2:266012 g3:311667 g4:307251 g5:245506 g6:146245 g7:50077 g8:5398 g9:90
+crib 11 ALLEVVVFUENF..(21)@0: block-stops=0; verified g histogram:
+crib 12 ANALLEVVVFXD..(21)@0: block-stops=0; verified g histogram:
+crib 13 ALLEVVVFUNFX..(21)@0: block-stops=0; verified g histogram:
+crib 14 ALLEVVVFXDXU..(21)@0: block-stops=0; verified g histogram:
+crib 15 ANALLEVVVFXD..(21)@0: block-stops=0; verified g histogram:
+crib 16 ANALLEVVVFUN..(21)@0: block-stops=0; verified g histogram:
+crib 17 ALLEVVVFUNFU..(21)@0: block-stops=548894; verified g histogram: g0:17076 g1:40784 g2:77598 g3:103665 g4:108377 g5:96196 g6:65200 g7:32637 g8:7074 g9:287
+crib 18 ALLEVONVONZE..(21)@0: block-stops=0; verified g histogram:
+crib 19 ANALLEVVVFUN..(22)@0: block-stops=0; verified g histogram:
+crib 20 ALLEVVVFUENF..(22)@0: block-stops=0; verified g histogram:
+crib 21 ALLEVONVONZE..(22)@0: block-stops=0; verified g histogram:
+crib 22 ALLEVONVONFU..(22)@0: block-stops=0; verified g histogram:
+crib 23 ANALLEVVVFXD..(22)@0: block-stops=0; verified g histogram:
+crib 24 ANALLEVONVON..(22)@0: block-stops=0; verified g histogram:
+crib 25 ALLEBOOTEVVV..(22)@0: block-stops=0; verified g histogram:
+crib 26 ALLEVVVFUENF..(22)@0: block-stops=0; verified g histogram:
+crib 27 ALLEVVVFUNFX..(22)@0: block-stops=0; verified g histogram:
+crib 28 ANALLEVVVFUN..(22)@0: block-stops=0; verified g histogram:
+crib 29 ALLEVONVONFU..(23)@0: block-stops=0; verified g histogram:
+crib 30 ANALLEVVVFUE..(23)@0: block-stops=0; verified g histogram:
+crib 31 ANALLEVVVFUE..(24)@0: block-stops=0; verified g histogram:
+crib 32 ALLEVVVKOMXA..(24)@0: block-stops=0; verified g histogram:
+crib 33 ALLEVONVONFU..(24)@0: block-stops=0; verified g histogram:
+crib 34 ALLEBOOTEVVV..(25)@0: block-stops=0; verified g histogram:
+crib 35 ALLEUUUBOOTE..(25)@0: block-stops=0; verified g histogram:
+crib 36 ANALLEVONVON..(25)@0: block-stops=0; verified g histogram:
+crib 37 ALLEBOOTEVON..(25)@0: block-stops=0; verified g histogram:
+crib 38 ANALLEVVVKOM..(26)@0: block-stops=0; verified g histogram:
+crib 39 ALLEUUUBOOTE..(26)@0: block-stops=0; verified g histogram:
+crib 40 ANALLEVONVON..(26)@0: block-stops=0; verified g histogram:
+crib 41 ANALLEVONVON..(26)@0: block-stops=0; verified g histogram:
+crib 42 ALLEBOOTEVVV..(26)@0: block-stops=0; verified g histogram:
+crib 43 ALLEBOOTEVVV..(26)@0: block-stops=0; verified g histogram:
+crib 44 ALLEBOOTEVON..(26)@0: block-stops=0; verified g histogram:
+crib 45 ALLEUUUBOOTE..(27)@0: block-stops=0; verified g histogram:
+crib 46 ALLEBOOTEVON..(27)@0: block-stops=0; verified g histogram:
+crib 47 ALLEBOOTEVON..(27)@0: block-stops=0; verified g histogram:
+crib 48 ALLEUUUBOOTE..(27)@0: block-stops=0; verified g histogram:
+crib 49 ALLEBOOTEVON..(28)@0: block-stops=0; verified g histogram:
+crib 50 ALLEUUUBOOTE..(28)@0: block-stops=0; verified g histogram:
+crib 51 ANALLEUUUBOO..(29)@0: block-stops=0; verified g histogram:
+crib 52 ANALLEUUUBOO..(30)@0: block-stops=0; verified g histogram:
+crib 53 ANALLEUUUBOO..(31)@0: block-stops=0; verified g histogram:
+crib 54 ALLEUUUBOOTE..(32)@0: block-stops=0; verified g histogram:
+crib 55 ALLEUUUBOOTE..(32)@0: block-stops=0; verified g histogram:
+crib 56 ANALLEUUUBOO..(32)@0: block-stops=0; verified g histogram:
+crib 57 ANALLEUUUBOO..(32)@0: block-stops=0; verified g histogram:
+crib 58 ANALLEUUUBOO..(32)@0: block-stops=0; verified g histogram:
+crib 59 ANALLEUUUBOO..(33)@0: block-stops=0; verified g histogram:
+crib 60 ANALLEUUUBOO..(34)@0: block-stops=0; verified g histogram:
+crib 61 ANALLEUUUBOO..(34)@0: block-stops=0; verified g histogram:
+crib 62 ANALLEUUUBOO..(34)@0: block-stops=0; verified g histogram:
+crib 63 ANALLEUUUBOO..(35)@0: block-stops=0; verified g histogram:
+crib 64 ALLEUUUBOOTE..(35)@0: block-stops=0; verified g histogram:
+crib 65 ANALLEUUUBOO..(37)@0: block-stops=0; verified g histogram:
+ranking 2000442 hits with corpus/ngrams/navalblend_quadgrams.txt (restarts=4)
+ranking done in 257.5s -> runs/ctx/out/F4_alle_k0.rank.tsv

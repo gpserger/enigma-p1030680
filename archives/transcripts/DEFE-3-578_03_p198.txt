@@ -1,0 +1,20 @@
+META serial=368740 too=1906 toi=1734/1/5/45 freq=2115 from=CAPTAIN(U/B)WEST to=ALL
+GIST Captain (U/B) West prohibits anti-submarine hunting from 2200/1/5 to 1000/2/5 in the inner Kattegat leads area between Stavanger and Bergen.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368740
+
+FROM N S
+
+2115 KC/S     T O O 1906     T O I 1734/1/5/45
+
+FROM: CAPTAIN (U/B) WEST
+
+TO: ALL
+
+A/S HUNT PROHIBITED FROM XXXXXX 2200/1/5 TO 1000/2/5 IN THE INNER
+K LEADS AREA BETWEEN STAVANGER AND BERGEN.
+
+
+0417/8/5/45+++GFG/UC

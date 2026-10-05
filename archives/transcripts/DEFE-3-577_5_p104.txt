@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367904 too=1140 toi=1115/28/4/45 freq=4860 from=U 1230 to=CAPTAIN (U/B) TRAINING
+GIST U-boat U 1230 reports am in Brunsbuettel completing fitting out.
+
+ADM(4)
+TO: IDBG                                         ZIP/ZTPG/367904
+FROM: NS
+
+4860 KCS         TOO 1140            TOI 1115/28/4/45
+
+FROM: U 1230
+TO  : CAPTAIN (U/B) TRAINING
+
+AM IN BRUNSBUETTEL COMPLETING FITTING OUT.
+
+CTNREAD TOI ETC:
+
+0335/3/5/45+++EGT/IW

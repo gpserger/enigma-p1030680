@@ -1,0 +1,26 @@
+META serial=ZIP/ZTPGU/39092 too=2059 toi=2048/6/5/45 freq=4020 KC/S from=B.DMU to=CAPTAIN (U/B) WEST
+GIST B.D.U. transmits Offizier cipher communication routine to Captain commanding U-boats West.
+
+ADM C1)
+
+TO: I D 8 G                                  ZIP/ZTPGU/39092
+
+FROM: N S
+
+4020 KC/S          TOO 2059               TOI 2048/6/5/45
+
+FROM: B.DMU
+
+TO:   CAPTAIN (U/B) WEST
+
+COFFIZIER CIPHER)
+
+                                [handwritten] 2006/20/6
+
+(CR/S PROGRAMME FROM 0700/16/5 TO 0600/6/6.))
+
+CDEPT. NOTE: COMPLETE TEXT OF ZTPGU/39066.)
+
+CC FROM: B.D.U
+
+0408/13/5/45++++CEL/SMH

@@ -1,0 +1,23 @@
+META serial=367640 too=0720 toi=0511/29/4/45 freq=268 from=OKM/4TH DIVISION NAVAL WAR STAFF to='D', F 4
+GIST Emergency order 4807 to evacuate Swinemuende naval W/T station, remove sets to Flensburg and Aarhus.
+
+ADM(C2)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPC/367640
+
+268 KC/S             T00 0720               T0I 0511/29/4/45
+
+FROM: OKM/4TH DIVISION NAVAL WAR STAFF
+TO:    'D', F 4
+
+EMERGENCY                     NO. 4807
+
+WHEN EVACUATING SWINEMUENDE NAVAL W/T STATION ENDEAVOUR TO
+
+REMOVE SETS TO AREA FLENSBURG, AARHUS. CAREFUL DISMANTLING AND
+
+TRANSPORT NECESSARY AS NO SPARES.
+
+0328/2/5/45           ECT+++MPS+++

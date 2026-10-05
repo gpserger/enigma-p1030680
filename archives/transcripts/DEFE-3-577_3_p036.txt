@@ -1,0 +1,21 @@
+META serial=367435 too=1146 toi=1231/2/XX/29/4/45 freq=382 from=S.O. GROUP B 32ND H/S FLOTILLA to=FLEET TRAINING UNIT
+GIST T.123 subordinated to Mining and Barrage Experimental Command; at Wishar, not at war readiness; request order for paying-off on 29 April 1945.
+
+C55
+
+TO: I D 8 G
+
+FROM: N S
+
+382 KC/S        TOO 1146                TOI 1231/2/XX 29/4/45
+
+FROM: S.O. GROUP 'B', 32ND H/S FLOTILLA
+
+TO: FLEET TRAINING UNIT
+
+T.123 IS SUBORDINATED TO THE MINING AND BARRAGE EXPERIMENTAL
+COMMAND AND, FOR PERSONNEL PURPOSES, TO THE 11/BOAT PERSONNEL
+OFFICE. ((SHE IS AT)) WISHAR, NOT AT WAR READINESS. REQUEST
+ORDER FOR PAYING-OFF.
+
+[handwritten marking at bottom] 0604/1/5/45 CEL/EB+

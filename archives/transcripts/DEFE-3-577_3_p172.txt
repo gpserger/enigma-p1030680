@@ -1,0 +1,21 @@
+META serial=367572 too=0945 toi=0813/1/5/45 freq=350KC/S from=8TH DEFENCE DIVISION to=M 386
+GIST 8th Defence Division orders M 386 to anchor at Anchorage 'C' after escort ends and report ETA.
+
+ADM (3)
+TO: I D 8 G
+FROM: N S
+
+ACM(3) TO: ID8C [handwritten]
+FROM: NS [handwritten]
+
+ZIP/ZTPG/367572
+
+350 KC/S        T O O 0945        T O I 0813/1/5/45
+
+FROM: 8TH DEFENCE DIVISION
+
+TO: M 386
+
+AFTER ESCORT IS ENDED, ANCHOR AT ANCHORAGE 'C'. REPORT E.T.A.
+
+1729/1/5/45      EE/UAK++++

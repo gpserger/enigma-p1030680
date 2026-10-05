@@ -1,0 +1,41 @@
+META serial=368105 too=2159 toi=2158/1/5/45 freq=382 from=NavalChiefCommandBaltic to=NavyOfficeLuebeck,10thDefenceDivision
+GIST Naval Chief Command Baltic reports approximately 60,000 fugitives in Luebeck; transport over sea to Danish area ordered; requests shipping space to Nakskov and Nyborg.
+
+ADMC4D
+
+TO: ID8G                                                ZIP/ZTPG/368105
+
+FROM: N S
+
+
+[handwritten bullet]
+
+382 KC/S      TOO 2159     TOI 2158/1/5/45
+
+
+FROM: NAVAL CHIEF COMMAND BALTIC
+
+TO: NAVY OFFICE LUEBECK
+
+RPTD: 10TH DEFENCE DIVISION
+
+ALSO TO OTHER ADDRESSEES
+
+
+MOST IMMEDIATE
+
+
+ACCORDING TO REPORT OF PARTY CHANCELLERY ROUGHLY 60000 FUGITIVES
+
+[handwritten bullet]
+IN LUEBECK. TRANSPORT AWAY OVER SEA TO DANISH AREA ORDERED BY
+
+C IN C NAVY. REQUEST PROVISION OF SHIPPING SPACE, DESTINATION
+
+NAKSKOV AND NYBORG.
+
+
+CC LINE 2 'DANISH'
+
+
+0506/4/5/45++++EGT/SMH

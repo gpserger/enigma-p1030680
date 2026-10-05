@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367690 too=2158 toi=2055/26/4/45 freq=4412 KCS from=S D C POMERANIA to=F92 ((13)), 379
+GIST S D C Pomerania orders proceed to Wolgast for naval harbourmaster disposal and report fuel stocks.
+
+ADM XC4)
+
+TO I D 8 G    ZIP/ZTPG/367690
+
+FROM NS
+
+4412 KCS    TOO 2158    TOI 2055/26/4/45
+
+FROM S D C POMERANIA
+
+TO  : F92 ((13)), 379
+
+MOST IMMEDIATE
+
+PROCEED FORTHWITH TO WOLGAST AT DISPOSAL OF NAVAL HARBOURMASTER. REPORT FUEL STOCKS.
+
+0630/2/5/45++EGT/IV

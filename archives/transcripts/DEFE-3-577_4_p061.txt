@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367675 too=0415 toi=0242/1/5/45 freq=3764 KCS from=5TH. U/B FLOTILLA to=ALL BOATS
+GIST 5th U/B Flotilla issues fortress alarm for Kiel to all submarines.
+
+ADM (C3)
+
+TO I D 8 G    ZIP/ZTPG/367675
+
+FROM NS
+
+3764 KCS    TOO 0415    TOI 0242/1/5/45
+
+MOST IMMEDIATE
+
+FROM : 5TH. U/B FLOTILLA
+
+TO  : ALL BOATS
+
+FORTRESS ALARM FOR KIEL
+
+0532/2/5/45++++EGT/IV

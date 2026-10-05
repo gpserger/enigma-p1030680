@@ -1,0 +1,16 @@
+META serial=367779 too=1156 toi=1207/1/5/45 freq=368 from=NAVAL HARBOURMASTER ROENNE VIA NAVAL W/T STATION BORNHOLM to='B'
+GIST F.873 and tug Haff arrived Roenne; requests orders for further employment.
+
+ADM (40)
+TO: I D B G                                    ZIP/ZTPG/367779
+FROM: N S
+
+368 KC/S            T O O 1156            T O I 1207/1/5/45
+
+FROM: NAVAL HARBOURMASTER ROENNE VIA NAVAL W/T STATION BORNHOLM
+TO: 'B'
+
+F. 873 AND TUG 'HAFF' HAVE ARRIVED ROENNE. REQUEST
+PARTICULARS OF FURTHER EMPLOYMENT.
+
+1426/2/5/45 CEL/AHM++++

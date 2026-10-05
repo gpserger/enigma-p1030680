@@ -1,0 +1,20 @@
+META serial=367363 too=1227 toi=1050/30/4/45 freq=403 kcs from=5TH FLIEGERDIVISION to=2ND COAST DEFENCE UNIT
+GIST 5th Fliegerdivision requests wireless guard boat on position at 2200 on 30 April 1945.
+
+ADM C 3J
+
+TO: I D 8 G
+
+FROM: N S
+
+403 KC/S        T O O 1227                T O I 1050/30/4/45
+
+FROM: 5TH FLIEGERDIVISION
+
+TO: 2ND COAST DEFENCE UNIT
+
+HOST IMMEDIATE
+
+REQUEST W/T GUARD BOAT ON POSITION AT 2200/30.
+
+2359/30/4/45+++EGT/FA

@@ -1,0 +1,19 @@
+META serial=3671401 too=2319 toi=2148/30/4/45 freq=350KC/S from=8THDEFENCEDIVISION to=M.293
+GIST 8th Defence Division cancels W/T message 2252 and reports VS.1003 will arrive about 0230.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671401
+FROM: N S
+[seal mark]
+
+350 KC/S              T O O 2319              T O I 2148/30/4/45
+
+FROM: 8TH DEFENCE DIVISION
+TO: M.293
+
+W/T MESSAGE 2252 IS CANCELLED. VS. 1003 WILL ARRIVE ABOUT
+0230.
+
+[seal mark]
+
+0300/1/5/45++CEL/FA

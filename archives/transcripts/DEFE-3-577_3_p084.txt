@@ -1,0 +1,27 @@
+META serial=367495 too=0127 toi=0308/29/4/45 freq=3707 from=Jodl by order CC of the Fuehrer to=Multiple fortress commandants
+GIST Jodl by order Fuehrer sends message to fortress commandants of Dunkirk, Channel Islands, Lorient, St. Nazaire, La Rochelle and others.
+
+ADM C5D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ ZTPG/367495
+
+3707 KC/S        TOO 0127        TOI 0308/29/4/45
+
+FROM: JODL, BY ORDER CC OF THE FUEHRER))
+
+TO: FORTRESS COMMANDANT DUNKIRK,
+
+COMMANDANT OF THE CHANNEL ISLANDS,
+
+FORTRESS COMMANDANT LORIENT,
+
+FORTRESS COMMANDANT ST. NAZAIRE,
+
+FORTRESS COMMANDANT LA ROCHELLE
+
+REPEATED TO: OPS STAFF, COMMANDANT CRETE,
+
+COMMANDANT EASTERN AEGEAN

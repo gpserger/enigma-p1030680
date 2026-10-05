@@ -1,0 +1,23 @@
+META serial=367820 too=1123 toi=1045/1/5/45 freq=4860 from=CAPTAIN (U/B) TRAINING to=S.O. 5TH U/B FLOTILLA
+GIST Orders to sail TF 18 to Neustadt with charts for Skagerrak and Norway; TF 19 remains in Kiel.
+
+ADM (3)
+TO: I D B G                                    Z.IP/ZTPG/367820
+FROM: N S
+
+4860 KC/S            T O O 1123            T O I 1045/1/5/45
+
+FROM: CAPTAIN (U/B) TRAINING
+TO: S.O. 5TH U/B FLOTILLA
+
+EMERGENCY
+
+1) SAIL TF 18 TO NEUSTADT IMMEDIATELY WITH TWO SETS OF CHARTS
+FOR THE SKAGERRAK AND NORWAY WITH HARBOUR PLANS AND ONE COPY OF
+SERIAL ORDER OF B.D.U. COPS.), NO. 7 OF 24/4/45.
+2) TF 19 WILL REMAIN IN KIEL FOR THE TIME BEING.
+3) PLEASE ACKNOWLEDGE.
+
+[handwritten] 1733/2/5/45 EE/UAK+++
+
+[handwritten] 1733/2/5/45          EE/UAK+++

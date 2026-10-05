@@ -1,0 +1,21 @@
+META serial=367498 too=1507 toi=2056/27/4/45 freq=4880 from=Sea Defence Commandant Lorient to=?
+GIST Lorient situation report 1430: supply convoy with armed fishing vessels and motor coaster Le Palais to St. Nazaire for Lorient supplies.
+
+ADM C1
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367498
+
+4880 KC/S        TOO 1507        TOI 2056/27/4/45
+
+FROM: SEA DEFENCE COMMANDANT LORIENT
+
+LORIENT SITUATION REPORT 1430:
+
+SUPPLY CONVOY WITH (C2 D) ARMED FISHING VESSELS AND 1 MOTOR
+COASTER FROM LE PALAIS TO ST. NAZAIRE TO TAKE ON BOARD THE
+SUPPLIES DESTINED FOR KEK LORIENT
+
+1250/1/5/45+EE/AM

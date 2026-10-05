@@ -1,0 +1,24 @@
+META serial=367504 too=2134 toi=2007/28/4/45 freq=4265 from=Defence Unit Lorient to=Pluns, Reitz
+GIST Defence Unit reports enemy locations west of Belle Ile beginning passage through Teignouse.
+
+ADM C1D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367504
+
+4265 KC/S        TOO 2134        TOI 2007/28/4/45
+
+FROM: DEFENCE UNIT LORIENT
+
+TO: PLUNS
+
+REITZ
+
+MOST IMMEDIATE
+
+OWING TO ENEMY LOCATIONS WEST OF BELLE ILE BEGIN PASSAGE THROUGH
+TEIGNOUSE
+
+1310/1/5/45+EE/AM

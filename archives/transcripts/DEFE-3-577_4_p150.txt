@@ -1,0 +1,18 @@
+META serial=367757 too=1832 toi=1850/30/4/45 freq=368 from='F' ENG. N to='D'
+GIST Emergency: allotment is cancelled; 1000 CBM of fuel oil and 450 CBM of heavy diesel oil are being released.
+
+ADM (S)
+TO: I D B G                                    ZIP/ZTPG/367757
+FROM: N S
+
+368 KC/S            T O O 1832            T O I 1850/30/4/45
+
+FROM: 'F' ENG. N
+TO: 'D'
+
+EMERGENCY
+
+ALLOTMENT IS CANCELLED. 1000 CBM OF FUEL OIL AND 450 CBM OF
+HEAVY DIESEL OIL IS BEING RELEASED.
+
+1241/2/5/45++CEL/FA

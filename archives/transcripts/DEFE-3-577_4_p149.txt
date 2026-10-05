@@ -1,0 +1,16 @@
+META serial=367756 too=1746 toi=1711/30/4/45 freq=3978 from=S.O. 2ND T. FLOTILLA IN T.4 to=FLOTTE
+GIST Proposal to assign Commander Kolbe of Travemuende (NOIC) with Lieutenant Cbeneke (CO of T.110) as specialist.
+
+ADM (S)
+TO: I D B G                                    ZIP/ZTPG/367756
+FROM: N S
+
+3978 KC/S            T O O 1746            T O I 1711/30/4/45
+
+FROM: S.O. 2ND T. FLOTILLA IN T.4
+TO: FLOTTE
+
+PROPOSE COMMANDER KOLBE, N.O.I.C. TRAVEMUENDE, WITH LIEUT.
+(CBENEKE >), C.O. OF T.110, AS SPECIALIST.
+
+1243/2/5/45++CEL/FA

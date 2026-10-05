@@ -1,0 +1,15 @@
+META serial=367729 too=2103 toi=2103/30/4/45 freq=3545 from=N S to=I D 8 G
+
+GIST Correction notice requesting to read group three as 'as' not 'was' in line two.
+
+ADM CAD
+
+TO: I D 8 G    ZIP/ZTPG/367729 A
+
+FROM: N S
+
+3545 KC/S    T O O 2103/30/4/45
+
+PLEASE READ GROUP THREE, IN LINE TWO AS 'AS' NOT 'WAS'.
+
+0956/2/5/45    EGT/AHM++++

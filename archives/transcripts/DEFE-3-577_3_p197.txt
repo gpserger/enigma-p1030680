@@ -1,0 +1,18 @@
+META serial=367588 too=1055 toi=0945/1/5/45 freq=350 from=8TH DEFENCE DIVISION to=M 386
+GIST 8th Defence Division orders M 386, after its 0000/1/5 escort, to take up escort of U 2513 at Anchorage C and proceed via Way Welde to a guardship at Anchorage E for officer transfer to the U-boat.
+
+ADM (5)
+TO: I D 8 G                                    ZIP/ZTPG/367588
+FROM: N S
+
+350 KC/S            TOO 1055            TOI 0945/1/5/45
+
+FROM: 8TH DEFENCE DIVISION
+TO:   M 386
+
+AFTER CARRYING OUT ESCORT AT 0000/1/5 TAKE UP ESCORT OF U 2513 AT
+ANCHORAGE 'C'. PROCEED THENCE VIA WAY 'WELDE' TO GUARDSHIP ON
+ANCHORAGE 'E', WHERE AN OFFICER WILL TRANSSHIP FROM THE GUARDSHIP
+TO THE U-BOAT. FURTHER ORDERS WILL REACH YOU THERE.
+
+1907/1/5/45+++++EE/SMH

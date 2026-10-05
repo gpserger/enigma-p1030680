@@ -1,0 +1,22 @@
+META serial=367641 too=0029/29 toi=2310/28/4/45 freq=382 from=M 601 to=10TH DEFENCE DIVISION
+GIST Emergency message M 601 reports arrival in Sassnitz roads at 0001 with Bischoff escorted by Sperbrecher 132.
+
+ADM: C3)
+TO: I D 8 G
+FROM: NS
+
+Z IP/ZTPG/367641
+
+382 KCS              T00 0029/29               T0I 2310/28/4/45
+
+FROM: M 601
+TO:    10TH DEFENCE DIVISION
+       CC R 410 ))
+
+EMERGENCY
+
+ARRIVED IN SASSN ITZ ROADS AT 0001 WITH 'BISCHOFF' ESCORTED
+
+BY SPERBRECHER 132. W/T WATCH BEING KEPT
+
+0421/2/5/45++EGT/IW

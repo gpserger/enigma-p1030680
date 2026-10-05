@@ -1,0 +1,20 @@
+META serial=367736 too=2243 toi=2207/26/4/45 freq=3764 from=S.O. 4TH U/B FLOTILLA to=U. 2338, U. 2361
+
+GIST Senior Officer 4th U/B Flotilla orders U-boats to proceed in Sassnitz in accordance with prior message 1142 and await further orders.
+
+ADM  C4)
+
+TO: I D 8 G    ZIP/ZTPG/367736
+
+FROM: N S
+
+3764 KC/S    T O O    2243    T O I 2207/26/4/45
+
+FROM: S.O. 4TH U/B FLOTILLA
+
+TO: U. 2338, U. 2361
+
+PROCEED IN SASSNITZ IN ACCORDANCE WITH W/T MESSAGE 1142 AND
+AWAIT FURTHER ORDERS.    REPORT EXTENT OF WORK REQUIRED.
+
+1036/2/5/45 CEL/AHM++++

@@ -1,0 +1,28 @@
+META serial=ZIP/ZTPGU/39037 too=1.50 toi=1540/5/5/45 freq=5706 KC/S from=B.D.U. (OPS) to=ALL BOATS
+GIST Naval Warstaff orders U-boats to cease all action against British and Americans effective immediately.
+
+ADM C1)
+
+TO I D 8 G                                   . ZIP/ZTPGU/39037
+
+FROM N S
+
+5706 KC/S           TOO 1.50                TOI 1540/5/5/45
+
+FROM: B.D.U. (OPS)
+
+TO: ALL BOATS
+
+1) NAVAL WARSTAFF HAS ISSUED THE FOLLOWING ORDERS TO ALL :
+   CEASE ACTION AGAINST THE BRITISH AND AMERICANS FORTHWITH.
+
+2) W/T MESSAGES IN SPECIAL CYPHERS NOS. 29 (C1 OR 4)), 319,
+   314 AND 316 OF 4/5 (CAND)) SERIAL NOS. K 34, 35, 36 AND
+   37 WILL HOLD GOOD.
+
+PARA 1 TO BE REPEATED ON BALTIC SAFETY WAVE BY AMEXX ADMIRAL
+(U/B) AND IN NORTHERN WATERS.
+                                [handwritten] 1615/1/5/45  EC++  KN+++
+
+CDEPT NOTE: SERIAL NOS. K 34, 35, 36 AND 37 HAVE TOO 1910/4,
+            1945/4, 1918/4 AND 2017/4 RESPECTIVELY)

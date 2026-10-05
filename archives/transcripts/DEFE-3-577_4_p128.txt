@@ -1,0 +1,17 @@
+META serial=367735 too=2127 toi=2336/26/4/45 freq=3764 from=U. 975 (KOCHD) to=
+
+GIST U. 975 (Kochd) reports arrival at Kiel at 2100 with watch on specified frequency.
+
+ADM  C4))
+
+TO: I D 8 G    ZIP/ZTPG/367735
+
+FROM: N S
+
+3764 KC/S    T O O    2127    T O I 2336/26/4/45
+
+FROM: U. 975 (KOCHD)
+
+ARRIVED KIEL AT 2100.  W/T WATCH ON 4860 KC/S.
+
+1037/2/5/45    CEL/AHM++++

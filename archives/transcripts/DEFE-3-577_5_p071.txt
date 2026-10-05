@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPG/367874 too=0620 toi=0558/28/4/45 freq=4282 from=CONTROL to=U-BOAT BASE WESERMUENDE
+GIST Control requests retransmission of Field Post number for U 1230 which was unintelligible.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367874
+FROM: N S
+
+4282 KC/S         TOO 0620            T O I 0558/28/4/45
+
+FROM: CONTROL
+TO: U-BOAT BASE WESERMUENDE
+
+REFERENCE W/T MESSAGE 1133/27:
+FIELD POST NO. FOR U 1230 UNINTELLIGIBLE HERE. SEND IT AGAIN.
+
+0012/3/5/45         EGT+HDT++

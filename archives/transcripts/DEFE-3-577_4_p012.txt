@@ -1,0 +1,16 @@
+META serial=367617 too=-/2227/2302/30/4 toi=? freq=? from=N S to=I D 8 G
+GIST Correction to message 367617 - alter ''AS'' to ''OF'' in para 5.
+
+OK
+
+ADM: (C2)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPC/367617 A
+
+T O O -/2227/2302/30/4
+
+IN PAPA 5 PLEASE ALTER '' AS '' TO '' OF ''.
+
+1254/3/5/45+++CFL/FA

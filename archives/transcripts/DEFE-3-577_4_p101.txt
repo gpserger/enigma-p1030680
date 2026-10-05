@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367711 too=0715 toi=0528/29/4/45 freq=382 KCS from=M3608 to=?
+GIST Reference to W/T message 0218 regarding encrypted vessel information for T 1, tanker Binz.
+
+ADM(C4)
+
+TO | D 8 G    ZIP/ZTPG/367711
+
+FROM NS
+
+382 KCS    TOO 0715    TOI 0528/29/4/45
+
+FROM: M3608
+
+REF. W/T MESSAGE 0218:
+
+ENCRYPTED HERE NOT 'T 1' 'BUT' 'TANKER' 'BINZ' '.
+
+(DEPT NOTE. 0218= ZTPG/3676463
+
+0740/2/5/45+++EGT/IW

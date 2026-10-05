@@ -1,0 +1,20 @@
+META serial=367349 too=2130 toi=1947/30/4/45 freq=2115 kcs from=UJ 1757 to=6TH COAST DEFENCE UNIT
+GIST U-boat 2322 not encountered; requesting further orders.
+
+ADM C 4J
+
+TO I D 8 G
+
+FROM NS
+
+2115 KCS        TOO 2130                TOI 1947/30/4/45
+
+FROM: UJ 1757
+
+TO : 6TH COAST DEFENCE UNIT
+
+EMERGENCY
+
+U 2322 NOT ENCOUNTERED. REQUEST FURTHER ORDERS
+
+2310/30/4/45++EGT/IW

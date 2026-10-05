@@ -1,0 +1,21 @@
+META serial=368742 too=0827 toi=0707/2/5/45 freq=433 from=2NDCOASTALDEFENCEUNIT to=M30CC6
+GIST 2nd Coastal Defence Unit orders M 30CC6) to conduct Klavier Spielen from 0845 until countermanded.
+
+ADM C3)
+
+TO I D B G                ZIP/ZTPG/368742
+
+FROM N S
+
+433 KC/S     T O O 0827     T O I 0707/2/5/45
+
+FROM: 2ND COASTAL DEFENCE UNIT
+
+TO: M 30CC6))
+
+MOST IMMEDIATE
+
+'KLAV IERSPIELEN' FROM 0845 UNTIL COUNTERMANDED.
+
+
+0430/8/5/45+GFG+DJL

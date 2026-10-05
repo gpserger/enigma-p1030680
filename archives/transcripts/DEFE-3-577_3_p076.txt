@@ -1,0 +1,19 @@
+META serial=367486 too=0536 toi=0615/1/5/45 freq=3082 from=UJ 1706 to=6th Coastal Defence Unit
+GIST UJ 1706 reports arrival at Joessingfjord at 0530.
+
+ADM C1
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367486
+
+3082 KC/S        TOO 0536        TOI 0615/1/5/45
+
+FROM: UJ 1706
+
+TO: 6TH COASTAL DEFENCE UNIT
+
+ARRIVED JOESSINGFJORD AT 0530
+
+1120/1/5/45+EE/AM

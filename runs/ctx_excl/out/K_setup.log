@@ -1,0 +1,691 @@
+crib 0 BESTAETIGUNG..(19)@8 used=16 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot T, loops 1) 8(pivot K, loops 0)
+crib 1 BESTAETIGUNG..(19)@9 used=16 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot E, loops 0)
+crib 2 BESTAETIGUNG..(19)@10 used=16 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot E, loops 1)
+crib 3 BESTAETIGUNG..(19)@12 used=17 excluded=[20 25 ] blocks=2 sizes: 9(pivot N, loops 0) 8(pivot E, loops 2)
+crib 4 BESTAETIGUNG..(19)@14 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot E, loops 1) 8(pivot E, loops 0)
+crib 5 BESTAETIGUNG..(19)@16 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot E, loops 1) 8(pivot E, loops 0)
+crib 6 BESTAETIGUNG..(19)@18 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot E, loops 2) 8(pivot U, loops 0)
+crib 7 BESTAETIGUNG..(19)@19 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot B, loops 1) 8(pivot C, loops 0)
+crib 8 BESTAETIGUNG..(19)@20 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot C, loops 0) 8(pivot P, loops 2)
+crib 9 BESTAETIGUNG..(19)@21 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot E, loops 1) 8(pivot P, loops 2)
+crib 10 BESTAETIGUNG..(19)@22 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot E, loops 1) 8(pivot C, loops 0)
+crib 11 BESTAETIGUNG..(19)@23 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot R, loops 2) 8(pivot P, loops 1)
+crib 12 BESTAETIGUNG..(19)@24 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot R, loops 0) 8(pivot E, loops 2)
+crib 13 BESTAETIGUNG..(19)@25 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot G, loops 1) 8(pivot E, loops 2)
+crib 14 BESTAETIGUNG..(19)@26 used=18 excluded=[32 ] blocks=2 sizes: 9(pivot E, loops 0) 9(pivot P, loops 1)
+crib 15 BESTAETIGUNG..(19)@27 used=18 excluded=[32 ] blocks=2 sizes: 9(pivot R, loops 2) 9(pivot P, loops 1)
+crib 16 BESTAETIGUNG..(19)@28 used=18 excluded=[32 ] blocks=2 sizes: 9(pivot E, loops 1) 9(pivot R, loops 2)
+crib 17 BESTAETIGUNG..(19)@31 used=18 excluded=[32 ] blocks=2 sizes: 9(pivot E, loops 1) 9(pivot B, loops 2)
+crib 18 BESTAETIGUNG..(19)@34 used=19 excluded=[] blocks=2 sizes: 10(pivot P, loops 1) 9(pivot B, loops 3)
+crib 19 BESTAETIGUNG..(19)@36 used=19 excluded=[] blocks=2 sizes: 10(pivot E, loops 2) 9(pivot B, loops 1)
+crib 20 BESTAETIGUNG..(19)@38 used=19 excluded=[] blocks=2 sizes: 10(pivot T, loops 1) 9(pivot B, loops 3)
+crib 21 BESTAETIGUNG..(19)@39 used=19 excluded=[] blocks=2 sizes: 10(pivot E, loops 2) 9(pivot B, loops 2)
+crib 22 BESTAETIGUNG..(19)@40 used=18 excluded=[58 ] blocks=2 sizes: 9(pivot B, loops 2) 9(pivot E, loops 2)
+crib 23 BESTAETIGUNG..(19)@41 used=18 excluded=[58 ] blocks=2 sizes: 9(pivot T, loops 1) 9(pivot B, loops 2)
+crib 24 BESTAETIGUNG..(19)@43 used=17 excluded=[58 60 ] blocks=2 sizes: 9(pivot B, loops 1) 8(pivot V, loops 1)
+crib 25 BESTAETIGUNG..(19)@44 used=17 excluded=[58 60 ] blocks=2 sizes: 9(pivot E, loops 3) 8(pivot G, loops 1)
+crib 26 BESTAETIGUNG..(19)@50 used=15 excluded=[58 60 67 68 ] blocks=2 sizes: 8(pivot S, loops 3) 7(pivot B, loops 0)
+crib 27 BESTAETIGUNG..(19)@52 used=15 excluded=[58 60 67 68 ] blocks=2 sizes: 8(pivot E, loops 1) 7(pivot G, loops 0)
+crib 28 BESTAETIGUNG..(19)@53 used=14 excluded=[58 60 67 68 71 ] blocks=2 sizes: 7(pivot S, loops 0) 7(pivot G, loops 2)
+crib 29 BOOTEKLARZUM..(21)@6 used=18 excluded=[10 20 25 ] blocks=2 sizes: 9(pivot K, loops 0) 9(pivot Z, loops 1)
+crib 30 BOOTEKLARZUM..(21)@7 used=18 excluded=[10 20 25 ] blocks=2 sizes: 9(pivot E, loops 2) 9(pivot Z, loops 0)
+crib 31 BOOTEKLARZUM..(21)@13 used=18 excluded=[20 25 32 ] blocks=2 sizes: 9(pivot R, loops 1) 9(pivot O, loops 1)
+crib 32 BOOTEKLARZUM..(21)@15 used=18 excluded=[20 25 32 ] blocks=2 sizes: 9(pivot R, loops 1) 9(pivot E, loops 1)
+crib 33 BOOTEKLARZUM..(21)@17 used=18 excluded=[20 25 32 ] blocks=2 sizes: 9(pivot K, loops 0) 9(pivot E, loops 2)
+crib 34 BOOTEKLARZUM..(21)@23 used=19 excluded=[25 32 ] blocks=2 sizes: 10(pivot R, loops 1) 9(pivot K, loops 1)
+crib 35 BOOTEKLARZUM..(21)@24 used=19 excluded=[25 32 ] blocks=2 sizes: 10(pivot P, loops 0) 9(pivot E, loops 2)
+crib 36 BOOTEKLARZUM..(21)@25 used=19 excluded=[25 32 ] blocks=2 sizes: 10(pivot R, loops 1) 9(pivot E, loops 1)
+crib 37 BOOTEKLARZUM..(21)@26 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot B, loops 0) 10(pivot E, loops 3)
+crib 38 BOOTEKLARZUM..(21)@27 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot R, loops 0) 10(pivot V, loops 2)
+crib 39 BOOTEKLARZUM..(21)@29 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot E, loops 1) 10(pivot B, loops 1)
+crib 40 BOOTEKLARZUM..(21)@31 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot E, loops 3) 10(pivot K, loops 1)
+crib 41 BOOTEKLARZUM..(21)@35 used=21 excluded=[] blocks=2 sizes: 11(pivot E, loops 3) 10(pivot N, loops 1)
+crib 42 BOOTEKLARZUM..(21)@37 used=21 excluded=[] blocks=2 sizes: 11(pivot G, loops 1) 10(pivot R, loops 3)
+crib 43 BOOTEKLARZUM..(21)@39 used=20 excluded=[58 ] blocks=2 sizes: 10(pivot V, loops 1) 10(pivot E, loops 1)
+crib 44 BOOTEKLARZUM..(21)@40 used=19 excluded=[58 60 ] blocks=2 sizes: 10(pivot B, loops 1) 9(pivot E, loops 1)
+crib 45 BOOTEKLARZUM..(21)@41 used=19 excluded=[58 60 ] blocks=2 sizes: 10(pivot E, loops 1) 9(pivot R, loops 0)
+crib 46 BOOTEKLARZUM..(21)@43 used=19 excluded=[58 60 ] blocks=2 sizes: 10(pivot E, loops 1) 9(pivot V, loops 1)
+crib 47 BOOTEKLARZUM..(21)@48 used=17 excluded=[58 60 67 68 ] blocks=2 sizes: 9(pivot K, loops 2) 8(pivot G, loops 0)
+crib 48 BOOTEKLARZUM..(21)@50 used=17 excluded=[58 60 67 68 ] blocks=2 sizes: 9(pivot S, loops 1) 8(pivot G, loops 0)
+crib 49 FESTUNGSALAR..(21)@7 used=18 excluded=[10 20 25 ] blocks=2 sizes: 9(pivot R, loops 0) 9(pivot E, loops 1)
+crib 50 FESTUNGSALAR..(21)@9 used=18 excluded=[10 20 25 ] blocks=2 sizes: 9(pivot A, loops 1) 9(pivot F, loops 0)
+crib 51 FESTUNGSALAR..(21)@13 used=18 excluded=[20 25 32 ] blocks=2 sizes: 9(pivot F, loops 0) 9(pivot R, loops 1)
+crib 52 FESTUNGSALAR..(21)@21 used=19 excluded=[25 32 ] blocks=2 sizes: 10(pivot F, loops 0) 9(pivot E, loops 2)
+crib 53 FESTUNGSALAR..(21)@22 used=19 excluded=[25 32 ] blocks=2 sizes: 10(pivot C, loops 1) 9(pivot L, loops 3)
+crib 54 FESTUNGSALAR..(21)@23 used=19 excluded=[25 32 ] blocks=2 sizes: 10(pivot L, loops 1) 9(pivot R, loops 1)
+crib 55 FESTUNGSALAR..(21)@24 used=19 excluded=[25 32 ] blocks=2 sizes: 10(pivot P, loops 2) 9(pivot L, loops 1)
+crib 56 FESTUNGSALAR..(21)@25 used=19 excluded=[25 32 ] blocks=2 sizes: 10(pivot R, loops 3) 9(pivot F, loops 0)
+crib 57 FESTUNGSALAR..(21)@28 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot L, loops 1) 10(pivot R, loops 1)
+crib 58 FESTUNGSALAR..(21)@29 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot P, loops 2) 10(pivot R, loops 1)
+crib 59 FESTUNGSALAR..(21)@30 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot P, loops 1) 10(pivot R, loops 1)
+crib 60 FESTUNGSALAR..(21)@32 used=20 excluded=[32 ] blocks=2 sizes: 10(pivot B, loops 0) 10(pivot R, loops 1)
+crib 61 FESTUNGSALAR..(21)@33 used=21 excluded=[] blocks=2 sizes: 11(pivot B, loops 2) 10(pivot L, loops 1)
+crib 62 FESTUNGSALAR..(21)@36 used=21 excluded=[] blocks=2 sizes: 11(pivot L, loops 3) 10(pivot E, loops 1)
+crib 63 FESTUNGSALAR..(21)@37 used=21 excluded=[] blocks=2 sizes: 11(pivot B, loops 0) 10(pivot G, loops 2)
+crib 64 FESTUNGSALAR..(21)@38 used=20 excluded=[58 ] blocks=2 sizes: 10(pivot R, loops 0) 10(pivot E, loops 2)
+crib 65 FESTUNGSALAR..(21)@40 used=19 excluded=[58 60 ] blocks=2 sizes: 10(pivot R, loops 1) 9(pivot B, loops 1)
+crib 66 FESTUNGSALAR..(21)@41 used=19 excluded=[58 60 ] blocks=2 sizes: 10(pivot E, loops 1) 9(pivot L, loops 1)
+crib 67 FESTUNGSALAR..(21)@42 used=19 excluded=[58 60 ] blocks=2 sizes: 10(pivot E, loops 2) 9(pivot R, loops 1)
+crib 68 FESTUNGSALAR..(21)@43 used=19 excluded=[58 60 ] blocks=2 sizes: 10(pivot A, loops 1) 9(pivot B, loops 1)
+crib 69 FESTUNGSALAR..(21)@47 used=18 excluded=[58 60 67 ] blocks=2 sizes: 9(pivot E, loops 1) 9(pivot B, loops 0)
+crib 70 FESTUNGSALAR..(21)@48 used=17 excluded=[58 60 67 68 ] blocks=2 sizes: 9(pivot G, loops 0) 8(pivot S, loops 1)
+crib 71 FESTUNGSALAR..(31)@7 used=27 excluded=[10 20 25 32 ] blocks=2 sizes: 14(pivot E, loops 2) 13(pivot R, loops 3)
+crib 72 FESTUNGSALAR..(31)@9 used=27 excluded=[10 20 25 32 ] blocks=2 sizes: 14(pivot E, loops 2) 13(pivot P, loops 1)
+crib 73 FESTUNGSALAR..(31)@13 used=28 excluded=[20 25 32 ] blocks=2 sizes: 14(pivot E, loops 5) 14(pivot K, loops 2)
+crib 74 FESTUNGSALAR..(31)@22 used=29 excluded=[25 32 ] blocks=2 sizes: 15(pivot R, loops 5) 14(pivot B, loops 4)
+crib 75 FESTUNGSALAR..(31)@23 used=29 excluded=[25 32 ] blocks=2 sizes: 15(pivot R, loops 4) 14(pivot F, loops 3)
+crib 76 FESTUNGSALAR..(31)@24 used=29 excluded=[25 32 ] blocks=2 sizes: 15(pivot F, loops 3) 14(pivot E, loops 3)
+crib 77 FESTUNGSALAR..(31)@25 used=29 excluded=[25 32 ] blocks=2 sizes: 15(pivot E, loops 3) 14(pivot B, loops 4)
+crib 78 FESTUNGSALAR..(31)@28 used=29 excluded=[32 58 ] blocks=2 sizes: 15(pivot P, loops 3) 14(pivot E, loops 3)
+crib 79 FESTUNGSALAR..(31)@29 used=29 excluded=[32 58 ] blocks=2 sizes: 15(pivot L, loops 6) 14(pivot N, loops 1)
+crib 80 FESTUNGSALAR..(31)@30 used=28 excluded=[32 58 60 ] blocks=2 sizes: 14(pivot L, loops 5) 14(pivot E, loops 2)
+crib 81 FESTUNGSALAR..(31)@36 used=29 excluded=[58 60 ] blocks=2 sizes: 15(pivot L, loops 5) 14(pivot S, loops 3)
+crib 82 FESTUNGSALAR..(31)@37 used=28 excluded=[58 60 67 ] blocks=2 sizes: 14(pivot E, loops 2) 14(pivot B, loops 3)
+crib 83 FESTUNGSALAR..(31)@38 used=27 excluded=[58 60 67 68 ] blocks=2 sizes: 14(pivot S, loops 5) 13(pivot H, loops 1)
+crib 84 FESTUNGSALAR..(31)@40 used=27 excluded=[58 60 67 68 ] blocks=2 sizes: 14(pivot S, loops 4) 13(pivot G, loops 4)
+crib 85 FESTUNGSALAR..(28)@7 used=24 excluded=[10 20 25 32 ] blocks=2 sizes: 12(pivot R, loops 2) 12(pivot E, loops 2)
+crib 86 FESTUNGSALAR..(28)@9 used=24 excluded=[10 20 25 32 ] blocks=2 sizes: 12(pivot E, loops 2) 12(pivot E, loops 1)
+crib 87 FESTUNGSALAR..(28)@13 used=25 excluded=[20 25 32 ] blocks=2 sizes: 13(pivot K, loops 2) 12(pivot P, loops 2)
+crib 88 FESTUNGSALAR..(28)@22 used=26 excluded=[25 32 ] blocks=2 sizes: 13(pivot E, loops 2) 13(pivot P, loops 4)
+crib 89 FESTUNGSALAR..(28)@23 used=26 excluded=[25 32 ] blocks=2 sizes: 13(pivot F, loops 1) 13(pivot E, loops 6)
+crib 90 FESTUNGSALAR..(28)@24 used=26 excluded=[25 32 ] blocks=2 sizes: 13(pivot F, loops 3) 13(pivot E, loops 4)
+crib 91 FESTUNGSALAR..(28)@29 used=27 excluded=[32 ] blocks=2 sizes: 14(pivot L, loops 4) 13(pivot E, loops 2)
+crib 92 FESTUNGSALAR..(28)@30 used=27 excluded=[32 ] blocks=2 sizes: 14(pivot G, loops 4) 13(pivot B, loops 2)
+crib 93 FESTUNGSALAR..(28)@32 used=26 excluded=[32 58 ] blocks=2 sizes: 13(pivot P, loops 2) 13(pivot E, loops 2)
+crib 94 FESTUNGSALAR..(28)@33 used=26 excluded=[58 60 ] blocks=2 sizes: 13(pivot B, loops 2) 13(pivot E, loops 5)
+crib 95 FESTUNGSALAR..(28)@36 used=26 excluded=[58 60 ] blocks=2 sizes: 13(pivot B, loops 4) 13(pivot E, loops 2)
+crib 96 FESTUNGSALAR..(28)@37 used=26 excluded=[58 60 ] blocks=2 sizes: 13(pivot G, loops 1) 13(pivot N, loops 3)
+crib 97 FESTUNGSALAR..(28)@38 used=26 excluded=[58 60 ] blocks=2 sizes: 13(pivot E, loops 2) 13(pivot B, loops 2)
+crib 98 FESTUNGSALAR..(28)@41 used=24 excluded=[58 60 67 68 ] blocks=2 sizes: 12(pivot S, loops 1) 12(pivot E, loops 3)
+crib 99 FESTUNGSALAR..(28)@42 used=24 excluded=[58 60 67 68 ] blocks=2 sizes: 12(pivot G, loops 3) 12(pivot S, loops 2)
+crib 100 FESTUNGSALAR..(28)@43 used=24 excluded=[58 60 67 68 ] blocks=2 sizes: 12(pivot B, loops 3) 12(pivot E, loops 3)
+crib 101 FESTUNGSALAR..(17)@7 used=15 excluded=[10 20 ] blocks=2 sizes: 8(pivot S, loops 1) 7(pivot L, loops 0)
+crib 102 FESTUNGSALAR..(17)@8 used=15 excluded=[10 20 ] blocks=2 sizes: 8(pivot K, loops 0) 7(pivot Z, loops 0)
+crib 103 FESTUNGSALAR..(17)@9 used=14 excluded=[10 20 25 ] blocks=2 sizes: 7(pivot A, loops 0) 7(pivot K, loops 0)
+crib 104 FESTUNGSALAR..(17)@10 used=14 excluded=[10 20 25 ] blocks=2 sizes: 7(pivot Y, loops 0) 7(pivot L, loops 0)
+crib 105 FESTUNGSALAR..(17)@13 used=15 excluded=[20 25 ] blocks=2 sizes: 8(pivot K, loops 0) 7(pivot R, loops 0)
+crib 106 FESTUNGSALAR..(17)@14 used=15 excluded=[20 25 ] blocks=2 sizes: 8(pivot S, loops 0) 7(pivot K, loops 0)
+crib 107 FESTUNGSALAR..(17)@16 used=14 excluded=[20 25 32 ] blocks=2 sizes: 7(pivot S, loops 0) 7(pivot A, loops 1)
+crib 108 FESTUNGSALAR..(17)@21 used=15 excluded=[25 32 ] blocks=2 sizes: 8(pivot C, loops 0) 7(pivot P, loops 0)
+crib 109 FESTUNGSALAR..(17)@22 used=15 excluded=[25 32 ] blocks=2 sizes: 8(pivot C, loops 1) 7(pivot L, loops 1)
+crib 110 FESTUNGSALAR..(17)@23 used=15 excluded=[25 32 ] blocks=2 sizes: 8(pivot P, loops 0) 7(pivot K, loops 0)
+crib 111 FESTUNGSALAR..(17)@25 used=15 excluded=[25 32 ] blocks=2 sizes: 8(pivot R, loops 1) 7(pivot P, loops 0)
+crib 112 FESTUNGSALAR..(17)@26 used=16 excluded=[32 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot L, loops 1)
+crib 113 FESTUNGSALAR..(17)@28 used=16 excluded=[32 ] blocks=2 sizes: 8(pivot P, loops 1) 8(pivot L, loops 0)
+crib 114 FESTUNGSALAR..(17)@29 used=16 excluded=[32 ] blocks=2 sizes: 8(pivot P, loops 1) 8(pivot R, loops 1)
+crib 115 FESTUNGSALAR..(17)@30 used=16 excluded=[32 ] blocks=2 sizes: 8(pivot V, loops 0) 8(pivot L, loops 1)
+crib 116 FESTUNGSALAR..(17)@32 used=16 excluded=[32 ] blocks=2 sizes: 8(pivot A, loops 0) 8(pivot P, loops 1)
+crib 117 FESTUNGSALAR..(17)@33 used=17 excluded=[] blocks=2 sizes: 9(pivot E, loops 0) 8(pivot V, loops 0)
+crib 118 FESTUNGSALAR..(17)@34 used=17 excluded=[] blocks=2 sizes: 9(pivot L, loops 1) 8(pivot A, loops 1)
+crib 119 FESTUNGSALAR..(17)@36 used=17 excluded=[] blocks=2 sizes: 9(pivot B, loops 0) 8(pivot L, loops 0)
+crib 120 FESTUNGSALAR..(17)@37 used=17 excluded=[] blocks=2 sizes: 9(pivot L, loops 1) 8(pivot E, loops 0)
+crib 121 FESTUNGSALAR..(17)@38 used=17 excluded=[] blocks=2 sizes: 9(pivot L, loops 1) 8(pivot E, loops 0)
+crib 122 FESTUNGSALAR..(17)@40 used=17 excluded=[] blocks=2 sizes: 9(pivot G, loops 1) 8(pivot R, loops 1)
+crib 123 FESTUNGSALAR..(17)@41 used=17 excluded=[] blocks=2 sizes: 9(pivot B, loops 0) 8(pivot R, loops 1)
+crib 124 FESTUNGSALAR..(17)@42 used=16 excluded=[58 ] blocks=2 sizes: 8(pivot B, loops 0) 8(pivot E, loops 0)
+crib 125 FESTUNGSALAR..(17)@43 used=16 excluded=[58 ] blocks=2 sizes: 8(pivot B, loops 0) 8(pivot S, loops 1)
+crib 126 FESTUNGSALAR..(17)@47 used=15 excluded=[58 60 ] blocks=2 sizes: 8(pivot S, loops 0) 7(pivot A, loops 0)
+crib 127 FESTUNGSALAR..(17)@48 used=15 excluded=[58 60 ] blocks=2 sizes: 8(pivot S, loops 0) 7(pivot G, loops 0)
+crib 128 FESTUNGSALAR..(17)@52 used=13 excluded=[58 60 67 68 ] blocks=2 sizes: 7(pivot G, loops 0) 6(pivot S, loops 0)
+crib 129 FESTUNGSALAR..(17)@53 used=13 excluded=[58 60 67 68 ] blocks=2 sizes: 7(pivot G, loops 0) 6(pivot A, loops 0)
+crib 130 FESTUNGSALAR..(17)@54 used=13 excluded=[58 60 67 68 ] blocks=2 sizes: 7(pivot G, loops 0) 6(pivot G, loops 0)
+crib 131 FESTUNGSALAR..(17)@55 used=12 excluded=[58 60 67 68 71 ] blocks=2 sizes: 6(pivot G, loops 1) 6(pivot A, loops 0)
+crib 132 FFFTTTBLEIBT..(19)@6 used=17 excluded=[10 20 ] blocks=2 sizes: 9(pivot T, loops 0) 8(pivot E, loops 2)
+crib 133 FFFTTTBLEIBT..(19)@7 used=16 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot T, loops 0)
+crib 134 FFFTTTBLEIBT..(19)@8 used=16 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot T, loops 0) 8(pivot E, loops 0)
+crib 135 FFFTTTBLEIBT..(19)@9 used=16 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot F, loops 1)
+crib 136 FFFTTTBLEIBT..(19)@10 used=16 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot E, loops 1) 8(pivot T, loops 1)
+crib 137 FFFTTTBLEIBT..(19)@11 used=17 excluded=[20 25 ] blocks=2 sizes: 9(pivot E, loops 2) 8(pivot T, loops 1)
+crib 138 FFFTTTBLEIBT..(19)@12 used=17 excluded=[20 25 ] blocks=2 sizes: 9(pivot T, loops 3) 8(pivot F, loops 1)
+crib 139 FFFTTTBLEIBT..(19)@13 used=17 excluded=[20 25 ] blocks=2 sizes: 9(pivot R, loops 2) 8(pivot T, loops 1)
+crib 140 FFFTTTBLEIBT..(19)@14 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot F, loops 1) 8(pivot T, loops 2)
+crib 141 FFFTTTBLEIBT..(19)@15 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot E, loops 1) 8(pivot F, loops 2)
+crib 142 FFFTTTBLEIBT..(19)@16 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot B, loops 1) 8(pivot F, loops 2)
+crib 143 FFFTTTBLEIBT..(19)@17 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot T, loops 1) 8(pivot F, loops 1)
+crib 144 FFFTTTBLEIBT..(19)@18 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot T, loops 0) 8(pivot B, loops 2)
+crib 145 FFFTTTBLEIBT..(19)@19 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot F, loops 1) 8(pivot T, loops 1)
+crib 146 FFFTTTBLEIBT..(19)@20 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot R, loops 1) 8(pivot P, loops 2)
+crib 147 FFFTTTBLEIBT..(19)@21 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot B, loops 1) 8(pivot T, loops 1)
+crib 148 FFFTTTBLEIBT..(19)@22 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot F, loops 1) 8(pivot R, loops 1)
+crib 149 FFFTTTBLEIBT..(19)@23 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot E, loops 2) 8(pivot T, loops 1)
+crib 150 FFFTTTBLEIBT..(19)@24 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot F, loops 2) 8(pivot B, loops 2)
+crib 151 FFFTTTBLEIBT..(19)@28 used=18 excluded=[32 ] blocks=2 sizes: 9(pivot F, loops 1) 9(pivot T, loops 4)
+crib 152 FFFTTTBLEIBT..(19)@31 used=18 excluded=[32 ] blocks=2 sizes: 9(pivot P, loops 2) 9(pivot B, loops 1)
+crib 153 FFFTTTBLEIBT..(19)@38 used=19 excluded=[] blocks=2 sizes: 10(pivot B, loops 4) 9(pivot F, loops 1)
+crib 154 FFFTTTBLEIBT..(19)@42 used=17 excluded=[58 60 ] blocks=2 sizes: 9(pivot B, loops 3) 8(pivot F, loops 0)
+crib 155 FFFTTTBLEIBT..(19)@46 used=17 excluded=[58 60 ] blocks=2 sizes: 9(pivot T, loops 1) 8(pivot T, loops 1)
+crib 156 FFFTTTBLEIBT..(19)@47 used=17 excluded=[58 60 ] blocks=2 sizes: 9(pivot B, loops 3) 8(pivot E, loops 0)
+crib 157 FFFTTTBLEIBT..(19)@48 used=17 excluded=[58 60 ] blocks=2 sizes: 9(pivot T, loops 0) 8(pivot S, loops 2)
+crib 158 FFFTTTBLEIBT..(19)@49 used=16 excluded=[58 60 67 ] blocks=2 sizes: 8(pivot B, loops 1) 8(pivot T, loops 0)
+crib 159 FFFTTTBLEIBT..(19)@50 used=15 excluded=[58 60 67 68 ] blocks=2 sizes: 8(pivot G, loops 0) 7(pivot T, loops 2)
+crib 160 FFFTTTBLEIBT..(19)@51 used=15 excluded=[58 60 67 68 ] blocks=2 sizes: 8(pivot G, loops 1) 7(pivot S, loops 1)
+crib 161 FFFTTTBLEIBT..(19)@53 used=14 excluded=[58 60 67 68 71 ] blocks=2 sizes: 7(pivot G, loops 1) 7(pivot F, loops 0)
+crib 162 FXTXBLEIBTBE..(17)@8 used=15 excluded=[10 20 ] blocks=2 sizes: 8(pivot B, loops 0) 7(pivot T, loops 0)
+crib 163 FXTXBLEIBTBE..(17)@9 used=14 excluded=[10 20 25 ] blocks=2 sizes: 7(pivot B, loops 0) 7(pivot T, loops 0)
+crib 164 FXTXBLEIBTBE..(17)@11 used=15 excluded=[20 25 ] blocks=2 sizes: 8(pivot F, loops 1) 7(pivot E, loops 0)
+crib 165 FXTXBLEIBTBE..(17)@13 used=15 excluded=[20 25 ] blocks=2 sizes: 8(pivot Z, loops 0) 7(pivot F, loops 1)
+crib 166 FXTXBLEIBTBE..(17)@14 used=15 excluded=[20 25 ] blocks=2 sizes: 8(pivot R, loops 1) 7(pivot B, loops 1)
+crib 167 FXTXBLEIBTBE..(17)@15 used=15 excluded=[20 25 ] blocks=2 sizes: 8(pivot B, loops 0) 7(pivot R, loops 2)
+crib 168 FXTXBLEIBTBE..(17)@16 used=14 excluded=[20 25 32 ] blocks=2 sizes: 7(pivot E, loops 0) 7(pivot Z, loops 1)
+crib 169 FXTXBLEIBTBE..(17)@17 used=14 excluded=[20 25 32 ] blocks=2 sizes: 7(pivot F, loops 0) 7(pivot E, loops 1)
+crib 170 FXTXBLEIBTBE..(17)@18 used=14 excluded=[20 25 32 ] blocks=2 sizes: 7(pivot R, loops 1) 7(pivot C, loops 1)
+crib 171 FXTXBLEIBTBE..(17)@19 used=14 excluded=[20 25 32 ] blocks=2 sizes: 7(pivot P, loops 0) 7(pivot T, loops 1)
+crib 172 FXTXBLEIBTBE..(17)@20 used=14 excluded=[20 25 32 ] blocks=2 sizes: 7(pivot E, loops 0) 7(pivot B, loops 1)
+crib 173 FXTXBLEIBTBE..(17)@21 used=15 excluded=[25 32 ] blocks=2 sizes: 8(pivot C, loops 0) 7(pivot P, loops 0)
+crib 174 FXTXBLEIBTBE..(17)@22 used=15 excluded=[25 32 ] blocks=2 sizes: 8(pivot B, loops 1) 7(pivot E, loops 1)
+crib 175 FXTXBLEIBTBE..(17)@23 used=15 excluded=[25 32 ] blocks=2 sizes: 8(pivot P, loops 0) 7(pivot E, loops 1)
+crib 176 FXTXBLEIBTBE..(17)@24 used=15 excluded=[25 32 ] blocks=2 sizes: 8(pivot L, loops 0) 7(pivot P, loops 1)
+crib 177 FXTXBLEIBTBE..(17)@25 used=15 excluded=[25 32 ] blocks=2 sizes: 8(pivot R, loops 1) 7(pivot E, loops 1)
+crib 178 FXTXBLEIBTBE..(17)@26 used=16 excluded=[32 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot R, loops 3)
+crib 179 FXTXBLEIBTBE..(17)@28 used=16 excluded=[32 ] blocks=2 sizes: 8(pivot R, loops 1) 8(pivot B, loops 0)
+crib 180 FXTXBLEIBTBE..(17)@29 used=16 excluded=[32 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot T, loops 2)
+crib 181 FXTXBLEIBTBE..(17)@30 used=16 excluded=[32 ] blocks=2 sizes: 8(pivot B, loops 1) 8(pivot T, loops 1)
+crib 182 FXTXBLEIBTBE..(17)@33 used=17 excluded=[] blocks=2 sizes: 9(pivot B, loops 0) 8(pivot T, loops 2)
+crib 183 FXTXBLEIBTBE..(17)@40 used=17 excluded=[] blocks=2 sizes: 9(pivot E, loops 1) 8(pivot B, loops 2)
+crib 184 FXTXBLEIBTBE..(17)@44 used=15 excluded=[58 60 ] blocks=2 sizes: 8(pivot B, loops 1) 7(pivot B, loops 1)
+crib 185 FXTXBLEIBTBE..(17)@47 used=15 excluded=[58 60 ] blocks=2 sizes: 8(pivot B, loops 2) 7(pivot X, loops 0)
+crib 186 FXTXBLEIBTBE..(17)@48 used=15 excluded=[58 60 ] blocks=2 sizes: 8(pivot B, loops 1) 7(pivot X, loops 0)
+crib 187 FXTXBLEIBTBE..(17)@50 used=15 excluded=[58 60 ] blocks=2 sizes: 8(pivot X, loops 2) 7(pivot G, loops 0)
+crib 188 FXTXBLEIBTBE..(17)@53 used=13 excluded=[58 60 67 68 ] blocks=2 sizes: 7(pivot S, loops 0) 6(pivot B, loops 1)
+crib 189 FXTXBLEIBTBE..(17)@55 used=12 excluded=[58 60 67 68 71 ] blocks=2 sizes: 6(pivot G, loops 0) 6(pivot B, loops 0)
+crib 190 KLARZUMVERSE..(16)@6 used=14 excluded=[10 20 ] blocks=2 sizes: 7(pivot E, loops 0) 7(pivot K, loops 1)
+crib 191 KLARZUMVERSE..(16)@7 used=14 excluded=[10 20 ] blocks=2 sizes: 7(pivot N, loops 0) 7(pivot E, loops 1)
+crib 192 KLARZUMVERSE..(16)@8 used=14 excluded=[10 20 ] blocks=2 sizes: 7(pivot E, loops 2) 7(pivot K, loops 1)
+crib 193 KLARZUMVERSE..(16)@10 used=13 excluded=[10 20 25 ] blocks=2 sizes: 7(pivot E, loops 1) 6(pivot K, loops 0)
+crib 194 KLARZUMVERSE..(16)@11 used=14 excluded=[20 25 ] blocks=2 sizes: 7(pivot K, loops 0) 7(pivot Z, loops 1)
+crib 195 KLARZUMVERSE..(16)@12 used=14 excluded=[20 25 ] blocks=2 sizes: 7(pivot R, loops 1) 7(pivot N, loops 0)
+crib 196 KLARZUMVERSE..(16)@18 used=13 excluded=[20 25 32 ] blocks=2 sizes: 7(pivot R, loops 0) 6(pivot R, loops 1)
+crib 197 KLARZUMVERSE..(16)@20 used=13 excluded=[20 25 32 ] blocks=2 sizes: 7(pivot C, loops 0) 6(pivot R, loops 0)
+crib 198 KLARZUMVERSE..(16)@22 used=14 excluded=[25 32 ] blocks=2 sizes: 7(pivot C, loops 0) 7(pivot K, loops 0)
+crib 199 KLARZUMVERSE..(16)@28 used=15 excluded=[32 ] blocks=2 sizes: 8(pivot P, loops 2) 7(pivot L, loops 0)
+crib 200 KLARZUMVERSE..(16)@29 used=15 excluded=[32 ] blocks=2 sizes: 8(pivot K, loops 1) 7(pivot V, loops 0)
+crib 201 KLARZUMVERSE..(16)@30 used=15 excluded=[32 ] blocks=2 sizes: 8(pivot K, loops 1) 7(pivot E, loops 1)
+crib 202 KLARZUMVERSE..(16)@31 used=15 excluded=[32 ] blocks=2 sizes: 8(pivot P, loops 2) 7(pivot R, loops 0)
+crib 203 KLARZUMVERSE..(16)@32 used=15 excluded=[32 ] blocks=2 sizes: 8(pivot K, loops 0) 7(pivot L, loops 1)
+crib 204 KLARZUMVERSE..(16)@34 used=16 excluded=[] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot B, loops 1)
+crib 205 KLARZUMVERSE..(16)@36 used=16 excluded=[] blocks=2 sizes: 8(pivot K, loops 1) 8(pivot R, loops 1)
+crib 206 KLARZUMVERSE..(16)@40 used=16 excluded=[] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot N, loops 1)
+crib 207 KLARZUMVERSE..(16)@42 used=16 excluded=[] blocks=2 sizes: 8(pivot V, loops 0) 8(pivot R, loops 2)
+crib 208 KLARZUMVERSE..(16)@44 used=15 excluded=[58 ] blocks=2 sizes: 8(pivot B, loops 0) 7(pivot E, loops 1)
+crib 209 KLARZUMVERSE..(16)@45 used=14 excluded=[58 60 ] blocks=2 sizes: 7(pivot B, loops 0) 7(pivot E, loops 0)
+crib 210 KLARZUMVERSE..(16)@46 used=14 excluded=[58 60 ] blocks=2 sizes: 7(pivot R, loops 0) 7(pivot E, loops 0)
+crib 211 KLARZUMVERSE..(16)@48 used=14 excluded=[58 60 ] blocks=2 sizes: 7(pivot R, loops 0) 7(pivot E, loops 0)
+crib 212 KLARZUMVERSE..(16)@50 used=14 excluded=[58 60 ] blocks=2 sizes: 7(pivot R, loops 0) 7(pivot E, loops 1)
+crib 213 KLARZUMVERSE..(16)@51 used=14 excluded=[58 60 ] blocks=2 sizes: 7(pivot G, loops 0) 7(pivot N, loops 1)
+crib 214 KLARZUMVERSE..(16)@53 used=12 excluded=[58 60 67 68 ] blocks=2 sizes: 6(pivot K, loops 1) 6(pivot G, loops 0)
+crib 215 KLARZUMVERSE..(16)@55 used=12 excluded=[58 60 67 68 ] blocks=2 sizes: 6(pivot G, loops 0) 6(pivot E, loops 0)
+crib 216 KLARZUMVERSE..(26)@6 used=23 excluded=[10 20 25 ] blocks=2 sizes: 12(pivot K, loops 1) 11(pivot C, loops 1)
+crib 217 KLARZUMVERSE..(26)@7 used=22 excluded=[10 20 25 32 ] blocks=2 sizes: 11(pivot R, loops 2) 11(pivot E, loops 2)
+crib 218 KLARZUMVERSE..(26)@8 used=22 excluded=[10 20 25 32 ] blocks=2 sizes: 11(pivot E, loops 2) 11(pivot R, loops 2)
+crib 219 KLARZUMVERSE..(26)@10 used=22 excluded=[10 20 25 32 ] blocks=2 sizes: 11(pivot E, loops 3) 11(pivot R, loops 0)
+crib 220 KLARZUMVERSE..(26)@12 used=23 excluded=[20 25 32 ] blocks=2 sizes: 12(pivot R, loops 3) 11(pivot E, loops 1)
+crib 221 KLARZUMVERSE..(26)@18 used=23 excluded=[20 25 32 ] blocks=2 sizes: 12(pivot E, loops 2) 11(pivot L, loops 2)
+crib 222 KLARZUMVERSE..(26)@20 used=23 excluded=[20 25 32 ] blocks=2 sizes: 12(pivot R, loops 3) 11(pivot E, loops 1)
+crib 223 KLARZUMVERSE..(26)@22 used=24 excluded=[25 32 ] blocks=2 sizes: 12(pivot P, loops 2) 12(pivot L, loops 3)
+crib 224 KLARZUMVERSE..(26)@28 used=25 excluded=[32 ] blocks=2 sizes: 13(pivot R, loops 3) 12(pivot E, loops 3)
+crib 225 KLARZUMVERSE..(26)@30 used=25 excluded=[32 ] blocks=2 sizes: 13(pivot R, loops 3) 12(pivot E, loops 3)
+crib 226 KLARZUMVERSE..(26)@31 used=25 excluded=[32 ] blocks=2 sizes: 13(pivot P, loops 2) 12(pivot B, loops 3)
+crib 227 KLARZUMVERSE..(26)@32 used=25 excluded=[32 ] blocks=2 sizes: 13(pivot R, loops 3) 12(pivot B, loops 3)
+crib 228 KLARZUMVERSE..(26)@34 used=25 excluded=[58 ] blocks=2 sizes: 13(pivot E, loops 4) 12(pivot B, loops 1)
+crib 229 KLARZUMVERSE..(26)@42 used=23 excluded=[58 60 67 ] blocks=2 sizes: 12(pivot E, loops 2) 11(pivot B, loops 2)
+crib 230 KLARZUMVERSE..(26)@44 used=22 excluded=[58 60 67 68 ] blocks=2 sizes: 11(pivot K, loops 2) 11(pivot E, loops 2)
+crib 231 KLARZUMVERSE..(26)@45 used=22 excluded=[58 60 67 68 ] blocks=2 sizes: 11(pivot E, loops 4) 11(pivot B, loops 1)
+crib 232 KLARZUMVERSE..(26)@46 used=21 excluded=[58 60 67 68 71 ] blocks=2 sizes: 11(pivot B, loops 1) 10(pivot E, loops 1)
+crib 233 MARSCHNACHNO..(18)@6 used=16 excluded=[10 20 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot A, loops 0)
+crib 234 MARSCHNACHNO..(18)@7 used=16 excluded=[10 20 ] blocks=2 sizes: 8(pivot C, loops 1) 8(pivot A, loops 0)
+crib 235 MARSCHNACHNO..(18)@8 used=15 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot C, loops 1) 7(pivot O, loops 0)
+crib 236 MARSCHNACHNO..(18)@9 used=15 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot K, loops 0) 7(pivot H, loops 0)
+crib 237 MARSCHNACHNO..(18)@10 used=15 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot C, loops 1) 7(pivot R, loops 1)
+crib 238 MARSCHNACHNO..(18)@11 used=16 excluded=[20 25 ] blocks=2 sizes: 8(pivot C, loops 0) 8(pivot R, loops 0)
+crib 239 MARSCHNACHNO..(18)@13 used=16 excluded=[20 25 ] blocks=2 sizes: 8(pivot K, loops 1) 8(pivot C, loops 0)
+crib 240 MARSCHNACHNO..(18)@15 used=15 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot R, loops 0) 7(pivot C, loops 1)
+crib 241 MARSCHNACHNO..(18)@17 used=15 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot C, loops 0) 7(pivot R, loops 0)
+crib 242 MARSCHNACHNO..(18)@19 used=15 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot C, loops 1) 7(pivot E, loops 1)
+crib 243 MARSCHNACHNO..(18)@22 used=16 excluded=[25 32 ] blocks=2 sizes: 8(pivot R, loops 2) 8(pivot A, loops 0)
+crib 244 MARSCHNACHNO..(18)@23 used=16 excluded=[25 32 ] blocks=2 sizes: 8(pivot L, loops 0) 8(pivot C, loops 1)
+crib 245 MARSCHNACHNO..(18)@27 used=17 excluded=[32 ] blocks=2 sizes: 9(pivot R, loops 2) 8(pivot N, loops 1)
+crib 246 MARSCHNACHNO..(18)@29 used=17 excluded=[32 ] blocks=2 sizes: 9(pivot N, loops 1) 8(pivot R, loops 1)
+crib 247 MARSCHNACHNO..(18)@31 used=17 excluded=[32 ] blocks=2 sizes: 9(pivot P, loops 1) 8(pivot H, loops 1)
+crib 248 MARSCHNACHNO..(18)@32 used=17 excluded=[32 ] blocks=2 sizes: 9(pivot C, loops 1) 8(pivot P, loops 1)
+crib 249 MARSCHNACHNO..(18)@33 used=18 excluded=[] blocks=2 sizes: 9(pivot B, loops 1) 9(pivot H, loops 3)
+crib 250 MARSCHNACHNO..(18)@35 used=18 excluded=[] blocks=2 sizes: 9(pivot B, loops 0) 9(pivot N, loops 1)
+crib 251 MARSCHNACHNO..(18)@36 used=18 excluded=[] blocks=2 sizes: 9(pivot B, loops 0) 9(pivot N, loops 1)
+crib 252 MARSCHNACHNO..(18)@37 used=18 excluded=[] blocks=2 sizes: 9(pivot S, loops 1) 9(pivot B, loops 3)
+crib 253 MARSCHNACHNO..(18)@39 used=18 excluded=[] blocks=2 sizes: 9(pivot G, loops 2) 9(pivot B, loops 1)
+crib 254 MARSCHNACHNO..(18)@43 used=16 excluded=[58 60 ] blocks=2 sizes: 8(pivot B, loops 2) 8(pivot R, loops 1)
+crib 255 MARSCHNACHNO..(18)@44 used=16 excluded=[58 60 ] blocks=2 sizes: 8(pivot B, loops 1) 8(pivot G, loops 1)
+crib 256 MARSCHNACHNO..(18)@45 used=16 excluded=[58 60 ] blocks=2 sizes: 8(pivot R, loops 0) 8(pivot A, loops 1)
+crib 257 MARSCHNACHNO..(18)@46 used=16 excluded=[58 60 ] blocks=2 sizes: 8(pivot B, loops 1) 8(pivot N, loops 0)
+crib 258 MARSCHNACHNO..(18)@49 used=16 excluded=[58 60 ] blocks=2 sizes: 8(pivot R, loops 1) 8(pivot N, loops 1)
+crib 259 MARSCHNACHNO..(18)@51 used=14 excluded=[58 60 67 68 ] blocks=2 sizes: 7(pivot R, loops 0) 7(pivot G, loops 1)
+crib 260 MARSCHNACHNO..(18)@52 used=14 excluded=[58 60 67 68 ] blocks=2 sizes: 7(pivot G, loops 1) 7(pivot S, loops 0)
+crib 261 MARSCHNACHNO..(18)@53 used=14 excluded=[58 60 67 68 ] blocks=2 sizes: 7(pivot C, loops 0) 7(pivot N, loops 0)
+crib 262 SCHALTUNGNAN..(19)@7 used=16 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot U, loops 0) 8(pivot N, loops 2)
+crib 263 SCHALTUNGNAN..(19)@9 used=16 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot N, loops 0) 8(pivot N, loops 0)
+crib 264 SCHALTUNGNAN..(19)@10 used=16 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot N, loops 0) 8(pivot N, loops 0)
+crib 265 SCHALTUNGNAN..(19)@12 used=17 excluded=[20 25 ] blocks=2 sizes: 9(pivot N, loops 0) 8(pivot C, loops 1)
+crib 266 SCHALTUNGNAN..(19)@14 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot R, loops 0) 8(pivot N, loops 0)
+crib 267 SCHALTUNGNAN..(19)@17 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot C, loops 1) 8(pivot R, loops 1)
+crib 268 SCHALTUNGNAN..(19)@18 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot N, loops 0) 8(pivot A, loops 1)
+crib 269 SCHALTUNGNAN..(19)@20 used=16 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot P, loops 1) 8(pivot U, loops 0)
+crib 270 SCHALTUNGNAN..(19)@21 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot N, loops 1) 8(pivot C, loops 0)
+crib 271 SCHALTUNGNAN..(19)@22 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot N, loops 2) 8(pivot R, loops 0)
+crib 272 SCHALTUNGNAN..(19)@24 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot N, loops 3) 8(pivot C, loops 0)
+crib 273 SCHALTUNGNAN..(19)@25 used=17 excluded=[25 32 ] blocks=2 sizes: 9(pivot R, loops 2) 8(pivot P, loops 0)
+crib 274 SCHALTUNGNAN..(19)@26 used=18 excluded=[32 ] blocks=2 sizes: 9(pivot N, loops 1) 9(pivot G, loops 0)
+crib 275 SCHALTUNGNAN..(19)@29 used=18 excluded=[32 ] blocks=2 sizes: 9(pivot N, loops 1) 9(pivot L, loops 1)
+crib 276 SCHALTUNGNAN..(19)@30 used=18 excluded=[32 ] blocks=2 sizes: 9(pivot P, loops 1) 9(pivot B, loops 2)
+crib 277 SCHALTUNGNAN..(19)@31 used=18 excluded=[32 ] blocks=2 sizes: 9(pivot P, loops 2) 9(pivot B, loops 1)
+crib 278 SCHALTUNGNAN..(19)@34 used=19 excluded=[] blocks=2 sizes: 10(pivot B, loops 2) 9(pivot A, loops 0)
+crib 279 SCHALTUNGNAN..(19)@37 used=19 excluded=[] blocks=2 sizes: 10(pivot N, loops 2) 9(pivot S, loops 0)
+crib 280 SCHALTUNGNAN..(19)@38 used=19 excluded=[] blocks=2 sizes: 10(pivot G, loops 1) 9(pivot N, loops 1)
+crib 281 SCHALTUNGNAN..(19)@39 used=19 excluded=[] blocks=2 sizes: 10(pivot T, loops 0) 9(pivot B, loops 3)
+crib 282 SCHALTUNGNAN..(19)@40 used=18 excluded=[58 ] blocks=2 sizes: 9(pivot N, loops 2) 9(pivot R, loops 1)
+crib 283 SCHALTUNGNAN..(19)@42 used=17 excluded=[58 60 ] blocks=2 sizes: 9(pivot G, loops 1) 8(pivot B, loops 1)
+crib 284 SCHALTUNGNAN..(19)@44 used=17 excluded=[58 60 ] blocks=2 sizes: 9(pivot N, loops 2) 8(pivot G, loops 1)
+crib 285 SCHALTUNGNAN..(19)@45 used=17 excluded=[58 60 ] blocks=2 sizes: 9(pivot S, loops 1) 8(pivot G, loops 1)
+crib 286 SCHALTUNGNAN..(19)@46 used=17 excluded=[58 60 ] blocks=2 sizes: 9(pivot N, loops 1) 8(pivot R, loops 0)
+crib 287 SCHALTUNGNAN..(19)@50 used=15 excluded=[58 60 67 68 ] blocks=2 sizes: 8(pivot G, loops 1) 7(pivot N, loops 0)
+crib 288 SOFORTINMARS..(20)@6 used=17 excluded=[10 20 25 ] blocks=2 sizes: 9(pivot O, loops 0) 8(pivot S, loops 0)
+crib 289 SOFORTINMARS..(20)@7 used=17 excluded=[10 20 25 ] blocks=2 sizes: 9(pivot E, loops 0) 8(pivot R, loops 2)
+crib 290 SOFORTINMARS..(20)@9 used=17 excluded=[10 20 25 ] blocks=2 sizes: 9(pivot E, loops 0) 8(pivot S, loops 0)
+crib 291 SOFORTINMARS..(20)@10 used=17 excluded=[10 20 25 ] blocks=2 sizes: 9(pivot R, loops 0) 8(pivot C, loops 0)
+crib 292 SOFORTINMARS..(20)@11 used=18 excluded=[20 25 ] blocks=2 sizes: 9(pivot C, loops 1) 9(pivot R, loops 1)
+crib 293 SOFORTINMARS..(20)@13 used=17 excluded=[20 25 32 ] blocks=2 sizes: 9(pivot T, loops 0) 8(pivot R, loops 1)
+crib 294 SOFORTINMARS..(20)@14 used=17 excluded=[20 25 32 ] blocks=2 sizes: 9(pivot R, loops 2) 8(pivot N, loops 1)
+crib 295 SOFORTINMARS..(20)@15 used=17 excluded=[20 25 32 ] blocks=2 sizes: 9(pivot R, loops 1) 8(pivot C, loops 1)
+crib 296 SOFORTINMARS..(20)@21 used=18 excluded=[25 32 ] blocks=2 sizes: 9(pivot O, loops 0) 9(pivot R, loops 1)
+crib 297 SOFORTINMARS..(20)@23 used=18 excluded=[25 32 ] blocks=2 sizes: 9(pivot E, loops 0) 9(pivot R, loops 2)
+crib 298 SOFORTINMARS..(20)@27 used=19 excluded=[32 ] blocks=2 sizes: 10(pivot R, loops 1) 9(pivot P, loops 1)
+crib 299 SOFORTINMARS..(20)@28 used=19 excluded=[32 ] blocks=2 sizes: 10(pivot R, loops 2) 9(pivot T, loops 1)
+crib 300 SOFORTINMARS..(20)@29 used=19 excluded=[32 ] blocks=2 sizes: 10(pivot R, loops 1) 9(pivot P, loops 0)
+crib 301 SOFORTINMARS..(20)@31 used=19 excluded=[32 ] blocks=2 sizes: 10(pivot P, loops 2) 9(pivot B, loops 1)
+crib 302 SOFORTINMARS..(20)@33 used=20 excluded=[] blocks=2 sizes: 10(pivot R, loops 0) 10(pivot S, loops 2)
+crib 303 SOFORTINMARS..(20)@34 used=20 excluded=[] blocks=2 sizes: 10(pivot R, loops 2) 10(pivot S, loops 0)
+crib 304 SOFORTINMARS..(20)@35 used=20 excluded=[] blocks=2 sizes: 10(pivot P, loops 2) 10(pivot B, loops 1)
+crib 305 SOFORTINMARS..(20)@36 used=20 excluded=[] blocks=2 sizes: 10(pivot H, loops 0) 10(pivot R, loops 2)
+crib 306 SOFORTINMARS..(20)@41 used=18 excluded=[58 60 ] blocks=2 sizes: 9(pivot R, loops 1) 9(pivot G, loops 1)
+crib 307 SOFORTINMARS..(20)@44 used=18 excluded=[58 60 ] blocks=2 sizes: 9(pivot S, loops 0) 9(pivot B, loops 0)
+crib 308 SOFORTINMARS..(20)@47 used=18 excluded=[58 60 ] blocks=2 sizes: 9(pivot N, loops 0) 9(pivot S, loops 0)
+crib 309 SOFORTINMARS..(20)@48 used=17 excluded=[58 60 67 ] blocks=2 sizes: 9(pivot S, loops 1) 8(pivot O, loops 0)
+crib 310 SOFORTINMARS..(20)@49 used=16 excluded=[58 60 67 68 ] blocks=2 sizes: 8(pivot G, loops 0) 8(pivot O, loops 0)
+crib 311 SOFORTINMARS..(20)@50 used=16 excluded=[58 60 67 68 ] blocks=2 sizes: 8(pivot S, loops 1) 8(pivot N, loops 1)
+crib 312 UHRKIELEINGE..(18)@6 used=16 excluded=[10 20 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot E, loops 1)
+crib 313 UHRKIELEINGE..(18)@9 used=15 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot E, loops 1) 7(pivot R, loops 0)
+crib 314 UHRKIELEINGE..(18)@10 used=15 excluded=[10 20 25 ] blocks=2 sizes: 8(pivot E, loops 0) 7(pivot E, loops 1)
+crib 315 UHRKIELEINGE..(18)@11 used=16 excluded=[20 25 ] blocks=2 sizes: 8(pivot E, loops 1) 8(pivot R, loops 0)
+crib 316 UHRKIELEINGE..(18)@14 used=16 excluded=[20 25 ] blocks=2 sizes: 8(pivot R, loops 1) 8(pivot N, loops 0)
+crib 317 UHRKIELEINGE..(18)@15 used=15 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot K, loops 1) 7(pivot C, loops 0)
+crib 318 UHRKIELEINGE..(18)@16 used=15 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot L, loops 1) 7(pivot R, loops 0)
+crib 319 UHRKIELEINGE..(18)@17 used=15 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot E, loops 0) 7(pivot E, loops 0)
+crib 320 UHRKIELEINGE..(18)@18 used=15 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot I, loops 0) 7(pivot E, loops 0)
+crib 321 UHRKIELEINGE..(18)@19 used=15 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot E, loops 2) 7(pivot F, loops 0)
+crib 322 UHRKIELEINGE..(18)@20 used=15 excluded=[20 25 32 ] blocks=2 sizes: 8(pivot R, loops 0) 7(pivot E, loops 1)
+crib 323 UHRKIELEINGE..(18)@21 used=16 excluded=[25 32 ] blocks=2 sizes: 8(pivot R, loops 1) 8(pivot F, loops 1)
+crib 324 UHRKIELEINGE..(18)@23 used=16 excluded=[25 32 ] blocks=2 sizes: 8(pivot E, loops 2) 8(pivot L, loops 0)
+crib 325 UHRKIELEINGE..(18)@25 used=16 excluded=[25 32 ] blocks=2 sizes: 8(pivot E, loops 1) 8(pivot R, loops 1)
+crib 326 UHRKIELEINGE..(18)@27 used=17 excluded=[32 ] blocks=2 sizes: 9(pivot R, loops 1) 8(pivot L, loops 2)
+crib 327 UHRKIELEINGE..(18)@29 used=17 excluded=[32 ] blocks=2 sizes: 9(pivot G, loops 1) 8(pivot E, loops 1)
+crib 328 UHRKIELEINGE..(18)@32 used=17 excluded=[32 ] blocks=2 sizes: 9(pivot I, loops 1) 8(pivot E, loops 2)
+crib 329 UHRKIELEINGE..(18)@33 used=18 excluded=[] blocks=2 sizes: 9(pivot E, loops 3) 9(pivot R, loops 1)
+crib 330 UHRKIELEINGE..(18)@35 used=18 excluded=[] blocks=2 sizes: 9(pivot G, loops 0) 9(pivot B, loops 2)
+crib 331 UHRKIELEINGE..(18)@36 used=18 excluded=[] blocks=2 sizes: 9(pivot L, loops 1) 9(pivot B, loops 1)
+crib 332 UHRKIELEINGE..(18)@37 used=18 excluded=[] blocks=2 sizes: 9(pivot B, loops 1) 9(pivot E, loops 0)
+crib 333 UHRKIELEINGE..(18)@38 used=18 excluded=[] blocks=2 sizes: 9(pivot B, loops 1) 9(pivot L, loops 1)
+crib 334 UHRKIELEINGE..(18)@39 used=18 excluded=[] blocks=2 sizes: 9(pivot B, loops 2) 9(pivot S, loops 0)
+crib 335 UHRKIELEINGE..(18)@41 used=17 excluded=[58 ] blocks=2 sizes: 9(pivot R, loops 1) 8(pivot E, loops 2)
+crib 336 UHRKIELEINGE..(18)@43 used=16 excluded=[58 60 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot B, loops 0)
+crib 337 UHRKIELEINGE..(18)@44 used=16 excluded=[58 60 ] blocks=2 sizes: 8(pivot B, loops 0) 8(pivot V, loops 0)
+crib 338 UHRKIELEINGE..(18)@45 used=16 excluded=[58 60 ] blocks=2 sizes: 8(pivot E, loops 0) 8(pivot E, loops 1)
+crib 339 UHRKIELEINGE..(18)@49 used=16 excluded=[58 60 ] blocks=2 sizes: 8(pivot G, loops 1) 8(pivot S, loops 0)
+crib 340 UHRKIELEINGE..(18)@50 used=15 excluded=[58 60 67 ] blocks=2 sizes: 8(pivot G, loops 1) 7(pivot E, loops 0)
+crib 341 UHRKIELEINGE..(18)@51 used=14 excluded=[58 60 67 68 ] blocks=2 sizes: 7(pivot S, loops 0) 7(pivot G, loops 0)
+crib 342 UHRKIELEINGE..(18)@52 used=14 excluded=[58 60 67 68 ] blocks=2 sizes: 7(pivot E, loops 0) 7(pivot N, loops 1)
+crib 343 UHRKIELEINGE..(18)@53 used=14 excluded=[58 60 67 68 ] blocks=2 sizes: 7(pivot G, loops 0) 7(pivot G, loops 2)
+crib 344 UHRKIELEINGE..(18)@54 used=13 excluded=[58 60 67 68 71 ] blocks=2 sizes: 7(pivot G, loops 0) 6(pivot E, loops 1)
+DONE settings=1 time=0.0s rate=0.000M settings/s (0.000M/s/thread, 1 threads) T-evals/setting=5458.0 stops=233
+crib 0 BESTAETIGUNG..(19)@8: block-stops=1; verified g histogram: g1:1
+crib 1 BESTAETIGUNG..(19)@9: block-stops=1; verified g histogram: g2:1
+crib 2 BESTAETIGUNG..(19)@10: block-stops=0; verified g histogram:
+crib 3 BESTAETIGUNG..(19)@12: block-stops=1; verified g histogram: g6:1
+crib 4 BESTAETIGUNG..(19)@14: block-stops=1; verified g histogram: g1:1
+crib 5 BESTAETIGUNG..(19)@16: block-stops=1; verified g histogram: g3:1
+crib 6 BESTAETIGUNG..(19)@18: block-stops=1; verified g histogram: g4:1
+crib 7 BESTAETIGUNG..(19)@19: block-stops=1; verified g histogram: g1:1
+crib 8 BESTAETIGUNG..(19)@20: block-stops=1; verified g histogram: g3:1
+crib 9 BESTAETIGUNG..(19)@21: block-stops=1; verified g histogram: g2:1
+crib 10 BESTAETIGUNG..(19)@22: block-stops=1; verified g histogram: g5:1
+crib 11 BESTAETIGUNG..(19)@23: block-stops=1; verified g histogram: g5:1
+crib 12 BESTAETIGUNG..(19)@24: block-stops=0; verified g histogram:
+crib 13 BESTAETIGUNG..(19)@25: block-stops=0; verified g histogram:
+crib 14 BESTAETIGUNG..(19)@26: block-stops=1; verified g histogram: g4:1
+crib 15 BESTAETIGUNG..(19)@27: block-stops=1; verified g histogram: g5:1
+crib 16 BESTAETIGUNG..(19)@28: block-stops=0; verified g histogram:
+crib 17 BESTAETIGUNG..(19)@31: block-stops=0; verified g histogram:
+crib 18 BESTAETIGUNG..(19)@34: block-stops=0; verified g histogram:
+crib 19 BESTAETIGUNG..(19)@36: block-stops=0; verified g histogram:
+crib 20 BESTAETIGUNG..(19)@38: block-stops=1; verified g histogram: g6:1
+crib 21 BESTAETIGUNG..(19)@39: block-stops=0; verified g histogram:
+crib 22 BESTAETIGUNG..(19)@40: block-stops=1; verified g histogram: g5:1
+crib 23 BESTAETIGUNG..(19)@41: block-stops=1; verified g histogram: g5:1
+crib 24 BESTAETIGUNG..(19)@43: block-stops=0; verified g histogram:
+crib 25 BESTAETIGUNG..(19)@44: block-stops=1; verified g histogram: g6:1
+crib 26 BESTAETIGUNG..(19)@50: block-stops=1; verified g histogram: g0:1
+crib 27 BESTAETIGUNG..(19)@52: block-stops=1; verified g histogram: g5:1
+crib 28 BESTAETIGUNG..(19)@53: block-stops=1; verified g histogram: g4:1
+crib 29 BOOTEKLARZUM..(21)@6: block-stops=1; verified g histogram: g8:1
+crib 30 BOOTEKLARZUM..(21)@7: block-stops=1; verified g histogram: g5:1
+crib 31 BOOTEKLARZUM..(21)@13: block-stops=1; verified g histogram: g5:1
+crib 32 BOOTEKLARZUM..(21)@15: block-stops=1; verified g histogram: g5:1
+crib 33 BOOTEKLARZUM..(21)@17: block-stops=1; verified g histogram: g7:1
+crib 34 BOOTEKLARZUM..(21)@23: block-stops=1; verified g histogram: g7:1
+crib 35 BOOTEKLARZUM..(21)@24: block-stops=1; verified g histogram: g6:1
+crib 36 BOOTEKLARZUM..(21)@25: block-stops=0; verified g histogram:
+crib 37 BOOTEKLARZUM..(21)@26: block-stops=1; verified g histogram: g6:1
+crib 38 BOOTEKLARZUM..(21)@27: block-stops=1; verified g histogram: g6:1
+crib 39 BOOTEKLARZUM..(21)@29: block-stops=0; verified g histogram:
+crib 40 BOOTEKLARZUM..(21)@31: block-stops=0; verified g histogram:
+crib 41 BOOTEKLARZUM..(21)@35: block-stops=1; verified g histogram: g6:1
+crib 42 BOOTEKLARZUM..(21)@37: block-stops=1; verified g histogram: g5:1
+crib 43 BOOTEKLARZUM..(21)@39: block-stops=1; verified g histogram: g6:1
+crib 44 BOOTEKLARZUM..(21)@40: block-stops=1; verified g histogram: g2:1
+crib 45 BOOTEKLARZUM..(21)@41: block-stops=1; verified g histogram: g7:1
+crib 46 BOOTEKLARZUM..(21)@43: block-stops=1; verified g histogram: g5:1
+crib 47 BOOTEKLARZUM..(21)@48: block-stops=1; verified g histogram: g5:1
+crib 48 BOOTEKLARZUM..(21)@50: block-stops=1; verified g histogram: g6:1
+crib 49 FESTUNGSALAR..(21)@7: block-stops=1; verified g histogram: g6:1
+crib 50 FESTUNGSALAR..(21)@9: block-stops=1; verified g histogram: g5:1
+crib 51 FESTUNGSALAR..(21)@13: block-stops=1; verified g histogram: g4:1
+crib 52 FESTUNGSALAR..(21)@21: block-stops=1; verified g histogram: g4:1
+crib 53 FESTUNGSALAR..(21)@22: block-stops=1; verified g histogram: g7:1
+crib 54 FESTUNGSALAR..(21)@23: block-stops=1; verified g histogram: g6:1
+crib 55 FESTUNGSALAR..(21)@24: block-stops=0; verified g histogram:
+crib 56 FESTUNGSALAR..(21)@25: block-stops=1; verified g histogram: g4:1
+crib 57 FESTUNGSALAR..(21)@28: block-stops=0; verified g histogram:
+crib 58 FESTUNGSALAR..(21)@29: block-stops=0; verified g histogram:
+crib 59 FESTUNGSALAR..(21)@30: block-stops=1; verified g histogram: g5:1
+crib 60 FESTUNGSALAR..(21)@32: block-stops=0; verified g histogram:
+crib 61 FESTUNGSALAR..(21)@33: block-stops=0; verified g histogram:
+crib 62 FESTUNGSALAR..(21)@36: block-stops=0; verified g histogram:
+crib 63 FESTUNGSALAR..(21)@37: block-stops=1; verified g histogram: g2:1
+crib 64 FESTUNGSALAR..(21)@38: block-stops=1; verified g histogram: g5:1
+crib 65 FESTUNGSALAR..(21)@40: block-stops=0; verified g histogram:
+crib 66 FESTUNGSALAR..(21)@41: block-stops=1; verified g histogram: g1:1
+crib 67 FESTUNGSALAR..(21)@42: block-stops=0; verified g histogram:
+crib 68 FESTUNGSALAR..(21)@43: block-stops=1; verified g histogram: g4:1
+crib 69 FESTUNGSALAR..(21)@47: block-stops=1; verified g histogram: g5:1
+crib 70 FESTUNGSALAR..(21)@48: block-stops=1; verified g histogram: g3:1
+crib 71 FESTUNGSALAR..(31)@7: block-stops=0; verified g histogram:
+crib 72 FESTUNGSALAR..(31)@9: block-stops=0; verified g histogram:
+crib 73 FESTUNGSALAR..(31)@13: block-stops=0; verified g histogram:
+crib 74 FESTUNGSALAR..(31)@22: block-stops=0; verified g histogram:
+crib 75 FESTUNGSALAR..(31)@23: block-stops=0; verified g histogram:
+crib 76 FESTUNGSALAR..(31)@24: block-stops=0; verified g histogram:
+crib 77 FESTUNGSALAR..(31)@25: block-stops=0; verified g histogram:
+crib 78 FESTUNGSALAR..(31)@28: block-stops=0; verified g histogram:
+crib 79 FESTUNGSALAR..(31)@29: block-stops=0; verified g histogram:
+crib 80 FESTUNGSALAR..(31)@30: block-stops=0; verified g histogram:
+crib 81 FESTUNGSALAR..(31)@36: block-stops=0; verified g histogram:
+crib 82 FESTUNGSALAR..(31)@37: block-stops=0; verified g histogram:
+crib 83 FESTUNGSALAR..(31)@38: block-stops=0; verified g histogram:
+crib 84 FESTUNGSALAR..(31)@40: block-stops=0; verified g histogram:
+crib 85 FESTUNGSALAR..(28)@7: block-stops=0; verified g histogram:
+crib 86 FESTUNGSALAR..(28)@9: block-stops=0; verified g histogram:
+crib 87 FESTUNGSALAR..(28)@13: block-stops=0; verified g histogram:
+crib 88 FESTUNGSALAR..(28)@22: block-stops=0; verified g histogram:
+crib 89 FESTUNGSALAR..(28)@23: block-stops=1; verified g histogram: g9:1
+crib 90 FESTUNGSALAR..(28)@24: block-stops=0; verified g histogram:
+crib 91 FESTUNGSALAR..(28)@29: block-stops=0; verified g histogram:
+crib 92 FESTUNGSALAR..(28)@30: block-stops=0; verified g histogram:
+crib 93 FESTUNGSALAR..(28)@32: block-stops=0; verified g histogram:
+crib 94 FESTUNGSALAR..(28)@33: block-stops=0; verified g histogram:
+crib 95 FESTUNGSALAR..(28)@36: block-stops=0; verified g histogram:
+crib 96 FESTUNGSALAR..(28)@37: block-stops=0; verified g histogram:
+crib 97 FESTUNGSALAR..(28)@38: block-stops=0; verified g histogram:
+crib 98 FESTUNGSALAR..(28)@41: block-stops=0; verified g histogram:
+crib 99 FESTUNGSALAR..(28)@42: block-stops=0; verified g histogram:
+crib 100 FESTUNGSALAR..(28)@43: block-stops=0; verified g histogram:
+crib 101 FESTUNGSALAR..(17)@7: block-stops=1; verified g histogram: g5:1
+crib 102 FESTUNGSALAR..(17)@8: block-stops=1; verified g histogram: g0:1
+crib 103 FESTUNGSALAR..(17)@9: block-stops=1; verified g histogram: g2:1
+crib 104 FESTUNGSALAR..(17)@10: block-stops=1; verified g histogram: g1:1
+crib 105 FESTUNGSALAR..(17)@13: block-stops=1; verified g histogram: g1:1
+crib 106 FESTUNGSALAR..(17)@14: block-stops=1; verified g histogram: g2:1
+crib 107 FESTUNGSALAR..(17)@16: block-stops=1; verified g histogram: g1:1
+crib 108 FESTUNGSALAR..(17)@21: block-stops=1; verified g histogram: g1:1
+crib 109 FESTUNGSALAR..(17)@22: block-stops=1; verified g histogram: g4:1
+crib 110 FESTUNGSALAR..(17)@23: block-stops=1; verified g histogram: g2:1
+crib 111 FESTUNGSALAR..(17)@25: block-stops=1; verified g histogram: g3:1
+crib 112 FESTUNGSALAR..(17)@26: block-stops=1; verified g histogram: g5:1
+crib 113 FESTUNGSALAR..(17)@28: block-stops=1; verified g histogram: g2:1
+crib 114 FESTUNGSALAR..(17)@29: block-stops=0; verified g histogram:
+crib 115 FESTUNGSALAR..(17)@30: block-stops=1; verified g histogram: g1:1
+crib 116 FESTUNGSALAR..(17)@32: block-stops=1; verified g histogram: g4:1
+crib 117 FESTUNGSALAR..(17)@33: block-stops=1; verified g histogram: g4:1
+crib 118 FESTUNGSALAR..(17)@34: block-stops=1; verified g histogram: g3:1
+crib 119 FESTUNGSALAR..(17)@36: block-stops=1; verified g histogram: g3:1
+crib 120 FESTUNGSALAR..(17)@37: block-stops=1; verified g histogram: g5:1
+crib 121 FESTUNGSALAR..(17)@38: block-stops=1; verified g histogram: g2:1
+crib 122 FESTUNGSALAR..(17)@40: block-stops=1; verified g histogram: g2:1
+crib 123 FESTUNGSALAR..(17)@41: block-stops=1; verified g histogram: g4:1
+crib 124 FESTUNGSALAR..(17)@42: block-stops=1; verified g histogram: g4:1
+crib 125 FESTUNGSALAR..(17)@43: block-stops=1; verified g histogram: g0:1
+crib 126 FESTUNGSALAR..(17)@47: block-stops=1; verified g histogram: g1:1
+crib 127 FESTUNGSALAR..(17)@48: block-stops=1; verified g histogram: g4:1
+crib 128 FESTUNGSALAR..(17)@52: block-stops=1; verified g histogram: g2:1
+crib 129 FESTUNGSALAR..(17)@53: block-stops=1; verified g histogram: g2:1
+crib 130 FESTUNGSALAR..(17)@54: block-stops=1; verified g histogram: g2:1
+crib 131 FESTUNGSALAR..(17)@55: block-stops=1; verified g histogram: g2:1
+crib 132 FFFTTTBLEIBT..(19)@6: block-stops=1; verified g histogram: g5:1
+crib 133 FFFTTTBLEIBT..(19)@7: block-stops=1; verified g histogram: g1:1
+crib 134 FFFTTTBLEIBT..(19)@8: block-stops=1; verified g histogram: g4:1
+crib 135 FFFTTTBLEIBT..(19)@9: block-stops=1; verified g histogram: g0:1
+crib 136 FFFTTTBLEIBT..(19)@10: block-stops=0; verified g histogram:
+crib 137 FFFTTTBLEIBT..(19)@11: block-stops=0; verified g histogram:
+crib 138 FFFTTTBLEIBT..(19)@12: block-stops=0; verified g histogram:
+crib 139 FFFTTTBLEIBT..(19)@13: block-stops=1; verified g histogram: g4:1
+crib 140 FFFTTTBLEIBT..(19)@14: block-stops=1; verified g histogram: g5:1
+crib 141 FFFTTTBLEIBT..(19)@15: block-stops=0; verified g histogram:
+crib 142 FFFTTTBLEIBT..(19)@16: block-stops=0; verified g histogram:
+crib 143 FFFTTTBLEIBT..(19)@17: block-stops=1; verified g histogram: g3:1
+crib 144 FFFTTTBLEIBT..(19)@18: block-stops=1; verified g histogram: g6:1
+crib 145 FFFTTTBLEIBT..(19)@19: block-stops=1; verified g histogram: g1:1
+crib 146 FFFTTTBLEIBT..(19)@20: block-stops=0; verified g histogram:
+crib 147 FFFTTTBLEIBT..(19)@21: block-stops=1; verified g histogram: g3:1
+crib 148 FFFTTTBLEIBT..(19)@22: block-stops=1; verified g histogram: g6:1
+crib 149 FFFTTTBLEIBT..(19)@23: block-stops=0; verified g histogram:
+crib 150 FFFTTTBLEIBT..(19)@24: block-stops=0; verified g histogram:
+crib 151 FFFTTTBLEIBT..(19)@28: block-stops=0; verified g histogram:
+crib 152 FFFTTTBLEIBT..(19)@31: block-stops=0; verified g histogram:
+crib 153 FFFTTTBLEIBT..(19)@38: block-stops=0; verified g histogram:
+crib 154 FFFTTTBLEIBT..(19)@42: block-stops=1; verified g histogram: g7:1
+crib 155 FFFTTTBLEIBT..(19)@46: block-stops=0; verified g histogram:
+crib 156 FFFTTTBLEIBT..(19)@47: block-stops=1; verified g histogram: g5:1
+crib 157 FFFTTTBLEIBT..(19)@48: block-stops=1; verified g histogram: g5:1
+crib 158 FFFTTTBLEIBT..(19)@49: block-stops=1; verified g histogram: g5:1
+crib 159 FFFTTTBLEIBT..(19)@50: block-stops=1; verified g histogram: g1:1
+crib 160 FFFTTTBLEIBT..(19)@51: block-stops=1; verified g histogram: g5:1
+crib 161 FFFTTTBLEIBT..(19)@53: block-stops=1; verified g histogram: g3:1
+crib 162 FXTXBLEIBTBE..(17)@8: block-stops=1; verified g histogram: g3:1
+crib 163 FXTXBLEIBTBE..(17)@9: block-stops=1; verified g histogram: g0:1
+crib 164 FXTXBLEIBTBE..(17)@11: block-stops=1; verified g histogram: g1:1
+crib 165 FXTXBLEIBTBE..(17)@13: block-stops=1; verified g histogram: g6:1
+crib 166 FXTXBLEIBTBE..(17)@14: block-stops=1; verified g histogram: g2:1
+crib 167 FXTXBLEIBTBE..(17)@15: block-stops=1; verified g histogram: g1:1
+crib 168 FXTXBLEIBTBE..(17)@16: block-stops=1; verified g histogram: g0:1
+crib 169 FXTXBLEIBTBE..(17)@17: block-stops=1; verified g histogram: g0:1
+crib 170 FXTXBLEIBTBE..(17)@18: block-stops=1; verified g histogram: g0:1
+crib 171 FXTXBLEIBTBE..(17)@19: block-stops=1; verified g histogram: g3:1
+crib 172 FXTXBLEIBTBE..(17)@20: block-stops=1; verified g histogram: g4:1
+crib 173 FXTXBLEIBTBE..(17)@21: block-stops=1; verified g histogram: g5:1
+crib 174 FXTXBLEIBTBE..(17)@22: block-stops=0; verified g histogram:
+crib 175 FXTXBLEIBTBE..(17)@23: block-stops=1; verified g histogram: g1:1
+crib 176 FXTXBLEIBTBE..(17)@24: block-stops=1; verified g histogram: g5:1
+crib 177 FXTXBLEIBTBE..(17)@25: block-stops=0; verified g histogram:
+crib 178 FXTXBLEIBTBE..(17)@26: block-stops=1; verified g histogram: g1:1
+crib 179 FXTXBLEIBTBE..(17)@28: block-stops=1; verified g histogram: g2:1
+crib 180 FXTXBLEIBTBE..(17)@29: block-stops=1; verified g histogram: g1:1
+crib 181 FXTXBLEIBTBE..(17)@30: block-stops=0; verified g histogram:
+crib 182 FXTXBLEIBTBE..(17)@33: block-stops=1; verified g histogram: g5:1
+crib 183 FXTXBLEIBTBE..(17)@40: block-stops=0; verified g histogram:
+crib 184 FXTXBLEIBTBE..(17)@44: block-stops=1; verified g histogram: g2:1
+crib 185 FXTXBLEIBTBE..(17)@47: block-stops=1; verified g histogram: g0:1
+crib 186 FXTXBLEIBTBE..(17)@48: block-stops=1; verified g histogram: g1:1
+crib 187 FXTXBLEIBTBE..(17)@50: block-stops=1; verified g histogram: g3:1
+crib 188 FXTXBLEIBTBE..(17)@53: block-stops=1; verified g histogram: g4:1
+crib 189 FXTXBLEIBTBE..(17)@55: block-stops=1; verified g histogram: g2:1
+crib 190 KLARZUMVERSE..(16)@6: block-stops=1; verified g histogram: g2:1
+crib 191 KLARZUMVERSE..(16)@7: block-stops=1; verified g histogram: g6:1
+crib 192 KLARZUMVERSE..(16)@8: block-stops=0; verified g histogram:
+crib 193 KLARZUMVERSE..(16)@10: block-stops=1; verified g histogram: g1:1
+crib 194 KLARZUMVERSE..(16)@11: block-stops=1; verified g histogram: g4:1
+crib 195 KLARZUMVERSE..(16)@12: block-stops=1; verified g histogram: g1:1
+crib 196 KLARZUMVERSE..(16)@18: block-stops=1; verified g histogram: g3:1
+crib 197 KLARZUMVERSE..(16)@20: block-stops=1; verified g histogram: g2:1
+crib 198 KLARZUMVERSE..(16)@22: block-stops=1; verified g histogram: g2:1
+crib 199 KLARZUMVERSE..(16)@28: block-stops=1; verified g histogram: g5:1
+crib 200 KLARZUMVERSE..(16)@29: block-stops=1; verified g histogram: g5:1
+crib 201 KLARZUMVERSE..(16)@30: block-stops=0; verified g histogram:
+crib 202 KLARZUMVERSE..(16)@31: block-stops=1; verified g histogram: g2:1
+crib 203 KLARZUMVERSE..(16)@32: block-stops=1; verified g histogram: g3:1
+crib 204 KLARZUMVERSE..(16)@34: block-stops=1; verified g histogram: g6:1
+crib 205 KLARZUMVERSE..(16)@36: block-stops=0; verified g histogram:
+crib 206 KLARZUMVERSE..(16)@40: block-stops=1; verified g histogram: g3:1
+crib 207 KLARZUMVERSE..(16)@42: block-stops=1; verified g histogram: g4:1
+crib 208 KLARZUMVERSE..(16)@44: block-stops=1; verified g histogram: g2:1
+crib 209 KLARZUMVERSE..(16)@45: block-stops=1; verified g histogram: g2:1
+crib 210 KLARZUMVERSE..(16)@46: block-stops=1; verified g histogram: g2:1
+crib 211 KLARZUMVERSE..(16)@48: block-stops=1; verified g histogram: g2:1
+crib 212 KLARZUMVERSE..(16)@50: block-stops=1; verified g histogram: g3:1
+crib 213 KLARZUMVERSE..(16)@51: block-stops=1; verified g histogram: g5:1
+crib 214 KLARZUMVERSE..(16)@53: block-stops=1; verified g histogram: g2:1
+crib 215 KLARZUMVERSE..(16)@55: block-stops=1; verified g histogram: g3:1
+crib 216 KLARZUMVERSE..(26)@6: block-stops=1; verified g histogram: g8:1
+crib 217 KLARZUMVERSE..(26)@7: block-stops=0; verified g histogram:
+crib 218 KLARZUMVERSE..(26)@8: block-stops=0; verified g histogram:
+crib 219 KLARZUMVERSE..(26)@10: block-stops=0; verified g histogram:
+crib 220 KLARZUMVERSE..(26)@12: block-stops=0; verified g histogram:
+crib 221 KLARZUMVERSE..(26)@18: block-stops=0; verified g histogram:
+crib 222 KLARZUMVERSE..(26)@20: block-stops=0; verified g histogram:
+crib 223 KLARZUMVERSE..(26)@22: block-stops=0; verified g histogram:
+crib 224 KLARZUMVERSE..(26)@28: block-stops=0; verified g histogram:
+crib 225 KLARZUMVERSE..(26)@30: block-stops=0; verified g histogram:
+crib 226 KLARZUMVERSE..(26)@31: block-stops=0; verified g histogram:
+crib 227 KLARZUMVERSE..(26)@32: block-stops=0; verified g histogram:
+crib 228 KLARZUMVERSE..(26)@34: block-stops=0; verified g histogram:
+crib 229 KLARZUMVERSE..(26)@42: block-stops=0; verified g histogram:
+crib 230 KLARZUMVERSE..(26)@44: block-stops=0; verified g histogram:
+crib 231 KLARZUMVERSE..(26)@45: block-stops=1; verified g histogram: g11:1
+crib 232 KLARZUMVERSE..(26)@46: block-stops=0; verified g histogram:
+crib 233 MARSCHNACHNO..(18)@6: block-stops=1; verified g histogram: g0:1
+crib 234 MARSCHNACHNO..(18)@7: block-stops=1; verified g histogram: g4:1
+crib 235 MARSCHNACHNO..(18)@8: block-stops=1; verified g histogram: g0:1
+crib 236 MARSCHNACHNO..(18)@9: block-stops=1; verified g histogram: g0:1
+crib 237 MARSCHNACHNO..(18)@10: block-stops=0; verified g histogram:
+crib 238 MARSCHNACHNO..(18)@11: block-stops=1; verified g histogram: g1:1
+crib 239 MARSCHNACHNO..(18)@13: block-stops=1; verified g histogram: g5:1
+crib 240 MARSCHNACHNO..(18)@15: block-stops=1; verified g histogram: g2:1
+crib 241 MARSCHNACHNO..(18)@17: block-stops=1; verified g histogram: g4:1
+crib 242 MARSCHNACHNO..(18)@19: block-stops=0; verified g histogram:
+crib 243 MARSCHNACHNO..(18)@22: block-stops=1; verified g histogram: g5:1
+crib 244 MARSCHNACHNO..(18)@23: block-stops=1; verified g histogram: g5:1
+crib 245 MARSCHNACHNO..(18)@27: block-stops=0; verified g histogram:
+crib 246 MARSCHNACHNO..(18)@29: block-stops=0; verified g histogram:
+crib 247 MARSCHNACHNO..(18)@31: block-stops=0; verified g histogram:
+crib 248 MARSCHNACHNO..(18)@32: block-stops=0; verified g histogram:
+crib 249 MARSCHNACHNO..(18)@33: block-stops=0; verified g histogram:
+crib 250 MARSCHNACHNO..(18)@35: block-stops=1; verified g histogram: g7:1
+crib 251 MARSCHNACHNO..(18)@36: block-stops=1; verified g histogram: g3:1
+crib 252 MARSCHNACHNO..(18)@37: block-stops=1; verified g histogram: g2:1
+crib 253 MARSCHNACHNO..(18)@39: block-stops=0; verified g histogram:
+crib 254 MARSCHNACHNO..(18)@43: block-stops=0; verified g histogram:
+crib 255 MARSCHNACHNO..(18)@44: block-stops=0; verified g histogram:
+crib 256 MARSCHNACHNO..(18)@45: block-stops=1; verified g histogram: g5:1
+crib 257 MARSCHNACHNO..(18)@46: block-stops=1; verified g histogram: g0:1
+crib 258 MARSCHNACHNO..(18)@49: block-stops=1; verified g histogram: g3:1
+crib 259 MARSCHNACHNO..(18)@51: block-stops=1; verified g histogram: g2:1
+crib 260 MARSCHNACHNO..(18)@52: block-stops=1; verified g histogram: g0:1
+crib 261 MARSCHNACHNO..(18)@53: block-stops=1; verified g histogram: g1:1
+crib 262 SCHALTUNGNAN..(19)@7: block-stops=1; verified g histogram: g0:1
+crib 263 SCHALTUNGNAN..(19)@9: block-stops=1; verified g histogram: g3:1
+crib 264 SCHALTUNGNAN..(19)@10: block-stops=1; verified g histogram: g1:1
+crib 265 SCHALTUNGNAN..(19)@12: block-stops=1; verified g histogram: g3:1
+crib 266 SCHALTUNGNAN..(19)@14: block-stops=1; verified g histogram: g3:1
+crib 267 SCHALTUNGNAN..(19)@17: block-stops=1; verified g histogram: g3:1
+crib 268 SCHALTUNGNAN..(19)@18: block-stops=1; verified g histogram: g4:1
+crib 269 SCHALTUNGNAN..(19)@20: block-stops=1; verified g histogram: g3:1
+crib 270 SCHALTUNGNAN..(19)@21: block-stops=1; verified g histogram: g3:1
+crib 271 SCHALTUNGNAN..(19)@22: block-stops=1; verified g histogram: g4:1
+crib 272 SCHALTUNGNAN..(19)@24: block-stops=1; verified g histogram: g0:1
+crib 273 SCHALTUNGNAN..(19)@25: block-stops=1; verified g histogram: g2:1
+crib 274 SCHALTUNGNAN..(19)@26: block-stops=1; verified g histogram: g4:1
+crib 275 SCHALTUNGNAN..(19)@29: block-stops=0; verified g histogram:
+crib 276 SCHALTUNGNAN..(19)@30: block-stops=0; verified g histogram:
+crib 277 SCHALTUNGNAN..(19)@31: block-stops=0; verified g histogram:
+crib 278 SCHALTUNGNAN..(19)@34: block-stops=1; verified g histogram: g7:1
+crib 279 SCHALTUNGNAN..(19)@37: block-stops=1; verified g histogram: g5:1
+crib 280 SCHALTUNGNAN..(19)@38: block-stops=1; verified g histogram: g4:1
+crib 281 SCHALTUNGNAN..(19)@39: block-stops=0; verified g histogram:
+crib 282 SCHALTUNGNAN..(19)@40: block-stops=0; verified g histogram:
+crib 283 SCHALTUNGNAN..(19)@42: block-stops=0; verified g histogram:
+crib 284 SCHALTUNGNAN..(19)@44: block-stops=0; verified g histogram:
+crib 285 SCHALTUNGNAN..(19)@45: block-stops=0; verified g histogram:
+crib 286 SCHALTUNGNAN..(19)@46: block-stops=1; verified g histogram: g6:1
+crib 287 SCHALTUNGNAN..(19)@50: block-stops=1; verified g histogram: g4:1
+crib 288 SOFORTINMARS..(20)@6: block-stops=1; verified g histogram: g3:1
+crib 289 SOFORTINMARS..(20)@7: block-stops=1; verified g histogram: g6:1
+crib 290 SOFORTINMARS..(20)@9: block-stops=1; verified g histogram: g3:1
+crib 291 SOFORTINMARS..(20)@10: block-stops=1; verified g histogram: g2:1
+crib 292 SOFORTINMARS..(20)@11: block-stops=1; verified g histogram: g4:1
+crib 293 SOFORTINMARS..(20)@13: block-stops=1; verified g histogram: g6:1
+crib 294 SOFORTINMARS..(20)@14: block-stops=0; verified g histogram:
+crib 295 SOFORTINMARS..(20)@15: block-stops=0; verified g histogram:
+crib 296 SOFORTINMARS..(20)@21: block-stops=1; verified g histogram: g2:1
+crib 297 SOFORTINMARS..(20)@23: block-stops=1; verified g histogram: g7:1
+crib 298 SOFORTINMARS..(20)@27: block-stops=0; verified g histogram:
+crib 299 SOFORTINMARS..(20)@28: block-stops=1; verified g histogram: g5:1
+crib 300 SOFORTINMARS..(20)@29: block-stops=1; verified g histogram: g3:1
+crib 301 SOFORTINMARS..(20)@31: block-stops=0; verified g histogram:
+crib 302 SOFORTINMARS..(20)@33: block-stops=1; verified g histogram: g9:1
+crib 303 SOFORTINMARS..(20)@34: block-stops=1; verified g histogram: g4:1
+crib 304 SOFORTINMARS..(20)@35: block-stops=0; verified g histogram:
+crib 305 SOFORTINMARS..(20)@36: block-stops=1; verified g histogram: g5:1
+crib 306 SOFORTINMARS..(20)@41: block-stops=1; verified g histogram: g3:1
+crib 307 SOFORTINMARS..(20)@44: block-stops=1; verified g histogram: g3:1
+crib 308 SOFORTINMARS..(20)@47: block-stops=1; verified g histogram: g3:1
+crib 309 SOFORTINMARS..(20)@48: block-stops=1; verified g histogram: g3:1
+crib 310 SOFORTINMARS..(20)@49: block-stops=1; verified g histogram: g1:1
+crib 311 SOFORTINMARS..(20)@50: block-stops=1; verified g histogram: g2:1
+crib 312 UHRKIELEINGE..(18)@6: block-stops=1; verified g histogram: g0:1
+crib 313 UHRKIELEINGE..(18)@9: block-stops=1; verified g histogram: g3:1
+crib 314 UHRKIELEINGE..(18)@10: block-stops=1; verified g histogram: g4:1
+crib 315 UHRKIELEINGE..(18)@11: block-stops=1; verified g histogram: g5:1
+crib 316 UHRKIELEINGE..(18)@14: block-stops=1; verified g histogram: g1:1
+crib 317 UHRKIELEINGE..(18)@15: block-stops=1; verified g histogram: g4:1
+crib 318 UHRKIELEINGE..(18)@16: block-stops=1; verified g histogram: g2:1
+crib 319 UHRKIELEINGE..(18)@17: block-stops=1; verified g histogram: g2:1
+crib 320 UHRKIELEINGE..(18)@18: block-stops=1; verified g histogram: g2:1
+crib 321 UHRKIELEINGE..(18)@19: block-stops=1; verified g histogram: g0:1
+crib 322 UHRKIELEINGE..(18)@20: block-stops=1; verified g histogram: g1:1
+crib 323 UHRKIELEINGE..(18)@21: block-stops=1; verified g histogram: g3:1
+crib 324 UHRKIELEINGE..(18)@23: block-stops=1; verified g histogram: g5:1
+crib 325 UHRKIELEINGE..(18)@25: block-stops=1; verified g histogram: g5:1
+crib 326 UHRKIELEINGE..(18)@27: block-stops=0; verified g histogram:
+crib 327 UHRKIELEINGE..(18)@29: block-stops=1; verified g histogram: g5:1
+crib 328 UHRKIELEINGE..(18)@32: block-stops=0; verified g histogram:
+crib 329 UHRKIELEINGE..(18)@33: block-stops=0; verified g histogram:
+crib 330 UHRKIELEINGE..(18)@35: block-stops=1; verified g histogram: g9:1
+crib 331 UHRKIELEINGE..(18)@36: block-stops=1; verified g histogram: g5:1
+crib 332 UHRKIELEINGE..(18)@37: block-stops=1; verified g histogram: g4:1
+crib 333 UHRKIELEINGE..(18)@38: block-stops=0; verified g histogram:
+crib 334 UHRKIELEINGE..(18)@39: block-stops=1; verified g histogram: g8:1
+crib 335 UHRKIELEINGE..(18)@41: block-stops=0; verified g histogram:
+crib 336 UHRKIELEINGE..(18)@43: block-stops=1; verified g histogram: g5:1
+crib 337 UHRKIELEINGE..(18)@44: block-stops=1; verified g histogram: g3:1
+crib 338 UHRKIELEINGE..(18)@45: block-stops=1; verified g histogram: g3:1
+crib 339 UHRKIELEINGE..(18)@49: block-stops=1; verified g histogram: g5:1
+crib 340 UHRKIELEINGE..(18)@50: block-stops=1; verified g histogram: g1:1
+crib 341 UHRKIELEINGE..(18)@51: block-stops=1; verified g histogram: g2:1
+crib 342 UHRKIELEINGE..(18)@52: block-stops=1; verified g histogram: g3:1
+crib 343 UHRKIELEINGE..(18)@53: block-stops=1; verified g histogram: g3:1
+crib 344 UHRKIELEINGE..(18)@54: block-stops=1; verified g histogram: g3:1

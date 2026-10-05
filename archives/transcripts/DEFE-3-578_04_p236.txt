@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/368997 too=2005 toi=1821/2/5/45 freq=350 KCS from=VS 508 to=8TH DEFENCE DIVISION
+GIST VS 508 reports to 8th Defence Division that U93 is at 'C' awaiting escort.
+
+ADM (2)
+
+TO I D 8 G                                   ZIP/ZTPG/368997
+
+FROM IIS
+
+350 KCS          TOO 2005                    .TOI 1821/2/5/45
+
+FROM: VS 508
+TO   : 8TH DEFENCE DIVISION
+
+U93 AT 'C', AWAITING ESCORT;
+
+2140/16/5/45++AND/JW

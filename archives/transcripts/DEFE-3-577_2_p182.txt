@@ -1,0 +1,20 @@
+META serial=367379 too=2151 toi=2025/30/4/45 freq=250 kcs from=8TH DEFENCE DIVISION to=W 293
+GIST 8th Defence Division orders VS.1002 to accompany today's task as flak escort on 30 April.
+
+ADM C22
+
+TO: I D 8 G
+
+FROM: N S
+
+250 KC/S        T O O 2151                T O I 2025/30/4/45
+
+FROM: 8TH DEFENCE DIVISION
+
+TO: W 293
+
+VS.1002 WILL ACCOMPANY TODAY'S TASK AS FLAK ESCORT, JOINING
+
+COMPANY ON ANCHORAGE 'E' ABOUT 0200/1/5.
+
+0150/1/5/45+++CEL/FA

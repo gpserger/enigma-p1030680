@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPGU/39000 (ND) too=1109 toi=1028/3/5/45 freq=7165 KC/S from=CAPTAIN (U/B) NORTHERN WATERS to=KM ANDERSEN
+GIST Captain commanding Northern Waters U-boats reports radio transmissions to KM Andersen.
+
+ADM (S)
+
+TO: I D R G                                  ZIP/ ZTPGU/39000 (ND)
+
+FROM: N S
+
+7165 KC/S          T O O 1109          T O I 1028/3/5/45
+
+FROM: CAPTAIN (U/B ) NORTHERN WATERS
+
+TO:   KM ANDERSEN
+
+LINCOEY RADIATES 'G:YK' ON 240 KC/S.
+
+1730/5/5/45 EE/MJU

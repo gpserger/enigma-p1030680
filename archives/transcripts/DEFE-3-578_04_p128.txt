@@ -1,0 +1,18 @@
+META serial=3687/05 too=1647 toi=1520/4/5/45 freq=4412KCS from=S.O. 6TH I. FLOTILLA to=SEA DEFENCE COMMANDANT POMERANIAN COAST
+GIST: Senior officer 6th flotilla sends emergency message that F239 sunk with entire crew rescued.
+
+ADM(C2)
+TO I D B G                                 ZIP/ZTPG/3687/05
+
+FROM NS
+
+4412 KCS        TOO 1647        TOI 1520/4/5/45
+
+FROM: S.O. 6TH I. FLOTILLA
+TO  : SEA DEFENCE COMMANDANT POMERANIAN COAST
+
+EMERGENCY
+
+F239 SUNK. ENTIRE CREW RESCUED
+
+1204/13/5/45++ECT/IW

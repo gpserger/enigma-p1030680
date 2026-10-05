@@ -1,0 +1,22 @@
+META serial=367929 too=0449 toi=0710/30/4/45 freq=3978 from=NS to=IDB G
+GIST Emergency message from 10th Defence Division to Supreme Command Navy on ammunition steamship positions including vessels at Swinmünde and Warnemünde.
+
+ADM C4)
+TO IDB G                                        Z IP/ZTPG/367929
+FROM NS
+
+3978 KCS         TOO 0449                TOI 0710/30/4/45
+
+FROM: 10TH DEFENCE DIVISION
+TO  : SUPREME COMMAND NAVY, NAVAL WAR STAFF ADM. OU 6
+      NAVAL CHIEF COMMAND BALTIC OPS STAFF
+      N.L.O. WITH SUPREME COMMAND ARMY (KROKODIL)
+
+EMERGENCY                                MOST SECRET 3692.
+A) POSITIONS AMMUNITION STEAMSHIPS AT 0200/30/4:
+   1) F 179 SWINEMUENDE- HELA IN SQUARE AQ 9548 PLOTTED.
+   2) 'WESERSTROM' WARNEMUENDE-LIBAU STILL ANCHORED AT GRUEN 03
+
+B) NO TANKERS.
+
+0726/3/5/45+++EGT/IW

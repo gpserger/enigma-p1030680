@@ -1,0 +1,222 @@
+diff --git a/enigma.cc b/enigma.cc
+index ed8923a..37c0983 100644
+--- a/enigma.cc
++++ b/enigma.cc
+@@ -17,6 +17,8 @@
+ #include <atomic>
+ #include <chrono>
+ #include <mutex>
++#include <set>
++#include <atomic>
+ #include <new>
+ #include <queue>
+ #include <random>
+@@ -2765,6 +2767,8 @@ struct exhaust_ctx
+    board -- identity + -s + the forced pairs -- plus this restart's --random kick over the
+    still-free letters, and keep the best in c. The forced pairs are pinned in plug_fixed so
+    the climb (and the kick, which draws only from self-steckered letters) leave them intact. */
++static void topn_offer(machine & m, double score);
++static int opt_topn_fwd(void);
+ static void exhaust_leaf(machine & m, exhaust_ctx & c)
+ {
+   const bool kicked = (opt_restarts >= 1);
+@@ -2785,6 +2789,8 @@ static void exhaust_leaf(machine & m, exhaust_ctx & c)
+           perturb_steckerbrett(m, & rng, opt_perturb);
+         }
+       double s = run_stages<true>(m);
++      if (opt_topn_fwd() > 0)
++        topn_offer(m, s);
+       if (! c.have || (s > c.best))
+         {
+           c.best = s;
+@@ -2893,8 +2899,16 @@ static double exhaust_all_combos(machine & m, size_t key_index)
+    not pinned by -s, low letter first. Built once before the search (read-only after). Bounded
+    by C(free,2) <= 325 regardless of E, so it never explodes in memory (unlike a full combo
+    list); each unit does its own bounded sub-exhaustion. */
++static const char * opt_exhaust_letters = nullptr;   /* --exhaust-letters: O&W E/R/I-Stecker */
+ static void build_exhaust_firsts()
+ {
++  bool want[asize];
++  for (int j = 0; j < asize; j++)
++    want[j] = (opt_exhaust_letters == nullptr);
++  if (opt_exhaust_letters)
++    for (const char * p = opt_exhaust_letters; *p; p++)
++      if (toupper((unsigned char) *p) >= 'A' && toupper((unsigned char) *p) <= 'Z')
++        want[toupper((unsigned char) *p) - 'A'] = true;
+   bool sfixed[asize];
+   for (int j = 0; j < asize; j++)
+     sfixed[j] = false;
+@@ -2913,6 +2927,8 @@ static void build_exhaust_firsts()
+         {
+           if (sfixed[y])
+             continue;
++          if (! want[x] && ! want[y])
++            continue;
+           g_exhaust_firsts.push_back(static_cast<unsigned char>(x));
+           g_exhaust_firsts.push_back(static_cast<unsigned char>(y));
+         }
+@@ -3150,6 +3166,98 @@ static void dump_all(machine & m, double score)
+   fprintf(stderr, "dumpall %s %s %s %.4f %s\n", w, r, g, score, s);
+ }
+ 
++/* ---- --topn hook (added for the P1030680 ciphertext-only run, tools/run_m4) ----
++   Every converged climb's decrypt is rescored with an INDEPENDENT quadgram table
++   (--rescore FILE, "NGRAM count" lines -> mean log10 prob per quadgram) and the best
++   --topn N distinct plaintexts (by that rescore) are kept in a global heap, written to
++   --topn-file at the end and checkpointed every 120 s. Display/output-only: does not
++   change the search. */
++static int opt_topn = 0;
++static const char * opt_topn_file = nullptr;
++static const char * opt_rescore_file = nullptr;
++static std::vector<float> g_rescore_tab;
++struct TopEntry { float rs; double score; std::string pt; std::string line; };
++static std::mutex g_top_mutex;
++static std::vector<TopEntry> g_top;             /* min-heap on rs */
++static std::set<std::string> g_top_pts;
++static std::atomic<float> g_top_min{-1e30f};
++static std::chrono::steady_clock::time_point g_top_lastsave = std::chrono::steady_clock::now();
++static bool top_cmp(const TopEntry & a, const TopEntry & b) { return a.rs > b.rs; }
++static int opt_topn_fwd(void) { return opt_topn; }
++
++static void load_rescore(const char * path)
++{
++  g_rescore_tab.assign(26 * 26 * 26 * 26, 0.0f);
++  std::vector<double> cnt(26 * 26 * 26 * 26, 0.0);
++  FILE * f = fopen(path, "r");
++  if (! f) { fprintf(stderr, "cannot open --rescore file %s\n", path); exit(1); }
++  char g[64]; double v, tot = 0;
++  while (fscanf(f, "%63s %lf", g, &v) == 2)
++    {
++      if (strlen(g) != 4) continue;
++      int idx = 0; bool ok = true;
++      for (int i = 0; i < 4; i++) { int c = toupper((unsigned char) g[i]); if (c < 'A' || c > 'Z') { ok = false; break; } idx = idx * 26 + (c - 'A'); }
++      if (! ok) continue;
++      cnt[idx] += v; tot += v;
++    }
++  fclose(f);
++  float fl = static_cast<float>(log10(0.01 / tot));
++  for (size_t i = 0; i < cnt.size(); i++)
++    g_rescore_tab[i] = cnt[i] > 0 ? static_cast<float>(log10(cnt[i] / tot)) : fl;
++}
++
++static float rescore_pt(const char * pt)
++{
++  float s = 0; int n = 0;
++  for (int i = 0; i + 4 <= textlength; i++, n++)
++    s += g_rescore_tab[(((pt[i]-'A') * 26 + (pt[i+1]-'A')) * 26 + (pt[i+2]-'A')) * 26 + (pt[i+3]-'A')];
++  return n ? s / n : -99.0f;
++}
++
++static void topn_write_locked(void)
++{
++  if (! opt_topn_file) return;
++  std::vector<TopEntry> v = g_top;
++  std::sort(v.begin(), v.end(), top_cmp);
++  std::string tmp = std::string(opt_topn_file) + ".tmp";
++  FILE * f = fopen(tmp.c_str(), "w");
++  if (! f) return;
++  fprintf(f, "#rescore\tscore\tW\tR\tG\tplugs\tplaintext\n");
++  for (const TopEntry & e : v) fprintf(f, "%.4f\t%.4f\t%s\n", e.rs, e.score, e.line.c_str());
++  fclose(f);
++  rename(tmp.c_str(), opt_topn_file);
++}
++
++
++static void topn_offer(machine & m, double score)
++{
++  float rs = rescore_pt(m.plaintext);
++  if (static_cast<int>(g_top.size()) >= opt_topn && rs <= g_top_min.load(std::memory_order_relaxed))
++    return;
++  char w[8], r[8], g[8], s[3 * 13];
++  format_key(m, w, r, g);
++  format_plugboard(m, s);
++  std::string pt(m.plaintext, static_cast<size_t>(textlength));
++  std::lock_guard<std::mutex> lock(g_top_mutex);
++  if (g_top_pts.count(pt)) return;
++  if (static_cast<int>(g_top.size()) >= opt_topn)
++    {
++      if (rs <= g_top.front().rs) return;
++      std::pop_heap(g_top.begin(), g_top.end(), top_cmp);
++      g_top_pts.erase(g_top.back().pt);
++      g_top.pop_back();
++    }
++  char line[512];
++  snprintf(line, sizeof(line), "%s\t%s\t%s\t%s\t%s", w, r, g, s, pt.c_str());
++  g_top.push_back({rs, score, pt, line});
++  std::push_heap(g_top.begin(), g_top.end(), top_cmp);
++  g_top_pts.insert(pt);
++  if (static_cast<int>(g_top.size()) >= opt_topn) g_top_min.store(g_top.front().rs, std::memory_order_relaxed);
++  auto now = std::chrono::steady_clock::now();
++  if (std::chrono::duration<double>(now - g_top_lastsave).count() > 120.0)
++    { g_top_lastsave = now; topn_write_locked(); }
++}
++
+ /* One plugboard-recovery climb from the seed board. In kicked mode (--restarts N>=1) every
+    climb -- including index 0 -- injects a fresh --random kick first, so the un-kicked seed
+    climb is not run (REDESIGN Option A). With --restarts 0 there is a single un-kicked climb.
+@@ -3164,6 +3272,8 @@ static double hillclimb_one(machine & m, size_t key_index, int restart)
+   double score = optimize_once(m, & rng);
+   if (opt_dump_all)
+     dump_all(m, score);
++  if (opt_topn > 0)
++    topn_offer(m, score);
+   return score;
+ }
+ 
+@@ -5295,7 +5405,7 @@ int main(int argc, char * * argv)
+      never collide with a short flag char. --random and --exhaust are the seed-pipeline
+      options introduced in REDESIGN Part B. */
+   enum { OPT_RANDOM = 256, OPT_EXHAUST, OPT_TRUEKEY, OPT_NO_REPAIR, OPT_CASCADE,
+-         OPT_POLISH, OPT_CRIB, OPT_CRIBWEIGHT, OPT_DUMPALL, OPT_RINGSTRIDE };
++         OPT_POLISH, OPT_CRIB, OPT_CRIBWEIGHT, OPT_DUMPALL, OPT_RINGSTRIDE, OPT_TOPN, OPT_TOPNFILE, OPT_RESCORE, OPT_EXLETTERS };
+ 
+   /* Long-option aliases for the short flags (Part A of archived/REDESIGN.md), plus the two
+      long-only options above (Part B). Each aliased long name maps onto its short value,
+@@ -5336,6 +5446,10 @@ int main(int argc, char * * argv)
+       { "exhaust",        required_argument, nullptr, OPT_EXHAUST },
+       { "true-key",       required_argument, nullptr, OPT_TRUEKEY },
+       { "dump-all",       no_argument,       nullptr, OPT_DUMPALL },
++      { "topn",           required_argument, nullptr, OPT_TOPN },
++      { "topn-file",      required_argument, nullptr, OPT_TOPNFILE },
++      { "rescore",        required_argument, nullptr, OPT_RESCORE },
++      { "exhaust-letters", required_argument, nullptr, OPT_EXLETTERS },
+       { "no-repair",      no_argument,       nullptr, OPT_NO_REPAIR },
+       { "cascade",        optional_argument, nullptr, OPT_CASCADE },
+       { "polish",         no_argument,       nullptr, OPT_POLISH },
+@@ -5444,6 +5558,18 @@ int main(int argc, char * * argv)
+         case OPT_DUMPALL:
+           opt_dump_all = true;
+           break;
++        case OPT_TOPN:
++          opt_topn = atoi(optarg);
++          break;
++        case OPT_TOPNFILE:
++          opt_topn_file = optarg;
++          break;
++        case OPT_RESCORE:
++          opt_rescore_file = optarg;
++          break;
++        case OPT_EXLETTERS:
++          opt_exhaust_letters = optarg;
++          break;
+         case OPT_RINGSTRIDE:
+           opt_ring_stride = atoi(optarg);
+           break;
+@@ -5903,7 +6029,17 @@ int main(int argc, char * * argv)
+   /* try all combinations (bruteforce allocates one machine per worker thread) */
+ 
+   char result[maxlen+1];
++  if (opt_topn > 0)
++    {
++      if (! opt_rescore_file) fatal("--topn needs --rescore FILE");
++      load_rescore(opt_rescore_file);
++    }
+   bruteforce(result);
++  if (opt_topn > 0)
++    {
++      std::lock_guard<std::mutex> lock(g_top_mutex);
++      topn_write_locked();
++    }
+ 
+   /* write plaintext */
+ 

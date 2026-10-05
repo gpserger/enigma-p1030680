@@ -1,0 +1,14 @@
+META serial=? too=? toi=? freq=? from=? to=?
+GIST Page 2: continuation of transport ship movements and positions; Moeve, Cremon, H.Fisser 7 routes and personnel counts.
+
+PAGE TWO
+
+MOEVE C 1300 MEN ON DRAFT , 150 REFUGEES > SASSNITZ-KIEL , BY
+DEAD RECKONING ROT 05.
+CREMON C TROOPS AND REFUGEES > HELA-KIEL , WESTPREUSSEN C TROOPS
+AND REFUGEES > HELA-KIEL , BY DEAD RECKONING ROT CC 2 GROUPS >>.
+2) H. FISSER 7 C 1125 WOUNDED , 47 MEN ON DRAFT > ROT 07 -
+CC NYBORG >> , BY DEAD RECKONING WAY 28/3.
+
+CC PAGE ONE LINE 4 1ST GR '' POSITIONS ''
+2118/2/5/45            EE/UAK+++

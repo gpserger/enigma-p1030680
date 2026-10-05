@@ -1,0 +1,27 @@
+META serial=368047 too=1102 toi=1204/23/4/45 freq=4835 from=K-BaseHeligoland to=NavalChiefCommandNorth,K-bases
+GIST Routing header from K-Base Heligoland to Naval Chief Command North and various K-bases.
+
+ADM C1D
+
+TO ID8G                                                ZIP/ZTPG/368047
+
+[handwritten bullet]
+FROM N S
+
+
+4835 KC/S     TOO 1102 .     TOI 1204/23/4/45 .
+
+
+FROM: K-BASE HELIGOLAND
+
+TO: NAVAL CHIEF COMMAND NORTH
+
+    K.D.K. STRANDKOPPEL
+
+    K-STAFF SENGWAARDEN
+
+    5TH K-DIVISION
+
+    K-BASE WILHELMSHAVEN
+
+    K-BASE IJMUIDEN

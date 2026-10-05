@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPG/367859 too=0614 toi=0716/26/4/45 freq=4860 KC/S from=U 2367 (CSCHROEDER) to=CONTROL
+GIST U-boat U 2367 reporting departure from Borgstedt for Kiel on 26 April.
+
+ADM (3)
+TO: I D B G                            ZIP/ZTPG/367859
+FROM: N S
+
+4860 KC/S         TOO 0614            TOI 0716/26/4/45
+
+FROM: U 2367 (CSCHROEDER)
+TO: CONTROL
+
+SHALL LEAVE BORGSTEDT FORK KIEL AT 0700/26/4.  W/T WATCH
+ON 4860 KC/S.
+
+2229/2/5/45+++++EE/SHH

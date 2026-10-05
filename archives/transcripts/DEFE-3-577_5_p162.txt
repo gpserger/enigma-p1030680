@@ -1,0 +1,20 @@
+META serial=367951 too=0108 toi=0006/30/4/45 freq=368 from=N S to=IDB G
+GIST Torpedo Command Swinmünde to Torpedo Arsenal Baltic regarding S.S. Ella Halm departure for Flensburg with torpedo equipment.
+
+ADM (C1
+
+TO: IDB G                                       Z IP/ZTPG/367951
+
+FROM: N S
+
+368 KC/S         T O O 0108              T O I 0006/30/4/45
+
+FROM: TORPEDO COMMAND SWINEMUENDE
+
+TO:   TORPEDO ARSENAL BALTIC
+
+BX
+
+S.S. 'ELLA HALM' LEFT FOR FLENSBURG WITH TORPEDO GEAR ON 29/4.
+
+0910/3/5/45 CEL/EB+

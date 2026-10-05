@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367906 too=0102 toi=0120/30/4/45 freq=4412 from=TORPEDO COMMAND SWINEMUENDE to=TORPEDO DEPT. SASSNITZ
+GIST Most Secret 60K: Torpedo Command Swinemuende orders to unload steamship Johann at once for evacuation tanks and order her to Swinemuende.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367906
+FROM: N S
+
+4412 KC/S         TOO 0102            T O I 0120/30/4/45
+
+FROM: TORPEDO COMMAND SWINEMUENDE
+TO:   TORPEDO DEPT. SASSNITZ
+
+                MOST SECRET 60 K
+
+UNLOAD STEAMSHIP 'JOHANN' AT ONCE FOR EVACUATION TAKS AND ORDER
+HER TO SWINEMUENDE.
+
+0408/3/5/45 EGT+HDT++

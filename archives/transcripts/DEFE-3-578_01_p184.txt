@@ -1,0 +1,11 @@
+META serial=ZIP/ZTPc/368163 too=0419/0602 toi=0545/0637/5/4/45 freq=368kc/s from=FLEET to='T' O.QU. REPTD TO: 'W'
+GIST Most immediate secret message regarding ensuring fleet ammunition can be moved - stocks in Swinemuende.
+
+FROM: FLEET
+TO: 'T' O.QU.
+REPTD TO: 'W'
+
+MOST IMMEDIATE SECRET 5557 F.2
+
+SUBJECT: ENSURING THAT FLEET AMMUNITION CAN BE MOVED - STOCKS
+IN SWINEMUENDE:

@@ -1,0 +1,15 @@
+META serial=ZTPG/368000 A too=1158/30/4/45 toi=? freq=?82 kc/s (first digit obscured) from=? to=?
+GIST Short correction notice to a previous message: in line 3 group 3 read 'ORDER' not 'ORDERS' as sent (no sender or addressee shown).
+
+ADM (4)
+TO: I D 8 G                                    ZIP/ZTPG/368000 A
+FROM: N S  (first letters obscured by tape)
+
+?82 KC/S              T O O 1158/30/4/45
+
+LINE 3 GROUP 3 PLEASE READ 'ORDER' NOT 'ORDERS' AS SENT.
+
+
+
+
+132?/3/5/45++CEL/FA  (digits obscured by tape)

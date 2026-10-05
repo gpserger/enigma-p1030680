@@ -1,0 +1,19 @@
+META serial=367745 too=0912 toi=0758/1/5/45 freq=4860 from='SAAR' to=5TH U/B FLOTILLA
+
+GIST Saar reports U. 2339 undocked at 1600 on 21 April and proceeded to the east.
+
+ADM  C4))
+
+TO: I D 8 G    ZIP/ZTPG/367745    743
+
+FROM: N S
+
+4860 KC/S    T O O    0912    T O I 0758/1/5/45
+
+FROM: 'SAAR'
+
+TO: 5TH U/B FLOTILLA
+
+U. 2339 UNDOCKED AT 1600/21/4 AND PROCEEDED TO THE EAST.
+
+1128/2/5/45    CEL/AHM++++

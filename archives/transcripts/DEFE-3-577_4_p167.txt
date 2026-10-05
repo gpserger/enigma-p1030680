@@ -1,0 +1,16 @@
+META serial=367773 too=1807 toi=1818/26/4/45 freq=4282 from=ADMIRAL (U/B) U.1 to=U/BOAT BASE WESERMUENDE
+GIST Most immediate: cancelling orders to contrary, following are to be added to Volksliste (Roman) 3.
+
+ADM (C)
+TO: I D B G                                    ZIP/ZTPG/367773
+FROM: N S
+
+4282 KC/S            T O.O 1807            T O I 1818/26/4/45
+
+FROM: ADMIRAL (U/B) U.1
+TO: U/BOAT BASE WESERMUENDE
+
+MOST IMMEDIATE
+
+1) CANCELLING ORDERS TO THE CONTRARY, THE FOLLOWING ARE TO BE
+ADDED TO 'VOLKSLISTE (ROMAN) 3':

@@ -1,0 +1,23 @@
+META serial=367598 too=0300 toi=0245/1/5/45 freq=350 from=NAVAL CHIEF COMMAND NORTH SF1M to=S.O. S-BOATS (OPS.)
+GIST Naval Chief Command North reports emergency/most secret that Heligoland's northern roads were mined on 28/4 with 9 LMB mines at four given coordinates; also addressed to Supreme Command of the Navy and S.O. S-Boats (Org).
+
+ADM(1)
+TO I D 8 G                                     ZIP/ZTPG/367598
+FROM N S
+
+350 KC/S      T O O 0300            TOI: 0245/1/5/45
+
+FROM: NAVAL CHIEF COMMAND NORTH  SF 1 M
+TO:   S.O. S-BOATS (OPS.)
+      ALSO ADDRESSED TO SUPREME COMMAND OF THE NAVY, NAVAL WAR STAFF
+                     (1ST DIVISION) SUPREME COMMAND OF THE
+                     NAVY 'SWA U'
+                     S.O. S-BOATS (ORG).
+
+EMERGENCY               MOST SECRET 0218
+HELIGOLAND NORTHERN ROADS MINED  ON 28/4 WITH 9 'LMB' BETWEEN
+THE  POINTS 541124 NORTH AND 54119 NORTH 075319 EAST, 541124
+NORTH 075351 EAST, 541119 NORTH 075325 EAST AND 541119 NORTH
+075351 EAST
+
+2036/1/5/45++++EE+PG

@@ -1,0 +1,16 @@
+META serial=367783 too=2319/30/4 toi=0041/1/5/45 freq=382 from=GUARDSHIP 9 to=8TH DEFENCE DIVISION
+GIST S.S. Hendrik Fisser bound Libau to Nyborg passed northbound at 2250.
+
+(S)
+TO: I D B G                                    ZIP/ZTPG/367783
+FROM: N S
+
+382 KC/S            T O O 2319/30/4            T O I 0041/1/5/45
+
+FROM: GUARDSHIP 9
+TO: 8TH DEFENCE DIVISION
+
+S.S. 'HENDRIK FISSER', BOUND LIBAU TO NYBORG, PASSED NORTHBOUND
+AT 2250.
+
+1405/2/5/45 CEL/EB+

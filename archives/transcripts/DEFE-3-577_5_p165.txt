@@ -1,0 +1,23 @@
+META serial=367954 too=0950 toi=0856/30/4/45 freq=4860 from=N S to=IDB G
+GIST U-boat U 2540 reporting to 31st U-boat flotilla regarding diesel oil stocks and consumption rates plus Admiral command references.
+
+ADM (5)
+
+TO: IDB G                                       Z IP/ ZTPG/367954
+
+FROM: N S
+
+4860 KcYS         T O O 0950              T O I 0856/30/4/45
+
+FROM: U 2540 ( SCHULTZE)
+
+TO:   31ST U/B FLOTILLA
+
+1) HEAVY DIESEL OIL STOCKS ON 30/4:
+   53.1 CBM. CONSUMPTION 20/4 - 30/4:
+   5.4 CBM.
+
+2) ADMIRAL 2ND- IN- COMMAND U- BOATS ORDER NO 14/42 C ROHAN) IV:
+   NIL RETURN.
+
+0917/3/5/45 EGT/HJU

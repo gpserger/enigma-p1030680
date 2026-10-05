@@ -1,0 +1,45 @@
+META serial=368062 too=1808 toi=1702/1/5/45 freq=4580 from=S.O.6thZFlotilla to=SupremeCommandNavy,NavalChiefCommandBaltic,Fleet,Captain
+GIST S.O. 6th Z-Flotilla reports training vessel Stolpe left Warnemuende for Kiel at 1415/1/5 with weapons, ammunition, and 8 officers and 190 ratings under Lieut. Cdr. Richter.
+
+ADM C3D
+
+TO ID 8 G                                                ZIP/ZTPG/368062
+
+FROM N S
+
+
+4580 KC/S     TOO 1808     TOI 1702/1/5/45
+
+
+[handwritten bullet] FROM: S.O. 6TH Z-FLOTILLA
+
+TO: SUPREME COMMAND OF THE NAVY, NAVAL WAR STAFF QU 1
+
+    SUPREME COMMAND OF THE NAVY 'AVA'
+
+    .    NAVAL CHIEF COMMAND BALTIC
+
+    FLEET
+
+    CAPTAIN (CD)
+
+
+MOST IMMEDIATE    MOST SECRET
+
+
+[handwritten bullet]
+AT 1415/1/5 TRAINING VESSEL STOLPE LEFT WARNEMUENDE FOR KIEL
+
+ WITH ONE 3.7 CM. SINGLE MOUNTING, ONE 2CM. QUADRUPLE, ONE
+
+2 CM. TWIN, FIFTY-TWO 2CM. SINGLE MOUNTINGS, ((GROUP MISSED)
+
+TWO 15MM., 4060 ROUNDS OF 3.7 CM., 15660 ROUNDS OF 2 CM. GUN
+
+CREWS CONSISTING OF 8 OFFICERS, 4 SUBORDINATE OFFICERS, 37 PETTY
+
+OFFICERS, 4 SUBORDINATE OFFICERS, 37 PETTY OFFICERS AND 190 RATINGS
+
+UNDER LIEUT. CDR. RICHTER.
+
+[handwritten notes]

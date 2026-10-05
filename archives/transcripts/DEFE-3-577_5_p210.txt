@@ -1,0 +1,15 @@
+META serial=1026 too=2314/29/4/45 toi=unknown freq=3978 KC/S from=unknown to=unknown
+
+GIST Correction to previous message reading "OFFICERS" not "OFFICER" in transmission.
+
+C52
+
+TO: I D 8 G ZIP/ZTPG/367997 A
+
+FROM: N S
+
+3978 KC/S T O O 2314/29/4/45
+
+IN LINE 2 PLEASE READ - 'OFFICERS' NOT 'OFFICER' AS SENT-
+
+1220/3/5/45 CEL/EB+

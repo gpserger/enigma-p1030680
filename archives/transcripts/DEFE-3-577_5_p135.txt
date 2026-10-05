@@ -1,0 +1,18 @@
+META serial=367928 too=1357 toi=1643/27/4/45 freq=4412 from=NS to=IDB G
+GIST Emergency message from SDC Pomerania to NLO XXXII regarding flak protection for bridge at Swinmünde during night 27-28 April.
+
+ADM C4)
+TO IDB G                                        Z IP/ZTPG/367928
+FROM NS
+
+4412 KCS         TOO 1357             TOI 1643/27/4/45
+
+FROM: SDC POMERANIA
+TO  : NLO XXXII
+
+EMERGENCY
+                                [handwritten]OWN
+NIGHT 27-28/4 4  [handwritten]GOR AF SWINEMUENDE- KARNIN . AS FLAK PROTECTION
+THERE FOR BRIDGE
+
+0729/3/5/45++EGT/IW

@@ -1,0 +1,11 @@
+META serial=ADM C(2) too=1422 toi=1328/3/5/45 freq=350 from=M 406 to=I D 8 G
+GIST M 406 reports: owing to time shortage anchored north of Anholt with M 606; queries whether time remains to enter Anholt per previous message.
+
+FROM: M 406
+TO: 8TH DEFENCE DIVISION
+
+REF. W/T MESSAGE 0917: OWING TO SHORTAGE OF TIME ANCHORED NORTH
+OF ANHOLT WITH M 606, QUERY: REFERENCE W/T MESSAGE 1148,
+IS THERE STILL TIME TO ENTER ANHOLT?
+
+0604/6/5/45 EGT/MW

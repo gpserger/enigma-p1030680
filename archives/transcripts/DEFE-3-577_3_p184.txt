@@ -1,0 +1,4 @@
+META serial=367586 too=? toi=? freq=? from=? to=?
+GIST Continuation - port of destination now Flensburg.
+
+[Continuation] EMERGENCY | PORT OF DESTINATION NOW FLENSBURG. ACKNOWLEDGE. | 1940/1/5/45 EE/JG

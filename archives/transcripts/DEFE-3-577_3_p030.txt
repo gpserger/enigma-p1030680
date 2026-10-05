@@ -1,0 +1,22 @@
+META serial=367430 too=2316 toi=2212/30/4/45 freq=3371 from=NAVAL CHIEF COMMAND NORTH to=ADMIRAL NETHERLANDS
+GIST Naval Chief Command North responds providing expected arrival time at Den Helder 4/5 with R.252 Subdivision and Lieut. Cdr. Stieger of K Unit.
+
+D
+ADM C 4D
+TO: I D 8 C                    ZIP/ZTPG/367430
+FROM: N S
+
+[handwritten: bullet point]
+3371 kc/s     T O O 2316     T O I 2212/30/4/45
+
+FROM: NAVAL CHIEF COMMAND NORTH
+TO: ADMIRAL NETHERLANDS
+
+REFERENCE W/T MESSAGE 1211 OF 30/4:
+EXPECTED TO ARRIVE DEN HELDER IN THE MORNING OF 4/5 WITH R.252'S
+SUBDIVISION, IN WHICH WILL ALSO BE EMBARKED LIEUT. CDR. STIEGER
+OF THE K. UNIT.
+
+[handwritten: bullet point]
+
+0425/1/5/45++CEL/FA

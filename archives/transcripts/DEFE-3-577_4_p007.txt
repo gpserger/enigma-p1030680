@@ -1,0 +1,20 @@
+META serial=367616 too=1059 toi=1108/1/5/45 freq=446 from=NAVAL CHIEF COMMAND NORTH to=ADMIRAL NETHERLANDS
+GIST Naval Chief Command North to Admiral Netherlands regarding BDU message with attempts to pass to U-boats.
+
+ADM: C53)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367616
+
+446 KC/S            T00 1059                T O I 1108/1/5/45
+
+FROM: NAVAL CHIEF COMMAND NORTH
+TO:    ADMIRAL NETHERLANDS
+
+REF.- W/T MESSAGE 2358/30/4: B D U INFORMED. ATTEMPTS WILL BE
+MADE TO PASS TO U- BOATS.
+
+CC DEPT. NOTE: ZTPG/367422 APPEARS TO REFER))
+
+0007/2/5/45    EGT+MDT++

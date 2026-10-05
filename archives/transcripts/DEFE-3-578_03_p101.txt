@@ -1,0 +1,21 @@
+META serial=368648 too=1617 toi=1448/3/5/45 freq=4765 from=VS.515 to=8THDEFENCEDIVISION
+GIST VS. 515 reports to 8th Defence Division that 7 towed barges and tugs under command of AF. 33 are proceeding to Eckernfoerde with 2,500 refugees and will probably arrive between 0800 and 1000 on 4/5.
+
+ADM C1)
+
+TO: I D B G                ZIP/ZTPG/368648
+
+FROM: N S
+
+4765 KC/S     T O O 1617     T O I 1448/3/5/45
+
+FROM: VS. 515
+
+TO: 8TH DEFENCE DIVISION
+
+7 TOWED BARGES AND TUGS UNDER THE COMMAND OF AF. 33, PROCEEDING
+TO ECKERNFOERDE WITH 2,500 REFUGEES. WILL PROBABLY ARRIVE ROT 22
+BETWEEN 0800 AND 1000 ON 4/5.
+
+
+1218/7/5/45   CEL/AHM++++

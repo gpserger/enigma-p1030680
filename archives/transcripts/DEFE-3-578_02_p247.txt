@@ -1,0 +1,20 @@
+META serial=368491 too=1247 toi=1224/6/5/45 freq=360 from=ISLANDCOMMANDANTBELLEILETO to=SEADEFENCECOMMANDANTANDDEFENCEUNITLORIENT
+GIST Island Commandant Belle Ile reports to Sea Defence Commandant and Defence Unit Lorient that Brumbaer reports in 220 degrees at 25 kilometres distance with 1 destroyer and 1 large ship heading north-west and 1 destroyer heading south-east.
+
+ADM C5)
+TO: I D B G                ZIP/ ZTPG/368491
+FROM: N S
+
+360 KC/S     T O O 1247     T O I 1224/6/5/45
+
+FROM: ISLAND COMMANDANT BELLE ILE
+TO: SEA DEFENCE COMMANDANT AND DEFENCE UNIT LORIENT.
+
+MOST IMMEDIATE
+
+BRUMBAER REPORTS IN 220 DEGREES, DISTANCE 25 KILOMETRES.
+1 DESTROYER AND 1 FAIRLY LARGE SHIP COURSE NORTH- WEST AND 1
+DESTOYER, COURSE SOUTH- EAST.
+
+
+1752/6/5/45 EE/MJU

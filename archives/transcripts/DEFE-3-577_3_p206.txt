@@ -1,0 +1,17 @@
+META serial=367603 too=0522/26 toi=0712/27/4/45 freq=6300 from=U-BOAT BASE ST. NAZAIRE to=B.D.U
+GIST U-Boat Base St Nazaire sends B.D.U. Part 3 of Special Cypher No.161 entry instructions; text continues onto the next page.
+
+ADM (5)
+TO: I D 8 G                                    ZIP/ZTPG/367603
+FROM: N S
+
+6300 KC/S            TOO 0522/26            TOI 0712/27/4/45
+
+FROM: U-BOAT BASE ST. NAZAIRE
+TO:   B.D.U
+
+     PART 3.
+
+     SPECIAL CYPHER NO. 161
+
+     ENTRY INSTRUCTIONS:

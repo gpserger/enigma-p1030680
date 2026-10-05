@@ -1,0 +1,14 @@
+META serial=367570B too=2014 toi=2014/25/4/45 freq=360KC/S from=? to=?
+GIST Correction to message 367570A instructing to read TOO as 2014/25/4/45 not 2014/24/4/45 as originally sent.
+
+ADM D(3)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367570 B
+
+360 KC/S        T O O 2014/25/4/45
+
+IN ZTPG/367570 A PLEASE READ ''TOO'' AS ABOVE NOT ''2014/24/4/45'' AS SENT .
+
+1856/1/5/45      EE/UAK+++

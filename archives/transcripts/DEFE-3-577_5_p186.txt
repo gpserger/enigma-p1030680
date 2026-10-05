@@ -1,0 +1,19 @@
+META serial=1002 too=2317 toi=2155/29/4/45 freq=3764 KC/S from=U.3523 (MUELLER) to=5TH U/B FLOTILLA
+
+GIST U-boat 3523 reports departure from Kiel for anchorage.
+
+ADM C13
+
+TO: I D 8 G ZIP/ZTPG/367973
+
+FROM: N S
+
+3764 KC/S T O O 2317 T O I 2155/29/4/45
+
+FROM: U.3523 (MUELLER)
+
+TO: 5TH U/B FLOTILLA
+
+LEFT KIEL AT 2300 FOR ANCHORAGE 'G'.
+
+1038/3/5/45 CEL/EB+

@@ -1,0 +1,39 @@
+META serial=368059 too=1153 toi=1319/2/5/45 freq=4282 from=Captain(U/B)TrainingAdmiral(U/B) to=Captain(U/B)Baltic,26thU/BFlotilla,25thU/BFlotilla
+GIST Reference Admiral U/B Most Secret 1389-U.1 of 27/4 Para. 3: following torpedo recovery vessels will be laid up.
+
+ADM C1D
+
+TO ID8G                                                ZIP/ZTPG/368059
+
+[handwritten bullet] FROM N S
+
+
+[handwritten bullet]
+
+4282 KC/S     TOO 1153     TOI 1319/2/5/45
+
+
+FROM: CAPTAIN (U/B) TRAINING THROUGH W/T STATION
+
+      OF ADMIRAL (U/B)
+
+TO: CAPTAIN (U/B) BALTIC
+
+    26TH U/B FLOTILLA
+
+    ZBB 25TH U/B FLOTILLA
+
+
+[handwritten bullet]
+MOST SECRET 10408 U I
+
+
+[handwritten bullet]
+REFERENCE ADMIRAL (U/B)'S MOST SECRET 1389-U.1 OF ((27))/4, PARA. 3:
+
+THE FOLLOWING TORPEDO RECOVERY VESSELS WILL BE LAID UP:
+
+TFA 1, 2, 4, 5,6, TF 4, 10, 12, 1((CORRUPT)) GROUP)), 18, 19, 22..
+
+
+2107/3/5/45+++EE/UC

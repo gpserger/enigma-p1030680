@@ -1,0 +1,15 @@
+META serial=367758 too=2013 toi=1925/30/4/45 freq=4860 from=TF.24 to=S.O. 26TH U/B FLOTILLA
+GIST TF.24 has arrived at Travemuende at 1630 hours.
+
+ADM (S)
+TO: I D B G                                    ZIP/ZTPG /367758
+FROM: N S
+
+4860 KC/S            T O O 2013            T O I 1925/30/4/45
+
+FROM: TF.24
+TO: S.O. 26TH U/B FLOTILLA
+
+ARRIVED TRAVEMUENDE AT 1630.
+
+1240/2/5/45++CEL/FA

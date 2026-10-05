@@ -1,0 +1,12 @@
+META serial=ZIP/ZTPc/368225 too=2035 toi=1900/1/5/45 freq=6747kc/s from=DUNKIRK to=?
+GIST Dunkirk reports most immediate sighting at 2025 in grid square 8749 of 10 ships on westerly course with unrecognisable type.
+
+FROM: DUNKIRK
+
+MOST IMMEDIATE
+
+AT 2025 IN AN 8749 CENTRE 10 SHIPS ON WESTERLY COURSE, TYPE
+NOT RECOGNISABLE.
+
+
+0212/5/5/45++++EGT/SMH

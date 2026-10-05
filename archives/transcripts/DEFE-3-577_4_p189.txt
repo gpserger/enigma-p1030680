@@ -1,0 +1,18 @@
+META serial=ZTPG367793 too=0556 toi=0422/26/4/45 freq=4265 from=REITZ to=LORIENT_DEFENCE_UNIT
+GIST Report regarding arrival of Le Palais with military personnel and ships.
+
+C52
+TO: I D 8 G
+FROM: N S
+
+ZIP/ZTPG/367793
+
+4265 KC/S     TOO 0556     TOI 0422/26/4/45
+
+FROM: REITZ
+TO:   LORIENT DEFENCE UNIT
+
+EMERGENCY:
+ARRIVED LE PALAIS WITH V-230, HS.08 AND 'ALHORN' AT 0515.
+
+1542/2/5/45 CEL/EB+

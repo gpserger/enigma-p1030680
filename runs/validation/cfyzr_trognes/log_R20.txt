@@ -1,0 +1,43 @@
+Ciphertext: 72 letters
+Scoring:    weighted all-orders + IC (language: wehrmacht)
+            n-gram files in tools/enigma/ngrams
+Hillclimb:  yes
+            20 restarts, 10-pair kick
+            staged: m4f10
+            quadgram-gain 2-ply+3-ply cascade once on the best board (--polish)
+            first-improvement climb (dynamic move order)
+            seed: 7
+Threads:    16
+Machine:    standard Enigma; reflector B, wheels 531
+            ring AA., start ...
+Plugboard:  (none)
+   Score W    R   G   S                                      Text
+ -8.9546 B531 AAA AAA AZ BU EH FS GP JL RX                   UUNDXARFAUPIXBOUBER
+ -8.8813 B531 AAA AAA AZ BU EH FS GP JL RX TY                UUNDXARFAUPIXBOUBER
+ -8.7786 B531 AAA AAA AB FS GJ HK MV RZ UX                   AANDZRUICAUBEXPAXEU
+ -8.6839 B531 AAB KZE AI BF CH DM EK GV PQ TZ UY             QIEIDASASHSDSXFFVEB
+ -8.6792 B531 AAB KZE AI BF CT DM EK GV PQ UY                QIEIDASASTSDSLFIVEB
+ -8.6529 B531 AAB KZE AI BW CT DM EK GV PQ UY                QBEIDARASTSDLLWICEF
+ -8.6148 B531 AAA HXZ BC EL GK HZ JP MV NX OW RY             BHNFASEDESBOUSBUDKP
+ -8.5894 B531 AAB KZE AI BW CT DM EK GV HJ PQ UY             QBEIDARASTSDLLWICEF
+ -8.5045 B531 AAB KZE AI BF CT DM EK GV HJ PQ UY             QIEIDASASTSDSLFIVEB
+ -8.5020 B531 AAB KZE AI BF CT DM EK GV HJ LZ PQ UY          QIEIDASASTSDSZFIVEB
+ -8.4958 B531 AAB KZE AI BF CT DM EK GH LZ PQ UY             QIEIDASASTSDSZFIHEB
+ -8.0777 B531 AAA CQR AZ BN DS EM GK HL IJ OP QX VW          ISRXXPORDETEMORTENA
+ -8.0478 B531 AAB FSK AQ CH DN EW FX LY MT OR PV             PEMHEEWBNOXGRNWELEE
+ -8.0195 B531 AAB FSK AB CH DN EW FX LQ MT OR PV             PEMHEEWANOXGENWEYEE
+ -7.8609 B531 AAB FSK AB CH DN EW FX LQ MT OR PV YZ          PEMHEEWANOXGENWEZEE
+ -7.8259 B531 AAA ACF BN CV EK GQ HP IO JW LM RX             VRETGETEHEDTESFRPEL
+ -7.5630 B531 AAA CSX AX BQ CG DO FL HU JT MV NZ PW          EJLBEROZUXGEFEAUSKA
+ -7.5418 B531 AAB DWS AT BP CI EZ FY GO JN KU RW VX          LREZRLSNECITUEBAYAI
+ -7.5207 B531 AAA DMC AH BZ CY EF MU OW PT RV                YHTOPANSTTITEINEAPE
+ -7.4320 B531 AAB JNN AO CP DQ GX HZ JL KR SY TU             YEARELYLHALINSERENZ
+ -7.3205 B531 AAC RYJ AH BC DQ EU FI GW LS MR NO VX          EANECMLONEYNEIINSSU
+ -7.1089 B531 AAE DSY BI CT DG FL HR KQ MP NX SZ WY          ARIEGEXESTRUHNCHMAR
+ -7.0873 B531 AAD TSE BX CF DN EZ HR IL JQ KY MP OV          SYANUEINSSIESAREGSK
+ -6.9005 B531 AAK FPR BL CZ DM EP FY GV IX JK NW OR          SIEHXENSSEPEEUEKRGI
+
+Analysed 456976 rotor combinations, scored 21103917515 plugboards
+Finished in 259.75 s using 16 threads
+Precomputed 1 rotor table (0.4 MB); peak memory 10 MB
+wall=259.75 s

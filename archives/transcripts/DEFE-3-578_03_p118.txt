@@ -1,0 +1,26 @@
+META serial=368664 too=1150 toi=1124/3/5/45 freq=350 from=S.O.MINELAYINGFLOTILLASTHROUGHNAVALCOMMUNICATIONSOFFICIERESBJERG to=MINECARRIERLAUTING
+GIST S.O. Minelaying Flotillas through Naval Communications Officer Esbjerg sends to Mine Carrier Lauting a most immediate message of 59 groups in officer cipher.
+
+ADM C5)
+
+TO: I D B G                ZIP/ZTPG/368664
+
+FROM: N S
+
+350 KC/S     TOO 1150     T O I 1124/3/5/45
+
+FROM: S.O. MINELAYING FLOTILLAS THROUGH NAVAL COMMUNICATIONS
+OFFICER ESBJERG
+
+TO: MINE CARRIER LAUTING
+
+MOST IMMEDIATE
+
+ZIER
+
+MESSAGE OF 59 GROUPS IN OFFIXER CIPHER
+
+[handwritten]CC- OFFIZIER[/handwritten]
+
+
+1747/7/7/545 EE+HDT+++

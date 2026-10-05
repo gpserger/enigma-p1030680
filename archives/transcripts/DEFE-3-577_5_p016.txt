@@ -1,0 +1,18 @@
+META serial=367830 too=---- toi=1306/30/4/45 freq=382 from=10TH DEFENCE DIVISION to=VS 202
+GIST Go to Sassnitz; ground mine escort of ferry ship Deutschland bound Warnemuende as far as Gruen; anchor there.
+
+ADM (C)
+TO: I D B G                                    ZIP/ZTPG/367830
+FROM: N S
+
+382 KC/S            T O O ----            T O I 1306/30/4/45
+
+FROM: 10TH DEFENCE DIVISION
+TO: VS 202
+
+EMERGENCY
+
+GO TO SASSNITZ . GROUND MINE ESCORT OF FERRY SHIP DEUTSCHLAND
+BOUND FOR WARNEMUENDE AS FAR AS GRUEN CC0)). ANCHOR THERE .
+
+2103/2/5/45 .            EE/UAK+++

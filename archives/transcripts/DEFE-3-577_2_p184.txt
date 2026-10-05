@@ -1,0 +1,18 @@
+META serial=3671381 too=2215 toi=2125/30/4/45 freq=2115KC/S from=R310 to=S.O.21STRFLOTILLA
+GIST R-boat 310 reports making fast near Innrefjord in Bisnefjord at 2130.
+
+ADM C22
+TO: I D 8 C                           ZIP/ZTPG/3671381
+FROM: N S
+
+2115 KC/S           T O O 2215              TO I 2125/30/4/45
+[seal mark]
+
+FROM: R 310
+TO: S.O. 21ST R. FLOTILLA
+
+MADE FAST NEAR INNREFJORD IN BISNEFJORD AT 2130.
+
+[seal mark]
+
+0142/1/5/45+CEL/FA

@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367891 too=1018 toi=0916/8/4/45 freq=4580 from=CAPTAIN (CD) to=ALL DESTROYERS, TORPEDO BOATS
+GIST Emergency order authorizing OKM to immediately fit out listening attachment to echo ranging set.
+
+ADM (4)
+TO: IDBG                                         ZIP/ZTPG/367891
+FROM: N S
+
+4580 KC/S         TOO 1018            T O I 0916/8/4/45
+
+FROM: CAPTAIN (CD)
+TO:   ALL DESTROYERS, TORPEDO BOATS
+
+EMERGENCY
+
+'OKM' HAS AUTHORISED IMMEDIATE FITTING OUT XX OF LISTENING
+ATTACHMENT TO ECHO RANGING SET.
+
+CC- PSE READ-FITTING OF
+
+0156/3/5/45 EGT+HDT++

@@ -1,0 +1,20 @@
+META serial=368518 too=2253 toi=2114/2/5/45 freq=340 from=8THDEFENCEDIVISION to=ALL
+GIST 8th Defence Division alerts all units about individual aircraft approaching the belts and the Kattegat.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368518
+
+FROM N S
+
+340 KC/S     T O O 2253     T O I 2114/2/5/45
+
+FROM: 8TH DEFENCE DIVISION
+
+ZO: ALL
+
+INDIVIDUAL AIRCRAFT APPROACHING THE BELTS AND THE
+KATTEGAT.
+
+
+1915/6/5/45+++EE/UC

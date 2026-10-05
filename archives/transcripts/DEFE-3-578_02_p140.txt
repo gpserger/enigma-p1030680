@@ -1,0 +1,11 @@
+META serial=ADM(1) too=0720 toi=0608/2/5/45 freq=3015 from=M 323 to=I D 8 G
+GIST M 323 reports fouled propellor on V 808 while alongside Sperrbrecher 167; cannot hold ship in current; urgent tug assistance required near buoy M.
+
+FROM: M 323
+TO: 5TH DEFENCE DIVISION
+
+V 808 HAS TOW HAWSER FOULING PROPELLOR. M 323 IS ALONGSIDE
+SPERRBRECHER 167. CANNOT HOLD SHIP IN THE CURRENT. TUG(S)
+URGENTLY REQUIRED. POSITION ROUGHLY BUOY 'M'
+
+0144/6/5/45+EGT/AM

@@ -1,0 +1,17 @@
+META serial=367741 too=2305 toi=2240/26/4/45 freq=3764 from=U. 560 (JACOBS) to=CONTROL
+
+GIST U. 560 (Jacobs) states watch on specified frequency from specified time.
+
+TO: I D 8 G    ZIP/ZTPG/367741
+
+FROM: N S
+
+3764 KC/S    T O O 2305    T O I 2240/26/4/45
+
+FROM: U. 560 (JACOBS)
+
+TO: CONTROL
+
+W/T WATCH ON 3764 KC/S FROM 2300.
+
+1136/2/5/45    CEL/AHM++++

@@ -1,0 +1,18 @@
+META serial=367768 too=1021 toi=0905/1/5/45 freq=382 from=GUARDSHIP 5 to=1ST DEFENCE FLOTILLA
+GIST Emergency: Horst Wessel with refugees, shipwreck survivors and hospital company awaiting escort to Gluecksburg.
+
+ADM (S)
+TO: I D B G                                    ZIP/ZTPG/367768
+FROM: N S
+
+382 KC/S            T O O 1021            T O I 0905/1/5/45
+
+FROM: GUARDSHIP 5
+TO: 1ST DEFENCE FLOTILLA
+
+EMERGENCY
+
+'HORST WESSEL' WITH REFUGEES, SHIPWRECK SURVIVORS AND A HOSPITAL
+COMPANY IS AWAITING ESCORT TO GLUECKSBURG.
+
+1255/2/5/45+++CEL/FA

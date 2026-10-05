@@ -1,0 +1,20 @@
+META serial=367451 too=0229 toi=0112/1/5/45 freq=3015 from=M 323 to=5TH DEFENCE DIVISION
+GIST Emergency: Made fast at Heligoland with Duesseldorf at 0200 on 1 May 1945.
+
+ADM (33)
+
+TO: I D 8 G
+
+FROM: N S
+
+3015 KC/S        TOO 0229                TOI 0112/1/5/45
+
+FROM: M 323
+
+TO: 5TH DEFENCE DIVISION
+
+EMERGENCY
+
+MADE FAST AT HELIGOLAND WITH 'DUESSELDORF' AT 0200.
+
+[handwritten marking at bottom] 0608/1/5/45++CEL/FA

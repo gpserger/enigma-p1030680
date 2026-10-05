@@ -1,0 +1,24 @@
+META serial=367371 too=1838 toi=1735/28/4/45 freq=4860 kcs from=CAPTAIN CB/BJ BALTIC to=5TH U/B FLOTILLA AND U.3530
+GIST Captain CB/BJ Baltic reports to 5th U/B Flotilla that U.3530 given verbal orders to proceed to Kiel on 27 April, must report position.
+
+C 5J
+
+TO: I D 8 G
+
+FROM: N S
+
+4860 KC/S        T O O 1838                T O I 1735/28/4/45
+
+FROM: CAPTAIN CB/BJ BALTIC (PERSONAL)
+
+TO: 5TH U/B FLOTILLA
+
+    U.3530
+
+IN THE EVENING OF 26/4 U.3530 (HERCLOTZ) WAS GIVEN VERBAL ORDERS
+
+BY HE TO PROCEED TO KIEL IN THE MORNING OF 27/4. U.3530 IS TO
+
+REPORT POSITION FORTHWITH.
+
+0145/1/5/45 CEL/EB+

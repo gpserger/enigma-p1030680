@@ -1,0 +1,11 @@
+META serial=ADM(1) too=1236 toi=1113/1/5/45 freq=350 from=8TH DEFENCE DIVISION to=I D 8 G
+GIST Order to M 386 on completion of escort duty to go to Aarhus; reference to messages 1058, with specific lapse notations.
+
+FROM: 8TH DEFENCE DIVISION
+TO: M 386
+
+REF. W/T MESSAGE 1058:
+ON COMPLETION OF ESCORT DUTY GO TO AARHUS. W/T MESSAGES 0945,
+1055, 1107 LAPSE
+
+[handwritten symbol] 0147/6/5/45+EG/AM

@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367664 too=0731 toi=0555/29/4/45 freq=382 KCS from='E ISVOGEL' to=SALVAGE COMMAND
+GIST Salvage vessel E Isvogel reports expected arrival in Kiel with Wangon.
+
+ADM (C3)
+
+TO | D 8 G    ZIP/ZTPG/367664
+
+FROM NS
+
+382 KCS    TOO 0731    TOI 0555/29/4/45
+
+FROM: 'E ISVOGEL'
+
+TO  : SALVAGE COMMAND
+
+EMERGENCY
+
+SHALL ARRIVE IN KIEL WITH 'WANGON' AT ABOUT 1300.
+
+0506/2/5/45+++EGT/IV

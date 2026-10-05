@@ -1,0 +1,14 @@
+META serial=ZIP/ZTPG/367707 A too=1339/30 toi=1235/30/4/45 freq=382 KC/S from=N S to=I D 8 G
+GIST Correction slip to ZTPG/367707: T.O.I. should read 1235/30/4/45 and not 1835/30/4/45.
+
+ADM (5)
+
+TO: I D 8 G    ZIP/ZTPG/367707 A
+
+FROM: N S
+
+382 KC/S    1339/30
+
+T.O.I. TO READ 1235/30/4/45 AND NOT 1835/30/4/45.
+
+0855/2/5/45 EGT+MDT++

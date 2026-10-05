@@ -1,0 +1,27 @@
+META serial=368032 too=1155 toi=1230/30/4/45 freq=382 from=Ostwacht to=LieutKaiserinTugTiger
+GIST Ostwacht and Drossel have left Luebeck for Schleswig.
+
+ADM C4D
+
+TO: ID8G                                                ZIP/ZTPG/368032
+
+FROM: NS
+
+
+[handwritten bullet]
+
+382 KC/S      TOO 1155     TOI 1230/30/4/45
+
+
+FROM: 'OSTWACHT'
+
+      VIA NAVAL WAR STATION NEUSTADT
+
+TO: LIEUT. KAISER IN TUG 'TIGER', HELA .
+
+
+'OSTWACHT' AND 'DROSSEL' HAVE LEFT LUEBECK FOR SCHLESWIG.
+
+
+[handwritten bullet]
+1549/3/5/45++CEL/FA

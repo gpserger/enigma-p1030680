@@ -1,0 +1,4 @@
+P1030660#0   wR=IV   lstep@0  detected 4/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.56/-5.15* -6.46/-5.15* -6.46/-6.63 -6.84/-5.15* -6.69/-5.76 -6.84/-5.15* -6.46/-6.81 -6.46/-6.54 
+P1030660#1   wR=II   lstep@0  detected 3/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.80/-6.55 -6.15/-5.15* -6.82/-6.55 -6.80/-6.55 -6.80/-6.55 -6.51/-6.55 -6.86/-5.15* -6.51/-5.15* 
+P1030661#0   wR=VI   lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.98/-6.45 -6.77/-6.38 -6.67/-6.45 -6.77/-6.45 -6.77/-6.24 -6.77/-6.61 -6.77/-6.24 -6.77/-6.82 
+P1030661#1   wR=VII  lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.41/-5.92 -6.41/-5.92 -6.41/-5.92 -6.54/-5.92 -6.37/-5.92 -6.41/-5.92 -6.41/-5.92 -6.83/-6.88 

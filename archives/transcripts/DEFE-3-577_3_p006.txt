@@ -1,0 +1,23 @@
+META serial=3671406 too=2347 toi=2301/30/4/45 freq=2115KC/S from=8THDEFENCEDIVISION to=MINE-LAYERLUZ
+GIST Emergency order from 8th Defence Division to Mine-Layer Lüz regarding convoy per secret orders 05110.F.1 of 30/4.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671406
+FROM: N S
+[seal mark]
+
+2115 KC/S             T O O 2347              T O I 2301/30/4/45
+
+FROM: 8TH DEFENCE DIVISION
+TO: MINE-LAYER 'LÜZ'
+
+EMERGENCY                   MOST SECRET 119947. F.1
+
+CARRY OUT CONVOY IN ACCORDANCE WITH ORDERS IN OUR MOST
+SECRET 05110.F.1 OF 30/4.
+
+[seal mark]
+
+CC TO: MINE-LAYER 'LINZ'
+
+0250/1/5/45++CEL/FA

@@ -1,0 +1,27 @@
+META serial=1020 too=1851 toi=1155/29/4/45 freq=382 KC/S from=10TH DEFENCE DIVISION to=V 1704 GUARDSHIP 21
+
+GIST 10th Defence Division orders VS.236 to take escort of Falke and 3 further objects to Wishar with V.1704 putting into Sassnitz.
+
+ADM C3
+
+TO: I D 8 G ZIP/ZTPG/367991
+
+FROM: N S
+
+382 KC/S T O O 1851 T O I 1155/29/4/45
+
+FROM: 10TH DEFENCE DIVISION
+
+TO: V 1704
+
+GUARDSHIP 21
+
+EMERGENCY
+
+VS.236 IS TO TAKE UP ESCORT OF 'FALKE' AND 3 FURTHER OBJECTS
+
+TO WISHAR ABOUT 2100/29/4. V.1704 IS TO PUT INTO SASSNITZ.
+
+[handwritten: 1142/3/5/45 + CEL/FA]
+
+[handwritten: 1146/3/5/45+CEL/FA]

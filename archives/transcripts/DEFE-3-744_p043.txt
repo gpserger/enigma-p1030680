@@ -1,0 +1,6 @@
+META serial=? too=? toi=? freq=? from=? to=?
+GIST Correction to ZTPGU/39036: paragraph 2) for 8/5 should read 0100-0300 and 1600-1800.
+
+CORRECTION TO ZTPGU/39036 TOO 2140/2357
+
+PLS READ UNDER PARA 2) 8/5 : 0100 - 0300 AND 1600 - X 1800.

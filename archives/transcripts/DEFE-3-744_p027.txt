@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPGU/39023(ND) too=0032/2 toi=2359/1/5/45 freq=8320 KC/S from=SCHUEIGER to=?
+GIST Correction to message 782: contents should read square AC 8584, 21 CBM.
+
+ADM C1)
+
+TO I D 8 G                                   ZIP/ZTPGU/39023(ND)
+
+FROM N S
+
+8320 KC/S          T O O 0032/2               TOI 2359/1/5/45
+
+FROM: SCHUEIGER
+
+CONTENTS OF SERIAL NO.782 SHOULD READ:
+
+SQUARE AC 8584, 21 CBM.
+
+CDEPT. NOTE: 782 HAS T O O 0008/2)
+
+0503/7/5/45+GFG/AM

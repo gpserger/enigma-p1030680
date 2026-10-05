@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367883 too=2031 toi=1925/27/4/45 freq=4860 from=U 236(C1D) to=S.O. 4 TH U/B FLOTILLA
+GIST U-boat U 236 reports upper hydroplane installation and testing of multi-unit hydrophones.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367883
+FROM: N S
+
+4860 KC/S         TOO 2031            T O I 1925/27/4/45
+
+FROM: U 236(C1D)
+TO:   S.O. 4 TH U/B FLOTILLA
+
+FOLLOWING WORK CC 4 GROUPS)) UPPER HYDROPLANE, INSLA XX INSTALLATION
+OF A ROD TRANSMITTING AERIAL ON STARBOARD SIDE. TESTING OF MULTI-
+UNIT HYDROPHONES.
+
+      0217/3/5/45 EGT+MDT++

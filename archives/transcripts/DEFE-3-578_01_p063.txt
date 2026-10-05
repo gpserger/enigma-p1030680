@@ -1,0 +1,29 @@
+META serial=368048 too=1544 toi=1553/1/5/45 freq=382 from=FlotillaEngineer11thUJFlotilla to=10thDefenceDivision,S.O.11thUJFlotilla
+GIST Flotilla Engineer 11th UJ-Flotilla reports war readiness of UJ 1107 on 1/5.
+
+ADM C1D
+
+TO ID8G                                                ZIP/ZTPG/368048
+
+[handwritten bullet] FROM N S
+
+
+382 KC/S     TOO 1544     TOI 1553/1/5/45
+
+
+FROM: FLOTILLA ENGINEER 11TH UJ-FLOTILLA
+
+TO: 10TH DEFENCE DIVISION
+
+    REPEATED S.O. 11TH UJ-FLOTILLA
+
+
+EMERGENCY
+
+[handwritten bullet]
+SUBJECT: WAR READINESS OF UJ 1107
+
+TO E) AT WAR READINESS ON 1/5.
+
+
+1850/3/5/45+++EE/UC

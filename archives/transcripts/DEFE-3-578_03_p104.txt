@@ -1,0 +1,20 @@
+META serial=368651 too=1832 toi=1707/2/5/45 freq=2247 from=3RDCOASTALDEFENCEUNIT to=ALL
+GIST 3rd Coastal Defence Unit informs all units that packet steamship Sigurd Jarl left Roervik at 1745 for DR at 11 knots.
+
+ADM C4)
+
+TO: I D B G                ZIP/ZTPG/ 368651
+
+FROM: N S
+
+2247 KC/S     TOO : 1832     TOI : 1707/2/5/45
+
+FROM: 3RD COASTAL DEFENCE UNIT
+
+TO: ALL
+
+PACKET STEAMSHIP 'SIGURD JARL' LEFT ROERVIK AT 1745 FOR 'DR' C11
+KNOTS).
+
+
+1225/7/5/45 CEL/JG

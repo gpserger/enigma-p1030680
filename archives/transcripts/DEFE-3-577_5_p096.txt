@@ -1,0 +1,19 @@
+META serial=ZIP/ZTPG/367897 too=2315 toi=2254/24/4/45 freq=4860 from=U 3022 to=5TH U/B FLOTILLA
+GIST U-boat U 3022 reports observing four mines dropped in Strander Bay with specific position and bearing information.
+
+ADM (3)
+TO: IDBG                                         ZIP/ZTPG/367897
+FROM: N S
+
+4860 KC/S         TOO 2315            T O I 2254/24/4/45
+
+FROM: U 3022
+TO: 5TH U/B FLOTILLA
+
+EMERGENCY
+
+OBSERVED 4 MINES DROPPED IN STRANDER BAY. POSITION 5425.2 NORTH
+1012 EAST. 1ST MINE DISTANT 600 METRES 220 DEGREES; 2ND MINE
+900 METRES 125 DEGREES; 3RD AND 4TH 900 METRES 140 DEGREES.
+
+0341/3/5/45         EGT+++MPS+++

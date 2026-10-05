@@ -1,0 +1,15 @@
+META serial=3687/75 too=1638 toi=1537/1/5/45 freq=4282KCS from=CAPTAIN CU/BD TRAINING (PERSONAL) to=ADMIRAL CU/BD
+GIST: Captain CU/BD training personnel sends encrypted message to Admiral CU/BD with 21 groups in Offizier cipher.
+
+ADM(C4)
+TO I D B G                                 ZIP/ZTPG/3687/75
+
+FROM NS
+
+4282 KCS        TOO 1638        TOI 1537/1/5/45
+
+FROM: CAPTAIN CU/BD TRAINING (PERSONAL)
+TO:   ADMIRAL CU/BD
+CC MESSAGE OF 21 GROUPS IN OFFIZIER CYPHER))
+
+1832/8/5/45++AND/IW

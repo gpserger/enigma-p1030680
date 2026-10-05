@@ -1,0 +1,30 @@
+META serial=368033 too=1406 toi=1330/1/5/45 freq=382 from=VS202 to=10thDefenceDivision
+GIST VS 202 took up escort of Deutschland to Gruen 03 at 1400, intends to put into Sassnitz.
+
+ADM C4D
+
+TO: ID8G                     /                                   ZIP/ZTPG/368033
+
+FROM: N S
+
+
+[handwritten bullet]
+
+382 KC/S     TOO 1406     TOI 1330/1/5/45
+
+
+FROM: VS 202
+
+TO: 10TH DEFENCE DIVISION
+
+
+EMERGENCY
+
+
+TOOK UP ESCORT OF 'DEUTSCHLAND' TO GRUEN 03 AT 1400. INTEND TO
+
+PUT INTO SASSNITZ FOR HARBOUR SERVICE AND TO ECONOMISE ON COAL.
+
+
+[handwritten bullet]
+1548/3/5/45++CEL/FA

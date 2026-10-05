@@ -1,0 +1,25 @@
+META serial=3687/98 too=0614 toi=0850/7/5/45 freq=382KC/S from=NAVAL CHIEF COMMAND BALTIC OPS. STAFF to=S.O. 3RD T-FLOTILLA
+GIST: Naval Chief Command Baltic operations staff most immediate message to 3rd torpedo flotilla senior officer: putting into Copenhagen excluded, disembarkation intended in Schleswig-Holstein harbours.
+
+ADM (C4)
+TO I D B G                                 ZIP/ZTPG/3687/98
+
+FROM N S
+
+382 KC/S        T O O 0614        T O I 0850/7/5/45
+
+FROM: NAVAL CHIEF COMMAND BALTIC OPS. STAFF
+TO:   S.O. 3RD T-FLOTILLA
+
+MOST IMMEDIATE
+
+1)  PUTTING INTO COPENHAGEN IS EXCLUDED BY DEVELOPMENT OF
+    SITUATION.
+    INTENTION: DISEMBARKATION IN SCHLESWIG-HOLSTEIN HARBOURS.
+
+2)  REPORT BY W/T NUMBER OF PERSONS ON BOARD TRANSPORTS AND
+    ESCORT VESSELS.
+
+3)  DESTINATION HARBOURS FOLLOW.
+
+0028/9/5/45+++AND/UC

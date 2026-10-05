@@ -1,0 +1,23 @@
+META serial=1029 too=0558 toi=0442/28/4/45 freq=368 KC/S from=S.O. ((2 CORRUPT GROUPS)) to=SEA DEFENCE COMMANDANT C SWINEMUENDE
+
+GIST S.O. directs transport away from Kroeslin and entire nautical training detachment, with steps to be reported.
+
+ADM C5 [handwritten: handwritten: marked]
+
+TO: I D 8 G ZIP/ZTPG/367999
+
+FROM: N S
+
+368 KC/S T O O 0558 T O I 0442/28/4/45
+
+FROM: S.O. ((2 CORRUPT GROUPS))
+
+TO: SEA DEFENCE COMMANDANT C SWINEMUENDE
+
+MOST IMMDIATE
+
+ENSURE THE TRANSPORT AWAY FROM KROESLIN AND VOLLGAST OF THE
+
+NAUTICAL TRAINING DETACHMENT AND REPORT STEPS TAKEN.
+
+135/3/5/45 CEL/MJU

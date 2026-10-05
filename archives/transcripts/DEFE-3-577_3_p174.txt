@@ -1,0 +1,17 @@
+META serial=367581 too=2019 toi=1900/28/4/45 freq=6300KC/S from=COMMANDANT DEFENCE AREA LA ROCHELLE to=NAVAL CHIEF COMMAND WEST, B.D.U.
+GIST Message from Commandant Defence Area La Rochelle to Naval Chief Command West and B.D.U.
+
+ADM (3)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367581
+
+6300 KC/S        T O O 2019        T O I 1900/28/4/45
+
+FROM: COMMANDANT DEFENCE AREA LA ROCHELLE
+
+TO: NAVAL CHIEF COMMAND WEST
+B.D.U.
+
+[Message content continues on next page]

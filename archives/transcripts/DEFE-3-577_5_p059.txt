@@ -1,0 +1,22 @@
+META serial=ZIP/ZTPG/367867 too=2241 toi=2204/30/4/45 freq=3545 KC/S from=10TH DEFENCE DIVISION to=M 151
+GIST Emergency escort orders for FANGTUR to Kiel with U-boats to join from Gruen and proceed to various destinations.
+
+ADM (1)
+TO: I D B G                            ZIP/ZTPG/367867
+FROM: N S
+
+3545 KC/S         TOO 2241            TOI 2204/30/4/45
+
+FROM: 10TH DEFENCE DIVISION
+TO: M 151
+
+RPTD: GUARDSHIP ((2)))
+
+EMERGENCY
+
+ESCORT OF FANGTUR (PORT OF DESTINATION KIEL.) AS FAR AS ROT
+13A. REPORT E.T.A. THERE. THEN [handwritten: crossed out] PROCEED INTO
+WARNEMUENDE. 3 U-BOATS WILL JOIN COMPANY [handwritten: crossed out] FROM GRUEN
+03 TO ROT 12C. V 5907 WILL PROCEED INTO SASSNITZ.
+
+2325/2/5/45+++++EE/SHH

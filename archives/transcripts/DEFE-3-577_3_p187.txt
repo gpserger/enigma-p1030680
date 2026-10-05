@@ -1,0 +1,17 @@
+META serial=ZTPG/367583 too=1022 toi=1003/1/5/45 freq=3930 kc/s from=V 6714 to=S.O. 67TH V-FLOTILLA
+GIST V 6714 reports to the S.O. 67th V-Flotilla that it left Sortland at 1015 and is seeking a new berth.
+
+ADM (3)
+TO: I D 8 G                                    ZIP/ZTPG/367583
+FROM: N S
+
+3930 KC/S        T O O 1022            T O I 1003/1/5/45
+
+FROM: V 6714
+TO: S.O. 67TH V-FLOTILLA
+
+LEFT SORTLAND AT 1015 . AM SEEKING NEW BERTH .
+
+1915/1/5/45        EE/UAK+++
+
+[partial text at bottom edge, cut off: "1915/1/5/" - unreadable]

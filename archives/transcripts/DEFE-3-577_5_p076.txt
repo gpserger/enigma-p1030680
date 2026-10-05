@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPG/367879 too=1525 toi=1350/27/4/45 freq=4860 from=33 RD U/B FLOTILLA to=U 281
+GIST 33rd U/B Flotilla reports swept channel will probably be opened on morning of 28/4, orders U 281 to remain in waiting position.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367879
+FROM: N S
+
+4860 KC/S         TOO 1525            T O I 1350/27/4/45
+
+FROM: 33 RD U/B FLOTILLA
+TO:   U 281
+
+SWEPT CHANNEL WILL PROBABLY BE OPENED ON THE MORNING OF 28/4.
+REMAIN IN YOUR WAITING POSITION WITH U 170 (HAUBER).
+
+0025/3/5/45 EGT+HDT++

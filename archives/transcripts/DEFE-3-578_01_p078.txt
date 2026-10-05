@@ -1,0 +1,36 @@
+META serial=368061 too=1714 toi=1756/1/5/45 freq=382 from=10thDefenceDivisionTSTB to=All
+GIST 10th Defence Division to All units: no coal in Swinemuende; vessels to regulate stocks for replenishment in Copenhagen or west; Warnemuende can bunker without difficulty.
+
+ADM C1D
+
+TO ID8G                                                ZIP/ZTPG/368061
+
+FROM N S
+
+
+[handwritten bullet]
+
+382 KC/S     TOO 1714 .     TOI 1756/1/5/45
+
+
+. FROM: 10TH DEFENCE DIVISION XE 'TSTB'
+
+TO: ALL
+
+
+EMERGENCY
+
+
+[handwritten bullet] NO COAL IN SWINEMUENDE. VESSELS LEAVING PORT ARE TO REGULATE
+
+COAL STOCKS IN SUCH A WAY AS TO MAKE IT POSSIBLE TO REPLENISH IN
+
+[handwritten bullet]
+COPENHAGEN OR IN PORTS WEST OF WARNEMUENDE. IT IS POSSIBLE AT .
+
+PRESENT TO BUNKER IN WARNEMUENDE WITHOUT DIFFICULTY. IN SASSNITZ
+
+THERE ARE AT PRESENT 500 TONS OF BRIQUETTES.
+
+
+2110/3/5/45+++EE/UC

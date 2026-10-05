@@ -1,0 +1,12 @@
+META serial=367830A too=---/30/4/45 toi=? freq=382 from=? to=?
+GIST Correction: read addressee as VS 202 not VS 2020 as sent.
+
+ADM (40)
+TO: I D BG                                    ZIP/ZTPG/367830A
+FROM: N S
+
+382 KC/S            TOO : --- 30/4/45
+
+PLEASE READ ADDRESSEE AS ''VS 202'' NOT ''VS 2020'' AS SENT
+
+2220/2/5/45 EE/JC

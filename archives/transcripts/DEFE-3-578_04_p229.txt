@@ -1,0 +1,13 @@
+META serial=3687/63 A too=0133/4/5/45 toi=? freq=?
+GIST: Reading instructions for time notation in wireless message.
+
+ADM (C5)
+TO I D B G                                 ZIP/ZTPG/3687/63 A
+
+FROM N S
+
+                        T O O 0133/4/5/45
+
+UNDER 22 LINE 3 READ ''AT ABOUT 0300''.
+
+0008/16/5/45+ECT+DJL

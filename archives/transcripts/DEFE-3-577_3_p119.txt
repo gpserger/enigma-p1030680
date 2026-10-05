@@ -1,0 +1,18 @@
+META serial=367526 too=1526 toi=1647/26/4/45 freq=6300 from=B.D.U. to=NAVAL CHIEF COMMAND WEST, U-BOAT BASE ST. NAZAIRE
+GIST B.D.U. orders Naval Chief Command West and U-boat base Saint Nazaire to provide escort for U-boat 516 (Petran) arriving 10-13/5.
+
+ADM(C1)
+TO I D 8 G       ZIP/ZTPG/367526
+FROM N S
+
+6300 KC/S       T O O 1526       TOI 1647/26/4/45
+
+FROM: B.D.U.
+TO: NAVAL CHIEF COMMAND WEST
+    U-BOAT BASE ST. NAZAIRE.
+
+SPECIAL CIPHER NO.161
+
+DATE OF ARRIVAL OF U 516 (PETRAN) IS 10-13/5. PROVIDE ESCORT
+
+1450/1/5/45+EE/AR

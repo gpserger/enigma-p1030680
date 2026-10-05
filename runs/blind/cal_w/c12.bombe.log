@@ -1,0 +1,5 @@
+crib 0 ZWODREONULNU..(16)@0 used=16 excluded=[] blocks=1 sizes: 16(pivot E, loops 1)
+DONE settings=23762752 time=5.7s rate=4.159M settings/s (2.080M/s/thread, 2 threads) T-evals/setting=4.6 stops=3839516
+crib 0 ZWODREONULNU..(16)@0: block-stops=3839516; verified g histogram: g0:460810 g1:1056954 g2:1196950 g3:808081 g4:283435 g5:32905 g6:381
+5.71 s
+stats: 459662 lines in 27.8s

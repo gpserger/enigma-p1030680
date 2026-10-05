@@ -1,0 +1,18 @@
+META serial=367425 too=1607 toi=1605/28/4/45 freq=4860 from=S.O. 4TH U/B FLOTILLA to=BOATS IN SASSNITZ
+GIST Order for boats waiting in Sassnitz to be at Swingeuende by 1200 hours on 28 April 1945.
+
+C59
+
+TO: I D 8 G
+
+FROM: N S
+
+4860 KC/S        TOO 1607                TOI 1605/28/4/45
+
+FROM: S.O. 4TH U/B FLOTILLA
+
+TO: BOATS WAITING IN SASSNITZ CU.4701, ETC.)
+
+BE AT SWINGEUENDE CKAISERFAAHRTD AT 1200 TOMORROW.
+
+[handwritten marking at bottom] 0426/1/5/45 CEL/EB+

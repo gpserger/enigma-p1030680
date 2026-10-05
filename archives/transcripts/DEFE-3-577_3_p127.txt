@@ -1,0 +1,15 @@
+META serial=367549 too=1019 toi=0850/30/4/45 freq=4265 from=DEFENCE UNIT LORIENT to=?
+GIST Ship movement reporting service Lorient reports HS 11 and 12 (Breuer) with MS Heinrich will leave Lorient at 2400 via Port Maria for Le Palais at 8 knots.
+
+ADM(C1)
+TO I D 8 G       ZIP/ZTPG/367549
+FROM N S
+
+4265 KC/S       T O O 1019       TOI: 0850/30/4/45
+
+FROM: DEFENCE UNIT LORIENT
+
+SHIP MOVEMENT REPORTING SERVICE LORIENT. NIGHT 30/4-1/5/45:
+HS 11 AND 12 (BREUER) WITH 'MS' HEINRICH WILL LEAVE LORIENT AT 2400 VIA PORT MARIA FOR LE PALAIS. SPEED 8 KNOTS.
+
+1615/1/5/45+++EE+PG

@@ -1,0 +1,17 @@
+META serial=3687/24 too=1536 toi=1405/1/5/45 freq=3456KC/S from=N.O.I.C. KRISTIANSUND NORTH to=ALL
+GIST: Naval officer in charge Kristiansund North reports S.S. Edna left at 1300/1/5 on independent passage to Aalesund at speed 9 knots.
+
+ADM (C4)
+TO I D B G                                 ZIP/ZTPG/3687/24
+
+FROM N S
+
+3456 KC/S        T O O 1536        T O I 1405/1/5/45
+
+FROM: N.O.I.C. KRISTIANSUND NORTH
+TO:   ALL
+
+S.S'EDNA', 915 GRT., LEFT HERE AT 1300/1/5 ON INDEPENDENT PASSAGE
+TO AALESUND, SPEED 9 KNOTS.
+
+0614/9/5/45+++CEL/UC

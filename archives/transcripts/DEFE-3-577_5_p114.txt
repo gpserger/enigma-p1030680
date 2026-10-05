@@ -1,0 +1,22 @@
+META serial=ZIP/ZTPG/367912 too=2114/2128/2149/27 toi=0253/0313/0156/28/4/45 freq=368 from=ADMIRAL EASTERN BALTIC to=?
+GIST Evening Situation Report 27/4: Continuous air attacks on Hela harbour and roads, Kemphan hit by bomb, heavy fighting at Berholm blocking position.
+
+ADM(4)
+TO I D 8 G                                      ZIP/ZTPG/367912
+FROM NS
+
+                                                 [TC PPR PSE]
+KK
+368 KCS         TO 0 2114/2128/2149/27      T O I 0253/0313/0156/28/4/45
+
+FROM: ADMIRAL EASTERN BALTIC
+
+EVENING SITUATION REPORT 27/4
+
+1) SINCE EARLY MORNING CONTINUOUS AIR ATTACKS C 10-20 A/CD
+   ON HELA HARBOUR AND ROADS. SAT 'KEMPHAN' HIT BY BOMB
+   OTHERWISE DAMAGE TO BUILDINGS AND PERSONNEL CASUALTIES.
+
+2) HEAVY FIGHTING BK AT BERHOLM BLOCKING POSITION.
+
+[Continued on next page]

@@ -1,0 +1,17 @@
+META serial=367927 too=0926 toi=0817/30/4/45 freq=368 from=NS to=IDB G
+GIST Naval Chief Command Baltic to SDC Pomerania reminding that hospital ships heading for non-German area must not carry refugees.
+
+ADM C4)
+TO IDB G                                        Z IP/ZTPG/367927
+FROM NS
+
+368 KCS         TOO 0926                TOI 0817/30/4/45
+
+FROM: NAVAL CHIEF COMMAND BALTIC
+TO : SDC POMERANIA
+EMERGENCY  NO.16998
+YOU ARE AGAIN REMINDED THAT HOSPITAL SHIPS HEADING FOR NON-GERMAN
+AREA MUST NOT CARRY REFUGEES. INSTRUCTION SENIOR M.O'S OF
+NOTIFIED HOSPITAL SHIPS
+
+0734/3/5/45+++EGT/IW

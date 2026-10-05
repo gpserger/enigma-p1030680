@@ -1,0 +1,18 @@
+META serial=3671408 too=0031/1/5 toi=2250/30/4/45 freq=3015KC/S from=V1222 to=SMDDISTRIBUTION
+GIST V.1222 reports V.1222 and V.1228 left Wilhelmshaven at 2200 for Wesermünde.
+
+ADM C22
+TO: I D 8 C                           ZIP/ZTPG/3671408
+FROM: N S
+[seal mark]
+
+3015 KC/S             T O O 0031/1/5              T O I 2250/30/4/45
+
+FROM: V 1222
+TO: 'SMD' DISTRIBUTION
+
+V.1222 AND V.1228 LEFT WILHELMSHAVEN AT 2200 FOR WESERMUNDE.
+
+[seal mark]
+
+0246/1/5/45+++CEL/FA

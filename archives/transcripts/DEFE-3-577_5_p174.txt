@@ -1,0 +1,17 @@
+META serial=367963 too=1656 toi=1545/29/4/45 freq=4860 from=N S to=IDB G
+GIST Sea Defence Commandant Oslofjord reporting Drammenfjord closed due to suspected mining.
+
+ADM (4)
+
+TO: IDB G                                       Z IP/ZTPG/367963
+
+FROM: N S
+
+4860 KC/S         T O O 1656              T O I 1545/29/4/45
+
+FROM: SEA DEFENCE COMMANDANT OSLOFJORD
+
+DRAMMENFJORD IS CLOSED ABOVE 5931./1 NORTH WXXX OWING TO SUSPECTED
+MINING.
+
+1045/3/5/45+++CEL/FA

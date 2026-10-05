@@ -1,0 +1,17 @@
+META serial=367529 too=0446 toi=0258/29/4/45 freq=360 from=JOHN to=H 254
+GIST John reports radar interception bearings unaltered at 230 to 240 degrees.
+
+ADM (C5)
+TO: I D 8 G       ZIP/ZTPG/367529
+FROM: N S
+
+360 KC/S       T O O 0446       T O I 0258/29/4/45
+
+FROM: JOHN
+TO: H 254
+
+EMERGENCY
+
+RADAR INTERCEPTION BEARINGS UNALTERED, 230 TO 240 DEGREES.
+
+1516/1/5/45 EE/HJU

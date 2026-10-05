@@ -1,0 +1,18 @@
+META serial=367574 too=0817 toi=0708/1/5/45 freq=2247KC/S from=3RD COASTAL DEFENCE UNIT to=ALL
+GIST 3rd Coastal Defence Unit broadcast message to all units reporting that vessel 'ROE' passed at 0400 bound for 'DR' with speed 10 knots.
+
+ADM(1)
+TO I D 8 G
+FROM N S
+
+ZIP/ZTPG/367574 .
+
+2247 KC/S        T O O 0817        TOI: 0708/1/5/45
+
+FROM: 3RD COASTAL DEFENCE UNIT
+
+TO: ALL
+
+PASSED 'ROE' AT 0400 BOUND FOR 'DR': 0 PLUS 0 PLUS 1 (C10 KNOTS) .
+
+1727/1/5/45+EE+PG

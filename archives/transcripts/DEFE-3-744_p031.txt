@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPGU/39026 (ND) too=? toi=1137/2/5/45 freq=4020 KC/S from=MYB (CU 481) to=?
+GIST U-boat reports position 24 hours off approach or escort pick-up point.
+
+ADM C2)
+
+TO I D 8 G                                   ZIP/ZTPGU/39026 (ND)
+
+FROM N S
+
+4020 KC/S          1137/2/5/45  B' PCV
+
+AM 24 HOURS OFF APPROACH OR ESCORT P/V POINT.
+
+M
+
+MYB (CU 481)
+
+0536/7/5/45 GFC/MW

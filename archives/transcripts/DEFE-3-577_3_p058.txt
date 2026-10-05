@@ -1,0 +1,24 @@
+META serial=367469 too=0132 toi=0435/1/5/45 freq=3160 from=C. in C. West (Croman) 1A to=Naval Chief Command West
+GIST C. in C. West temporarily at Beseler near Bischofswesen, northwest of Berghtesgaden.
+
+ADM C1
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367469
+
+3160 KC/S        TOO 0132        TOI 0435/1/5/45
+
+FROM: C. IN C. WEST (CROMAN) 1A ((CORRUPT GROUP))
+
+(SGD. ZIMMERMANN, GEN. MAJ.)
+
+TO: NAVAL CHIEF COMMAND WEST
+
+MOST IMMEDIATE        MOST SECRET 4552/45
+
+C. IN C. WEST IS TEMPORARILY AT BESELER NEAR BISCHOFSWESEN
+(NORTHWEST OF BERGHTESGADEN)
+
+0921/1/5/45+CEL/AM P

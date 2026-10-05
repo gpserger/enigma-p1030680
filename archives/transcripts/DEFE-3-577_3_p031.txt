@@ -1,0 +1,23 @@
+META serial=367431 too=0107 toi=0020/1/5/45 freq=3015 from=1ST DEFENCE DIVISION to=F.O. DEFENCE FORCES
+GIST 1st Defence Division informs F.O. Defence Forces that Admiral Netherlands has ordered M.3400 to be paid off.
+
+ADM C 4D
+TO: I D 8 C                    ZIP/ZTPG/367431
+FROM: N S
+
+[handwritten: bullet point]
+3015 kc/s     T O O 0107     T O I 0020/1/5/45
+
+FROM: 1ST DEFENCE DIVISION
+TO: F.O. DEFENCE FORCES
+
+REFERENCE SUPREME COMMAND OF THE NAVY. WAR. RUEST. AWA'S 16044 C
+CW/T MESSAGE 1145 OF 29/43:
+ADMIRAL NETHERLANDS HAS IN THE MEANTIME ORDERED M.3400 TO BE
+PAID OFF.
+
+((DEPT. NOTE: ZTPG/367045 REFERS.))
+
+[handwritten: bullet point]
+
+0421/1/5/45++CEL/FA

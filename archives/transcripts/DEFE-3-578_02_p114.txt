@@ -1,0 +1,9 @@
+META serial=ZIP/ZTPc/368320 A too=1459/2/5/45 toi=? freq=? from=N S to=ID 8 G
+GIST Correction message deleting first correction and providing amended text for paragraph 2 regarding intended renaming.
+
+DELETE FIRST CORRECTION.
+
+PARA 2) SHOULD READ: REQUEST THAT INTENDED RENAMING ...... ETC
+
+
+1908/7/5/45 EE+MDT++

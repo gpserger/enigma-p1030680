@@ -1,0 +1,21 @@
+META serial=367457 too=0359 toi=0230/1/5/45 freq=3005 from=VS 1003 to=10TH DEFENCE FLOTILLA M 293
+GIST VS 1003 unable to follow convoy which departed 100 minutes ago, unable to maintain reported speed in current sea conditions on 1 May 1945.
+
+ADM KBL
+
+TO: I D 8 G
+
+FROM: N S
+
+3005 KC/S        TOO 0359                TOI 0230/1/5/45
+
+FROM: VS 1003
+
+TO: 10TH DEFENCE FLOTILLA
+     M 293
+
+THE CONVOY WENT AHEAD 100 MINUTES AGO BUT IT IS IMPOSSIBLE FOR ME
+TO FOLLOW ON AS REQUESTED AS I AM HARDLY ABLE TO MAINTAIN THE
+((CONVOY'S)) REPORTED SPEED IN THE PRESENT SEAWAY.
+
+[handwritten marking at bottom] 0835/1/5/45++CEL/FA

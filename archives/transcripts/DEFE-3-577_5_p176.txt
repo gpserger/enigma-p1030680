@@ -1,0 +1,25 @@
+META serial=992 too=2243/29 toi=0148/30/4/45 freq=3060 KC/S from=ADMIRAL (U/B) to=FRONT-LINE TRAINING GROUP
+
+GIST Admiral orders front-line training group to remain at Bornholm and cease transfer measures.
+
+[handwritten: ADM C55]
+
+TO: I D 8 G [handwritten: ADJM (5)] ZIP/ZTPG/367964
+
+FROM: N S
+
+3060 KC/S T O O 2243/29 T O I 0148/30/4/45
+
+FROM: ADMIRAL (U/B)
+
+TO: FRONT-LINE TRAINING GROUP
+
+EMERGENCY
+
+REFERENCE YOUR W/T MESSAGE 1644:
+
+'ISAR' IS TO REMAIN AT [handwritten: KEMEX] BORNHOLM FOR THE TIME BEING.
+
+CEASE TRANSFER MEASURES UNTIL FURTHER NOTICE.
+
+1045/3/5/45 CEL/MJU

@@ -1,0 +1,12 @@
+META serial=ZIP/ZTPG/367873 A too=1907/27/4 toi=? freq=4860 from=N S to=IDBG
+GIST Correction to add 'Horten' after 'Branch-Office' in addressee line.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367873 A
+FROM: N S
+
+4860 KC/S         TOO 1907/27/4
+
+INSERT 'HORTEN' AFTER 'BRANCH-OFFICE' IN ADDRESSEE.
+
+0334/3/5/45         EGT+HDT++

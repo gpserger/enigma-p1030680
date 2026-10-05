@@ -1,0 +1,19 @@
+META serial=? too=? toi=? freq=? from=ADMIRAL NETHERLANDS to=SUPREME COMMAND OF THE NAVY
+GIST Continuation of fuel and coal stocks report with corrections.
+
+COAL STOCKS                                    243
+0. FUEL OIL STOCKS ,                           6
+   STURES STOCKS OFHEAVY DIESEL OIL 'D'        32
+   COAL STOCKS                                 107
+2. ENCVKSTOCKS OF HEAVY DIESEL OIL 'D'        102
+   COAL CONSUMPTION                            5
+   COAL STOCKS                                 74
+22. CONSUMPTION OF HEAVY DIESEL OIL 'D'       19
+    STOCKS OF HEAVY DIESEL OIL 'D'             86
+    COAL CONSUMPTION                           8
+    COAL STOCKS                                352
+
+CC LINE 12 READ 'OF HEAVY'
+CC LINE 14 & READ '21. STOCKS OF HEAVY DIESEL OIL 'D'
+
+2141/2/5/45+EE/MH+

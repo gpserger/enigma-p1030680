@@ -1,0 +1,10 @@
+META serial=ADM C(2) too=2237 toi=2134/1/5/45 freq=3082 from=R 303 to=I D 8 G
+GIST R 303 reports two army runners fired upon in Foerde at 2200; assault detachment deployed to investigate.
+
+FROM: R 303
+TO: S.O. 21ST R-FLOTILLA
+
+2 ARMY RUNNERS FIRED ON IN FOERDE AT ABOUT 2200. ASSAULT
+DETACHMENT IS ON SHORE THERE TO INVESTIGATE.
+
+0350/6/5/45 EGT/MW

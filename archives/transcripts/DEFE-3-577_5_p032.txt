@@ -1,0 +1,15 @@
+META serial=ZIP/ZTPG/367844 too=0055 toi=0010/28/4/45 freq=764 KC/S from=U 680 (CULBER) to=I D B G
+GIST U-boat U 680 reporting arrival in Kiel with W/T watch closed down.
+
+MKG
+ADM(1)
+TO: I D B G                            ZIP/ZTPG/367844
+FROM: NS
+
+764 KC/S     T O O 0055          T O I 0010/28/4/45
+
+FROM: U 680 (CULBER)
+
+ARRIVED IN KIEL AT 0030, W/T WATCH CLOSED DOWN.
+
+2114/2/5/45+EE/MH+

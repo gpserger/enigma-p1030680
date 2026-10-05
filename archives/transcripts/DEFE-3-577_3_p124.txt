@@ -1,0 +1,16 @@
+META serial=367532 too=1137 toi=1027/29/4/45 freq=6747 from=? to=?
+GIST Channel Islands morning report at 0730 in BF 3552 reports one escort destroyer and one liberty class ship heading south.
+
+ADM (C5)
+TO: I D 8 G       ZIP/ZTPG/367532
+FROM: N S
+
+6747 KC/S       T O O 1137       T O I 1027/29/4/45
+
+EMERGENCY
+
+CHANNEL ·I ISLANDS MORNING REPORT:
+
+AT 0730 IN BF 3552 ONE ESCORT DESTROYER WITH VARYING COURSE. 1 FAIRLY LARGE SHIP, PRESUMABLY LIBERTY CLASS, COURSE SOUTH.
+
+1515/1/5/45 EE/HJU

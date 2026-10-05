@@ -1,0 +1,20 @@
+META serial=3671409 too=2142 toi=2057/28/4/45 freq=3764KC/S from=U.2527GOETZED to=ADMIRALCU/BD,4THAND31STUB FLOTILLAS
+GIST U.2527 reports passed Gjedser barrage at 2135 proceeding west with U.2531 in convoy.
+
+C52
+TO: I D 8 C                           ZIP/ZTPG/3671409
+FROM: N S
+[seal mark]
+
+3764 KC/S             T O O 2142              T O I 2057/28/4/45
+
+FROM: U.2527 (GOETZED)
+TO: ADMIRAL CU/BD
+4TH AND 31ST U/B FLOTILLAS
+
+PASSED THE GJEDSER BARRAGE AT 2135. PROCEEDING WEST WITH U.2531
+IN CONVOY.
+
+[seal mark]
+
+0413/1/5/45 CEL/EB+

@@ -1,0 +1,101 @@
+crib 0 KARTENAUSRUE..(25)@2 used=25 excluded=[] blocks=1 sizes: 25(pivot E, loops 8)
+crib 1 KARTENAUSRUE..(25)@4 used=25 excluded=[] blocks=1 sizes: 25(pivot E, loops 8)
+crib 2 KARTENAUSRUE..(25)@10 used=25 excluded=[] blocks=1 sizes: 25(pivot E, loops 7)
+crib 3 KARTENAUSRUE..(25)@13 used=25 excluded=[] blocks=1 sizes: 25(pivot R, loops 6)
+crib 4 KARTENAUSRUE..(25)@14 used=25 excluded=[] blocks=1 sizes: 25(pivot R, loops 7)
+crib 5 KARTENAUSRUE..(25)@18 used=25 excluded=[] blocks=1 sizes: 25(pivot R, loops 7)
+crib 6 KARTENAUSRUE..(25)@20 used=25 excluded=[] blocks=1 sizes: 25(pivot R, loops 8)
+crib 7 KARTENAUSRUE..(25)@27 used=25 excluded=[] blocks=1 sizes: 25(pivot R, loops 7)
+crib 8 KARTENAUSRUE..(25)@29 used=25 excluded=[] blocks=1 sizes: 25(pivot R, loops 6)
+crib 9 KARTENAUSRUE..(25)@30 used=25 excluded=[] blocks=1 sizes: 25(pivot R, loops 7)
+crib 10 KARTENAUSRUE..(25)@32 used=25 excluded=[] blocks=1 sizes: 25(pivot R, loops 7)
+crib 11 KARTENAUSRUE..(25)@36 used=25 excluded=[] blocks=1 sizes: 25(pivot G, loops 8)
+crib 12 KARTENAUSRUE..(25)@38 used=25 excluded=[] blocks=1 sizes: 25(pivot G, loops 8)
+crib 13 KARTENAUSRUE..(25)@42 used=25 excluded=[] blocks=1 sizes: 25(pivot G, loops 9)
+crib 14 KARTENAUSRUE..(25)@44 used=25 excluded=[] blocks=1 sizes: 25(pivot G, loops 8)
+crib 15 KARTENAUSRUE..(25)@46 used=25 excluded=[] blocks=1 sizes: 25(pivot G, loops 8)
+crib 16 STELLKARTENA..(30)@9 used=30 excluded=[] blocks=1 sizes: 30(pivot E, loops 10)
+crib 17 STELLKARTENA..(30)@13 used=30 excluded=[] blocks=1 sizes: 30(pivot R, loops 11)
+crib 18 STELLKARTENA..(30)@15 used=30 excluded=[] blocks=1 sizes: 30(pivot R, loops 12)
+crib 19 STELLKARTENA..(30)@22 used=30 excluded=[] blocks=1 sizes: 30(pivot R, loops 12)
+crib 20 STELLKARTENA..(30)@25 used=30 excluded=[] blocks=1 sizes: 30(pivot R, loops 11)
+crib 21 STELLKARTENA..(30)@27 used=30 excluded=[] blocks=1 sizes: 30(pivot R, loops 11)
+crib 22 STELLKARTENA..(30)@31 used=30 excluded=[] blocks=1 sizes: 30(pivot T, loops 12)
+crib 23 STELLKARTENA..(30)@39 used=30 excluded=[] blocks=1 sizes: 30(pivot G, loops 11)
+crib 24 STELLKARTENA..(30)@41 used=30 excluded=[] blocks=1 sizes: 30(pivot G, loops 12)
+crib 25 OTTOWUENSCHE..(33)@2 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 11)
+crib 26 OTTOWUENSCHE..(33)@7 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 11)
+crib 27 OTTOWUENSCHE..(33)@9 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 12)
+crib 28 OTTOWUENSCHE..(33)@12 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 12)
+crib 29 OTTOWUENSCHE..(33)@13 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 12)
+crib 30 OTTOWUENSCHE..(33)@22 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 13)
+crib 31 OTTOWUENSCHE..(33)@25 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 13)
+crib 32 OTTOWUENSCHE..(33)@26 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 13)
+crib 33 OTTOWUENSCHE..(33)@28 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 13)
+crib 34 OTTOWUENSCHE..(33)@35 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 12)
+crib 35 OTTOWUENSCHE..(33)@36 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 12)
+crib 36 OTTOWUENSCHE..(33)@37 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 12)
+crib 37 OTTOWUENSCHE..(33)@39 used=33 excluded=[] blocks=1 sizes: 33(pivot E, loops 12)
+crib 38 JOTTOWUENSCH..(35)@2 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 13)
+crib 39 JOTTOWUENSCH..(35)@7 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 13)
+crib 40 JOTTOWUENSCH..(35)@11 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 13)
+crib 41 JOTTOWUENSCH..(35)@20 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 14)
+crib 42 JOTTOWUENSCH..(35)@21 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 15)
+crib 43 JOTTOWUENSCH..(35)@24 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 14)
+crib 44 JOTTOWUENSCH..(35)@26 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 14)
+crib 45 JOTTOWUENSCH..(35)@31 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 13)
+crib 46 JOTTOWUENSCH..(35)@33 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 13)
+crib 47 JOTTOWUENSCH..(35)@34 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 13)
+crib 48 JOTTOWUENSCH..(35)@35 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 13)
+crib 49 JOTTOWUENSCH..(35)@37 used=35 excluded=[] blocks=1 sizes: 35(pivot E, loops 13)
+DONE settings=5940688 time=6.8s rate=0.872M settings/s (0.218M/s/thread, 4 threads) T-evals/setting=0.0 stops=0
+crib 0 KARTENAUSRUE..(25)@2: block-stops=0; verified g histogram:
+crib 1 KARTENAUSRUE..(25)@4: block-stops=0; verified g histogram:
+crib 2 KARTENAUSRUE..(25)@10: block-stops=0; verified g histogram:
+crib 3 KARTENAUSRUE..(25)@13: block-stops=0; verified g histogram:
+crib 4 KARTENAUSRUE..(25)@14: block-stops=0; verified g histogram:
+crib 5 KARTENAUSRUE..(25)@18: block-stops=0; verified g histogram:
+crib 6 KARTENAUSRUE..(25)@20: block-stops=0; verified g histogram:
+crib 7 KARTENAUSRUE..(25)@27: block-stops=0; verified g histogram:
+crib 8 KARTENAUSRUE..(25)@29: block-stops=0; verified g histogram:
+crib 9 KARTENAUSRUE..(25)@30: block-stops=0; verified g histogram:
+crib 10 KARTENAUSRUE..(25)@32: block-stops=0; verified g histogram:
+crib 11 KARTENAUSRUE..(25)@36: block-stops=0; verified g histogram:
+crib 12 KARTENAUSRUE..(25)@38: block-stops=0; verified g histogram:
+crib 13 KARTENAUSRUE..(25)@42: block-stops=0; verified g histogram:
+crib 14 KARTENAUSRUE..(25)@44: block-stops=0; verified g histogram:
+crib 15 KARTENAUSRUE..(25)@46: block-stops=0; verified g histogram:
+crib 16 STELLKARTENA..(30)@9: block-stops=0; verified g histogram:
+crib 17 STELLKARTENA..(30)@13: block-stops=0; verified g histogram:
+crib 18 STELLKARTENA..(30)@15: block-stops=0; verified g histogram:
+crib 19 STELLKARTENA..(30)@22: block-stops=0; verified g histogram:
+crib 20 STELLKARTENA..(30)@25: block-stops=0; verified g histogram:
+crib 21 STELLKARTENA..(30)@27: block-stops=0; verified g histogram:
+crib 22 STELLKARTENA..(30)@31: block-stops=0; verified g histogram:
+crib 23 STELLKARTENA..(30)@39: block-stops=0; verified g histogram:
+crib 24 STELLKARTENA..(30)@41: block-stops=0; verified g histogram:
+crib 25 OTTOWUENSCHE..(33)@2: block-stops=0; verified g histogram:
+crib 26 OTTOWUENSCHE..(33)@7: block-stops=0; verified g histogram:
+crib 27 OTTOWUENSCHE..(33)@9: block-stops=0; verified g histogram:
+crib 28 OTTOWUENSCHE..(33)@12: block-stops=0; verified g histogram:
+crib 29 OTTOWUENSCHE..(33)@13: block-stops=0; verified g histogram:
+crib 30 OTTOWUENSCHE..(33)@22: block-stops=0; verified g histogram:
+crib 31 OTTOWUENSCHE..(33)@25: block-stops=0; verified g histogram:
+crib 32 OTTOWUENSCHE..(33)@26: block-stops=0; verified g histogram:
+crib 33 OTTOWUENSCHE..(33)@28: block-stops=0; verified g histogram:
+crib 34 OTTOWUENSCHE..(33)@35: block-stops=0; verified g histogram:
+crib 35 OTTOWUENSCHE..(33)@36: block-stops=0; verified g histogram:
+crib 36 OTTOWUENSCHE..(33)@37: block-stops=0; verified g histogram:
+crib 37 OTTOWUENSCHE..(33)@39: block-stops=0; verified g histogram:
+crib 38 JOTTOWUENSCH..(35)@2: block-stops=0; verified g histogram:
+crib 39 JOTTOWUENSCH..(35)@7: block-stops=0; verified g histogram:
+crib 40 JOTTOWUENSCH..(35)@11: block-stops=0; verified g histogram:
+crib 41 JOTTOWUENSCH..(35)@20: block-stops=0; verified g histogram:
+crib 42 JOTTOWUENSCH..(35)@21: block-stops=0; verified g histogram:
+crib 43 JOTTOWUENSCH..(35)@24: block-stops=0; verified g histogram:
+crib 44 JOTTOWUENSCH..(35)@26: block-stops=0; verified g histogram:
+crib 45 JOTTOWUENSCH..(35)@31: block-stops=0; verified g histogram:
+crib 46 JOTTOWUENSCH..(35)@33: block-stops=0; verified g histogram:
+crib 47 JOTTOWUENSCH..(35)@34: block-stops=0; verified g histogram:
+crib 48 JOTTOWUENSCH..(35)@35: block-stops=0; verified g histogram:
+crib 49 JOTTOWUENSCH..(35)@37: block-stops=0; verified g histogram:

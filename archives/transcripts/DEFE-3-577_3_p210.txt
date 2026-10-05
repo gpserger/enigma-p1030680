@@ -1,0 +1,14 @@
+META serial=367600 too=0125 toi=0152/24/4/45 freq=3764 from=U 1192 to=?
+GIST U 1192 reports it left Hamburg for Kiel at 0100.
+
+ADM (4)
+TO: I D 8G                                     ZIP/ZTPG/ 367600
+FROM: N S
+
+3764 KC/S       TOO : 0125            TOI : 0152/24/4/45
+
+FROM: U 1192
+
+LEFT HAMBURG FOR KIEL AT 0100.
+
+2038/1/5/45 EE/JG

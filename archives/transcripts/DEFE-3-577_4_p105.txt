@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367715 too=1952 toi=1855/26/4/45 freq=4580 KCS from=T 9 to=S-O. 2ND T-FLOTILLA (REPAIR)
+GIST T 9 reports diesel repairs completed on 25/4, transfer intended for 27/4.
+
+ADM (C4)
+
+TO | D 8 G    ZIP/ZTPG/367715
+FROM NS
+
+4580 KCS    TOO 1952    TOI 1855/26/4/45
+
+FROM: T 9
+
+TO: S-O. 2ND T-FLOTILLA (REPAIR)
+
+REPAIRS TO DIESEL COMPLETED 25/4! TRANSFER INTENDED 27/4.
+
+0742/2/5/45+++EGT/IW

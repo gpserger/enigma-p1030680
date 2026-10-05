@@ -1,0 +1,20 @@
+META serial=367358 too=1407 toi=1907/30/4/45 freq=4765 kcs from=10 TH DEFENCE FLOTILLA to=VS 1001, 1208
+GIST Vessels VS 1001 and 1208 ordered to shift position line between anchorage E and northern tip of Segroe on 30 April 1945.
+
+ADM C 5J
+
+TO: I D 8 G
+
+FROM: N S
+
+4765 KC/S        TOO 1407                T O I 1907/30/4/45
+
+FROM: 10 TH DEFENCE FLOTILLA
+
+TO: VS 1001. 1208
+
+SHIFT POSITION LINE AT ONCE BETWEEN ANCHORAGE 'E' AND NORTHERN
+
+TIP OF SEGROE.
+
+2353/30/4/45 EGT+MD1++

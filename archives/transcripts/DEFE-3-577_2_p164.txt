@@ -1,0 +1,16 @@
+META serial=367362 too=1838 toi=1705/30/4/45 freq=2115 kcs from=S.O.GROUP GRUBE to=I D 8 G
+GIST S.O. Group Grube patrol orders for night 30 April to 1 May: Boemmelen-Stoksund at night, Lervik during day.
+
+ADM C 3J
+
+TO: I D 8 G
+
+FROM: N S
+
+2115 KC/S        T O O 1838                T O I 1705/30/4/45
+
+FROM: S.O.GROUP GRUBE
+
+NIGHT 30/4 - 1/5 BOEMMELEN - STOKSUND, BY DAY LERVIK.
+
+0001/1/5/45+++EGT/FA

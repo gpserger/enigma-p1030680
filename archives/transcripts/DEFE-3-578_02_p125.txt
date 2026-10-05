@@ -1,0 +1,11 @@
+META serial=ADM C(4) too=1945 toi=1840/5/5/45 freq=360 from=DEFENCE UNIT LORIENT to=I D 8 G
+GIST Ship movement reporting service for night 5/5-6/5: paragraphs 1 and 3 cancelled due to weather conditions.
+
+FROM: DEFENCE UNIT LORIENT
+
+SHIP-MOVEMENT KR REPORTING SERVICE FOR NIGHT 5/5-6/5:
+[handwritten mark] PARAS 1) AND 3) LAPSE OWING TO WEATHER CONDITIONS.
+
+CC 2ND LINE 1ST GRP: PARAS 1D.
+
+2326/5/5/45+++EE/UC

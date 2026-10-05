@@ -1,0 +1,18 @@
+META serial=367834 too=0549 toi=0434/1/5/45 freq=382 from=10TH DEFENCE DIVISION 'TSTB' to=T 107
+GIST Emergency sea transport: with tug Schickmann to Sassnitz; Pregel with Grosheidekrug and Ruth to Wismar.
+
+ADM (C)
+TO: I D B G                                    ZIP/ZTPG/367834
+FROM: N S
+
+382 KC/S            TOO 0549            TOI 0434/1/5/45
+
+FROM: 10TH DEFENCE DIVISION 'TSTB'
+TO: T 107
+
+EMERGENCY (SEA TRANSPORT)
+
+WITH TUG SCHICKMANN TO SASSNITZ. PREGEL WITH GROSHEIDEKRUG
+AND RUTH TO WISMAR.
+
+2044/2/5/45++++EE/SMH

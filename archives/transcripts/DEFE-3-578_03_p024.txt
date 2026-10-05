@@ -1,0 +1,21 @@
+META serial=368516 too=0016/2 toi=2?1/1/5/45 freq=3015 from=SPERRBRECHER153 to=?
+GIST Sperrbrecher 153 reports in ship movement reporting service that convoy is cancelled, with correction T O I 2331/1/5/45.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368516
+
+FROM N S
+
+3015 KC/S     T O O 0016/2     T O I 2?1/1/5/45
+
+FROM: SPERRBRECHER 153
+
+SHIP MOVEMENT REPORTING SERVICE:
+
+CONVOY CANCELLED.
+
+CC T O I 2331/1/5/45
+
+
+1910/6/5/45+++EE/UC

@@ -1,0 +1,23 @@
+META serial=ZIP/ZTPG/367846 too=1726 toi=1747/25/4/45 freq=446 KC/S from=ADMIRAL NETHERLANDS to=SUPREME COMMAND OF THE NAVY
+GIST Fuel oil and diesel stocks report from Admiral Netherlands to naval command dated 25 April 1945.
+
+ADM (22)
+TO: I D B G                            ZIP/ZTPG/367846
+FROM: NS
+
+446 KC/S     T O O 1726          T O I 1747/25/4/45
+
+FROM: ADMIRAL NETHERLANDS
+TO: SUPREME COMMAND OF THE NAVY, NAVAL WAR
+    STAFF (1ST DIVISION)
+    NAVAL CHIEF COMMAND NORTH QU I N
+
+'HEXF' FOR ((2))5/4/45:
+. FUEL OIL STOCKS                              153
+  COMSUMTION OF HEAVY DIESEL OIL 'D'           1
+. STOCKS OF HEAVY DIESELO [handwritten: crossed out] DIESEL OIL 'D'  56
+  STOCKS OF [handwritten: YS crossed out] HEAVY DIESEL OIL II  1
+  COAL STOCKS                                   556
+17. FUEL OIL STOCKS                            435
+  STOCKS OF HFAVY DIESEL OIL 'D'                41
+  STOCKS OF HEAVY DIESEL OIL II                 7

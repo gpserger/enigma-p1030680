@@ -1,0 +1,19 @@
+META serial=3671407 too=2355 toi=2249/30/4/45 freq=3005KC/S from=VS1523 to=9THDEFENCEFLO TILLA
+GIST VS.1523 reports keeping watch only on KO.2 from now on until further notice.
+
+ADM C33
+TO: I D 8 G                           ZIP/ZTPG/3671407
+FROM: N S
+[seal mark]
+
+3005 KC/S             T O O 2355              T O I 2249/30/4/45
+
+FROM: VS 1523
+TO: 9TH DEFENCE FLOTILLA
+
+FROM NOW ON AND UNTIL FURTHER NOTICE SHALL ONLY BE KEEPING WATCH
+ON 'KO.2'.
+
+[seal mark]
+
+0249/1/5/45++CEL/FA

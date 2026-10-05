@@ -1,0 +1,23 @@
+META serial=1012 too=1146 toi=1022/30/4/45 freq=3545 KC/S from=9TH DEFENCE DIVISION to=ALL
+
+GIST 9th Defence Division orders all units to prepare for coastal guard operations in Danzig Bay with white star signaling.
+
+ADM (2)
+
+TO: I D 8 G ZIP/ZTPG/367983
+
+FROM: N S
+
+3545 KC/S T O O 1146 T O I 1022/30/4/45
+
+FROM: 9TH DEFENCE DIVISION
+
+TO: ALL
+
+EMERGENCY.
+
+FROM NOW ON BE PREPARED FOR COASTGUARDS IN DANZIG BAY REQUESTING
+
+R/S SIGNAL BY MEANS OF A WHITE STAR SIGNAL.
+
+1142/3/5/45 CEL/EB+

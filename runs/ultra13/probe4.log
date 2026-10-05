@@ -1,0 +1,77 @@
+crib 0 JOTTOWUENSCH..(67)@2 used=67 excluded=[] blocks=4 sizes: 17(pivot S, loops 8) 17(pivot O, loops 7) 17(pivot V, loops 8) 16(pivot K, loops 7)
+crib 1 JOTTOWUENSCH..(68)@1 used=68 excluded=[] blocks=4 sizes: 17(pivot C, loops 8) 17(pivot T, loops 8) 17(pivot E, loops 8) 17(pivot X, loops 8)
+crib 2 JOTTOWUENSCH..(66)@1 used=66 excluded=[] blocks=4 sizes: 17(pivot X, loops 7) 16(pivot N, loops 8) 17(pivot R, loops 7) 16(pivot A, loops 7)
+crib 3 JOTTOWUENSCH..(69)@1 used=69 excluded=[] blocks=4 sizes: 18(pivot E, loops 8) 17(pivot C, loops 7) 17(pivot V, loops 7) 17(pivot K, loops 7)
+crib 4 JOTTOWUENSCH..(68)@1 used=68 excluded=[] blocks=4 sizes: 17(pivot G, loops 8) 17(pivot E, loops 7) 17(pivot E, loops 9) 17(pivot N, loops 7)
+crib 5 JOTTOWUENSCH..(70)@2 used=70 excluded=[] blocks=4 sizes: 18(pivot C, loops 8) 17(pivot R, loops 7) 18(pivot E, loops 9) 17(pivot X, loops 7)
+crib 6 JOTTOWUENSCH..(70)@1 used=70 excluded=[] blocks=4 sizes: 18(pivot O, loops 7) 17(pivot E, loops 8) 18(pivot N, loops 9) 17(pivot T, loops 7)
+crib 7 JOTTOWUENSCH..(71)@1 used=71 excluded=[] blocks=4 sizes: 18(pivot S, loops 8) 18(pivot N, loops 8) 18(pivot E, loops 9) 17(pivot O, loops 8)
+crib 8 JOTTOWUENSCH..(68)@1 used=68 excluded=[] blocks=4 sizes: 17(pivot E, loops 7) 17(pivot N, loops 7) 17(pivot O, loops 8) 17(pivot E, loops 8)
+crib 9 JOTTOWUENSCH..(69)@1 used=69 excluded=[] blocks=4 sizes: 18(pivot C, loops 8) 17(pivot O, loops 8) 17(pivot E, loops 8) 17(pivot A, loops 8)
+crib 10 OTTOWUENSCHE..(66)@3 used=66 excluded=[] blocks=4 sizes: 17(pivot N, loops 7) 16(pivot R, loops 7) 17(pivot T, loops 7) 16(pivot G, loops 7)
+crib 11 OTTOWUENSCHE..(67)@3 used=67 excluded=[] blocks=4 sizes: 17(pivot X, loops 7) 17(pivot B, loops 7) 17(pivot R, loops 9) 16(pivot E, loops 7)
+crib 12 OTTOWUENSCHE..(66)@3 used=66 excluded=[] blocks=4 sizes: 17(pivot H, loops 7) 16(pivot E, loops 7) 17(pivot T, loops 7) 16(pivot G, loops 7)
+crib 13 OTTOWUENSCHE..(67)@2 used=67 excluded=[] blocks=4 sizes: 17(pivot G, loops 7) 17(pivot K, loops 7) 17(pivot A, loops 7) 16(pivot E, loops 8)
+crib 14 OTTOWUENSCHE..(69)@2 used=69 excluded=[] blocks=4 sizes: 18(pivot V, loops 7) 17(pivot R, loops 8) 17(pivot N, loops 7) 17(pivot S, loops 9)
+crib 15 OTTOWUENSCHE..(68)@3 used=68 excluded=[] blocks=4 sizes: 17(pivot H, loops 8) 17(pivot O, loops 9) 17(pivot A, loops 7) 17(pivot E, loops 8)
+crib 16 OTTOWUENSCHE..(69)@3 used=69 excluded=[] blocks=4 sizes: 18(pivot R, loops 8) 17(pivot N, loops 8) 17(pivot B, loops 8) 17(pivot S, loops 8)
+crib 17 OTTOWUENSCHE..(66)@3 used=66 excluded=[] blocks=4 sizes: 17(pivot E, loops 7) 16(pivot G, loops 7) 17(pivot E, loops 7) 16(pivot O, loops 8)
+crib 18 OTTOWUENSCHE..(67)@3 used=67 excluded=[] blocks=4 sizes: 17(pivot E, loops 8) 17(pivot V, loops 8) 17(pivot R, loops 8) 16(pivot E, loops 8)
+crib 19 SSDJOTTOWUEN..(68)@4 used=68 excluded=[] blocks=4 sizes: 17(pivot E, loops 8) 17(pivot E, loops 7) 17(pivot T, loops 7) 17(pivot S, loops 7)
+crib 20 SSDJOTTOWUEN..(66)@4 used=66 excluded=[] blocks=4 sizes: 17(pivot S, loops 7) 16(pivot V, loops 7) 17(pivot G, loops 9) 16(pivot N, loops 8)
+crib 21 SSDJOTTOWUEN..(67)@5 used=67 excluded=[] blocks=4 sizes: 17(pivot S, loops 7) 17(pivot E, loops 8) 17(pivot E, loops 8) 16(pivot N, loops 7)
+crib 22 SSDJOTTOWUEN..(67)@5 used=67 excluded=[] blocks=4 sizes: 17(pivot E, loops 8) 17(pivot F, loops 7) 17(pivot N, loops 8) 16(pivot G, loops 7)
+crib 23 SSDOTTOWUENS..(66)@0 used=66 excluded=[] blocks=4 sizes: 17(pivot B, loops 8) 16(pivot T, loops 8) 17(pivot E, loops 8) 16(pivot N, loops 7)
+crib 24 SSDOTTOWUENS..(66)@6 used=66 excluded=[] blocks=4 sizes: 17(pivot S, loops 7) 16(pivot T, loops 7) 17(pivot E, loops 7) 16(pivot T, loops 7)
+crib 25 SSDOTTOWUENS..(69)@0 used=69 excluded=[] blocks=4 sizes: 18(pivot B, loops 8) 17(pivot R, loops 8) 17(pivot U, loops 7) 17(pivot A, loops 8)
+crib 26 SSDOTTOWUENS..(67)@0 used=67 excluded=[] blocks=4 sizes: 17(pivot S, loops 8) 17(pivot K, loops 7) 17(pivot X, loops 7) 16(pivot R, loops 7)
+crib 27 SSDOTTOWUENS..(67)@4 used=67 excluded=[] blocks=4 sizes: 17(pivot S, loops 8) 17(pivot O, loops 7) 17(pivot N, loops 7) 16(pivot T, loops 8)
+crib 28 SSDOTTOWUENS..(70)@0 used=70 excluded=[] blocks=4 sizes: 18(pivot E, loops 8) 17(pivot R, loops 9) 18(pivot O, loops 8) 17(pivot X, loops 8)
+crib 29 SSDOTTOWUENS..(68)@4 used=68 excluded=[] blocks=4 sizes: 17(pivot E, loops 8) 17(pivot B, loops 7) 17(pivot U, loops 9) 17(pivot N, loops 8)
+crib 30 SSDOTTOWUENS..(69)@0 used=69 excluded=[] blocks=4 sizes: 18(pivot T, loops 8) 17(pivot S, loops 9) 17(pivot X, loops 8) 17(pivot R, loops 8)
+crib 31 SSDOTTOWUENS..(66)@5 used=66 excluded=[] blocks=4 sizes: 17(pivot N, loops 7) 16(pivot X, loops 8) 17(pivot D, loops 7) 16(pivot E, loops 8)
+crib 32 SSDOTTOWUENS..(71)@0 used=71 excluded=[] blocks=4 sizes: 18(pivot T, loops 8) 18(pivot R, loops 8) 18(pivot B, loops 8) 17(pivot N, loops 8)
+crib 33 SSDOTTOWUENS..(72)@0 used=72 excluded=[] blocks=4 sizes: 18(pivot S, loops 9) 18(pivot E, loops 9) 18(pivot G, loops 7) 18(pivot B, loops 8)
+crib 34 SSDOTTOWUENS..(66)@0 used=66 excluded=[] blocks=4 sizes: 17(pivot E, loops 7) 16(pivot B, loops 7) 17(pivot A, loops 7) 16(pivot O, loops 7)
+crib 35 SSDOTTOWUENS..(66)@5 used=66 excluded=[] blocks=4 sizes: 17(pivot T, loops 8) 16(pivot R, loops 7) 17(pivot O, loops 9) 16(pivot V, loops 7)
+crib 36 SSDOTTOWUENS..(69)@0 used=69 excluded=[] blocks=4 sizes: 18(pivot K, loops 8) 17(pivot E, loops 8) 17(pivot O, loops 9) 17(pivot N, loops 8)
+crib 37 SSDOTTOWUENS..(70)@0 used=70 excluded=[] blocks=4 sizes: 18(pivot E, loops 8) 17(pivot N, loops 9) 18(pivot C, loops 8) 17(pivot O, loops 9)
+DONE settings=5940688 time=19.0s rate=0.312M settings/s (0.078M/s/thread, 4 threads) T-evals/setting=0.0 stops=0
+crib 0 JOTTOWUENSCH..(67)@2: block-stops=0; verified g histogram:
+crib 1 JOTTOWUENSCH..(68)@1: block-stops=0; verified g histogram:
+crib 2 JOTTOWUENSCH..(66)@1: block-stops=0; verified g histogram:
+crib 3 JOTTOWUENSCH..(69)@1: block-stops=0; verified g histogram:
+crib 4 JOTTOWUENSCH..(68)@1: block-stops=0; verified g histogram:
+crib 5 JOTTOWUENSCH..(70)@2: block-stops=0; verified g histogram:
+crib 6 JOTTOWUENSCH..(70)@1: block-stops=0; verified g histogram:
+crib 7 JOTTOWUENSCH..(71)@1: block-stops=0; verified g histogram:
+crib 8 JOTTOWUENSCH..(68)@1: block-stops=0; verified g histogram:
+crib 9 JOTTOWUENSCH..(69)@1: block-stops=0; verified g histogram:
+crib 10 OTTOWUENSCHE..(66)@3: block-stops=0; verified g histogram:
+crib 11 OTTOWUENSCHE..(67)@3: block-stops=0; verified g histogram:
+crib 12 OTTOWUENSCHE..(66)@3: block-stops=0; verified g histogram:
+crib 13 OTTOWUENSCHE..(67)@2: block-stops=0; verified g histogram:
+crib 14 OTTOWUENSCHE..(69)@2: block-stops=0; verified g histogram:
+crib 15 OTTOWUENSCHE..(68)@3: block-stops=0; verified g histogram:
+crib 16 OTTOWUENSCHE..(69)@3: block-stops=0; verified g histogram:
+crib 17 OTTOWUENSCHE..(66)@3: block-stops=0; verified g histogram:
+crib 18 OTTOWUENSCHE..(67)@3: block-stops=0; verified g histogram:
+crib 19 SSDJOTTOWUEN..(68)@4: block-stops=0; verified g histogram:
+crib 20 SSDJOTTOWUEN..(66)@4: block-stops=0; verified g histogram:
+crib 21 SSDJOTTOWUEN..(67)@5: block-stops=0; verified g histogram:
+crib 22 SSDJOTTOWUEN..(67)@5: block-stops=0; verified g histogram:
+crib 23 SSDOTTOWUENS..(66)@0: block-stops=0; verified g histogram:
+crib 24 SSDOTTOWUENS..(66)@6: block-stops=0; verified g histogram:
+crib 25 SSDOTTOWUENS..(69)@0: block-stops=0; verified g histogram:
+crib 26 SSDOTTOWUENS..(67)@0: block-stops=0; verified g histogram:
+crib 27 SSDOTTOWUENS..(67)@4: block-stops=0; verified g histogram:
+crib 28 SSDOTTOWUENS..(70)@0: block-stops=0; verified g histogram:
+crib 29 SSDOTTOWUENS..(68)@4: block-stops=0; verified g histogram:
+crib 30 SSDOTTOWUENS..(69)@0: block-stops=0; verified g histogram:
+crib 31 SSDOTTOWUENS..(66)@5: block-stops=0; verified g histogram:
+crib 32 SSDOTTOWUENS..(71)@0: block-stops=0; verified g histogram:
+crib 33 SSDOTTOWUENS..(72)@0: block-stops=0; verified g histogram:
+crib 34 SSDOTTOWUENS..(66)@0: block-stops=0; verified g histogram:
+crib 35 SSDOTTOWUENS..(66)@5: block-stops=0; verified g histogram:
+crib 36 SSDOTTOWUENS..(69)@0: block-stops=0; verified g histogram:
+crib 37 SSDOTTOWUENS..(70)@0: block-stops=0; verified g histogram:

@@ -1,0 +1,23 @@
+META serial=3687/54 too=1705/1 toi=1230/2/5/45 freq=382KC/S from=NAVAL CHIEF COMMAND BALTIC to=NAVY OFFICE ROSTOCK NAVY OFFICE WISMAR
+GIST: Most secret message from Naval Chief Command Baltic directs navy offices to prepare for steamship Stolpe with refugees to proceed from Gjedser to Wismar for transport of refugees and wounded.
+
+ADM C3D
+TO I D B G                                 ZIP/ZTPG/3687/54
+
+FROM N S
+
+382 KC/S        T O O 1705/1        T O I 1230/2/5/45
+
+FROM: NAVAL CHIEF COMMAND BALTIC
+TO:   NAVY OFFICE ROSTOCK
+      NAVY OFFICE WISMAR
+
+MOST SECRET
+
+STEAMSHIP 'STOLPE' WILL PROCEED AT ONCE WITH REFUGEES TO
+GJEDSER, THEN IN BALLAST TO WISMAR TO BE AT THE DISPOSAL OF
+NAVY OFFICE FOR TRANSPORT OF REFUGEES AND WOUNDED.
+
+CC READ TO: NAVY OFFICE ETC
+
+0523/8/5/45+CFG+DJL

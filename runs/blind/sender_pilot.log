@@ -1,0 +1,57 @@
+crib 0 VVVFXDXUUUAU..(16)@3 used=16 excluded=[] blocks=1 sizes: 16(pivot X, loops 2)
+crib 1 VVVFXDXUUUAU..(16)@4 used=16 excluded=[] blocks=1 sizes: 16(pivot X, loops 3)
+crib 2 VVVFXDXUUUAU..(16)@5 used=16 excluded=[] blocks=1 sizes: 16(pivot X, loops 1)
+crib 3 VVVFXDXUUUAU..(16)@6 used=16 excluded=[] blocks=1 sizes: 16(pivot X, loops 2)
+crib 4 VVVFXDXUUUAU..(16)@8 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 2)
+crib 5 VVVFXDXUUUAU..(16)@10 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 3)
+crib 6 VVVFXDXUUUAU..(16)@12 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 1)
+crib 7 VVVFXDXUUUAU..(16)@16 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 1)
+crib 8 VVVFXDXUUUAU..(16)@17 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 2)
+crib 9 VVVFXDXUUUAU..(16)@18 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 4)
+crib 10 VVVFXDXUUUAU..(16)@22 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 3)
+crib 11 VVVFXDXUUUAU..(16)@23 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 2)
+crib 12 VVVFXDXUUUAU..(16)@25 used=16 excluded=[] blocks=1 sizes: 16(pivot P, loops 3)
+crib 13 VONFXDXUUUAU..(16)@3 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 2)
+crib 14 VONFXDXUUUAU..(16)@4 used=16 excluded=[] blocks=1 sizes: 16(pivot X, loops 3)
+crib 15 VONFXDXUUUAU..(16)@5 used=16 excluded=[] blocks=1 sizes: 16(pivot X, loops 1)
+crib 16 VONFXDXUUUAU..(16)@6 used=16 excluded=[] blocks=1 sizes: 16(pivot X, loops 1)
+crib 17 VONFXDXUUUAU..(16)@8 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 1)
+crib 18 VONFXDXUUUAU..(16)@10 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 2)
+crib 19 VONFXDXUUUAU..(16)@12 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 1)
+crib 20 VONFXDXUUUAU..(16)@16 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 1)
+crib 21 VONFXDXUUUAU..(16)@17 used=16 excluded=[] blocks=1 sizes: 16(pivot X, loops 1)
+crib 22 VONFXDXUUUAU..(16)@18 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 3)
+crib 23 VONFXDXUUUAU..(16)@19 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 3)
+crib 24 VONFXDXUUUAU..(16)@20 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 2)
+crib 25 VONFXDXUUUAU..(16)@23 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 2)
+crib 26 VONFXDXUUUAU..(16)@25 used=16 excluded=[] blocks=1 sizes: 16(pivot P, loops 1)
+[200/572 items] 68s settings=91395200 (1.34M/s) stops=5995563
+[400/572 items] 165s settings=182790400 (1.11M/s) stops=12029577
+DONE settings=261390272 time=223.7s rate=1.168M settings/s (0.584M/s/thread, 2 threads) T-evals/setting=41.1 stops=17225371
+crib 0 VVVFXDXUUUAU..(16)@3: block-stops=17824; verified g histogram: g0:3699 g1:3161 g2:3292 g3:4468 g4:2877 g5:327
+crib 1 VVVFXDXUUUAU..(16)@4: block-stops=3; verified g histogram: g0:3
+crib 2 VVVFXDXUUUAU..(16)@5: block-stops=0; verified g histogram:
+crib 3 VVVFXDXUUUAU..(16)@6: block-stops=7; verified g histogram: g0:6 g1:1
+crib 4 VVVFXDXUUUAU..(16)@8: block-stops=0; verified g histogram:
+crib 5 VVVFXDXUUUAU..(16)@10: block-stops=42; verified g histogram: g0:10 g1:29 g2:3
+crib 6 VVVFXDXUUUAU..(16)@12: block-stops=9; verified g histogram: g0:3 g1:6
+crib 7 VVVFXDXUUUAU..(16)@16: block-stops=8921; verified g histogram: g0:2355 g1:1152 g2:2309 g3:2502 g4:603
+crib 8 VVVFXDXUUUAU..(16)@17: block-stops=0; verified g histogram:
+crib 9 VVVFXDXUUUAU..(16)@18: block-stops=10; verified g histogram: g0:5 g1:4 g2:1
+crib 10 VVVFXDXUUUAU..(16)@22: block-stops=716; verified g histogram: g0:182 g1:237 g2:211 g3:85 g4:1
+crib 11 VVVFXDXUUUAU..(16)@23: block-stops=1; verified g histogram: g1:1
+crib 12 VVVFXDXUUUAU..(16)@25: block-stops=2; verified g histogram: g1:2
+crib 13 VONFXDXUUUAU..(16)@3: block-stops=8157670; verified g histogram: g0:2078567 g1:1457590 g2:1814926 g3:1729593 g4:874148 g5:192162 g6:10684
+crib 14 VONFXDXUUUAU..(16)@4: block-stops=771; verified g histogram: g0:195 g1:291 g2:247 g3:33 g4:5
+crib 15 VONFXDXUUUAU..(16)@5: block-stops=53; verified g histogram: g0:19 g1:33 g2:1
+crib 16 VONFXDXUUUAU..(16)@6: block-stops=61; verified g histogram: g0:17 g1:35 g2:9
+crib 17 VONFXDXUUUAU..(16)@8: block-stops=0; verified g histogram:
+crib 18 VONFXDXUUUAU..(16)@10: block-stops=1949088; verified g histogram: g0:328564 g1:385438 g2:500067 g3:463475 g4:226051 g5:43530 g6:1963
+crib 19 VONFXDXUUUAU..(16)@12: block-stops=80; verified g histogram: g0:37 g1:40 g2:3
+crib 20 VONFXDXUUUAU..(16)@16: block-stops=61; verified g histogram: g0:17 g1:33 g2:11
+crib 21 VONFXDXUUUAU..(16)@17: block-stops=6848069; verified g histogram: g0:882818 g1:834229 g2:1022818 g3:1540454 g4:1530354 g5:841355 g6:185799 g7:10169 g8:73
+crib 22 VONFXDXUUUAU..(16)@18: block-stops=8; verified g histogram: g0:3 g1:3 g2:2
+crib 23 VONFXDXUUUAU..(16)@19: block-stops=241937; verified g histogram: g0:64105 g1:60045 g2:62113 g3:42442 g4:12043 g5:1178 g6:11
+crib 24 VONFXDXUUUAU..(16)@20: block-stops=2; verified g histogram: g1:2
+crib 25 VONFXDXUUUAU..(16)@23: block-stops=36; verified g histogram: g0:9 g1:14 g2:13
+crib 26 VONFXDXUUUAU..(16)@25: block-stops=0; verified g histogram:

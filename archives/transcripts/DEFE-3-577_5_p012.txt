@@ -1,0 +1,16 @@
+META serial=367827 too=1605 toi=1556/30/4/45 freq=4282 from=ADMIRAL (U/B) N 3 to=25TH U/B FLOTILLA
+GIST Send to Kiel at once Lieut. Walter Junge, engineer officer of U-boat 3037.
+
+ADM (3)
+TO: I D B G                                    Z.IP/ZTPG/367827
+FROM: N S
+
+4282 KC/S            T O O 1605            T O I 1556/30/4/45
+
+FROM: ADMIRAL (U/B) N 3
+TO: 25TH U/B FLOTILLA
+
+SEND TO KIEL AT ONCE LIEUT. (J.G.) (E) WALTER JUNGE , THE
+ENGINEER OFFICER OF U 3037 C EX-EMMERMANN >.
+
+2054/2/5/45            EE/UAK+++

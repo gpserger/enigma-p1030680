@@ -1,0 +1,23 @@
+META serial=367937 too=1510 toi=1453/29/4/45 freq=4282 from=N S to=IDB G
+GIST Admiral of U-boats to Captain U-boat Baltic regarding transfer of U-boat 428 Brasack contrary to previous orders.
+
+ADM (3)
+
+TO IDB G                                        Z IP/ZTPG/367937
+
+FROM N S
+
+4282 KC/S         TOO 1510              TOI 1453/29/4/45
+
+'FROM: ADMIRAL (U/B)
+
+TO: CAPTAIN (U/B) BALTIC
+
+EMERGENCY
+
+U 428 (BRASACK, EX HANITSCH) IS TRANSFERRED, CONTRARY TO PREVIOUS
+ORDERS, FROM 'VOLKSLISTE I' TO 'LISTE III' OWING TO EXTENT OF
+REPAIRS. TO BE EXPLOYED TO SUPPLY RENDSBURG WITH POWER. ORDERS
+FOLLOW REGARDING THE EMPLOYMENT OF BRASACK.
+
+0721/3/5/45         EGT+++HPS+++

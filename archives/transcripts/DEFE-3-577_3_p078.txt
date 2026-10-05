@@ -1,0 +1,21 @@
+META serial=367488 too=1806 toi=1740/30/4/45 freq=6747 from=Dockyard Commandant Lorient to=Naval Chief Command West
+GIST Dockyard Commandant Lorient requests urgent reply on delivery of thrust bearing for S 112; engine repairs pointless otherwise.
+
+ADM C4D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367488
+
+6747 KC/S        TOO 1806        TOI 1740/30/4/45
+
+FROM: DOCKYARD COMMANDANT LORIENT
+
+TO: NAVAL CHIEF COMMAND WEST
+
+REQUEST URGENT REPLY WHETHER DELIVERY OF THRUST BEARING FOR
+S 112 IS STILL TO BE COUNTED ON. REPAIRS TO ENGINE OTHER-WISE
+POINTLESS.
+
+1118/1/5/45 EE/HW

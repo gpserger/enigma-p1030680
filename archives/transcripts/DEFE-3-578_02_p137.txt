@@ -1,0 +1,9 @@
+META serial=ADM C(12) too=0820 toi=0636/2/5/45 freq=3015 from=M 323 to=I D 8 G
+GIST M 323 at Luechter Loch requests flak protection from 5th Defence Division.
+
+FROM: M 323
+TO: 5TH DEFENCE DIVISION
+
+AM AT LUECHTER LOCH. REQUEST FLAK PROTECTION
+
+0145/6/5/45+EGT/AM

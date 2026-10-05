@@ -1,0 +1,20 @@
+META serial=368666 too=1646 toi=1528/2/5/45 freq=350 from=SEADEFENCECOMMANDANTOSLOFJORD to=?
+GIST Sea Defence Commandant Oslofjord reports emergency that 9 escort vessels and 2 steamships from 0200 Lille Faerder from north to south.
+
+ADM C1)
+
+TO I D B G                ZIP/ZTPG/368666
+
+FROM N S
+
+350 KC/S     TOO 1646     TOI 1528/2/5/45
+
+FROM: SEA DEFENCE COMMANDANT OSLOFJORD
+
+EMERGENCY                MOST SECRET
+
+9 ESCORT VESSELS, 2 STEAMSHIPS FROM 0200 LILLE FAERDER FROM
+NORTH TO SOUTH.
+
+
+1830/7/5/45   EE+++MPS+++

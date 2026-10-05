@@ -1,0 +1,21 @@
+META serial=ZIP/ZTPG/367922 too=2252 toi=2120/27/4/45 freq=3978 from=Z 38 to=M 604
+GIST Emergency: Z 38 acting on Captain D's orders to be escort boat for shore target bombardment, at anchor 0.5 miles north east of approach buoy.
+
+ADM (1)
+TO: IDBG                                         ZIP/ZTPG/367922
+FROM: N S
+
+3978 KC/S         TOO 2252            T O I 2120/27/4/45
+
+FROM: Z 38
+TO:   M 604
+
+EMERGENCY
+
+ON ORDERS OF CAPTAIN 'D' YOU ARE TO BE ESCORT BOAT FOR MY SHORE
+TARGET BOMBARDMENT. CLOSE UP AT ONCE. AM AT ANCHOR 0.5 MILES NORTH
+EAST OF APPROACH BUOY. REPORT ETA.
+
+[handwritten marking]
+
+0520/3/5/45 EGT+MDT++

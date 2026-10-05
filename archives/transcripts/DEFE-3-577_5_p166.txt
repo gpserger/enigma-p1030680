@@ -1,0 +1,19 @@
+META serial=367955 too=0925 toi=0910/30/4/45 freq=4860 from=N S to=IDB G
+GIST 4th U-boat flotilla to U-boat 4701 flotilla engineer announcing adjutant arrival in Stralsund.
+
+ADM (5)
+
+TO IDB G                                        Z IP/ ZTPG/367955
+
+FROM: N S
+
+4860 KC/S         T O O 0925              T O I 0910/30/4/45
+
+FROM: 4TH U/B FLOTILLA
+
+TO:   U 4701 ( FLOTILLA ENGINEER)
+
+ADJUTANT WILL ARRIVE IN STRALSUND WITH ' GERMANIA 1'
+THIS EVENING.
+
+0915/3/5/45 EGT/HJU

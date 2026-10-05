@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPG/367903 too=0854 toi=1715/28/4/45 freq=3764 from=U 2355 to=4TH U/B FLOTILLA
+GIST U-boat U 2355 reports as ordered, preserved and still in possession of brochure of fighting instructions for Type 23.
+
+ADM(4)
+TO: IDBG                                         ZIP/ZTPG/367903
+FROM: NS
+
+3764 KCS         TOO 0854            T O I 1715/28/4/45
+
+FROM: U 2355
+TO  : 4TH U/B FLOTILLA
+
+AS ORDERED, PRESERVED AND STILL IN POSSESSION OF BROCHURE OF
+FIGHTING INSTRUCTIONS FOR TYPE 23.
+
+0338/3/5/45+++EGT/IW

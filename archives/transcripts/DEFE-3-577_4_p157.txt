@@ -1,0 +1,17 @@
+META serial=367764 too=1739 toi=1601/30/4/45 freq=382 from=M.204 to=10TH DEFENCE DIVISION
+GIST Began escort to west at 1720 from Gruen of Hendrik Fisser 5, Hoeve, Westpreussen, Gremon, Ella Halm and Charlotte Schroeder; speed 7 knots.
+
+(S)
+TO: I D B G                                    ZIP/ZTPG/367764
+FROM: N S
+
+382 KC/S            T O O 1739            T O I 1601/30/4/45
+
+FROM: M.204
+TO: 10TH DEFENCE DIVISION
+
+BEGAN ESCORT TO THE WEST AT 1720 FROM GRUEN 03 OF 'HENDRIK FISSER
+5', 'HOEVE', 'WESTPREUSSEN', 'GREMON', 'ELLA HALM' AND 'CHARLOTTE
+SCHROEDER'. SPEED 7 KNOTS. W/T WATCH ON 'LO.1'.
+
+1303/2/5/45 CEL/EB+

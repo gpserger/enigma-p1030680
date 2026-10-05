@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPc/368324 too=0058/2 toi=2344/1/5/45 freq=2170kc/s from=5TH FLIEGERDIVISION to=?
+GIST Most immediate tactical report from 5th Air Division referencing earlier messages regarding sightings of 35 merchant ships and 7 destroyers at specified positions and courses.
+
+FROM: 5TH FLIEGERDIVISION
+
+MOST IMMEDIATE
+
+REFERENCE W/T MESSAGES 2049-2107, PARA.3:
+
+POSITION 27 EAST 7332. MADE OUT 35 MERCHANT SHIPS, COURSE 270
+DEGREES, SPEED 9 KNOTS, AND 2 DESTROYERS. AT 1840 IN 27 EAST
+6316 SIGHTED 7 DESTROYERS, COURSE 270 DEGREES, SPEED 9 TO 10
+KNOTS
+
+
+2328/5/5/45+EE/AM

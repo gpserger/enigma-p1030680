@@ -1,0 +1,19 @@
+META serial=367530 too=2328 toi=2135/28/4/45 freq=4265 from=DEFENCE UNIT LORIENT to=PLUNS, REITZ
+GIST Defence Unit Lorient urgent message to defence units Pluns and Reitz regarding W/T message 2134 about calling at Le Palais.
+
+ADM(C1)
+TO I D 8 G       ZIP/ZTPG/367530
+FROM N S
+
+4265 ·KC/S       T O O 2328       TOI 2135/28/4/45
+
+FROM: DEFENCE UNIT LORIENT
+TO: PLUNS
+    RE ITZ
+
+MOST IMMEDIATE
+
+TO XX W/T MESSAGE 2134:
+YOU ARE STILL TO CALL AT LE PALAIS
+
+1514/1/5/45+EE/AR

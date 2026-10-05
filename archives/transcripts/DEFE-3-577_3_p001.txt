@@ -1,0 +1,16 @@
+META serial=3671402A too=2137/30/4/45 toi=? freq=446KC/S from=NS to=?
+GIST Correction request to read Most Secret 3150 of 15/4/45 not Most Secret ZEQTP as sent.
+
+C52
+TO: I D 8 GV                          ZIP/ZTPG/3671402 A
+FROM: N S
+[seal mark]
+
+446 KC/S              T O O 2137/30/4/45
+
+PLEASE READ 'MOST SECRET 3150 OF 15/4/45'
+NOT 'MOST SECRET ZEQTP' AS SENT.
+
+[seal mark]
+
+0414/1/E5/45 CEL/EB +

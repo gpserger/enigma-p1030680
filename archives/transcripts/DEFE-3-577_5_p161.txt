@@ -1,0 +1,30 @@
+META serial=367950 too=2333 toi=2345/29/4/45 freq=368 from=N S to=IDB G
+GIST 'R' Supply and Welfare Administration to Mining and Barrage Arsenal Swinmünde regarding issuance of mines for demolition purposes.
+
+ADM (1)
+
+TO: IDB G                                       Z IP/ZTPG/367950
+
+FROM: N S
+
+368 KC/S         T O O 2333              T O I 2345/29/4/45
+
+FROM: 'R' S/WA
+
+TO:   MINING AND BARRAGE ARSENAL SWINEMUENDE
+
+                                       MOST SECRET 1508
+
+SUBJECT: ISSUING MINES FOR DEMOLITION PURPOSES.
+
+PREVIOUS REFERENCES:
+
+1) SWINEMUENDE'S 235.
+
+2) NAVAL WAR STAFF/ADM QU 4'S 12487.
+
+2ND REFERENCE IS CANCELLED. APPLICATIONS FOR MINES FOR DEMOLITION
+PURPOSES ARE TO BE MET.
+                [handwritten]0911/3/5/45 EGT/EB+
+
+0911/3/5/45 EGT/EB+

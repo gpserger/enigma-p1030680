@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367705 too=2359/30/4 toi=0511/1/5/45 freq=3764 KCS from=U 806 (HORNBOSTEL) to=5TH U/B FLOTILLA
+GIST U-boat U 806 (Hornbostel) tells 5th U-boat Flotilla it is arriving Kiel at 1000.
+
+ADM(4)
+
+TO I D 8 G    ZIP/ZTPG/367705
+
+FROM NS
+
+3764 KCS    TOO 2359/30/4    TOI 0511/1/5/45
+
+FROM: U 806 ( HORNBOSTEL)
+
+TO  : 5TH U/B FLOTILLA
+
+ARRIVING KIEL AT 1000
+
+0732/2/5/45+++EGT/IW

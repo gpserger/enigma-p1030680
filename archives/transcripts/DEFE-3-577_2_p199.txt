@@ -1,0 +1,21 @@
+META serial=3671396 too=1041 toi=0939/29/4/45 freq=4860KC/S from=U.2527GOETZET to=ADMIRALCU/BD,4THUBFLOTILLA,31STUBLOTILLA
+GIST U-boat 2527 reports anchored on Travemünde roads with U.231XX U.2531 at 1040 with W/T watch maintained.
+
+C52
+TO: I D 8 G                           ZIP/ZTPG/3671396
+FROM: N S
+[seal mark]
+
+4860 KC/S             T O O 1041              T O I 0939/29/4/45
+
+FROM: U.2527 (GOETZET)
+TO: ADMIRAL CU/BD
+4TH U/B FLOTILLA
+31ST U/B FLOTILLA
+
+ANCHORED ON TRAVEMUNDE ROADS WITH U.231XX U.2531 AT 1040.
+W/T WATCH IS BEING MAINTAINED.
+
+[seal mark]
+
+0251/1/5/45 CEL/EB+

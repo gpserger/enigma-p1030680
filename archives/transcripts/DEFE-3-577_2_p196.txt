@@ -1,0 +1,22 @@
+META serial=3671393 too=0945 toi=0823/29/4/45 freq=4860KC/S from=ADMIRALCU/BD to=T/BLOEVE
+GIST Emergency orders from Admiral CU/BD to T/B Loeve to make fast at Wik-Scharnhorst Bruecke at 1600 Sunday and take over armament per instructions.
+
+C52
+TO: I D 8 G                           ZIP/ZTPG/3671393
+FROM: N S
+[seal mark]
+
+4860 KC/S             T O O 0945              T O I 0823/29/4/45
+
+FROM: ADMIRAL CU/BD
+TO: T/B 'LOEVE'
+
+EMERGENCY.
+
+1) MAKE FAST AT THE WIK-SCHARNHORST BRUECKE AT 1600 SUNDAY TO
+TAKE OVER ARMAMENT IN ACCORDANCE WITH THE INSTRUCTIONS OF
+[seal mark] S.O. 5TH U/B FLOTILLA.
+2) AFTER MAKING FAST COLLECT FURTHER ORDERS WHICH WILL BE TELEPHONED
+TO LIEUT. CDR. SALMAN.
+
+0255/1/5/45 CEL/EB+

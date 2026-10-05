@@ -1,0 +1,19 @@
+META serial=367449 too=1552 toi=1417/30/4/45 freq=350 from=CONVOY OFFICE to=LODY F.4
+GIST Convoy order: Pompeji to depart Bielitz for Frederikhaven at 0300 tomorrow on 30 April 1945, F.4 joining at Bielitz.
+
+ADM (39)
+
+TO: I D 8 G
+
+FROM: N S
+
+350 KC/S        TOO 1552                TOI 1417/30/4/45
+
+FROM: CONVOY OFFICE
+
+TO: 'LODY', F.4
+
+AT 0300 TOMORROW, 'POMPEJI' BIELITZ - FREDERIKHAVEN. F.4
+JOINING COMPANY AT BIELITZ.
+
+[handwritten marking at bottom] 0611/1/5/45+++CEL/FA

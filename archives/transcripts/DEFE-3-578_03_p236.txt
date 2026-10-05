@@ -1,0 +1,16 @@
+META serial=3687/77 too=2126 toi=2042/21/4/45 freq=3764KCS from=U 930 (MOHR) to=?
+GIST: U 930 under command of Mohr reports onward passage under escort at 2100 with U 2336 (Cklusmeier) to Schwarz 17A at speed 8 knots.
+
+ADM(C1)
+TO I D B G                                 ZIP/ZTPG/3687/77
+
+FROM NS
+
+3764 KCS        TOO 2126        TOI 2042/21/4/45
+
+FROM: U 930 (MOHR)
+
+ONWARD PASSAGE UNDER ESCORT AT 2100 WITH U 2336
+(CKLUSMEIER) TO SCHWARZ 17A. SPEED 8 KNOTS.
+
+1830/8/5/45+++AND/IW

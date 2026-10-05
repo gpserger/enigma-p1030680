@@ -1,0 +1,14 @@
+META serial=367555 too=0902 toi=0730/1/5/45 freq=3930 from=V 6505 to=?
+GIST V 6505 reports reached Fallvik with Nordkyn at 0830, anchoring in Storevika.
+
+ADM(C2)
+TO: I D 8 G       ZIP/ZTPG/367555
+FROM: N S
+
+3930 KC/S       TOO 0902       TOI 0730/1/5/45
+
+FROM: V 6505
+
+REACHED FALLVIK WITH NORDKYN AT 0830. ANCHORING IN .STOREVIKA.
+
+1620/1/5/45+++++FF/SMH

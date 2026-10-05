@@ -1,0 +1,14 @@
+META serial=367531 too=0741 toi=0647/1/5/45 freq=3930 from=NAVAL COMMUNICATIONS OFFICER TROMSOE to=?
+GIST Naval communications officer at Tromsoe reports JU 52 aircraft departure at 0900 from Tromsoe via Narvik and Bodoe to Trondheim-Hoemmely Ik.
+
+ADM (C3)
+TO I D 8 G       Z1P/ZTPG/367531
+FROM N S
+
+3930 KC/S       T O O 0741       T O I 0647/1/5/45
+
+FROM: NAVAL COMMUNICATIONS OFFICER TROMSOE
+
+ONE JU 52 UP AT 0900 FROM TROMSOE VIA NARVIK AND BODOE TO TRONDHEIM-HOEMMELY IK.
+
+1514/1/5/45 EE/PW

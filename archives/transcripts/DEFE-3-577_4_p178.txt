@@ -1,0 +1,22 @@
+META serial=367784 too=2346 toi=2220/30/4/45 freq=3978 from=S.O. 2ND T. FLOTILLA IN T.4 to=NAVAL CHIEF COMMAND BALTIC NAVAL CHIEF COMMAND NORTH
+GIST Emergency: convoy with engine breakdown making bare 6 knots; probably not arrive Kiel until 1100.
+
+ADM (C)
+TO: I D B G                                    Z.IP/ZTPG/367784
+FROM: N S
+
+3978 KC/S            T O O 2346            T O I 2220/30/4/45
+
+FROM: S.O. 2ND T. FLOTILLA IN T.4
+TO: NAVAL CHIEF COMMAND BALTIC
+     NAVAL CHIEF COMMAND NORTH
+
+EMERGENCY
+
+OWING TO TEMPORARY BREAKDOWN OF T.8'S ENGINES AND THE CONVOY
+ONLY MAKING A BARE 6 KNOTS, SHALL PROBABLY NOT ARRIVE KIEL
+UNTIL 1100.
+
+[handwritten] 1435/2/5/45++CEL/FA
+
+[handwritten] 1435/2/5/45++CEL/FA

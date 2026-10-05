@@ -1,0 +1,28 @@
+META serial=368498 too=0611 toi=0509/2/5/45 freq=446 from=ADMIRALNETHERLANDS to=TOBCNAVALCHIEFCOMMANDNORTH
+GIST Admiral Netherlands reports to Naval Chief Command North a situation report at 0600 on 2/5/45 about patrol positions in IJselmeer and Zeeland waters, transfer of boats from 9th R-Flotilla from Terschelling to Borkum, and ferry traffic.
+
+[handwritten]BD[/handwritten]
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368498
+
+FROM N S
+
+446 KC/S     T O O 0611     T O I 0509/2/5/45
+
+FROM: ADMIRAL NETHERLANDS
+TOBC NAVAL CHIEF COMMAND NORTH
+
+SITUATION REPORT 0600/2/5/45:
+
+1) PATROL POSITION IJSELMEER AND ZEELAND WATERS ACCORDING
+TO PLAN.
+
+2) TRANSFER OF 3 BOATS OF THE 9TH R-FLOTILLA AND ONE CRASH BOAT
+CARRIED OUT FROM TERSCHELLING TO BORKUM.
+
+3) FERRY TRAFFIC IN ZEELAND WATERS ACCORDING TO PLAN.
+
+
+1800/6/5/45+++EE/UC

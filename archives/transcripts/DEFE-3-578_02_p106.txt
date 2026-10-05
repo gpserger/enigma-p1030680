@@ -1,0 +1,12 @@
+META serial=ZIP/ZTPc/368313 too=1804 toi=1647/5/5/45 freq=360kc/s from=GILDENHOFF to=DEFENCE UNIT
+GIST Emergency notice that sailing postponed for 24 hours owing to weather conditions.
+
+FROM: GILDENHOFF
+TO: DEFENCE UNIT
+
+EMERGENCY
+
+SAILING POSTPONED FOR 24 HOURS OWING TO WEATHER CONDITIONS.
+
+
+2255/5/5/45 EE/HJU

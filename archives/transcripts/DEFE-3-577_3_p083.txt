@@ -1,0 +1,25 @@
+META serial=367493 too=2233 toi=2310/28/4/45 freq=4880 from=Sea Defence Commandant Lorient to=Naval Chief Command West, B.D.U. (Cops)
+GIST Sea Defence reports two destroyers located on Belle Ile on varying courses, 9 knots; moved off at 2143 course southeast.
+
+ADM C4D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367493
+
+4880 KC/S        TOO 2233        TOI 2310/28/4/45
+
+FROM: SEA DEFENCE COMMANDANT LORIENT
+
+TO: NAVAL CHIEF COMMAND WEST
+
+B.D.U. (COPS)
+
+MOST IMMEDIATE
+
+AS FROM 2050 LOCATION GEAR ON BELLE ILE LOCATED TWO DESTROYERS
+ON VARYING COURSES, 9 KNOTS. DESTROYERS MOVED OFF AT
+2143 ON COURSE SOUTHEAST.
+
+1200/1/5/45 EE/HW

@@ -1,0 +1,26 @@
+META serial=367454 too=0317 toi=0215/1/5/45 freq=3250 from=9TH S. FLOTILLA to=5TH S. FLOTILLA
+GIST Emergency tactical organization for S-boat flotillas on 1 May 1945 with 1st and 2nd groups and vessel commanders.
+
+ADM (33)
+
+TO: I D 8 G
+
+FROM: N S
+
+3250 KC/S        TOO 0317                TOI 0215/1/5/45
+
+FROM: 9TH S. FLOTILLA
+
+TO: 5TH S. FLOTILLA
+
+EMERGENCY
+
+TACTICAL ORGANISATION;
+
+1ST GROUP: S.214 SUB. LIEUT. BECK (KROKUS) AS S.O.'S BOAT (AKELE I).
+S.175 SUB. LIEUT. BEHR (TULPE), S. 130 ((LIEUT.)) RABE (ASTER),
+2ND GROUP: S.206 LIEUT. ROEDER (PRIEMEL), S.168 LIEUT. DAU
+(VEILCHEN), S.207 SUB. LT. SCHIRREN (CENZIAN), S.227 WARRANT Q.M.
+BECKER (DAHLIE) AT PRESENT IN KIEL.
+
+[handwritten marking at bottom] 0848/1/5/45++CEL/FA

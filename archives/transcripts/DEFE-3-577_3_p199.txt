@@ -1,0 +1,10 @@
+META serial=367597 too=1958 toi=1831/28/4/45 freq=360KC/S from=? to=?
+GIST Header only; no FROM/TO addressee line or message body text is printed anywhere on this page - the rest of the sheet below the header is blank.
+
+ADMEBX (4)
+TO: I D 8G                                     ZIP/ZTPG/ 367597
+FROM: N S
+
+360KC/S              TOO : 1958            TOI : 1831/28/4/45
+
+[Remainder of page is blank paper - no further typed or handwritten text visible.]

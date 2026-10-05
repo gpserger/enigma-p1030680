@@ -1,0 +1,16 @@
+META serial=ZTPG367796A too=2353/30/4/45 toi=none freq=2400 from=none to=none
+GIST Correction note regarding transmission of message as third line indicates reading 2 KFK'S not 2 KFK'SN.
+
+ADM(1)
+TO I D 8 G
+FROM N S
+
+ZIP/ZTPG/367796A
+
+2400 KC/S     TOO 2353/30/4/45
+
+IN 3RD LINE FROM END PLEASE READ ''2 KFK'S'' NOT ''2 KFK'SN''
+
+AS SENT
+
+1647/2/5/45+EE+FG

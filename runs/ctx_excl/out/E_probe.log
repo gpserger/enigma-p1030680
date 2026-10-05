@@ -1,0 +1,37 @@
+crib 0 UZWODREIFUEN..(18)@12 used=16 excluded=[20 25 ] blocks=1 sizes: 16(pivot E, loops 2)
+crib 1 UZWODREIFUEN..(18)@18 used=15 excluded=[20 25 32 ] blocks=1 sizes: 15(pivot R, loops 3)
+crib 2 UZWODREIFUEN..(18)@26 used=17 excluded=[32 ] blocks=1 sizes: 17(pivot R, loops 2)
+crib 3 UZWODREIFUEN..(18)@29 used=17 excluded=[32 ] blocks=1 sizes: 17(pivot P, loops 2)
+crib 4 UZWODREIFUEN..(18)@30 used=17 excluded=[32 ] blocks=1 sizes: 17(pivot P, loops 2)
+crib 5 UZWODREIFUEN..(18)@33 used=18 excluded=[] blocks=1 sizes: 18(pivot B, loops 2)
+crib 6 UZWODREIFUEN..(18)@41 used=17 excluded=[58 ] blocks=1 sizes: 17(pivot B, loops 2)
+crib 7 ZWODREIFUENF..(17)@19 used=14 excluded=[20 25 32 ] blocks=1 sizes: 14(pivot R, loops 2)
+crib 8 ZWODREIFUENF..(17)@34 used=17 excluded=[] blocks=1 sizes: 17(pivot B, loops 2)
+crib 9 KIELEINGELAU..(15)@22 used=13 excluded=[25 32 ] blocks=1 sizes: 13(pivot E, loops 2)
+crib 10 KIELEINGELAU..(15)@26 used=14 excluded=[32 ] blocks=1 sizes: 14(pivot E, loops 2)
+crib 11 KIELEINGELAU..(15)@28 used=14 excluded=[32 ] blocks=1 sizes: 14(pivot L, loops 2)
+crib 12 KIELEINGELAU..(15)@30 used=14 excluded=[32 ] blocks=1 sizes: 14(pivot L, loops 2)
+crib 13 KIELEINGELAU..(15)@32 used=14 excluded=[32 ] blocks=1 sizes: 14(pivot E, loops 2)
+crib 14 KIELEINGELAU..(15)@35 used=15 excluded=[] blocks=1 sizes: 15(pivot E, loops 2)
+crib 15 KIELEINGELAU..(15)@36 used=15 excluded=[] blocks=1 sizes: 15(pivot E, loops 2)
+crib 16 KIELEINGELAU..(15)@51 used=13 excluded=[58 60 ] blocks=1 sizes: 13(pivot E, loops 2)
+crib 17 KIELEINGELAU..(15)@56 used=11 excluded=[58 60 67 68 ] blocks=1 sizes: 11(pivot G, loops 2)
+DONE settings=29703440 time=9.7s rate=3.055M settings/s (1.527M/s/thread, 2 threads) T-evals/setting=3.3 stops=703936
+crib 0 UZWODREIFUEN..(18)@12: block-stops=92573; verified g histogram: g0:12480 g1:22403 g2:26842 g3:20725 g4:8446 g5:1625 g6:52
+crib 1 UZWODREIFUEN..(18)@18: block-stops=2; verified g histogram: g0:2
+crib 2 UZWODREIFUEN..(18)@26: block-stops=1981; verified g histogram: g0:205 g1:443 g2:665 g3:473 g4:173 g5:22
+crib 3 UZWODREIFUEN..(18)@29: block-stops=34995; verified g histogram: g0:3445 g1:8617 g2:10835 g3:8134 g4:3460 g5:486 g6:18
+crib 4 UZWODREIFUEN..(18)@30: block-stops=397888; verified g histogram: g0:46996 g1:78625 g2:105361 g3:92679 g4:54631 g5:17973 g6:1623
+crib 5 UZWODREIFUEN..(18)@33: block-stops=33; verified g histogram: g0:6 g1:16 g2:8 g3:3
+crib 6 UZWODREIFUEN..(18)@41: block-stops=3; verified g histogram: g0:2 g2:1
+crib 7 ZWODREIFUENF..(17)@19: block-stops=9781; verified g histogram: g0:2977 g1:2853 g2:2701 g3:1188 g4:62
+crib 8 ZWODREIFUENF..(17)@34: block-stops=30545; verified g histogram: g0:2719 g1:8760 g2:11033 g3:6385 g4:1574 g5:74
+crib 9 KIELEINGELAU..(15)@22: block-stops=98021; verified g histogram: g0:37572 g1:38930 g2:18171 g3:3143 g4:201 g5:4
+crib 10 KIELEINGELAU..(15)@26: block-stops=61; verified g histogram: g0:27 g1:34
+crib 11 KIELEINGELAU..(15)@28: block-stops=352; verified g histogram: g0:170 g1:123 g2:59
+crib 12 KIELEINGELAU..(15)@30: block-stops=9465; verified g histogram: g0:3102 g1:3420 g2:2094 g3:706 g4:143
+crib 13 KIELEINGELAU..(15)@32: block-stops=453; verified g histogram: g0:177 g1:239 g2:37
+crib 14 KIELEINGELAU..(15)@35: block-stops=9727; verified g histogram: g0:2206 g1:2560 g2:2951 g3:1656 g4:346 g5:8
+crib 15 KIELEINGELAU..(15)@36: block-stops=431; verified g histogram: g0:110 g1:153 g2:105 g3:63
+crib 16 KIELEINGELAU..(15)@51: block-stops=8776; verified g histogram: g0:4164 g1:3873 g2:710 g3:29
+crib 17 KIELEINGELAU..(15)@56: block-stops=8849; verified g histogram: g0:7183 g1:1666

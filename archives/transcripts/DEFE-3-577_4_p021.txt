@@ -1,0 +1,21 @@
+META serial=367638 too=2152 toi=2127/27/4/45 freq=4885 from=O.C. LA ROCHELLE DEFENCE AREA to=NAVAL CHIEF COMMAND WEST
+GIST O.C. La Rochelle reports about 25 tons of tinned U-boat flour (wheat flour) available from old stocks.
+
+ADM(C2)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPC/367638
+
+4885 KC/S             T00 2152               T0I 2127/27/4/45
+
+FROM: O.C. LA ROCHELLE DEFENCE AREA
+TO:    NAVAL CHIEF COMMAND WEST
+
+YOUR 1119/27: ABOUT 25 TONS OF TINNED U/B FLOUR (WHEAT FLOUR)
+
+IS AVAILABLE FROM OLD STOCKS.
+
+CDEPT NOTER: SEE ZTPG/367637
+
+0330/2/5/45           EGT+++MPS+++

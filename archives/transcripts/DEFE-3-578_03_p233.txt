@@ -1,0 +1,17 @@
+META serial=3687/74 too=0325 toi=0227/3/5/45 freq=3764KCS from=U 2521 (METHNER) to=5TH U/B FLOTILLA
+GIST: U 2521 under command of Methner reports anchored at Kiel light-vessel with U 3515 and requests further orders.
+
+ADM(C4)
+TO I D B G                                 ZIP/ZTPG/3687/74
+
+FROM NS
+
+3764 KCS        TOO 0325        TOI 0227/3/5/45
+
+FROM: U 2521 (METHNER)
+TO:   5TH U/B FLOTILLA
+
+HAVE ANCHORED AT KIEL LIGHT-VESSEL WITH U 3515. REQUEST
+FURTHER ORDERS.
+
+1833/8/5/45++AND/IW

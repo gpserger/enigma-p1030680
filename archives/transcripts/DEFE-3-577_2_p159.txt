@@ -1,0 +1,16 @@
+META serial=? too=? toi=? freq=? from=? to=?
+GIST Day's survey for 30 April 1945 detailing enemy air activity in northern areas.
+
+DAY'S URXXX SURVEY 30/4
+
+A) ENEMY AIR ACTIVITY:
+
+1037-1145 1 BOSTON RECCE AREA SKIBOTN - TROMSOE - HAMMERFEST:
+
+1113 - 1132 1 SPITFIRE RECCE AREA BARDUFOSS
+
+B) OWN OPERATIONS: NONE
+
+C) GROUND AND SEA SITUATION NO CHANGE.
+
+2358/30/4/45 EGT/EB+

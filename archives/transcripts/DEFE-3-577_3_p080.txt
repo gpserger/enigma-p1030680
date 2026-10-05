@@ -1,0 +1,19 @@
+META serial=367490 too=2253/23 toi=0412/24/4/45 freq=3764 from=U 2355 (Franke) to=5th U/B Flotilla
+GIST U-boat 2355 reports off GW at 0800/24/4.
+
+ADM C5D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ ZTPG/367490
+
+3764 KC/S        TOO 2253/23        TOI 0412/24/4/45
+
+FROM: U 2355 ( FRANKE)
+
+TO: 5TH U/B FLOTILLA
+
+OFF GW AT 0800/24/4
+
+1159/1/5/45 EE/HJU

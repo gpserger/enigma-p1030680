@@ -1,0 +1,19 @@
+META serial=367615 too=1927 toi=1938/23/4/45 freq=4282 from=ADMIRAL (U/B) to=26TH U/B FLOTILLA
+GIST Admiral U-boats message to 26th U-boat flotilla regarding captain training 4th U-boat flotilla authorized representative for U-boats Luebeck.
+
+ADM: C52)
+TO: I D 8 G
+FROM: N S
+
+4
+Z IP/ZTPG/367615
+
+4282 KC/S                T00 1927              TOI 1938/23/4/45
+
+FROM: ADMIRAL (U/B)
+TO:    26TH U/B FLOTILLA
+RPTD: CAPTAIN (U/B) ((TRAINING))
+      4TH U/B FLOTILLA
+AUTHORIESE[D] REPRESENTATIVE FOR U-BOATS LUEBECK
+
+REFERENCE OUR SECRET 6830 U 1 OF 20/4:

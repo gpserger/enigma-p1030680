@@ -1,0 +1,10 @@
+META serial=ADM C(4) too=1803 toi=1645/16/4/45 freq=4260 from=U 746 to=I D 8 G
+GIST U-boat U 746 reports arrival at Brunsbüttel (Brunsbuettel) at 1730 to Captain CU/B Training, 5th U/B Flotilla.
+
+FROM: U 746
+TO: CAPTAIN CU/B) TRAINING
+    5TH U/B FLOTILLA
+
+ARRIVED BRUNN BRUNSBUETTEL AT 1730.
+
+1750/6/5/45+++EE/UC

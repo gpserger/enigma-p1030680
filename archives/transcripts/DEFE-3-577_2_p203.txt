@@ -1,0 +1,20 @@
+META serial=3671400 too=2321 toi=2224/30/4/45 freq=3082KC/S from=CAPTAINCU/BDWEST to=ALL
+GIST Captain CU/BD West announces prohibitions on anti-ship hunts in skerries areas between Stavanger-Bergen and Bergen-Hellosey during specified times.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671400
+FROM: N S
+[seal mark]
+
+3082 KC/S             T O O 2321              T O I 2224/30/4/45
+
+FROM: CAPTAIN CU/BD WEST
+TO: ALL
+
+A/S HUNTS ARE PROHIBITED FROM 2200/30/4 TO 0800/1/5 IN THE
+SKERRIES AREA BETWEEN STAVANGER AND BERGEN AND FROM 2300 TO
+0600 IN THE SKERRIES ARE BETWEEN BERGEN AND HELLOSEY.
+
+[seal mark]
+
+0301/1/5/45ZZZCEL/FA

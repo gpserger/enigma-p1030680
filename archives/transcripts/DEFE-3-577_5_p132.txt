@@ -1,0 +1,18 @@
+META serial=367926 too=0840 toi=0652/30/4/45 freq=3765 from=N S to=IDB G
+GIST U 3017 leaving Kiel with 5th U-boat flotilla in 8-knot convoy via way points to Travemünde.
+
+TO IDB G                                         Z IP/ZTPG/367926
+FROM N S
+
+        3765 KC/S                TOO 0840            TOI- 0652/30/4/45
+
+FROM: TX U 3017 CLINDSCHAUD
+TO: 5TH U/B FLOTILLA
+
+
+LEAVING KIEL WITH U 3523 CMUELLER) IN 8-KNOT CONVOY VIA WAY 1,
+6, 3 TO TRAVEMÜNDE.
+
+CC: ADDS FROM: BXBXXXX  U 3017 ..... RPT U 3017...
+
+0608/3/5/45         EGT+++HPS+++

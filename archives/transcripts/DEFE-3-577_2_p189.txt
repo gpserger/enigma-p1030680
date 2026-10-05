@@ -1,0 +1,19 @@
+META serial=3671386 too=1953 toi=1908/28/4/45 freq=3764KC/S from=5THUBFLOTILLA to=CAPTAINCU/BDTRAINING
+GIST Request from 5th U/B Flotilla to despatch submarine LECH to arrive at Tirpitzhafen Kiel by 0700/1/5.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671386
+FROM: N S
+[seal mark]
+
+3764 KC/S             T O O 1953              T O I 1908/28/4/45
+
+FROM: 5TH U/B FLOTILLA
+TO: CAPTAIN CU/BD TRAINING
+
+REQUEST 'LECH' BE DESPACHED. SO AS TO ARRIVE AT THE TIRPITZHAFEN
+KIEL AT 0700/1/5. ACKNOWLEDGE.
+
+[seal mark]
+
+0310/1/5/45++CEL/FA

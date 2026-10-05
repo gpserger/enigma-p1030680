@@ -1,0 +1,17 @@
+META serial=367941 too=1330 toi=1325/29/4/45 freq=4860 from=N S to=IDB G
+GIST U-boat U 903 reporting departure from Travemünde at 1300 hours for independent passage to Kiel.
+
+ADM (3)
+
+TO IDB G                                        Z IP/ZTPG/367941
+
+FROM N S
+
+4860 KC/S         TOO 1330              TOI 1325/29/4/45
+
+FROM: U 903
+
+LEFT TRAVEMUENDE AT 1300. INDEPENDENT PASSAGE TO KIEL VIA WAYS 3,
+6, AND 1. W/T WATCH ON 4860 KC/S.
+
+0712/3/5/45         EGT+++NPS+++

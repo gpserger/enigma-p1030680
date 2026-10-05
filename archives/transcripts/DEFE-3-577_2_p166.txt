@@ -1,0 +1,22 @@
+META serial=367364 too=1901 toi=1729/30/4/45 freq=3370 kcs from=S.O. to=NO 03
+GIST S.O. orders increased alertness for A/S surveillance on 30 April 1945, breakdown of echo ranging set to be reported for quick relief.
+
+ADM C 3J
+
+TO: I D 8 G
+
+FROM: N S
+
+3370 KC/S        T O O 1901                T O I 1729/30/4/45
+
+FROM: S.O.
+
+TO: NO 03
+
+INCREASED ALERTNESS. YOU ARE BEING EMPLOYED PARTICULARLY FOR A/S
+
+SURVEILLANCE. BREAKDOWN OF ECHO RANGING SET MUST ALWAYS BE
+
+REPORGXXXX REPORTED SO AS TO ENSURE QUICK RELIEF.
+
+2358/30/4/45++EGT/FA

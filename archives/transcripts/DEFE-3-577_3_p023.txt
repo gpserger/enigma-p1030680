@@ -1,0 +1,16 @@
+META serial=367423 too=2356 toi=2321/?3XX/30/4/45 freq=3930 from=V.6505 to=?
+GIST Vessel V.6505 departed North Roads at 2300 hours on 30 April 1945, bound north with Nordkynn.
+
+C59
+
+TO: I D 8 G
+
+FROM: N S
+
+3930 KC/S        TOO 2356                TOI 2321/?3XX 30/4/45
+
+FROM: V.6505 VIA NAVAL W/T STATION TRONSOE
+
+LEFT THE NORTH ROADS AT 2300, BOUND NORTH WITH 'NORDKYNN'.
+
+[handwritten marking at bottom] 0345/1/5/45 CEL/EB+

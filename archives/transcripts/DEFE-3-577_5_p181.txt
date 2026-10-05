@@ -1,0 +1,7 @@
+META serial=997 too=unknown toi=unknown freq=unknown from=unknown to=2ND DEFENCE FLOTILLA
+
+GIST Correction to previous message about addressing to 2nd Defence Flotilla.
+
+IN LAST MESSAGE ZTPG/367968 PLEASE CORRECT 2ND ADDRESSEE
+
+TO READ '2ND DEFENCE FLOTILLA'

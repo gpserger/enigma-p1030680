@@ -1,0 +1,25 @@
+META serial=368052 too=2327/1 toi=0550/2/5/45 freq=382 from=M610 to=NavalHarbourmasterNybord
+GIST M 610 arriving 1200/2/5 with about 300 refugees, requests victualling at Nybord.
+
+ADMC4D
+
+[handwritten bullet] TO ID8G                                                ZIP/ZTPG/368052
+
+FROM N S
+
+
+382 KC/S      TOO 2327/1     TOI 0550/2/5/45
+
+
+FROM: M 610
+
+TO: NAVAL HARBOURMASTER NYBORD
+
+
+ARRIVING 1200/2/5 WITH ABOUT 3(?)00 REFUGEES. ENSURE
+
+[handwritten bullet]
+VICTUALLING.
+
+
+1851/3/5/45++ EE/WAB++++

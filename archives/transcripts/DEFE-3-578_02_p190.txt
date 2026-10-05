@@ -1,0 +1,9 @@
+META serial=ADM C(1) too=1429 toi=1324/3/5/45 freq=2115 from=5TH COASTAL DEFENCE UNIT to=I D 8 G
+GIST 5th Coastal Defence Unit orders A/S vessel Dahme: onward passage at 2100 hours.
+
+FROM: 5TH COASTAL DEFENCE UNIT
+TO: A/S VESSEL 'DAHME'
+
+ONWARD PASSAGE AT 2100.
+
+1033/6/5/45++++CEL/SMH

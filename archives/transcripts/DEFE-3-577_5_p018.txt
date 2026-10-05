@@ -1,0 +1,16 @@
+META serial=367832 too=1004 toi=0645/1/5/45 freq=4860 from=U 4701 to=?
+GIST U-boat 4701 left Sassnitz for Sonderburg at 1000 with U 4702, 4703, 2361; speed 5 knots.
+
+ADM (C)
+TO: I D B G                                    ZIP/ZTPG/367832
+FROM: N S
+
+4860 KC/S            T O O 1004            T O I 0645/1/5/45
+
+FROM: U 4701
+
+LEFT SASSNITZ FOR SONDERBURG AT 1000 WITH U 4702, 4703, 2361.
+SPEED 5 KNOTS .
+C DEPT. NOTE : CORRECTION WITH T.O.O. 1101/1/5 INCORPORATED >
+
+2107/2/5/45            EE/UAK+++

@@ -1,0 +1,17 @@
+META serial=367829 too=1710 toi=1618/30/4/45 freq=382 from=TS 6 to=10TH DEFENCE DIVISION
+GIST Convoy passage: at 1500 T35, Sperbrecher 24, Lothringen, ice-breaker Ostpreussen began passage to Copenhagen; remaining at anchor.
+
+ADM (3)
+TO: I D B G                                    ZIP/ZTPG/367829
+FROM: N S '
+
+382 KC/S            T O O 1710            T O I 1618/30/4/45
+
+FROM: TS 6
+TO: 10TH DEFENCE DIVISION
+
+AT 1500 T 35, SPERBRECHER 24 , LOTHRINGEN AND ICE-BREAKER
+OSTPREUSSEN BEGAN PASSAGE TO COPENHAGEN . AM REMAINING AT ANCHOR .
+REQUEST FURTHER ORDERS .
+
+2100/2/5/45            EE/UAK+++

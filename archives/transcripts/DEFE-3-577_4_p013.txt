@@ -1,0 +1,19 @@
+META serial=367620 too=1908 toi=1741/29/4/45 freq=5740 from=W/T DETACHMENT WITH C IN C WEST to=CONTROL
+GIST W/T detachment with C in C West reports closing down shortly due to transfer.
+
+ADM(1>)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367620
+
+5740 KC/S              T00 1908                  T0I 1741/29/4/45
+
+FROM: W/T DETACHMENT WITH C IN C WEST
+TO:    CONTROL
+
+CLOSING DOWN SHORTLY OWING TO TRANSFER. CLOSING REPORT WILL BE
+
+MADE BY OPERATING SIGNALS.
+
+0131/2/5/45          EGT+++HPS+++

@@ -1,0 +1,81 @@
+#crib	refl	greek	wheels	pos(GLMR)	rings(GLMR)	g	undet	npairs	blocks	stecker
+0	B-thin	Beta	163	DKLI	AAAK	0	15	8	1	BN FH GT JW KP MX QR YZ | self:D
+0	B-thin	Beta	163	DKLJ	AAAL	0	15	8	1	BN FH GT JW KP MX QR YZ | self:D
+0	B-thin	Beta	163	DKLH	AAAJ	1	13	9	1	BN FH GT JW KP LV MX QR YZ | self:D
+1	B-thin	Beta	246	UBGK	AAAL	1	15	9	1	BN DG FQ HV IK MZ OX PT RW | self:Y
+1	B-thin	Beta	431	FFOO	AAAS	1	12	10	1	AL BQ CE DY FI KT NX OV PR WZ | self:
+0	B-thin	Beta	467	KBUB	AAAH	1	15	9	1	AI DH EN FG LX OS PV QU TY | self:
+0	B-thin	Beta	563	XSAW	AAAP	0	15	8	1	BZ DM EX FN GK IJ PT RS | self:
+0	B-thin	Beta	563	XRZW	AAAP	0	15	8	1	BZ DM EX FN GK IJ PT RS | self:
+0	B-thin	Beta	681	VFFO	AAAI	1	15	8	1	BE CR FL HK JN PZ QT XY | self:D
+1	B-thin	Beta	732	RIDB	AAAE	0	14	7	1	EO FH IM PR QT VX YZ | self:BDK
+1	B-thin	Beta	732	RIDA	AAAD	0	14	7	1	EO FH IM PR QT VX YZ | self:BDK
+1	B-thin	Beta	732	RIDZ	AAAC	0	14	7	1	EO FH IM PR QT VX YZ | self:BDK
+0	B-thin	Beta	852	PLPN	AAAF	0	15	8	1	AL EX FP GK IJ MZ NR OT | self:BD
+2	B-thin	Gamma	134	KDTL	AAAE	1	16	7	1	BL CT DR GZ IK JO PX | self:F
+2	B-thin	Gamma	134	KDTM	AAAF	1	16	7	1	BL CT DR GZ IK JO PX | self:F
+2	B-thin	Gamma	134	KDTN	AAAG	1	16	7	1	BL CT DR GZ IK JO PX | self:F
+2	B-thin	Gamma	134	KDTO	AAAH	1	16	7	1	BL CT DR GZ IK JO PX | self:F
+2	B-thin	Gamma	134	KDTQ	AAAJ	1	16	7	1	BL CT DR GZ IK JO PX | self:F
+2	B-thin	Gamma	134	KDTP	AAAI	1	16	7	1	BL CT DR GZ IK JO PX | self:F
+1	B-thin	Gamma	218	GKIA	AAAN	1	13	8	1	BP CH ER FK GX LV NY WZ | self:DT
+1	B-thin	Gamma	285	NYAT	AAAE	1	13	7	1	BD EY FI GT HK NX QR | self:AVZ
+1	B-thin	Gamma	285	NXZT	AAAE	1	13	7	1	BD EY FI GT HK NX QR | self:AVZ
+0	B-thin	Gamma	514	YRUH	AAAR	1	10	9	1	AW BU DG EK FP IO JR LT QX | self:HZ
+1	B-thin	Gamma	534	DWQI	AAAZ	1	11	7	1	AR BL CD EM HS OV PU | self:FJKT
+2	B-thin	Gamma	683	EPXU	AAAD	0	16	6	1	AJ BL FZ IK MT RY | self:DX
+2	B-thin	Gamma	748	ILOD	AAAY	1	15	6	1	AD BY FL JW KR MZ | self:ETX
+2	B-thin	Gamma	748	ILOE	AAAZ	1	15	6	1	AD BY FL JW KR MZ | self:ETX
+2	B-thin	Gamma	748	ILOF	AAAA	1	14	7	1	AD BY FL GH JW KR MZ | self:ETX
+1	B-thin	Gamma	751	PEOD	AAAK	1	12	6	1	AG BH CE DZ NX TW | self:FKRVY
+1	B-thin	Gamma	783	ZRVT	AAAQ	0	16	8	1	BP DG FT IR KN LZ MY VX | self:
+1	B-thin	Gamma	864	YDHA	AAAZ	1	12	8	1	AW BM EN GX HT IZ KR LY | self:DFV
+1	B-thin	Gamma	864	YDHB	AAAA	1	12	8	1	AW BM EN GX HT IZ KR LY | self:DFV
+1	B-thin	Gamma	871	VVLB	AAAP	1	14	9	1	AV BT DG FP HK LZ MR NX QY | self:C
+0	C-thin	Beta	142	JKXB	AAAR	1	14	8	1	BM DQ HR IX JL KN OT SZ | self:F
+0	C-thin	Beta	251	XYPX	AAAM	1	14	9	1	AY BN DM FP GR HX IT KS LZ | self:J
+2	C-thin	Beta	264	PPQU	AAAI	1	16	8	1	AJ BE DH IX KY MR PT QZ | self:F
+0	C-thin	Beta	347	CBJD	AAAD	1	15	8	1	BY CX DL FQ GT IZ JN MR | self:K
+0	C-thin	Beta	347	CCKD	AAAD	1	15	8	1	BY CX DL FQ GT IZ JN MR | self:K
+0	C-thin	Beta	347	CBJF	AAAF	1	15	8	1	BY CX DL FQ GT IZ JN MR | self:K
+0	C-thin	Beta	347	CCKF	AAAF	1	15	8	1	BY CX DL FQ GT IZ JN MR | self:K
+0	C-thin	Beta	347	CBJE	AAAE	1	15	8	1	BY CX DL FQ GT IZ JN MR | self:K
+0	C-thin	Beta	347	CCKE	AAAE	1	15	8	1	BY CX DL FQ GT IZ JN MR | self:K
+0	C-thin	Beta	351	XUQP	AAAO	1	13	8	1	BL CR DW FS IJ KP MX NZ | self:T
+0	C-thin	Beta	423	LYLO	AAAT	1	13	10	1	BC DH EX FM GJ IU KL OQ PR TZ | self:
+0	C-thin	Beta	461	YOON	AAAJ	1	14	8	1	BW CJ DY GK HR IX PZ QT | self:F
+0	C-thin	Beta	512	VEMI	AAAP	1	14	7	1	BU CD FP IK JT RZ WX | self:H
+0	C-thin	Beta	512	VEMJ	AAAQ	1	14	7	1	BU CD FP IK JT RZ WX | self:H
+0	C-thin	Beta	512	VEMK	AAAR	1	15	7	1	BU CD FP IK JT RZ WX | self:
+0	C-thin	Beta	512	VEML	AAAS	1	15	7	1	BU CD FP IK JT RZ WX | self:
+0	C-thin	Beta	617	RXWG	AAAM	1	13	9	1	AD BQ FY JK LV MZ NR PT WX | self:
+0	C-thin	Beta	632	USFE	AAAE	1	13	9	1	AM BZ CO DP GT IJ KY NR QX | self:F
+1	C-thin	Beta	673	RVHC	AAAV	1	14	8	1	BL CE DH FY GZ KM NT RV | self:X
+1	C-thin	Beta	673	RVHA	AAAT	1	14	8	1	BL CE DH FY GZ KM NT RV | self:X
+1	C-thin	Beta	673	RVHB	AAAU	1	14	8	1	BL CE DH FY GZ KM NT RV | self:X
+0	C-thin	Beta	673	ZXPP	AAAZ	1	14	8	1	AP DQ FH IR KN LZ ST XY | self:BJ
+1	C-thin	Beta	673	RVHX	AAAQ	1	14	8	1	BL CE DH FY GZ KM NT RV | self:X
+1	C-thin	Beta	673	RVHW	AAAP	1	14	8	1	BL CE DH FY GZ KM NT RV | self:X
+1	C-thin	Beta	673	RVHY	AAAR	1	14	8	1	BL CE DH FY GZ KM NT RV | self:X
+1	C-thin	Beta	673	RVHZ	AAAS	1	14	8	1	BL CE DH FY GZ KM NT RV | self:X
+0	C-thin	Beta	723	MREW	AAAO	1	14	8	1	AJ BP CD FM GR IT KX QZ | self:
+0	C-thin	Beta	723	MSFW	AAAO	1	14	8	1	AJ BP CD FM GR IT KX QZ | self:
+1	C-thin	Gamma	147	OLIA	AAAA	1	13	8	1	BE CG DL FW KM NX PV RY | self:TZ
+2	C-thin	Gamma	147	XWWC	AAAN	1	14	8	1	AK BH EV FI GZ JQ NR PT | self:DX
+0	C-thin	Gamma	234	AZBT	AAAG	1	14	9	1	AB CZ DN FQ HJ IK LX PR TW | self:
+1	C-thin	Gamma	438	ZDBA	AAAF	0	16	8	1	BW DQ FL IY KV MR NT PZ | self:X
+0	C-thin	Gamma	571	BUSH	AAAU	1	15	8	1	BN CZ DQ FL HT IJ KY MR | self:X
+0	C-thin	Gamma	571	BUSI	AAAV	1	15	8	1	BN CZ DQ FL HT IJ KY MR | self:X
+0	C-thin	Gamma	571	BUSJ	AAAW	1	15	8	1	BN CZ DQ FL HT IJ KY MR | self:X
+1	C-thin	Gamma	572	KURY	AAAH	1	14	10	1	AW BP DH FI GY KQ LZ MX NT RV | self:
+1	C-thin	Gamma	572	KURZ	AAAI	1	14	10	1	AW BP DH FI GY KQ LZ MX NT RV | self:
+0	C-thin	Gamma	581	DNIW	AAAU	1	14	8	1	AH CS DE GO IV LU MY PX | self:F
+0	C-thin	Gamma	678	GVGH	AAAD	0	16	7	1	BQ DP FL IJ KM TW XZ | self:R
+0	C-thin	Gamma	714	SJOK	AAAE	1	14	7	1	BX DS GO IR JQ LZ PT | self:FK
+1	C-thin	Gamma	724	BHWF	AAAG	1	12	8	1	AG BY FH NS OZ QT RV WX | self:DK
+1	C-thin	Gamma	746	PNJE	AAAI	1	13	8	1	AX BV CW DH FL KY MZ RT | self:G
+1	C-thin	Gamma	746	POKE	AAAI	1	13	8	1	AX BV CW DH FL KY MZ RT | self:G
+2	C-thin	Gamma	831	BGCD	AAAO	1	15	7	1	AF BH CK GR IJ LT PX | self:DZ
+2	C-thin	Gamma	831	BGCF	AAAQ	1	15	7	1	AF BH CK GR IJ LT PX | self:DZ
+2	C-thin	Gamma	831	BGCG	AAAR	1	15	7	1	AF BH CK GR IJ LT PX | self:DZ
+2	C-thin	Gamma	831	BGCE	AAAP	1	15	7	1	AF BH CK GR IJ LT PX | self:DZ

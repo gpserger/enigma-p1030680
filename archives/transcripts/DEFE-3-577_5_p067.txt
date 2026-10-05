@@ -1,0 +1,14 @@
+META serial=ZIP/ZTPG/367872 A too=1800/27 toi=? freq=4860 from=N S to=IDBG
+GIST Correction to insert text regarding U 2535 leaving Swinemuende westbound under escort.
+
+ADM (3)
+
+TO IDBG                                          ZIP/ZTPG/367872 A
+FROM N S
+
+4860 KC/S                       TOO 1800/27
+
+        PLEASE MAKE AN INSERTION IN THE 1ST LINE SO THAT IT READS
+        ''LEFT SWINEMUENDE WESTBOUND UNDER ESCORT AT 1730 WITH U 2535''.
+
+0335/3/5/45         EGT+++MPS+++

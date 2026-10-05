@@ -1,0 +1,19 @@
+META serial=ZTPG/367582 too=1159 toi=1051/1/5/45 freq=4765 kc/s from=VS 1003 to=M 293
+GIST VS 1003 tells M 293 it cannot reach Schwarz 10 until about 2400 for the flak escort to Schwarz 14 and asks whether its presence is still necessary.
+
+ADM (3)
+TO: I D 8 G                                    ZIP/ZTPG/367582
+FROM: N S
+
+4765 KC/S        T O O 1159            T O I 1051/1/5/45
+
+FROM: VS 1003
+TO: M 293
+
+TO W/T MESSAGES 0359 AND 1102 :
+I WAS TO GIVE YOU FLAK ESCORT AS FAR AS SCHWARZ 14 . CANNOT REACH
+SCHWARZ 10 UNTIL ABOUT 2400 AT THE EARLIEST .
+QUERY : PRESENCE STILL NECESSARY ?
+
+
+1913/1/5/45        EE/UAK+++

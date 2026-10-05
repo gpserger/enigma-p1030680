@@ -1,0 +1,34 @@
+META serial=368012 too=1547 toi=1430/1/5/45 freq=4580 from=Flotte to=SupremeCommandNavy,SassnitzNavalChiefCommandBaltic
+GIST Flotte reports Hessen paying-off at Travemünde with 900 CBM fuel oil, proposes fetching by Taifun.
+
+C53
+
+TO: ID8G                                                ZIP/ZTPG/368012
+
+FROM: NS
+
+
+[handwritten bullet]
+
+4580 KC/S     TOO 1547     TOI 1430/1/5/45
+
+
+FROM: FLOTTE
+
+TO: SUPREME COMMAND OF THE NAVY, NAVAL WAR STAFF, ADM. QU.3.
+
+     SASSNITZ.
+
+     NAVAL CHIEF COMMAND BALTIC
+
+     SUPPLY SHIP UNIT SASSNITZ
+
+
+REMOTE CONTROL TARGET UNIT REPORTS THE PAYING-OFF AT TRAVEMÜNDE
+
+OF 'HESSEN' WITH 900 CBM OF FUEL OIL ON BOARD. PROPOSE IT BE FETCHED
+
+BY 'TAIFUN'.
+
+
+1233/3/5/45 CEL/EB+

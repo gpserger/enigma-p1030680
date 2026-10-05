@@ -1,0 +1,16 @@
+META serial=3687/46 too=1052 toi=1154/2/5/45 freq=4282KC/S from=25TH U/B FLOTILLA to=26TH U/B FLOTILLA
+GIST: 25th U-boat Flotilla queries location of U 2356 with 26th U-boat Flotilla.
+
+ADM C4D
+TO I D B G                                 ZIP/ZTPG/3687/46
+
+FROM N S
+
+4282 KC/S        T O O 1052        T O I 1154/2/5/45
+
+FROM: 25TH U/B FLOTILLA
+TO:   26TH U/B FLOTILLA
+
+QUERY: MM WHERE IS U 2356?
+
+0435/8/5/45+++CFG/UC

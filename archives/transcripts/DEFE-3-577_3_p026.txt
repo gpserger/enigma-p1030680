@@ -1,0 +1,18 @@
+META serial=367426 too=1729 toi=1554/28/4/45 freq=4860 from=S.O. 5TH U/B FLOTILLA to=U.2549, U.255CCC22
+GIST Order for U-boats U.2549 and U.255CCC22 to put into port at Kiel South Mole immediately on 28 April 1945.
+
+C59
+
+TO: I D 8 G
+
+FROM: N S
+
+4860 KC/S        TOO 1729                TOI 1554/28/4/45
+
+FROM: S.O. 5TH U/B FLOTILLA
+
+TO: U.2549, U.255CCC22))
+
+PUT INTO PORT FORTHWITH, WIK SOUTH MOLE.
+
+[handwritten marking at bottom] 0424/1/5/45 CEL/EB +

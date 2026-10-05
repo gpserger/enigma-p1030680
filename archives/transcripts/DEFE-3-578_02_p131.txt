@@ -1,0 +1,14 @@
+META serial=ZTPG/368335A too=0609/3/4/45 toi=? freq=446 kc/s from=? to=?
+GIST Short correction notice (no sender or addressee shown): last 2 groups of para 3 to read "HAS STARTED" and not "HAD STARTED".
+
+ADM(1)
+TO I D 8 G                                     ZIP/ZTPG/368335A
+FROM N S
+
+446 KC/S         T O O 0609/3/4/45
+
+    LAST 2 GROUPS OF PARA 3 TO READ ''HAS STARTED'' AND NOT
+    ''HAD STARTED''
+
+NX  (first letters overstruck/blotted, possibly "NX")
+0346/6/5/45+EGT/AM

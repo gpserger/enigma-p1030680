@@ -1,0 +1,10 @@
+const fs = require('fs');
+const path = require('path');
+const { JSDOM } = require('jsdom');
+const html = fs.readFileSync(path.join(__dirname,'..','enigma-u_v262_en.utf8.html'),'utf8');
+const dom = new JSDOM(html, { url: 'https://example.org/e.html', runScripts:'outside-only', resources:'usable', pretendToBeVisual:true });
+const doc = dom.window.document;
+const fa = doc.forms['a'];
+console.log('fa.preset ?', typeof fa.preset);
+console.log('fa.elements.preset ?', typeof fa.elements.preset);
+console.log('fa.elements.namedItem?', typeof fa.elements.namedItem('preset'));

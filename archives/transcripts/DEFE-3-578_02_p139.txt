@@ -1,0 +1,8 @@
+META serial=ADM(1) too=0043 toi=0315/2/5/45 freq=3005 from=FREDERIKSHAVN W/T to=I D 8 G
+GIST Frederikshavn wireless reports one JU 88 aircraft airborne from 0325 at bearing 05 north, heading seaward from reference bearing 96.
+
+FROM: FREDERIKSHAVN W/T
+
+1 JU 88 UP AT 0325 FROM 05 NORTH RS 96 DIRECTION TO SEAWARD
+
+0149/6/5/45+EGT/AM

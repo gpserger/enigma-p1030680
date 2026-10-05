@@ -1,0 +1,22 @@
+META serial=367753 too=1531 toi=1427/30/4/45 freq=382 from=10TH DEFENCE DIVISION to=SEA TRANSPORT TS.6
+GIST Emergency order to escort ice-breaker Ostpreussen from Gruen to Copenhagen and join Sperbrecher 24's convoy if still reachable.
+
+ADM (S)
+TO: I D B G                                    ZIP/ZTPG/367753
+FROM: N S
+
+382 KC/S            H T O O 1531            T O I 1427/30/4/45
+
+FROM: 10TH DEFENCE DIVISION
+TO: SEA TRANSPORT TS.6
+
+EMERGENCY
+
+PROCEED FORTH WITH TO ESCORT ICE-BREAKER 'OSTPREUSSEN' FROM GRUEN
+03 TO COPENHAGEN. REPORT BEGINNING ESCORT AND SPEED. IF IT CAN
+STILL BE REACHED, 'OSTPREUSSEN' IS TO JOIN SPERBRECHER 24'S
+CONVOY.
+
+[handwritten] 1246/2/5/45++CEL/FA
+
+[handwritten] 4246/2/5/45+CEL/FA

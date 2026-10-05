@@ -1,0 +1,22 @@
+META serial=368494 too=0053/2 toi=2341/1/5/45 freq=2115 from=NB62 to=ADMIRALWESTNORWEGIANCOAST
+GIST NB 62 reports to Admiral West Norwegian Coast that they have arrested a suspicious Norwegian who stated his intention of shooting the commanding officer.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368494
+
+FROM N S
+
+2115 KC/S     T O O 0053/2     T O I 2341/1/5/45
+
+FROM: NB 62
+
+TO: ADMIRAL WEST NORWEGIAN COAST
+
+MOST IMMEDIATE
+
+HAVE ARRESTED SUSPICIOUS NORWEGIAN AFTER HE HAD STATED HIS
+INTENTION OF SHOOTING THE COMMANDING OFFICER.
+
+
+1806/6/5/45++EE/UC

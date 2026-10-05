@@ -1,0 +1,18 @@
+META serial=367755 too=1703 toi=1527/30/4/45 freq=4810 from=SONDEBURG to=DR. (CKUEHNXHLD))) PELZERHAKEN
+GIST Request for approval to give up Faaborg completely; 16-man guard still there whose return is urgently desired by Captain Becker of Communication Experimental Command.
+
+ADM (S)
+TO: I D B G                                    ZIP/ZTPG/367755
+FROM: N S
+
+4810 KC/S            T O O 1703            T O I 1527/30/4/45
+
+FROM: SONDEBURG
+TO: DR. (CKUEHNXHLD))) PELZERHAKEN
+
+REQUEST APPROVAL FOR GIVING UP FAABORG COMPLETELY. AT PRESENT,
+THERE IS STILL A GUARD OF 16 MEN THERE WHOSE RETURN IS URGENTLY
+DESIRED BY CAPTAIN BECKER OF THE COMMUNICATION EXPERIMENTAL
+COMMAND.
+
+1231/2/5/45++CEL/FA

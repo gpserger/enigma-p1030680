@@ -1,0 +1,17 @@
+META serial=367424 too=0003/1/5 toi=2240/30/4/45 freq=478 from=ND.13 to=I D 8 G
+GIST S.S. Krusau has passed position K on independent passage north on 30 April 1945.
+
+C59
+
+TO: I D 8 G
+
+FROM: N S
+
+478 KC/S        TOO 0003/1/5                TOI 2240/30/4/45
+
+FROM: ND.13
+
+S.S. 'KRUSAU' HAS PASSED POSITION 'K' ON INDEPENDENT PASSAGE
+NOTXX NORTH.
+
+[handwritten marking at bottom] 0343/1/5/45 CEL/EB+

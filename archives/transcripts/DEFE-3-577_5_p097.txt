@@ -1,0 +1,21 @@
+META serial=ZIP/ZTPG/367898 too=1342 toi=1304/29/4/45 freq=368 from=CAPTAIN D to=FLEET TRAINING UNIT
+GIST Most Immediate Secret 1258 C: Captain D transmits message of 160 groups in Offizier cypher to Fleet Training Unit.
+
+ADM (3)
+TO IDBG                                         ZIP/ZTPG/367898
+FROM N S
+
+368 KC/S         TOO 1342            T O I 1304/29/4/45
+
+FROM: CAPTAIN D
+TO:   FLEET TRAINING UNIT
+      RPTD. Z 31 (KIEL)
+      Z 33 (KIEL)
+      8TH Z-FLOTILLA CUXHAVEN
+      NAVAL CHIEF COMMAND NORTH (GLUECKSTADT)
+
+MOST IMMEDIATE                              MOST SECRET 1258 C
+
+MESSAGE OF 160 GROUPS IN OFFIZIER CYPHER.
+
+0339/3/5/45         EGT+++MPS+++

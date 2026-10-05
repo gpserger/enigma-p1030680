@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367658 too=2301 toi=2132/26/4/45 freq=382 KCS from='LOEWE' to=36TH. W/S FLOTILLA
+GIST Loewe will arrive at ROT 13 at 1000 requesting escort to Kiel with 106 officers, men, and 11 refugees on board.
+
+ADM (C3)
+
+TO | D 8 G    ZIP/ZTPG/367658
+
+FROM NS
+
+382 KCS    TOO 2301    TOI 2132/26/4/45
+
+FROM: 'LOEWE'
+
+TO  : 36TH. W/S FLOTILLA
+
+SHALL ARRIVE AT ROT 13 AT 1000. REQUEST ONWARD ESCORT TO KIEL.
+
+HAVE 106 OFFICERS AND MEN AND 11 REFUGEES ON BOARD.
+
+0442/2/5/45+++EGT/IW

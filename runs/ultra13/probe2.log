@@ -1,0 +1,131 @@
+crib 0 NORWEGENKART..(20)@1 used=20 excluded=[] blocks=1 sizes: 20(pivot E, loops 4)
+crib 1 NORWEGENKART..(20)@3 used=20 excluded=[] blocks=1 sizes: 20(pivot E, loops 3)
+crib 2 NORWEGENKART..(20)@5 used=20 excluded=[] blocks=1 sizes: 20(pivot E, loops 3)
+crib 3 NORWEGENKART..(20)@9 used=20 excluded=[] blocks=1 sizes: 20(pivot E, loops 1)
+crib 4 NORWEGENKART..(20)@11 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 3)
+crib 5 NORWEGENKART..(20)@13 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 2)
+crib 6 NORWEGENKART..(20)@15 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 4)
+crib 7 NORWEGENKART..(20)@17 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 3)
+crib 8 NORWEGENKART..(20)@19 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 2)
+crib 9 NORWEGENKART..(20)@21 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 4)
+crib 10 NORWEGENKART..(20)@23 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 4)
+crib 11 NORWEGENKART..(20)@25 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 3)
+crib 12 NORWEGENKART..(20)@27 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 4)
+crib 13 NORWEGENKART..(20)@34 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 3)
+crib 14 NORWEGENKART..(20)@35 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 4)
+crib 15 NORWEGENKART..(20)@38 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 4)
+crib 16 NORWEGENKART..(20)@39 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 4)
+crib 17 NORWEGENKART..(20)@41 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 5)
+crib 18 NORWEGENKART..(20)@42 used=20 excluded=[] blocks=1 sizes: 20(pivot R, loops 6)
+crib 19 NORWEGENKART..(20)@43 used=20 excluded=[] blocks=1 sizes: 20(pivot B, loops 5)
+crib 20 NORWEGENKART..(20)@44 used=20 excluded=[] blocks=1 sizes: 20(pivot B, loops 6)
+crib 21 NORWEGENKART..(20)@45 used=20 excluded=[] blocks=1 sizes: 20(pivot N, loops 5)
+crib 22 NORWEGENKART..(20)@46 used=20 excluded=[] blocks=1 sizes: 20(pivot N, loops 5)
+crib 23 NORWEGENKART..(20)@50 used=20 excluded=[] blocks=1 sizes: 20(pivot N, loops 3)
+crib 24 SICHERSTELLE..(27)@0 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 8)
+crib 25 SICHERSTELLE..(27)@5 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 6)
+crib 26 SICHERSTELLE..(27)@7 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 6)
+crib 27 SICHERSTELLE..(27)@10 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 6)
+crib 28 SICHERSTELLE..(27)@11 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 7)
+crib 29 SICHERSTELLE..(27)@12 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 7)
+crib 30 SICHERSTELLE..(27)@14 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 7)
+crib 31 SICHERSTELLE..(27)@15 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 7)
+crib 32 SICHERSTELLE..(27)@16 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 7)
+crib 33 SICHERSTELLE..(27)@20 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 8)
+crib 34 SICHERSTELLE..(27)@24 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 10)
+crib 35 SICHERSTELLE..(27)@28 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 8)
+crib 36 SICHERSTELLE..(27)@34 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 9)
+crib 37 SICHERSTELLE..(27)@42 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 9)
+crib 38 SICHERSTELLE..(27)@43 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 9)
+crib 39 SICHERSTELLE..(27)@44 used=27 excluded=[] blocks=1 sizes: 27(pivot E, loops 9)
+crib 40 SICHERSTELLE..(22)@0 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 41 SICHERSTELLE..(22)@5 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 42 SICHERSTELLE..(22)@7 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 3)
+crib 43 SICHERSTELLE..(22)@10 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 3)
+crib 44 SICHERSTELLE..(22)@11 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 3)
+crib 45 SICHERSTELLE..(22)@12 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 46 SICHERSTELLE..(22)@14 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 47 SICHERSTELLE..(22)@15 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 48 SICHERSTELLE..(22)@16 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 49 SICHERSTELLE..(22)@20 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 50 SICHERSTELLE..(22)@24 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 6)
+crib 51 SICHERSTELLE..(22)@28 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 5)
+crib 52 SICHERSTELLE..(22)@29 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 5)
+crib 53 SICHERSTELLE..(22)@32 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 54 SICHERSTELLE..(22)@33 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 55 SICHERSTELLE..(22)@34 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 3)
+crib 56 SICHERSTELLE..(22)@35 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 5)
+crib 57 SICHERSTELLE..(22)@36 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 5)
+crib 58 SICHERSTELLE..(22)@38 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 5)
+crib 59 SICHERSTELLE..(22)@39 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 5)
+crib 60 SICHERSTELLE..(22)@42 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 61 SICHERSTELLE..(22)@44 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 62 SICHERSTELLE..(22)@46 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 5)
+crib 63 SICHERSTELLE..(22)@48 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 4)
+crib 64 SICHERSTELLE..(22)@49 used=22 excluded=[] blocks=1 sizes: 22(pivot E, loops 5)
+DONE settings=5940688 time=8.9s rate=0.666M settings/s (0.166M/s/thread, 4 threads) T-evals/setting=3.8 stops=360
+crib 0 NORWEGENKART..(20)@1: block-stops=0; verified g histogram:
+crib 1 NORWEGENKART..(20)@3: block-stops=0; verified g histogram:
+crib 2 NORWEGENKART..(20)@5: block-stops=0; verified g histogram:
+crib 3 NORWEGENKART..(20)@9: block-stops=0; verified g histogram:
+crib 4 NORWEGENKART..(20)@11: block-stops=0; verified g histogram:
+crib 5 NORWEGENKART..(20)@13: block-stops=360; verified g histogram: g0:3 g1:40 g2:71 g3:90 g4:79 g5:50 g6:17 g7:10
+crib 6 NORWEGENKART..(20)@15: block-stops=0; verified g histogram:
+crib 7 NORWEGENKART..(20)@17: block-stops=0; verified g histogram:
+crib 8 NORWEGENKART..(20)@19: block-stops=0; verified g histogram:
+crib 9 NORWEGENKART..(20)@21: block-stops=0; verified g histogram:
+crib 10 NORWEGENKART..(20)@23: block-stops=0; verified g histogram:
+crib 11 NORWEGENKART..(20)@25: block-stops=0; verified g histogram:
+crib 12 NORWEGENKART..(20)@27: block-stops=0; verified g histogram:
+crib 13 NORWEGENKART..(20)@34: block-stops=0; verified g histogram:
+crib 14 NORWEGENKART..(20)@35: block-stops=0; verified g histogram:
+crib 15 NORWEGENKART..(20)@38: block-stops=0; verified g histogram:
+crib 16 NORWEGENKART..(20)@39: block-stops=0; verified g histogram:
+crib 17 NORWEGENKART..(20)@41: block-stops=0; verified g histogram:
+crib 18 NORWEGENKART..(20)@42: block-stops=0; verified g histogram:
+crib 19 NORWEGENKART..(20)@43: block-stops=0; verified g histogram:
+crib 20 NORWEGENKART..(20)@44: block-stops=0; verified g histogram:
+crib 21 NORWEGENKART..(20)@45: block-stops=0; verified g histogram:
+crib 22 NORWEGENKART..(20)@46: block-stops=0; verified g histogram:
+crib 23 NORWEGENKART..(20)@50: block-stops=0; verified g histogram:
+crib 24 SICHERSTELLE..(27)@0: block-stops=0; verified g histogram:
+crib 25 SICHERSTELLE..(27)@5: block-stops=0; verified g histogram:
+crib 26 SICHERSTELLE..(27)@7: block-stops=0; verified g histogram:
+crib 27 SICHERSTELLE..(27)@10: block-stops=0; verified g histogram:
+crib 28 SICHERSTELLE..(27)@11: block-stops=0; verified g histogram:
+crib 29 SICHERSTELLE..(27)@12: block-stops=0; verified g histogram:
+crib 30 SICHERSTELLE..(27)@14: block-stops=0; verified g histogram:
+crib 31 SICHERSTELLE..(27)@15: block-stops=0; verified g histogram:
+crib 32 SICHERSTELLE..(27)@16: block-stops=0; verified g histogram:
+crib 33 SICHERSTELLE..(27)@20: block-stops=0; verified g histogram:
+crib 34 SICHERSTELLE..(27)@24: block-stops=0; verified g histogram:
+crib 35 SICHERSTELLE..(27)@28: block-stops=0; verified g histogram:
+crib 36 SICHERSTELLE..(27)@34: block-stops=0; verified g histogram:
+crib 37 SICHERSTELLE..(27)@42: block-stops=0; verified g histogram:
+crib 38 SICHERSTELLE..(27)@43: block-stops=0; verified g histogram:
+crib 39 SICHERSTELLE..(27)@44: block-stops=0; verified g histogram:
+crib 40 SICHERSTELLE..(22)@0: block-stops=0; verified g histogram:
+crib 41 SICHERSTELLE..(22)@5: block-stops=0; verified g histogram:
+crib 42 SICHERSTELLE..(22)@7: block-stops=0; verified g histogram:
+crib 43 SICHERSTELLE..(22)@10: block-stops=0; verified g histogram:
+crib 44 SICHERSTELLE..(22)@11: block-stops=0; verified g histogram:
+crib 45 SICHERSTELLE..(22)@12: block-stops=0; verified g histogram:
+crib 46 SICHERSTELLE..(22)@14: block-stops=0; verified g histogram:
+crib 47 SICHERSTELLE..(22)@15: block-stops=0; verified g histogram:
+crib 48 SICHERSTELLE..(22)@16: block-stops=0; verified g histogram:
+crib 49 SICHERSTELLE..(22)@20: block-stops=0; verified g histogram:
+crib 50 SICHERSTELLE..(22)@24: block-stops=0; verified g histogram:
+crib 51 SICHERSTELLE..(22)@28: block-stops=0; verified g histogram:
+crib 52 SICHERSTELLE..(22)@29: block-stops=0; verified g histogram:
+crib 53 SICHERSTELLE..(22)@32: block-stops=0; verified g histogram:
+crib 54 SICHERSTELLE..(22)@33: block-stops=0; verified g histogram:
+crib 55 SICHERSTELLE..(22)@34: block-stops=0; verified g histogram:
+crib 56 SICHERSTELLE..(22)@35: block-stops=0; verified g histogram:
+crib 57 SICHERSTELLE..(22)@36: block-stops=0; verified g histogram:
+crib 58 SICHERSTELLE..(22)@38: block-stops=0; verified g histogram:
+crib 59 SICHERSTELLE..(22)@39: block-stops=0; verified g histogram:
+crib 60 SICHERSTELLE..(22)@42: block-stops=0; verified g histogram:
+crib 61 SICHERSTELLE..(22)@44: block-stops=0; verified g histogram:
+crib 62 SICHERSTELLE..(22)@46: block-stops=0; verified g histogram:
+crib 63 SICHERSTELLE..(22)@48: block-stops=0; verified g histogram:
+crib 64 SICHERSTELLE..(22)@49: block-stops=0; verified g histogram:

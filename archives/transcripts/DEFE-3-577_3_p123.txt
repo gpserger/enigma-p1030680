@@ -1,0 +1,18 @@
+META serial=367533 too=1102 toi=0937/29/4/45 freq=3565 from=DEFENCE UNIT LORIENT to=?
+GIST Defence Unit Lorient ship movement reporting service reports no own ship movements for night 29-30/4.
+
+ADM(C1)
+TO I D 8 G       ZIP/ZTPG/367533
+FROM N S
+
+3565 KC/S       T O O. 1102       TOI 0937/29/4/45
+
+FROM: DEFENCE UNIT LORIENT
+
+SHIP MOVEMENT REPORTING SERVICE LORIENT:
+
+NIGHT OF 29-30/4:
+
+NO OWN SHIP MOVEMENTS
+
+1512/1/5/45+EE/AM

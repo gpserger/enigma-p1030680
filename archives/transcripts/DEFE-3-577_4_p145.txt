@@ -1,0 +1,17 @@
+META serial=367752 too=2359/30/4 toi=0749/1/5/45 freq=4860 from=U.1103 (EISELE) to=CAPTAIN (U/B) BALTIC 5TH U/B FLOTILLA
+GIST U-boat 1103 asks permission to dock at Rendsburg for 6 hours on 3 May as ordered by Captain U/B Baltic.
+
+(S)
+TO: I D B G                                    ZIP/ZTPG/367752
+FROM: N S
+
+4860 KC/S            T O O 2359/30/4            T O I 0749/1/5/45
+
+FROM: U.1103 (EISELE)
+TO: CAPTAIN (U/B) BALTIC
+     5TH U/B FLOTILLA
+
+IS IT POSSIBLE TO DOCK AT RENDSBURG FOR 6 HOURS IN THE FORENOON
+OF 3/5 AS ORDERED BY CAPTAIN (U/B) BALTIC.
+
+1124 /2/5/45 CEL/EB+

@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPGU/39027(ND) too=? toi=2008/1/5/45 freq=7510 KC/S from=TOX (CU 427) to=?
+GIST U-boat 427 reports position 36 hours off approach or escort rendezvous point.
+
+ADM C1)
+
+TO I D 8 G                                   ZIP/ZTPGU/39027(ND)
+
+FROM N S
+
+7510 KC/S          2008/1/5/45  B'GXF
+
+AM 36 HOURS OFF APPROACH OR ESCORT R/V POINT
+
+TOX (CU 427)
+
+0537/7/5/45+GFG/AM

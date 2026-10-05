@@ -1,0 +1,20 @@
+META serial=368739 too=0120/3 toi=2345/2/5/45 freq=3015 from=V1224 to=?
+GIST V 1224 reports ship movement that leaving Heligoland for Toenning with V 1270, one skoot and one small vessel at 0200 at speed of 7 knots.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368739
+
+FROM N S
+
+3015 KC/S     T O O 0120/3     T O I 2345/2/5/45
+
+FROM: V 1224
+
+SHIP MOVEMENT REPORTING SERVICE:
+
+LEAVING HELIGOLAND FOR TOENNING WITH V 1270, ONE SKOOT AND ONE
+SMALL VESSEL AT 0200. SPEED 7 KNOTS.
+
+
+0419/8/5/45+++GFG/UC

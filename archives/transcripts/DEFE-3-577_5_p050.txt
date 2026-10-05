@@ -1,0 +1,15 @@
+META serial=ZIP/ZTPG/367860 too=2110 toi=2001/30/4/45 freq=4860 KC/S from=LOEVE to=ADMIRAL U/B
+GIST LOEVE reporting arrival in Neustadt with W/T watch closed down.
+
+ADM(4)
+TO: I D 8G                            ZIP/ZTPG/ 367860
+FROM: N S
+
+4860KC/S         TOO : 2110          TOI : 2001/30/4/45
+
+FROM: LOEVE
+TO: ADMIRAL U/B
+
+ARRIVED IN NEUSTADT AT 2100. W/T WATCH CLOSED DOWN.
+
+2304/2/5/45 EE/JG

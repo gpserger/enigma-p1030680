@@ -1,0 +1,12 @@
+META serial=ZIP/ZTPG/367869 A too=0718/28/4 toi=? freq=3764 KC/S from=N S to=I D B G
+GIST Correction notice to read line one as "OUTER ROADS AT 0630 ETC".
+
+ADM (3)
+TO I D 8 G                            ZIP/ZTPG/367869 A
+FROM N S
+
+3764 KC/S         TOO 0718/28/4
+
+IN L LINE ONE READ ''OUTER ROADS AT 0630 ETC ''
+
+0333/3/5/45         EGT+++HPS+++

@@ -1,0 +1,22 @@
+META serial=368500 too=2302 toi=2120/1/5/45 freq=3015 from=M323 to=5THDEFENCEDIVISION
+GIST M 323 reports to 5th Defence Division that Duesseldorf has left Heligoland at 2300 for Cuxhaven at speed of 10 knots.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368500
+
+FROM N S
+
+3015 KC/S     T O O 2302     T O I 2120/1/5/45
+
+FROM: M 323
+
+TO: 5TH DEFENCE DIVISION
+
+EMERGENCY
+
+LEFT HELIGOLAND WITH DUESSELDORF AT 2300 FOR CUXHAVEN.
+SPEED 10 KNOTS.
+
+
+1755/6/5/45+++EE/UC

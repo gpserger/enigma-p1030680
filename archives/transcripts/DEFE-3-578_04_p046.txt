@@ -1,0 +1,18 @@
+META serial=3687/25 too=0003/6 toi=2223/5/5/45 freq=3764KC/S from=U 3515 (FUSCHER) to=CAPTAIN (U/B) FRONT LINE
+GIST: U 3515 under command of Fuscher reports shall arrive Horton at 0300 with serials 46-75 missing.
+
+ADM(C2)
+TO I D B G                                 ZIP/ZTPG/3687/25
+
+FROM N S
+
+3764 KC/S        T O O 0003/6        T O I 2223/5/5/45
+
+FROM: U 3515 (FUSCHER)
+TO:   CAPTAIN (U/B) FRONT LINE
+
+SHALL ARRIVE HORTON AT 0300. SERIALS 46 - 75 MISSING.
+
+CC: T O O 0003/6
+
+1140/9/5/45 AND/MM

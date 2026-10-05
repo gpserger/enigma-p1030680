@@ -1,0 +1,10 @@
+META serial=ADM C(1) too=0029 toi=2253/1/5/45 freq=446 from=ADMIRAL NETHERLANDS to=I D 8 G
+GIST Admiral Netherlands reports to Naval Chief Command North: apart from 2 brief fire bursts in Amersfoort area, nothing to report.
+
+FROM: ADMIRAL NETHERLANDS
+TO: NAVAL CHIEF COMMAND NORTH
+
+APART FROM 2 SHORT BURSTS OF F IRE IN AMERSFOORT AREA
+NOTHING TO REPORT
+
+0719/6/5/45+EGT/AM

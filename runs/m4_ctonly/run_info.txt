@@ -1,0 +1,15 @@
+started 2026-09-29T22:11:40+00:00 workers=32
+CT=/opt/enigma-p1030680/ciphertext.txt
+JOBS=/opt/enigma-p1030680/runs/m4_ctonly/jobs.txt
+LANGNAME=navalblend
+MIDRING=A
+NGDIR=/opt/enigma-p1030680/corpus/ngrams
+OUT=/opt/enigma-p1030680/runs/m4_ctonly/pass1
+PASS=pass1
+R=
+RESCORE=/opt/enigma-p1030680/corpus/ngrams/navalblend_quadgrams.txt
+R_BY_TIER='20 20 10 5 5'
+SEEDBASE=1
+STAGEB_K=1000
+STAGEB_R=100
+TOPN_UNIT=40

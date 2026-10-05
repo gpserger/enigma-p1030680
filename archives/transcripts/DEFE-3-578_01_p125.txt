@@ -1,0 +1,33 @@
+META serial=368106 too=1620/2 toi=0350/3/5/45 freq=3060 from=Dobratz,AdmiralU/B to=SphereOfAdmiralU/B
+GIST Dobratz, new Admiral U/B, assumes duties; expects every U-boat officer to continue duty with iron obedience for fatherland.
+
+ADM C1D
+
+TO: ID 8 G                                                ZIP/ZTPG/368106
+
+FROM: N S
+
+
+[handwritten bullet]
+
+3060 KC/S      1620/2     TOI 0350/3/5/45
+
+
+FROM: DOBRATZ, CAPTAIN AND ADMIRAL U/B
+
+TO: SPHERE OF ADMIRAL U/B
+
+
+EMERGENCY
+
+
+AS FROM TODAY I HAVE TAKEN OVER THE DUTIES OF ADMIRAL U/B.
+
+I EXPECT EVERY MEMBER OF OUR BELOVED U-BOAT ARM TO DO HIS
+
+DUTY AS HITHERTO, AND IN IRON OBEDIENCE TO GIVE HIS UTMOST
+
+FOR OUR SORE TRIED FATHERLAND.
+
+
+0611/4/5/45+++EGT/SMH

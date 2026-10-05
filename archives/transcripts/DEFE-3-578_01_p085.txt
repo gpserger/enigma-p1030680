@@ -1,0 +1,27 @@
+META serial=368068 too=0838 toi=0726/13/4/45 freq=382 from=VS56 to=1stDefenceFlotilla
+GIST VS 56 reports 2 mines cleared at position 5432.0 North, 1016.2 East with technical sweep details.
+
+ADM C1D
+
+TO: ID 8 G                                                ZIP/ZTPG/368068
+
+FROM: N S
+
+
+382 KC/S      TOO 0838     TOI 0726/13/4/45
+
+
+FROM: VS 56
+
+TO: 1ST DEFENCE FLOTILLA
+
+
+[handwritten bullet]
+. 2 MINES CLEARED IN 5432.0 NORTH, 1016.2 EAST. COURSE 330
+
+TRUE, RELATIVE BEARING 175, DISTANCE 180 METRES, 'KFRG',
+
+'GBT' IN SWEEP AND 20 METRE DISTANCE WIRE.
+
+
+0133/4/5/45 '+++++EGT/SMH

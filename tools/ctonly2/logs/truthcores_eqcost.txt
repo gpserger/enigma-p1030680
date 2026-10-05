@@ -1,0 +1,6 @@
+== stride 3 R 60
+stageA>=cut: 95
+DETECTED (rank 1 in unit) 99/272   wall 0s  settings 0  evals 0.00G  (8 threads)
+== stride 5 R 100
+P1030661#0   wR=VI   lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.98/-6.45 -6.77/-6.38 -6.67/-6.45 -6.77/-6.45 -6.77/-6.24 -6.77/-6.61 -6.77/-6.24 -6.77/-6.82 
+P1030661#1   wR=VII  lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.41/-5.92 -6.41/-5.92 -6.41/-5.92 -6.54/-5.92 -6.37/-5.92 -6.41/-5.92 -6.41/-5.92 -6.83/-6.88 

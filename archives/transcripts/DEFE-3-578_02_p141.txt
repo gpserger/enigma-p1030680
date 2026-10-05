@@ -1,0 +1,10 @@
+META serial=ADM C(32) too=1456 toi=1441/1/5/45 freq=4765 from=VS 1011 to=I D 8 G
+GIST VS 1011 reports Treuenfels urgently requires escort for 6 knots; lacks steering way and requires minesweeper escort.
+
+FROM: VS 1011
+TO: 8TH DEFENCE DIVISION
+
+'TREUENFELS' URGENTLY REQUIRES ESCORT FOR 6 KNOTS,
+OTHERWISE NO STEERING WAY, AND REQUIRES MF AS ESCORT BOAT.
+
+0149/6/5/45 EGT/MU

@@ -1,0 +1,18 @@
+META serial=367538 too=0204 toi=0025/26/4/45 freq=3515 from=K.D.K. (OPS) F I S to=FORTRESS COMMANDANT DUNKIRK, REPEATED 5TH K-DIVISION
+GIST K.D.K. (OPS) sends 73-group message to fortress commandant Dunkirk and 5th K-division in Offizier cipher for senior officers only.
+
+ADM(C1)
+TO I D 8 G       ZIP/ZTPG/367538
+FROM N S
+
+3515 KC/S       T O O 0204       TOI 0025/26/4/45
+
+FROM: K.D.K. (OPS) F I S
+TO: FORTRESS COMMANDANT DUNKIRK
+    REPEATED 5TH K-DIVISION
+
+S.O. ONLY
+
+MESSAGE OF 73 GROUPS IN OFFIZIER CYPHER
+
+1546/1/5/45+EE/AR

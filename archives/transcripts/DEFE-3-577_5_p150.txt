@@ -1,0 +1,20 @@
+META serial=367939 too=1637 toi=1525/29/4/45 freq=368 from=N S to=IDB G
+GIST Fleet to operational units announcing transfer with Hela to Neustadt on morning of 30 April.
+
+ADM (3)
+
+TO IDB G                                        Z IP/ZTPG/367939
+
+FROM N S
+
+368 KC/S          TOO 1637              TOI 1525/29/4/45
+
+FROM: FLEET
+
+TO: 'O', 'I'
+
+MOST IMMEDIATE                          MOST SECRET
+
+INTEND TO TRANSFER WITH 'HELA' TO NEUSTADT ON THE MORNING OF 30/4.
+
+BXB 0715/3/5/45         EGT+++NPS+++

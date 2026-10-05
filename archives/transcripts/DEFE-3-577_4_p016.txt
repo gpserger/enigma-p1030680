@@ -1,0 +1,17 @@
+META serial=367633 too=0434 toi=0227/27/4/45 freq=4265 from=REITZ to=DEFENCE UNIT
+GIST Reitz reports arrival in St. Nazaire at 0330 with V 230, HS 8 and 'Ahlhorn'.
+
+ADM(C2)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPC/367633
+
+4265 KC/S                T00 0434                T0I 0227/27/4/45
+
+FROM: REITZ
+TO:    DEFENCE UNIT
+
+ARRIVED IN ST. NAZAIRE AT 0330 WITH V 230, HS 8 AND 'AHLHORN'
+
+0340/2/5/45           ECT+++MPS+++

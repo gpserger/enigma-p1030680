@@ -1,0 +1,18 @@
+META serial=3671397 too=1631 toi=1458/28/4/45 freq=4860KC/S from=5THUBFLOTILLA to=U.3530
+GIST 5th U/B Flotilla orders U.3530 to come to Kiel forthwith with acknowledgment.
+
+C52
+TO: I D B G                           ZIP/ZTPG/3671397
+FROM: N S
+[seal mark]
+
+4860 KC/S             T O O 1631              T O I 1458/28/4/45
+
+FROM: 5TH U/B FLOTILLA
+TO: U.3530
+
+COME TO KIEL FORTHWITH. ACKNOWLEDGE.
+
+[seal mark]
+
+0250/1/5/45 CEL/EB+

@@ -1,0 +1,31 @@
+META serial=367573 too=1007 toi=0915/1/5/45 freq=3930KC/S from=CAPTAIN (U/B) NORTHERN WATERS to=?
+GIST Captain (U/B) Northern Waters orders unrestricted anti-submarine hunting in multiple sectors of Northern Waters until 2400 hours on 2 May, with prohibited areas specified.
+
+[Corrections in handwriting noted]
+
+ADM(1)
+TO: I D 8 C
+FROM N S
+
+HOM(1) TO I D8C [handwritten]
+
+ZIP/ZTPG/367573
+
+3930 KC/S        T O O 1007        TOI: 0915/1/5/45
+
+FROM: CAPTAIN (U/B) NORTHERN WATERS
+
+A/S HUNT UNRESTRICTED ON 2/5 UNTIL 2400:
+
+1) A) NORTHERN WATERS NORTHERN SECTOR WEST OF 15 EAST.
+   B) COASTAL STRIP NORTHERN WATERS NORTHERN SECTOR.
+   C) NORTHERN WATERS CENTRAL SECTOR.
+   D) COASTAL STRIP NORTHERN WATERS CENTRAL SECTOR.
+
+2) A) VESTFJORD
+   B) [?] ANDENES
+   C) LOPPHAVET.
+
+3) NORTHERN WATERS NORTHERN SECTOR EAST OF 15 EAST PROHIBITED ON 1/5 WITH IMMEDIATE EFFECT.
+
+1725/1/5/45+++EE+PG

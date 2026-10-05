@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367908 too=0820 toi=0655/30/4/45 freq=382 from=MOSEL to=ADMIRAL U.B.
+GIST Mosel reports arrived in Rostock with Uerdingen at 0700.
+
+ADM(4)
+TO: IDBG                                         ZIP/ZTPG/367908
+FROM: NS
+
+382KCS         TOO 0820            T O I 0655/30/4/45
+
+FROM: MOSEL
+TO  : ADMIRAL U.B.
+      CAPTAIN U.B. TRAINING
+      25TH U.B. FLOTILLA
+      TORPEDO INSPECTORATE
+
+ARRIVED IN ROSTOCK WITH 'UERDINGEN' AT 0700
+
+0411/3/5/45++EGT/IW

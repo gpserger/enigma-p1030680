@@ -1,0 +1,15 @@
+META serial=367525 too=0851 toi=0719/22/4/45 freq=4860 from=U 1207 to=CONTROL
+GIST U-boat 1207 reports at 0900 position Brunsbuettlekoog, boat is effective.
+
+ADM (C5)
+TO: I D 8 G       ZIP/ZTPG/367525
+FROM: N S
+
+4860 KC/S       T O O 0851       T O I 0719/22/4/45
+
+FROM: U 1207
+TO: CONTROL
+
+0900 POSITION BRUNSBUETTLEKOOG. BOAT IS EFFECTIVE.
+
+1450/1/5/45 EE/HJU

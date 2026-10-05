@@ -1,0 +1,14 @@
+META serial=ZIP/ZTPG/367920 too=1935 toi=0348/1/5/45 freq=3565 from=CONTROL to=?
+GIST Correction: REF. W/T message 1520/30: Instead of U-170 read U 1170 (justified).
+
+AEM (1)
+TO: I D 8 G                                     ZIP/ZTPG/367920
+FROM: N S
+
+3565 KC/S         TOO 1935            T O I 0348/1/5/45
+
+FROM: CONTROL
+
+REF. W/T MESSAGE 1520/30: INSTEAD OF U-170 READ U 1170 ( JUSTIFI)
+
+0524/3/5/45 EGT+HDT++

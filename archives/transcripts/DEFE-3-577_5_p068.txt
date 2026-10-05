@@ -1,0 +1,22 @@
+META serial=ZIP/ZTPG/367872 too=1800 toi=1826/27/4/45 freq=4860 from=U 3027 (MEHNES) to=ADMIRAL U/B
+GIST U-boat U 3027 reporting departure from Swinemuende westbound under escort at 1730, with U 2538 remaining behind for fuel transfer.
+
+ADM (3)
+TO IDBG                                         ZIP/ZTPG/367872
+FROM N S
+
+4860 KC/S         TOO 1800            TOI 1826/27/4/45
+
+FROM: U 3027 (MEHNES)
+TO: ADMIRAL U/B
+    4TH U/B FLOT ILLA
+
+                                         [short signal 1730 with]
+LEFT SWINEMUENDE WESTBOUND UNDER U 2535 (BITTER), SPEED 9 KNOTS,
+4860 KC/S.
+ADDITIONAL FOR 4TH U/B FLOT ILLA;
+U 2538 (KLAPDOR) REMAINED BEHIND OWING TO TAKING OVER OF FUEL.
+
+CC: PLS READ .. ADDITIONAL FOR 4TH U/B.....
+
+0022/3/5/45         EGT+++MPS+++

@@ -1,0 +1,19 @@
+META serial=367935 too=1845/29 toi=0643/30/4/45 freq=4282 from=N S to=IDB G
+GIST Emergency message from Admiral U-boats to all U-boat flotillas, bases, and plenipotentiaries in home area marked Most Secret.
+
+ADM (3)
+
+TO IDB G                                        Z IP/ZTPG/367935
+
+FROM N S
+
+4282 KC/S                TOO 1845/29             TOI 0643/30/4/45
+
+FROM: ADMIRAL U/B
+
+TO: U/B FLOTILLAS
+    U/B BASES
+    U/B PLENIPOTENTIARIES
+         IN HOME AREA
+
+EMERGENCY                                MOST SECRET 4196 U I

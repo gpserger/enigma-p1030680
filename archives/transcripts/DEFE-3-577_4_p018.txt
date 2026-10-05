@@ -1,0 +1,17 @@
+META serial=367635 too=1442 toi=1347/26/4/45 freq=360 from=HARBOUR OFFICER LE PALAIS to=N O I C LORIENT
+GIST Harbour Officer Le Palais reports Carentan left at 1220 for Vannes.
+
+ADM(C2)
+TO: I D 8 G
+FROM: N S
+
+M ZIP/ZTPC/367635
+
+360 KC/S             T00' 1442                T0I 1347/26/4/45
+
+FROM: HARBOUR OFFICER LE PALAIS
+TO:    N O I C LORIENT
+
+'CARENTAN' LEFT AT 1220 FOR VANNES.
+
+0337/2/5/45           ECT+++MPS+++

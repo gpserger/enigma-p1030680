@@ -1,0 +1,27 @@
+META serial=368645 too=2356/1 toi=0139/2/5/45 freq=3082 from=R.303 to=ADMIRALWESTNORWEGIANCOASTS.O.21STRF LOTILLA
+GIST R. 303 reports to Admiral West Norwegian Coast and S.O. 21st R. Flotilla that Foerde in Fugisaetfjord has been abandoned except for old Norwegians, saboteurs have gone to mountains, and assault detachment has been embarked.
+
+ADM C1)
+
+TO: I D B G                ZIP/ZTPG/368645
+
+FROM: N S
+
+3082 KC/S     T O O 2356/1     T O I 0139/2/5/45
+
+FROM: R. 303
+
+TO: ADMIRAL WEST NORWEGIAN COAST
+    S.O. 21ST R. FLOTILLA
+
+EMERGENCY
+
+REFERENCE MOST IMMEDIATE W/T MESSAGE 2237:
+
+FOERDE IN FUGISAETFJORD HAS BEEN ABANDONED EXCEPT FOR A FEW
+OLD NORWEGIANS. SOME SABOTEURS HAVE TAKEN TO THE MOUNTAINS
+TO THE SOUTH. ASSAULT DETACHMENT HAS BEEN EMBARKED. AM
+CONTINUING TASK.
+
+
+1223/7/5/45   CEL/AHM++++

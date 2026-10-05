@@ -1,0 +1,36 @@
+P1030660#0   wR=IV   lstep@0  detected 3/8 (stageA>=cut 3)  (stageA-best/refined rescore, *=found): -6.71/-6.36 -6.57/-5.74 -6.54/-6.36 -5.15/-5.15* -6.55/-5.74 -5.15/-5.15* -5.15/-5.15* -6.71/-6.51 
+P1030660#1   wR=II   lstep@0  detected 4/8 (stageA>=cut 4)  (stageA-best/refined rescore, *=found): -6.92/-6.55 -6.15/-6.55 -5.15/-5.15* -5.15/-5.15* -6.61/-6.42 -5.15/-5.15* -5.15/-5.15* -6.65/-6.55 
+P1030661#0   wR=VI   lstep@0  detected 1/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.51/-5.21 -6.52/-6.42 -6.51/-5.21 -6.51/-5.21 -6.52/-5.01* -6.52/-6.45 -6.58/-6.38 -6.71/-6.33 
+P1030661#1   wR=VII  lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -5.92/-5.92 -5.92/-5.92 -6.53/-5.92 -5.92/-5.92 -5.92/-5.92 -5.92/-5.92 -5.92/-5.92 -5.92/-5.92 
+P1030667#0   wR=III  lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.04/-6.23 -6.59/-6.23 -6.04/-6.48 -6.49/-6.64 -6.66/-6.23 -6.49/-6.23 -6.04/-6.05 -6.44/-6.51 
+P1030667#1   wR=II   lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.54/-6.35 -6.62/-6.58 -6.38/-6.48 -6.62/-6.38 -6.51/-6.57 -6.82/-6.57 -6.54/-6.63 -6.33/-6.57 
+P1030671#0   wR=V    lstep@0  detected 8/8 (stageA>=cut 8)  (stageA-best/refined rescore, *=found): -5.00/-4.73* -5.00/-4.73* -5.00/-4.73* -5.03/-4.73* -5.03/-4.73* -5.00/-4.73* -5.00/-4.73* -5.00/-4.73* 
+P1030671#1   wR=II   lstep@0  detected 8/8 (stageA>=cut 8)  (stageA-best/refined rescore, *=found): -5.33/-4.73* -5.39/-4.73* -5.33/-4.73* -5.33/-4.73* -5.33/-4.73* -5.33/-4.73* -5.33/-4.73* -5.33/-4.73* 
+P1030689#0   wR=IV   lstep@0  detected 2/8 (stageA>=cut 2)  (stageA-best/refined rescore, *=found): -6.43/-6.33 -6.44/-5.52 -6.40/-5.52 -6.47/-5.52 -4.87/-4.24* -6.44/-5.52 -5.31/-4.24* -6.40/-6.58 
+P1030689#1   wR=V    lstep@0  detected 8/8 (stageA>=cut 8)  (stageA-best/refined rescore, *=found): -4.61/-4.24* -4.61/-4.24* -4.61/-4.24* -4.61/-4.24* -4.61/-4.24* -4.61/-4.24* -4.61/-4.24* -4.61/-4.24* 
+P1030693#0   wR=VIII lstep@1  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.45/-6.79 -6.22/-6.08 -6.26/-5.60 -6.22/-6.08 -6.22/-5.60 -6.22/-6.08 -6.22/-6.08 -6.22/-6.08 
+P1030693#1   wR=VII  lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.48/-6.33 -6.47/-6.80 -6.48/-6.33 -6.51/-5.53 -6.51/-6.46 -6.51/-6.70 -6.51/-6.33 -6.51/-6.39 
+P1030684#0   wR=V    lstep@0  detected 8/8 (stageA>=cut 8)  (stageA-best/refined rescore, *=found): -4.59/-3.89* -4.59/-3.89* -4.59/-3.89* -4.72/-3.89* -5.92/-3.89* -4.72/-3.89* -5.92/-3.89* -4.72/-3.89* 
+P1030684#1   wR=VI   lstep@0  detected 8/8 (stageA>=cut 8)  (stageA-best/refined rescore, *=found): -4.39/-3.89* -4.39/-3.89* -4.39/-3.89* -4.39/-3.89* -4.39/-3.89* -4.39/-3.89* -4.39/-3.89* -4.39/-3.89* 
+P1030696#0   wR=VII  lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.54/-6.69 -6.53/-6.33 -6.52/-6.33 -6.53/-6.54 -6.94/-6.79 -6.53/-6.33 -6.53/-6.71 -6.30/-6.30 
+P1030696#1   wR=VI   lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.94/-6.44 -7.01/-6.44 -6.69/-6.58 -6.82/-6.44 -6.60/-6.37 -6.79/-6.44 -6.94/-6.48 -6.90/-6.44 
+P1030702#0   wR=V    lstep@0  detected 5/8 (stageA>=cut 4)  (stageA-best/refined rescore, *=found): -6.47/-6.47 -6.47/-6.47 -6.19/-4.60* -5.30/-4.60* -5.94/-4.60* -5.32/-4.60* -6.48/-6.69 -5.30/-4.60* 
+P1030702#1   wR=I    lstep@0  detected 6/8 (stageA>=cut 5)  (stageA-best/refined rescore, *=found): -4.60/-4.61* -4.60/-4.61* -5.19/-4.61* -4.60/-4.61* -6.48/-4.96 -6.80/-4.61* -6.84/-4.96 -4.60/-4.61* 
+P1030695#0   wR=V    lstep@0  detected 2/8 (stageA>=cut 1)  (stageA-best/refined rescore, *=found): -6.52/-6.45 -5.89/-5.49* -6.91/-5.49* -6.64/-6.47 -6.52/-6.38 -6.55/-6.43 -6.52/-6.55 -6.55/-6.45 
+P1030695#1   wR=VIII lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.62/-6.56 -6.27/-6.46 -6.59/-6.56 -6.46/-6.56 -6.66/-6.56 -5.83/-5.47 -6.38/-6.56 -6.62/-6.56 
+P1030663#0   wR=V    lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.70/-6.72 -6.48/-6.78 -6.53/-6.48 -6.80/-6.80 -6.77/-6.31 -6.56/-6.58 -6.77/-6.64 -6.52/-6.31 
+P1030663#1   wR=VIII lstep@58 detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.73/-6.49 -6.67/-6.79 -6.43/-6.62 -6.65/-6.75 -6.73/-6.74 -6.40/-6.44 -6.53/-6.62 -6.73/-6.79 
+P1030676#0   wR=VII  lstep@0  detected 8/8 (stageA>=cut 8)  (stageA-best/refined rescore, *=found): -5.30/-5.30* -5.30/-5.30* -5.30/-5.30* -5.30/-5.30* -5.30/-5.30* -5.30/-5.30* -5.30/-5.30* -5.30/-5.30* 
+P1030676#1   wR=VIII lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.12/-5.68 -6.45/-5.68 -6.42/-5.68 -6.38/-5.68 -6.12/-5.68 -6.38/-5.68 -6.36/-5.68 -6.33/-6.46 
+P1030701#0   wR=VI   lstep@65 detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.65/-6.47 -6.61/-6.53 -6.72/-6.53 -6.65/-6.53 -6.59/-6.53 -6.59/-6.53 -6.65/-6.24 -6.72/-6.53 
+P1030701#1   wR=II   lstep@0  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -4.64/-4.64 -6.21/-4.64 -6.21/-4.64 -6.21/-6.25 -6.21/-6.25 -6.37/-6.37 -6.21/-6.25 -6.21/-6.22 
+P1030708#0   wR=V    lstep@0  detected 5/8 (stageA>=cut 5)  (stageA-best/refined rescore, *=found): -4.73/-4.27* -4.73/-4.27* -4.73/-4.27* -4.57/-4.27* -4.57/-4.27* -6.57/-6.76 -6.77/-6.95 -6.59/-6.74 
+P1030708#1   wR=II   lstep@0  detected 7/8 (stageA>=cut 7)  (stageA-best/refined rescore, *=found): -6.69/-6.56 -4.55/-4.27* -4.55/-4.27* -4.55/-4.27* -4.55/-4.27* -4.55/-4.27* -4.85/-4.27* -4.55/-4.27* 
+P1030673#0   wR=III  lstep@0  detected 7/8 (stageA>=cut 7)  (stageA-best/refined rescore, *=found): -4.68/-4.49* -4.68/-4.49* -6.25/-6.25 -4.68/-4.49* -4.68/-4.49* -4.77/-4.49* -4.68/-4.49* -4.68/-4.49* 
+P1030673#1   wR=VI   lstep@61 detected 1/8 (stageA>=cut 1)  (stageA-best/refined rescore, *=found): -6.70/-6.37 -6.68/-6.39 -6.75/-6.39 -6.42/-6.67 -5.69/-4.49* -6.52/-6.67 -6.42/-6.28 -6.42/-6.39 
+P1030686#0   wR=III  lstep@1  detected 0/8 (stageA>=cut 0)  (stageA-best/refined rescore, *=found): -6.62/-5.22 -6.86/-7.38 -6.48/-6.59 -6.48/-6.90 -6.45/-6.55 -6.49/-5.39 -6.83/-6.89 -6.42/-6.89 
+P1030686#1   wR=III  lstep@0  detected 1/8 (stageA>=cut 1)  (stageA-best/refined rescore, *=found): -6.54/-6.22 -6.45/-6.13 -6.54/-6.32 -5.54/-4.63* -6.46/-6.24 -6.72/-6.42 -6.75/-6.45 -6.54/-6.22 
+CFYZR        wR=I    lstep@0  detected 5/8 (stageA>=cut 5)  (stageA-best/refined rescore, *=found): -5.64/-5.44* -5.83/-5.44* -6.15/-6.25 -5.64/-5.44* -6.66/-6.29 -5.83/-5.44* -6.45/-6.56 -5.64/-5.44* 
+P1030698     wR=VIII lstep@0  detected 2/8 (stageA>=cut 2)  (stageA-best/refined rescore, *=found): -6.48/-6.78 -5.68/-4.77* -6.66/-6.37 -6.48/-6.77 -5.68/-4.77* -6.48/-6.19 -6.27/-7.22 -6.48/-6.78 
+stageA>=cut: 95
+DETECTED (rank 1 in unit) 99/272   wall 0s  settings 0  evals 0.00G  (8 threads)

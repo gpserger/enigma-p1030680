@@ -1,0 +1,16 @@
+META serial=367824 too=1752 toi=1705/30/4/45 freq=3545 from=NAVAL LIAISON OFFICER LUFTFLOTTE 1 to=9TH AND 10TH DEFENCE DIVISIONS
+GIST Query on convoy intentions for GAF tanker Grete to Liepaja; ship left Luebeck on 26/4.
+
+ADM C3)
+TO: I D B G                                    Z.IP/ZTPG/367824
+FROM: N S
+
+3545 KC/S            T O O 1752            T O I 1705/30/4/45
+
+FROM: NAVAL LIAISON OFFICER LUFTFLOTTE 1
+TO: 9TH AND 10TH DEFENCE DIVISIONS
+
+QUERY : CONVOY INTENTIONS FOR G.A.F. TANKER GRETE TO LIEPAJA ?
+SHIP LEFT LUEBECK ON 26/4.
+
+2048/2/5/45            EE/UAK+++

@@ -1,0 +1,22 @@
+META serial=367376 too=0205 toi=0315/29/4/45 freq=3565 kcs from=U/BOAT BASE HAMBURG to=ADMIRAL (U/B)
+GIST U/Boat Base Hamburg reports S.O's boat of 31st U/B Flotilla dispatched to Kiel on 28 April 1945.
+
+C 5J
+
+TO: I D 8 G
+
+FROM: N S
+
+3565 KC/S        T O O 0205                T O I 0315/29/4/45
+
+FROM: U/BOAT BASE HAMBURG
+
+TO: ADMIRAL (U/B)
+
+EMERGENCY .
+
+THE S.O'S BOAT OF THE 31ST U/B FLOTILLA WAS DESPATCHED TO KIEL
+
+AT 1800/28/4/45 IN ACCORDANCE WITH ORDERS.
+
+0138/1/5/45 CEL/EB+

@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPG/367852 too=1150 toi=1251/28/4/45 freq=4860 KC/S from=U 3014 (CHARBACH) to=4TH U/B FLOTILLA
+GIST U-boat U 3014 reporting availability of coal near railway ferry.
+
+ADM (4)
+TO: I D 8G                            ZIP/ZTPG/ 367852
+FROM: N S
+
+4860KC/S          TOO : 1150          TOI : 1251/28/4/45
+
+FROM: U 3014 (CHARBACH)
+TO: 4TH U/B FLOTILLA
+
+50 CC1 TONS)) OF COAL AVAILABLE. CC2 GROUPS)) WEST NEAR
+RAILWAY FERRY.
+
+2235/2/5/45 EE/JG

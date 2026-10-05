@@ -1,0 +1,13 @@
+META serial=ZTPG367789 too=0350 toi=0323/1/5/45 freq=382 from=S_O_10TH_DEFENCE_DIVISION to=10TH_DEFENCE_DIVISION_F_1
+GIST Superintending Officer to Defence Division regarding continuation status.
+
+ADM C4D
+TO: I D 8 G
+FROM: N S
+
+ZIP/ZTPG/367789
+
+382 KC/S     TOO 0350     TOI 0323/1/5/45
+
+FROM: S.O. 10TH DEFENCE DIVISION
+TO:   10TH DEFENCE DIVISION F. 1

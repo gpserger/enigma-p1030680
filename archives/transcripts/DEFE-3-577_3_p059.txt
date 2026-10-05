@@ -1,0 +1,17 @@
+META serial=367470 too=0649 toi=0514/1/5/45 freq=3370 from=U. 712 to=?
+GIST U-boat 712 transmits dummy message.
+
+ADM C4D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ZTPG/367470
+
+3370 KC/S        TOO 0649        TOI 0514/1/5/45
+
+FROM: U. 712
+
+(CDUMMY MESSAGE)).
+
+0923/1/5/45        CEL/AHM++++

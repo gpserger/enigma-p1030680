@@ -1,0 +1,18 @@
+META serial=3687/23 too=1527/1 toi=0350/2/5/45 freq=350KC/S from=ADMIRAL SKAGERRАК to=THIELE GROUP
+GIST: Admiral Skagerrак sends most immediate message regarding wireless message 2235 settled by senior officer only 325.
+
+ADM (C4)
+TO I D B G                                 ZIP/ZTPG/3687/23
+
+FROM N S
+
+350 KC/S        T O O 1527/1        T O I 0350/2/5/45
+
+FROM: ADMIRAL SKAGERRАК
+TO:   THIELE GROUP
+
+MOST IMMEDIATE
+
+W/T MESSAGE 2235 IS SETTLED BY MY MOST SECRET S.O. ONLY 325.
+
+0615/9/5/45+++CEL/UC

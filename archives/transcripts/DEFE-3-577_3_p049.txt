@@ -1,0 +1,18 @@
+META serial=367460 too=0518 toi=0349/1/5/45 freq=2115 from=V.1816 to=6TH COASTAL DEFENCE UNIT
+GIST V.1816 arrived at KS at 0515 with convoy on 1 May 1945.
+
+C59
+
+TO: I D 8 G
+
+FROM: N S
+
+2115 KC/S        TOO 0518                TOI 0349/1/5/45
+
+FROM: V.1816
+
+TO: 6TH COASTAL DEFENCE UNIT
+
+ARRIVED 'KS' AT 0515 WITH CONVOY.
+
+[handwritten marking at bottom] 0841/1/5/45 CEL/EB+

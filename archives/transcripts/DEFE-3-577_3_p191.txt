@@ -1,0 +1,17 @@
+META serial=ZTPG/367594 too=1107 toi=0935/1/5/45 freq=350 kc/s from=8TH DEFENCE DIVISION to=M 386
+GIST 8th Defence Division orders M 386 as an emergency to proceed forthwith with 2 boilers to ensure punctual arrival at anchorage 'C'.
+
+ADM (5)
+TO: I D 8 G                                    ZIP/ZTPG/367594
+FROM: N S
+
+350 KC/S              TOO 1107              TOI 0935/1/5/45
+
+FROM: 8TH DEFENCE DIVISION
+TO:   M 386
+EMERGENCY
+
+   PROCEED FORTHWITH WITH 2 BOILERS IN ORDER TO ENSURE PUNCTUAL
+   ARRIVAL AT ANCHORAGE 'C'.
+
+2919/1/5/45+++++EE/SMH

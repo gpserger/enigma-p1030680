@@ -1,0 +1,21 @@
+META serial=367516 too=0835 toi=0816/24/4/45 freq=4860 from=U 2545 to=Admiral (U/B), 5th U/B Flotilla
+GIST U-boat 2545 leaving Kiel at 0900.
+
+ADM C1D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367516
+
+4860 KC/S        TOO 0835        TOI 0816/24/4/45
+
+FROM: U 2545
+
+TO: ADMIRAL (U/B)
+
+5TH U/B FLOTILLA
+
+LEAVING RADE FOR KIEL AT 0900
+
+1455/1/5/45+EE/AM

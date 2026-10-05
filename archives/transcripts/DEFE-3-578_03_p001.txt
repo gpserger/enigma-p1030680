@@ -1,0 +1,20 @@
+META serial=368495 too=1041 toi=0909/2/5/45 freq=5215 from=8THDEFENCEDIVISION to=5THU/BFLOTILLA
+GIST 8th Defence Division informs 5th U/B Flotilla about taking up U 25C(00)33 at 2200 at location C by M 406 and requests permission for Lieut. C J.G. Meinelschmidt to transship from guardship E.
+
+ADM C5)
+
+TO: I D B G                ZIP/ ZTPG/368495
+
+FROM: N S
+
+5215 KC/S     T O O 1041     T O I 0909/2/5/45
+
+FROM: 8TH DEFENCE DIVISION
+TO: 5TH U/B FLOTILLA
+
+1) TAKING UP OF U 25C(00)33 AT 2200 AT 'C' BY M 406
+2) LIEUT. C J.G.) MEINELSCHMIDT CAN TRANSSHIP FROM GUARDSHIP 'E'.
+REQUEST PERMISSION.
+
+
+1807/6/5/45 EE/MJU

@@ -1,0 +1,23 @@
+META serial=367933 too=1134 toi=0952/27/4/45 freq=4282 from=NS to=IDB G
+GIST U-boat base at Wesermünde to Naval Chief Commands Baltic and North on mail addresses for U-boat units including 33rd U-boat flotilla.
+
+ADM C4)
+TO IDB G                                        Z IP/ZTPG/367933
+FROM NS
+
+4282 KCS         TOO 1134                TOI 0952/27/4/45
+
+FROM: U.B. BASE MZXX WESERMUENDE
+
+TO  : NAVAL CHIEF COMMANDS BALTIC AND NORTH, O.QU
+      33RD U.B. FLOTILLA
+
+MAIL ADDRESSEES
+
+FIELD POST NUMBER M54720 U 680 KIEL
+            M4264 U 1230 KIEL
+            M49604 U 1233 ECKERNOERDE
+
+CTN READ MAIL ADDRESSES
+
+0712/3/5/45+++EGT/IW

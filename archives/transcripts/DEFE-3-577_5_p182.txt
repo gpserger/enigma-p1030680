@@ -1,0 +1,21 @@
+META serial=998 too=1950 toi=1845/29/4/45 freq=4412 KC/S from=AF 75 to=AF 106
+
+GIST Bartelt Group ordered to remain at Volgast S.O. flotilla with expected arrival time.
+
+ADM C52
+
+TO: I D 8 G ZIP/ZTPG/367969
+
+FROM: N S
+
+4412 KC/S T O O 1950 T O I 1845/29/4/45
+
+FROM: AF 75
+
+TO: AF 106
+
+THE BARTELT GROUP IS TO REMAIN AT VOLGAST. S.O. FLOTILLA
+
+WILL ARRIVE VOLGAST AT 2000 TODAY.
+
+1032/3/5/45 CEL/MJU

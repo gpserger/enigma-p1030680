@@ -1,0 +1,25 @@
+META serial=367958 too=1745 toi=1627/29/4/45 freq=4860 from=N S to=IDB G
+GIST Captain U-boats Baltic to 5th U-boat flotilla reporting U-boat U 1103 engaged in training and calibration exercises, proceeding to Kiel 2 May.
+
+ADM (5)
+
+TO: IDB G                                       Z IP/ ZTPG/367958
+
+FROM: N S
+
+4860 KC/S         T O O 1745              T O I 1627/29/4/45
+
+FROM: CAPTAIN (U/B) BALTIC
+
+TO:   5TH U/B FLOTILLA
+
+REFERENCE W/T MESSAGE 1046:
+
+U 1103 IS AT BRUNSBÜTTEL, DOING FRONT- LINE TRAINING GROUP
+AND D/F CALIBRATION. WILL PROCEED TO KIEL ON 2/5.
+
+( DEPT. NOTE: SEE ZTPG/367412)
+
+CC T OI READ 1627/29/4/45*
+
+0910/3/5/45 EGT/HJU

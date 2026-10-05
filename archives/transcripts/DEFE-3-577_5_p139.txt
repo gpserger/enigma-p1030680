@@ -1,0 +1,16 @@
+META serial=367932 too=1040/30/4 toi=? freq=4282 from=N S to=IDB G
+GIST Correction note from N S to IDB G regarding spelling of word in ZTPG message.
+
+ADM C4)
+
+TO: IDB G                                       Z IP/ZTPG/367932 A
+FROM: N S
+
+4282 KC/S         T O O 1040/30/4
+
+IN PAGE 2, PENULT: LINE, READ 'RELIEVED' NOT 'RELIVED'
+
+
+
+
+0910/3/5/45++EGT/FA

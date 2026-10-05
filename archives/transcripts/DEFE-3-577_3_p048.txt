@@ -1,0 +1,19 @@
+META serial=367459 too=0508 toi=0345/1/5/45 freq=3005 from=VS.1011 to=8TH DEFENCE DIVISION
+GIST VS.1011 reports impossible to stream sweep and tow in present rough sea on 1 May 1945; requests orders.
+
+ADM (33)
+
+TO: I D 8 G
+
+FROM: N S
+
+3005 KC/S        TOO 0508                TOI 0345/1/5/45
+
+ROM: VS.1011
+
+TO: 8TH DEFENCE DIVISION
+
+IMPOSSIBLE TO STREAM SWEEP AND TOW IN PRESENT ROUGH SEA.
+REQUEST ORDERS.
+
+[handwritten marking at bottom] 0831/1/5/45+++CEL/FA

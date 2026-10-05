@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367887 too=0447 toi=0347/28/4/45 freq=3764 from=U 2527 (GOETZE) to=ADMIRAL (U/B)
+GIST U-boat U 2527 reports left Swinemuende with U 2531 at 0400 for passage to Travemunde at 10 knots.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367887
+FROM: N S
+
+3764 KC/S         TOO 0447            T O I 0347/28/4/45
+
+FROM: U 2527 ( GOETZE)
+TO:   ADMIRAL (U/B)
+      4 TH U/B FLOTILLA
+
+LEFT SWINEMUENDE WITH U 2531 AT 0400 FOR PASSAGE TO TRAVEMUNDE.
+SPEED 10 KNOTS. W/T 4860 KC/S.
+
+0208/3/5/45 EGT+HDT++

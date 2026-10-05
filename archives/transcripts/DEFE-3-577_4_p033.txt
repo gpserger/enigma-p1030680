@@ -1,0 +1,23 @@
+META serial=367648 too=1119 toi=1155/29/4/45 freq=3545 from=36 TH M/S FLOTILLA to=M 3608
+GIST 36th M/S Flotilla orders to proceed in Travemünde, report to net barrage unit, and bring mooring equipment to Warnemünde.
+
+ADM: C4D)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367648
+
+3545 KC/S             T00 1119               T O I 1155/29/4/45
+
+FROM: 36 TH M/S FLOTILLA
+TO:    M 3608
+
+PROCEED IN TRAVEMUENDE, REPORT TO NET BARRAGE UNIT,
+
+BAURAT BOEHMANN.. BRING ALONG 6, BUOYS OF 200 KG. BUOYANCY WITH
+
+ANCHORS AND MORRING ROPES FOR 6 TH Z- FLOTILLA TO WARNEMUENDE.
+
+CC- MOORING
+
+0407/2/5/45    EGT+HDT++

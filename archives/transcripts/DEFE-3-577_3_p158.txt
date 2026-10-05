@@ -1,0 +1,14 @@
+META serial=367570A too=2014 toi=2014/25/4/45 freq=360KC/S from=DEFENCE UNIT CC 2 GROUPS to=?
+GIST Correction to message 367570 instructing to read 6th group as 2400 instead of 2300 in previous message.
+
+ADM (3)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367570 A
+
+360 KC/S        T O O 2014/25/4/45 [handwritten]
+
+IN PENULTIMATE LINE PLEASE READ 6TH GROUP ''2400'' NOT ''2300'' AS SENT .
+
+1823/1/5/45        EE/UAK+++

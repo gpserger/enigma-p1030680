@@ -1,0 +1,21 @@
+META serial=367485 too=0456 toi=0409/29/4/45 freq=3703 from=K.D.K. to=Fortress Commandant Dunkirk
+GIST K.D.K. sends message of 54 groups in Offizier Cipher to Dunkirk fortress commandant.
+
+ADM C4D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367485
+
+3703 KC/S        TOO 0456        TOI 0409/29/4/45
+
+FROM: K.D.K.
+
+TO: FORTRESS COMMANDANT DUNKIRK
+
+MOST IMMEDIATE        S.O. ONLY 164
+
+MESSAGE OF 54 GROUPS IN OFFIZIER CYPHER.
+
+1120/1/5/45 EE/HW

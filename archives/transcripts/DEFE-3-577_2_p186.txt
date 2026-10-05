@@ -1,0 +1,20 @@
+META serial=ZTPG/367383 too=2307 toi=2121/30/4/45 freq=3015 kc/s from=M.131 to=REGIONAL COMMANDANT WESERMUENDE
+GIST M.131 sends an emergency request to the Regional Commandant Wesermuende for measure 'O' from 0030 until 0500.
+
+ADM (2)
+TO: I D 8 G                                    ZIP/ZTPG/367383
+FROM: N S
+
+3015 KC/S              T O O 2307              T O I 2121/30/4/45
+
+FROM: M.131
+TO:   REGIONAL COMMANDANT WESERMUENDE
+
+EMERGENCY
+
+REQUEST MEASURE 'O' FROM 0030 UNTIL 0500.
+
+
+
+
+0139/1/5/45++CFL/FA

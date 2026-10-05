@@ -1,0 +1,23 @@
+META serial=368035 too=1732 toi=1732/1/5/45 freq=4580 from=? to=?
+GIST Correction to decrypt 368035: read "RUX SPOT" not "SHOT" in last group of 2nd line.
+
+ADMC4D
+
+[handwritten bullet] TO ID8G                                              ZIP/ZTPG/368035 A
+
+FROM N S
+
+
+4580 KC/S
+
+
+TOO 1732/1/5/45.
+
+
+LAST GROUP OF 2ND LINE PLEASE READ ''RUX SPOT' NOT ''SHOT''
+
+[handwritten bullet]
+AS SENT.
+
+
+1637/3/5/45++ EE/UAB++++

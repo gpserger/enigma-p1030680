@@ -1,0 +1,27 @@
+META serial=367596 too=? toi=? freq=? from=? to=?
+GIST Continuation (page 3) of ZTPG/367596 (67th V-Flotilla to 2nd Coastal Defence Unit (Engineer)): a numeric data table (V 6726, 6728, 6729, 6734, each with values A-D), annotated by hand "Page 3 ZTPG/596".
+
+V 6726: A) 4.2 [typed, struck through]
+         B) 0
+         C) 0.2
+         D) 4
+
+[handwritten, in margin: "Page 3 ZTPG/596."]
+[handwritten: "V. 6726: A) 4.2."]
+
+V 6728: A) 1.7
+         B) 0
+         C) 0.5
+         D) 1.2.
+
+V 6729: A) 1.125
+         B) 0
+         C) 0.125
+         D) 1.
+
+V 6734: A) 78.5
+         B) 50
+         C) 48.8
+         D) 7((9.7)).
+
+2108/1/5/45 EE/JG

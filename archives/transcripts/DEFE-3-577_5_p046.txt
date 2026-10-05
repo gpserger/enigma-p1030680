@@ -1,0 +1,14 @@
+META serial=ZIP/ZTPG/367856 too=1015 toi=0929/28/4/45 freq=3764 KC/S from=U 2367 (CSCHROEDER) to=?
+GIST U-boat U 2367 reporting plan to dive in Strander Bucht at 1100.
+
+ADM (3)
+TO: I D B G                            ZIP/ZTPG/-367856
+FROM: N S
+
+3764 KC/S         TOO 1015            TOI 0929/28/4/45
+
+FROM: U 2367 (CSCHROEDER)
+
+SHALL DIVE IN STRANDER BUCHT AT 1100.
+
+2221/ZZ5/45+++++++EE/SHH

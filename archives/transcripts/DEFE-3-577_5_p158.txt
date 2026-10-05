@@ -1,0 +1,18 @@
+META serial=367947 too=2150 toi=2053/28/4/45 freq=3978 from=N S to=IDB G
+GIST Reference message from Captain D regarding wireless telegraphy message 1524 originator verification.
+
+ADM (1)
+
+TO: IDB G                                       Z IP/ZTPG/367947
+
+FROM: N S
+
+3978 KC/S         T O O 2150              T O I 2053/28/4/45
+
+FROM: CAPTAIN D
+
+REF. W/T MESSAGE 1524: ORIGINATOR IS CAPTAIN D.
+
+(DEPT. NOTE: SEE ZTPG/367XXXX 5676953)
+
+0916/3/5/45 EGT/EB+

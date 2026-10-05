@@ -1,0 +1,14 @@
+META serial=367926 too=0840/30/4 toi=? freq=3764 from=N S to=IDBG
+GIST N S to IDBG regarding frequency correction for a ZTPG decrypt.
+
+ADM C3)
+
+TO IDBG                                          Z IP/ZTPG/367926 A
+FROM N S
+
+
+3764 KC/S                       TOO 0840/30/4
+
+        PLEASE READ KC/S AS ABOVE, NOT 3765
+
+0706/3/5/45         EGT++++FPS+++

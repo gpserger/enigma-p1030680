@@ -1,0 +1,4 @@
+META serial=367578 too=1159 toi=1045/1/5/45 freq=360KC/S from=DEFENCE UNIT LORIENT to=?
+GIST Defence Unit Lorient ship movement report for night 1-2 May showing no own ship movements in sea area Lorient.
+
+ADM (3) | TO: I D 8 G | FROM: N S | ZIP/ZTPG/367578 | 360 KC/S | TOO: 1159 | TOI: 1045/1/5/45 | FROM: DEFENCE UNIT LORIENT | LORIENT SHIP MOVEMENT REPORTING SERVICE FOR NIGHT 1/5 - 2/5/1945: NO OWN SHIP CC ? MOVEMENTS IN SEA )) AREA LORIENT. | 1858/1/5/45 EE/UAK++++

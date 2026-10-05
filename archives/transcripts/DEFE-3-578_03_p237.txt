@@ -1,0 +1,17 @@
+META serial=3687/78 too=1143 toi=1121/1/5/45 freq=4860KCS from=5TH U/B FLOTILLA to=U 2517
+GIST: 5th U-boat Flotilla queries when specialist for telephone apparatus will be fetched from U-boat control office.
+
+ADM(C4)
+TO I D B G                                 ZIP/ZTPG/3687/78
+
+FROM NS
+
+4860 KCS        TOO 1143        TOI 1121/1/5/45
+
+FROM 5TH    U/B FLOTILLA
+TO  : U 2517
+
+SPECIALIST FOR TELEPHONE APPARATUS IS WAITING AT U-BOAT
+CONTROL OFFICE. QUERY: WHEN WILL SPECIALIST BE FETCHED?.
+
+1845/8/5/45++AND/IW

@@ -1,0 +1,19 @@
+META serial=367643 too=1135 toi=1053/29/4/45 freq=4412 from=SDC POMERANIA to=AF 106
+GIST Most immediate request from SDC Pomerania to AF 106 to report situation and intentions.
+
+ADM: C3)
+TO: I D 8 G
+FROM: NS
+
+Z IP/ZTPG/367643
+
+4412KCS            T00 1135                 T0I 1053/29/4/45
+
+FROM: SDC POMERANIA
+TO:    AF 106
+
+MOST IMMEDIATE
+
+REPORT SITUATION AND INTENTIONS
+
+0418/2/5/45++EGT/IW

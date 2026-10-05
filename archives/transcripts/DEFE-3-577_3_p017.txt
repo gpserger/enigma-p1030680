@@ -1,0 +1,24 @@
+META serial=3671417 too=2125 toi=1953/28/4/45 freq=3764KC/S from=U.3016MEENTZEN to=CONTROL
+GIST U.3016 decoding W/T message 1330 from U.2367 with content surfaced again and deductions to follow.
+
+OK
+C52
+TO: I D 8 C                           ZIP/ZTPG/3671417
+FROM: N S
+[seal mark]
+
+3764 KC/S             T O O 2125              T O I 1953/28/4/45
+
+FROM: U.3016 (MEENTZEN)
+TO: CONTROL
+
+W/T MESSAGE 1330 DECODED HERE. CONTENTS:
+FROM: U.2367 (SCHROEDER)
+
+HAVE SURFACED AGAIN.
+
+(CDETAILS OF DEDUCDING FOLLOW))
+
+[seal mark]
+
+0400/1/5/45 CEL/EB+

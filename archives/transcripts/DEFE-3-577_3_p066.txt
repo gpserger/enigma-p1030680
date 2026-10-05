@@ -1,0 +1,22 @@
+META serial=367477 too=1821 toi=1726/30/4/45 freq=4265 from=Lieut. Barth to=Island Commandant Belle Ile
+GIST Lieut. Barth will arrive with Breuer's convoy; requests quarters for self, one P.O. and one rating.
+
+ADM C3D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367477
+
+4265 KC/S        TOO 1821        TOI 1726/30/4/45
+
+FROM: LIEUT. BARTH
+
+TO: ISLAND COMMANDANT BELLE ILE
+
+SHALL ARRIVE WITH BREUER'S CONVOY. REQUEST QUARTERS
+FOR SELF, ONE P.O. AND ONE RATING.
+
+CC: IN 'ADRS FROM READ: LE IUT.
+
+0929/1/5/45 CEL/HW

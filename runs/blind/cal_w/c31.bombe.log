@@ -1,0 +1,5 @@
+crib 0 SPRUCHSCHLIE..(16)@0 used=16 excluded=[] blocks=1 sizes: 16(pivot H, loops 1)
+DONE settings=23762752 time=1.8s rate=13.239M settings/s (6.619M/s/thread, 2 threads) T-evals/setting=4.7 stops=614636
+crib 0 SPRUCHSCHLIE..(16)@0: block-stops=614636; verified g histogram: g0:63347 g1:134300 g2:153015 g3:142602 g4:92010 g5:27011 g6:2318 g7:33
+1.79 s
+stats: 62975 lines in 3.8s

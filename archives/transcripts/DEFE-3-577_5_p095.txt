@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367896 too=1759 toi=1637/23/4/45 freq=4282 from=U-B BASE WESERMUENDE to=ADMIRAL U-B
+GIST U-B Base Wesermuende reports U 5769 U 1 (4 Groups) (Kneip) paid off on 14/4 with C.O. and crew sent to Neustadt personnel pool.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367896
+FROM: N S
+
+4282 KC/S         TOO 1759            T O I 1637/23/4/45
+
+FROM: U-B BASE WESERMUENDE
+TO:   ADMIRAL U-B
+      33 RD U-B FLOTILLA
+
+YOUR NO. 5769 U 1: CC 4 GROUPS)) ( KNEIP) WAS PAID OFF ON 14/4.
+C.O. AND CREW SENT OFF TO NEUSTADT TO PERSONNEL POOL.
+
+0342/3/5/45 EGT+HDT++

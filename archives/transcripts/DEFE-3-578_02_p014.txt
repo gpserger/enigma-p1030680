@@ -1,0 +1,10 @@
+META serial=ZIP/ZTPc/368228 A too=0203/3/5/45 toi=? freq=360kc/s from=N S to=ID 8 G
+GIST Correction message for second line regarding amendment from 1405 Neumann Not to -405 Neumann As Sent.
+
+IN SECOND LINE PLEASE READ:
+
+1405 (NEUMANN) NOT
+-405 (NEUMANN) AS SENT.
+
+
+0354/5/5/45++++++EGT/SMH

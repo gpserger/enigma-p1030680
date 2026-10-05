@@ -1,0 +1,21 @@
+META serial=367733 too=1645 toi=1619/26/4/45 freq=4860 from=U 2338 (KAISER) to=CONTROL
+
+GIST U 2338 (Kaiser) reports departure from Warnemünde with U 2361 for Swinemuende via specific routes at stated speed.
+
+ADM  C3))
+
+TO: I D 8 G    Z IP/ZTPG/367733
+
+FROM: N S
+
+4860 KC/S    T O O 1645    T O I 1619/26/4/45
+
+FROM: U 2338 (KAISER)
+
+TO: CONTROL
+
+IN COMPANY WITH U 2361 (VON HENNIG) HAVE LEFT WARNEMÜNDE FOR
+SWINEMUENDE VIA WAYS 21, 1 AND 51. SPEDED 9 KNOTS. W/T WATCH
+ON 4860 KC/S .
+
+1036/2/5/45++CEL/FA

@@ -1,0 +1,21 @@
+META serial=3687/61 too=1534 toi=1452/4/5/45 freq=350KC/S from=8TH DEFENCE DIVISION to=M 607, 608 (ACKNOWLEDGE)
+GIST: 8th Defence Division sends ground mine escort message with U-boats stationed at anchorage with operation instructions to Anholt flak protection.
+
+ADM (C3)
+TO: I D B G                                 ZIP/ZTPG/3687/61
+
+FROM: N S
+
+350 KC/S        T O O 1534        T O I 1452/4/5/45
+
+FROM: 8TH DEFENCE DIVISION
+TO:   M 607, 608 (ACKNOWLEDGE)
+
+AT 2300 GROUND MINE ESCORT WITH ALL U-BOATS STATIONED AT ANCHORAGE
+'C',VIA WAY 'WEIDE', 3((CC)), 48 TO SCHWARZ 14. FROM SCHWARZ 14
+FLAK PROTECTION TO POINT 'BLUETE'. DETACH U-BOATS THERE..
+
+M-BOATS WILL PROCEED TO ANHOLT. REPORT TAKING OVER AND DETACHING
+CONVOY .
+
+1243/14/5/45        EGT/UAK+++

@@ -1,0 +1,21 @@
+META serial=367484 too=1304 toi=1348/19/4/45 freq=4282 from=Captain (U/B). Baltic to=All Flotillas and Bases subordinated to Captain (U/B) Baltic
+GIST Captain (U/B) Baltic sends message of 86 groups in Offizier Cipher to all subordinated flotillas and bases.
+
+ADM C5D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ ZTPG/367484
+
+4282 KC/S        TOO 1304        TOI 1348/19/4/45
+
+FROM: CAPTAIN (U/B). BALTIC
+
+TO: ALL FLOTILLAS AND BASES SUBORDINATED TO CAPTAIN (U/B)
+
+BALTIC
+
+MESSAGE OF 86 GROUPS IN OFFIZIER CYPHER
+
+1124/1/5/45 EE/HJU

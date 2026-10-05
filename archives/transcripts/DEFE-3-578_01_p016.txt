@@ -1,0 +1,30 @@
+META serial=368010 too=0756 toi=0535/30/4/45 freq=4412 from=S.O.GroupBartelt to=AdmiralWesternBaltic,SeaDefenceCommandantPomerania
+GIST S.O. Group Bartelt of 8th A Flotilla reports no enemy contact near Zecherin, proceeding south to join fight near Hohendorf.
+
+C52
+
+TO: ID8G                                                ZIP/ZTPG/368010
+
+FROM: NS
+
+
+4412 KC/S     TOO 0756     TOI 0535/30/4/45
+
+
+FROM: S.O. GROUP BARTELT
+
+IWX     8TH A FLOTILLA
+
+TO: ADMIRAL WESTERN BALTIC
+
+     SEA DEFENCE COMMANDANT POMERANIA
+
+
+AS THERE IS AT PRESENT NO CONTACT WITH THE ENEMY NEAR ZECHERIN, AM
+
+PROCEEDING SOUTH OF WOLCAST TO JOIN IN THE FIGHT NEAR HOHENDORF.
+
+REQUEST ACKNOWLEDGEMENT.
+
+
+[handwritten bullet] 1236/3/5/45 CEL/EB +

@@ -1,0 +1,20 @@
+META serial=368741 too=1554 toi=1444/1/5/45 freq=4835 from=NLOBLANKENEESE to=NAVALCHIEFCOMMANDNORTH
+GIST NLO Blankenese reports to Naval Chief Command North that in case of continued enemy approach to Luebeck, mine-clearing barriers will be destroyed and wireless sets rendered unuseable.
+
+ADN C3)
+
+TO I D B G                ZIP/ZTPG/368741
+
+FROM N S
+
+4835 KC/S     T O O 1554     T O I 1444/1/5/45
+
+FROM: NLO BLANKENESE
+
+TO: NAVAL CHIEF COMMAND NORTH
+
+IN THE CASE OF CONTINUED ENEMY APPROACH TO LUEBECK, C.B.'S
+WILL BE DESTROYED AND W/T SETS RENDERED UNUSEABLE.
+
+
+0432/8/5/45+GFG+DJL

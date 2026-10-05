@@ -1,0 +1,41 @@
+META serial=368104 too=0817 toi=0830/5/4/45 freq=4860 from=31stU/BFlotilla to=Admiral(U/B)Kiel,5thU/BFlotilla
+GIST 31st U/B Flotilla queries whether Type 21, 7, 23 boats ready here can be fitted out for front in Kiel; suggests stationing boats in canal for individual training.
+
+ADM C4D
+
+TO: ID 8 G                                                ZIP/ZTPG/368104
+
+FROM: N S
+
+
+[handwritten bullet]
+
+4860 KC/S      TOO 0817     TOI 0830/5/4/45
+
+
+[handwritten bracket] FROM: 31ST U/B FLOTILLA
+
+TO: ADMIRAL (U/B) KIEL
+
+    5TH U/B FLOTILLA
+
+
+1) QUERY: CAN TYPE 21, 7, 23 BOATS READY HERE BE FITTED OUT .
+
+FOR THE FRONT IMMEDIATELY IN KIEL? PREPARATIONS ONLY JUST
+
+[handwritten bullet]
+BEGUN HERE.
+
+
+2) IF NOT, SUGGEST STATIONING BOATS IN CANAL FOR INDIVIDUAL
+
+TRAINING, IN ORDER TO SUMMON EITHER TO HAMBURG OR KIEL FOR
+
+EQUIPMENT.
+
+
+[handwritten bullet] D) REQUEST ORDERS IMMEDIATELY.
+
+
+0509/34/5/45+++++++EGT/SHH

@@ -1,0 +1,17 @@
+META serial=367544 too=2303 toi=2112/28/4/45 freq=360 from=N.O.I.C. LA PALLICE to=M 254
+GIST Naval Officer in Charge La Pallice orders M 254 to keep sharpest lookout for enemy landing formation off Oleron.
+
+ADM (C3)
+TO: I D.8 G       Z1P/ZTPG/367544
+FROM: N S
+
+360 KC/S       T O O 2303       T O I 2112/28/4/45
+
+FROM: N.O.I.C. LA PALLICE
+TO: M 254
+
+MOST IMMEDIATE
+
+KEEP SHARPEST LOOK-LXXXX LOOK-OUT, ENEMY LANDING-FORMATION OFF OLERON.
+
+1628/1/5/45       EE/UAK+++

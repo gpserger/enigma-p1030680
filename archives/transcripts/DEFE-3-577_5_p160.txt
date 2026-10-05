@@ -1,0 +1,24 @@
+META serial=367949 too=1156 toi=1134/30/4/45 freq=3545 from=N S to=IDB G
+GIST 10th Defence Division emergency order to all units regarding depth charge usage restriction if enemy not sighted or located.
+
+ADM (1)
+
+TO: IDB G                                       Z IP/ZTPG/367949
+
+FROM: N S
+
+3545 KC/S         T O O 1156              T O I 1134/30/4/45
+
+FROM: 10TH DEFENCE DIVISION
+
+TO:   ALL
+
+EMERGENCY.
+
+REFERENCE ADMIRAL DEFENCE FORCES' SECRET 010622 OF 24/3 AND 25/3:
+
+OWING TO CHANGE IN SUPPLY SITUATION, DETERRENT DEPTH CHARGES
+ARE NO LONGER TO BE DROPPED IF ENEMY S/M IS NEITHER SIGHTED NOR
+LOCATED.                [handwritten]0913/3/5/45 EGT/EB+
+
+0913/3/5/45 EGT/EB+

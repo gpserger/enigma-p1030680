@@ -1,0 +1,28 @@
+META serial=367934 too=0141 toi=0109/30/4/45 freq=368 from=NS to=IDB G
+GIST Aviso Hela reporting fleet command departure from Swinmünde for Neustadt-Holstein to various naval commands and fleet training units.
+
+ADM C4)
+
+TO IDB G                                        Z IP/ZTPG/367934
+FROM NS
+
+368 KCS         TOO 0141                TOI 0109/30/4/45
+
+FROM: AVISO HELA
+
+TO  : 'Q' ADM. QU 1
+      FLEET TRAINING UNIT
+      'I'
+      S.O.S-BOATS
+      MAIN SHIP MOVEMENT REPORTING CENTRE
+      S.O. MINELAYING FLOTILLAS
+      BATTLE GROUP THIELE
+      NAVAL HARBOURMASTER NEUSTADT-HOLSTEIN
+
+AVISO 'HELA' WITH FLEET COMMAND LEFT SWINEMUENDE AT 0015/30 FOR
+NEUSTADT-HOLSTEIN, W/T O N   'KO 1', 'LO2', 'LOSE', 'LI',
+ORANGE 5.
+
+CTN READ 'LOS' NOT LOS 2 AS SENT  0710/3/5/45+++++ [handwritten]EGT/IW
+
+0710/3/5/45+++EGT/IW

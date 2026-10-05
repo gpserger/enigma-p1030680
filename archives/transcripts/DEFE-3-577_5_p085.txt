@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367886 too=2136 toi=2015/27/4/45 freq=3764 from=S.O. 5 TH U/B FLOTILLA to=31 ST U/B FLOTILLA
+GIST Emergency order regarding transfer of U 349 to Kiel to be expected.
+
+ADM (5)
+TO IDBG                                         ZIP/ZTPG/367886
+FROM N S
+
+3764 KC/S         TOO 2136            T O I 2015/27/4/45
+
+FROM: S.O. 5 TH U/B FLOTILLA
+TO:   31 ST U/B FLOTILLA
+
+EMERGENCY
+
+WHEN CAN TRANSFER OF U 349 TO KIEL BE EXPECTED.
+      0206/3/5/45 EGT+MDT++
+
+0206/3/5/45 EGT+MDT++

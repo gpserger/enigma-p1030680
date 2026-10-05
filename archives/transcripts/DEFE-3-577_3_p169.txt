@@ -1,0 +1,18 @@
+META serial=367575 too=1436 toi=1250/23/4/45 freq=4860KC/S from=5TH U/B FLOTILLA to=U 1307
+GIST 5th U-boat Flotilla orders U-boat 1307 to rendez-vous with escort at 0800 on 24 April at position ROT 01.
+
+ADM (3)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367575
+
+4860 KC/S        T O O 1436        T O I 1250/23/4/45
+
+FROM: 5TH U/B FLOTILLA
+
+TO: U 1307
+
+R/V WITH ESCORT AT 0800/24/4 AT ROT 01 .
+
+1743/1/5/45      EE/UAK+++++

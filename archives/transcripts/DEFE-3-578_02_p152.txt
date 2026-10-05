@@ -1,0 +1,7 @@
+META serial=ADM(1) too=1907 toi=? freq=3230 from=N S to=I D 8 G
+GIST Correction notice: call-sign of M 254 should be read as 'HFUZ' not 'JFUZ' as sent.
+
+PLEASE READ AT END OF MESSAGE ''CALL-SIGN OF M 254 IS 'HFUZ' ''
+AND NOT 'JFUZ' AS SENT
+
+1710/6/5/45+EGT/AM

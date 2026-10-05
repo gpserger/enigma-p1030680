@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367916 too=1201 toi=1053/27/4/45 freq=382 from=NAVAL CHIEF COMMAND BALTIC to=ISAR
+GIST Emergency: Isar do not transfer, stay in Roenne and wait for further orders.
+
+ADM(4)
+TO I D 8 G                                      ZIP/ZTPG/367916
+FROM NS
+
+382 KCS         TOO 1201            T O I 1053/27/4/45
+
+FROM: NAVAL CHIEF COMMAND BALTIC
+TO  : ISAR
+
+EMERGENCY
+
+DO NOT TRANSFER. STAY IN ROENNE AND WAIT FOR FURTHER ORDERS
+
+0521/3/5/45++EGT/IW

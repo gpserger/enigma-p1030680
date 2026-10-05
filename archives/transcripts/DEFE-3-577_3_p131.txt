@@ -1,0 +1,17 @@
+META serial=367545 too=2025 toi=1908/29/4/45 freq=360 from=ISLAND COMMANDANT BELLE ILE to=N.O.I.C. AND DEFENCE UNIT LORIENT
+GIST Island Commandant Belle Ile urgent report of two destroyers sighted at 2015 in 180 degrees, approximately 20 kilometres away, course east.
+
+ADM (C4)
+TO: I D 8G       ZIP/ZTPG/ 367545
+FROM: N S
+
+360KC/S       TOO : 2025       Toi : 1908/29/4/45
+
+FROM: ISLAND COMMANDANT BELLE ILE
+TO: N.O.I.C. AND DEFENCE UNIT LORIENT
+
+MOST IMMEDIATE
+
+((THD) 10 REPORTS AT 2015 TWO DESTROYERS IN 180 DEGREES, AT ABOUT 20 KILOMETRES, COURSE EAST.
+
+1630/1/5/45 EE/JG

@@ -1,0 +1,16 @@
+META serial=368647A too=2252/1/5/45 toi=? freq=3015 from=? to=?
+GIST Correction: read "DB. 14 with S.S. XBXHEY 'STEENWIJK'" not "DB. 14 S.S. 'STEENWIJK'" as sent.
+
+ADM C1)
+
+TO: I D B G                ZIP/ZTPG/368647 A
+
+FROM: N S
+
+3015 KC/S     T O O 2252/1/5/45
+
+PLEASE READ 'DB. 14 WITH S.S. XBXHEY 'STEENWIJK' NOT
+'DB. 14 S.S. 'STEENWIJK' AS SENT.
+
+
+1510/7/5/45   CEL/AHM++++

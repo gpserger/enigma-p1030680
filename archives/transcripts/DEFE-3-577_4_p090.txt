@@ -1,0 +1,22 @@
+META serial=ZIP/ZTPG/367702 too=2246 toi=2126/28/4/45 freq=3545 KCS from=M 294 to=10TH. DEFENCE DIVISION
+GIST M 294 tells 10th Defence Division it will be at Gruen 03 with convoy about 0430 and proposes M342 escort Fisser to Nyborg while M 294 with General Fangohr and 47 drafted men detaches for Swinemuende.
+
+ADM(4)
+
+TO I D 8 G    ZIP/ZTPG/367702
+
+FROM NS
+
+3545 KCS    TOO 2246    TOI 2126/28/4/45
+
+FROM: M 294
+
+TO  : 10TH. DEFENCE DIVISION
+
+EMERGENCY
+
+GRUEN 03 WITH CONVOY AT ABOUT 0430. PROPOSE M342 ('KFRG')
+WITH ' FISSER ' FOR NYBORG, M 294 WITH GENERAL FANGOHR AND 47
+DRAFTED MEN FOR SWINEMUENDE BE DETACHED AT GRUEN 03. PLEASE CONFIRM
+
+0710/2/5/45+++EGT/IW

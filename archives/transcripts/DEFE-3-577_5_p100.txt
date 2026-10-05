@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPG/367901 too=0947 toi=0836/6/4/45 freq=4860 from=CONTROL to=ALL
+GIST Control orders all units that instructional W/T messages 1 to 18 issued by W/T control are henceforth no longer valid and are to be destroyed.
+
+ADM(4)
+TO: IDBG                                         ZIP/ZTPG/367901
+FROM: NS
+
+4860 KCS         TOO 0947            TOI 0836/6/4/45
+
+FROM: CONTROL
+TO  : ALL
+
+THE INSTRUCTIONAL W/T MESSAGES 1 TO 18, ISSUED BY W/T CONTROL,
+ARE FROM NOW ON NO LONGER VALID AND ARE TO BE DESTROYED.
+
+0341/3/5/45+++EGT/IW

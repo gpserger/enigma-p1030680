@@ -1,0 +1,23 @@
+META serial=367948 too=1953 toi=2014/27/4/45 freq=3015 from=N S to=IDB G
+GIST 12th V-Flotilla to Ship Movement Reporting Service reporting departures from Wesermünde for Wilhelmshaven including U-boat U 148.
+
+ADM (1)
+
+TO: IDB G                                       Z IP/ZTPG/367948
+
+FROM: N S
+
+3015 KC/S         T O O 1953              T O I 2014/27/4/45
+
+FROM: 12TH V.FLOTILLA
+
+TO:   SHIP MOVEMENT REPORTING SERVICE
+
+EMERGENCY.
+
+WESERMUENDE DEPARTURES FOR WILHELMSHAVEN AT 2100 V 1206, 1222 WITH
+U 148 AND TUGS 'STARK', 'CRANICH' AND 'ALBERT'....
+
+(DEPT. NOTE: MESSAGE CONTINUES BUT CONTINUATION NOT RECEIVED)
+
+0915/3/5/45 EGT/EB+

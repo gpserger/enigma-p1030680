@@ -1,0 +1,18 @@
+META serial=367569 too=2223 toi=2039/29/4/45 freq=4265KC/S from=HARBOUR OFFICER LE PALAIS to=DEFENCE UNIT LORIENT
+GIST Harbour Officer at Le Palais reports to Defence Unit Lorient about a small fishing group off Port Navalo.
+
+ADM (3)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367569
+
+4265 KC/S        T O O 2223        T O I 2039/29/4/45
+
+FROM: HARBOUR OFFICER LE PALAIS
+
+TO: DEFENCE UNIT LORIENT
+
+SMALL FISHING-GROUP OFF PORT NAVALO .
+
+1723/1/5/45      EE/UAK+++

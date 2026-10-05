@@ -1,0 +1,33 @@
+META serial=? too=? toi=? freq=? from=? to=?
+GIST Continuation, handwritten-annotated "Page 2", of the same V-boat numeric data table as the pages before and after it (header on p-202 gives ZTPG/367596, 67th V-Flotilla to 2nd Coastal Defence Unit (Engineer)): entries V 6713/6715/6717/6718 with values A-D and "handed over" figures. Serial not printed on this page itself.
+
+V 6713: A) 3.147 [typed, struck through]
+         B) 4.453 [typed, struck through]
+         C) 1.214
+         D) ((CORRUPT GROUP)).886
+
+[handwritten, in margin: "Page 2."]
+[handwritten: "V. 6713."]
+[handwritten: "A) 3.147"]
+[handwritten: "B) 4.453"]
+
+HANDED OVER: 1, 5.
+
+V 6715: A) 4.5
+         B) 2.8
+         C) 1.032
+         D) 4.718
+
+HANDED OVER: 1.55.
+
+V 6717: A) 1.64
+         B) 2.54
+         C) 0.72
+         D) 3.37.
+
+V 6718: A) 2.525
+         B) 1.75
+         C) 0.825
+         D) 3.45.
+
+ENDOF PAGE TWO

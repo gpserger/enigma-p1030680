@@ -1,0 +1,5 @@
+crib 0 UUUFUNFDREIV..(16)@0 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 1)
+DONE settings=17822064 time=5.4s rate=3.304M settings/s (1.652M/s/thread, 2 threads) T-evals/setting=6.6 stops=4320446
+crib 0 UUUFUNFDREIV..(16)@0: block-stops=4320446; verified g histogram: g0:834668 g1:1052986 g2:1012665 g3:802059 g4:454112 g5:146482 g6:17202 g7:272
+5.39 s
+stats: 833723 lines in 30.5s

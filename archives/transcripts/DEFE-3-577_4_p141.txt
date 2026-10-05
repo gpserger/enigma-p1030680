@@ -1,0 +1,17 @@
+META serial=367748 too=1451 toi=1350/30/4/45 freq=382 from=S.O. S-BOATS CORG.J to=S.83
+GIST S-Boats Command orders S.83 to transfer to Roenne and report current position immediately.
+
+(S)
+TO: I D B G                                    ZIP/ZTPG/367748
+FROM: N S
+
+382 KC/S            T O O 1451            T O I 1350/30/4/45
+
+FROM: S.O. S-BOATS CORG.J
+TO: S.83
+
+MOST IMMEDIATE.
+1) TRANSFER TO ROENNE.
+2) REPORT PRESENT POSTXX POSITION.
+
+1132/2/5/45 CEL/EB+

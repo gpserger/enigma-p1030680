@@ -1,0 +1,5 @@
+crib 0 TTTFFFZWOVIE..(30)@0 used=26 excluded=[1 10 20 25 ] blocks=2 sizes: 13(pivot V, loops 2) 13(pivot X, loops 2)
+DONE settings=53466192 time=1.6s rate=33.813M settings/s (5.636M/s/thread, 6 threads) T-evals/setting=0.4 stops=777422
+crib 0 TTTFFFZWOVIE..(30)@0: block-stops=777422; verified g histogram: g0:20 g1:437 g2:3225 g3:10436 g4:22087 g5:34529 g6:55942 g7:99312 g8:153214 g9:169980 g10:134596 g11:71119 g12:20731 g13:1794
+ranking 457 hits with corpus/ngrams/navalblend_quadgrams.txt (restarts=4)
+ranking done in 0.0s -> runs/ctx_excl/out/control_p98g2.rank.tsv

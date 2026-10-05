@@ -1,0 +1,18 @@
+META serial=ZTPG/368321 A too=1855/1/5/45 toi=? freq=3015 kc/s from=? to=?
+GIST Short correction notice (no sender or addressee shown): in the first group of the last line read BUESUM not BUETSUM as sent.
+
+ADM (4)
+TO I D 8 G                                     ZIP/ZTPG/368321 A
+FROM N S
+
+3015 KC/S
+
+            T O O 1855/1/5/45
+
+1ST GROUP OF LAST LINE PLEASE READ ''BUESUM'' NOT ''BUETSUM''
+AS SENT.
+
+
+
+
+2350/5/5/45+++EE/AM/UC

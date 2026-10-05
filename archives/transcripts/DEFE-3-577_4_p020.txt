@@ -1,0 +1,17 @@
+META serial=367637 too=1119 toi=1005/27/4/45 freq=6300 from=NAVAL CHIEF COMMAND WEST to=O.C. FORTRESS LA ROCHELLE
+GIST Naval Chief Command West inquiring if O.C. Fortress La Rochelle has tinned U-boat flour available and quantity.
+
+ADM(C2)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPC/367637
+
+6300 KC/S             T00 1119               T0I 1005/27/4/45
+
+FROM: NAVAL CHIEF COMMAND WEST
+TO:    O.C. FORTRESS LA ROCHELLE
+
+HAVE YOU ANY TINNED U-BOAT FLOUR AVAILABLE AND IF SO HOW MUCH ?
+
+0332/2/5/45           ECT+++MPS+++

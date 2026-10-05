@@ -1,0 +1,17 @@
+META serial=368493 too=0536 toi=0410/5/5/45 freq=350 from=8THDEFENCEDIVISION to=M606
+GIST 8th Defence Division approves wireless message 0332 for M 606.
+
+ADM C5)
+TO: I D B G                ZIP/ ZTPG/368493
+FROM: N S
+
+350 KC/S     T O O 0536     T O I 0410/5/5/45
+
+FROM: 8TH DEFENCE DIVISION
+TO: M 606
+
+TO W/T MESSAGE 0332:
+APPROVED.
+
+
+1755/6/5/45 EE/MJU

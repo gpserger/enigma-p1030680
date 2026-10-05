@@ -1,0 +1,18 @@
+META serial=367461 too=0555 toi=0438/1/5/45 freq=3082 from=V.5502 to=5TH COASTAL DEFENCE UNIT
+GIST V.5502 shall detach U-boat at 0610 at Skellanger on 1 May 1945.
+
+C59
+
+TO: I D 8 G
+
+FROM: N S
+
+3082 KC/S        TOO 0555                TOI 0438/1/5/45
+
+FROM: V.5502
+
+TO: 5TH COASTAL DEFENCE UNIT
+
+SHALL DETACH THE U/BOAT AT 0610 AT ((SKELLANGER)).
+
+[handwritten marking at bottom] 0839/1/5/45 CEL/EB+

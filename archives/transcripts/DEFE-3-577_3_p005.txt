@@ -1,0 +1,23 @@
+META serial=3671405 too=2341 toi=2233/30/4/45 freq=3456KC/S from=V6415 to=ADMIRALNORTHNORWEGIANCOAST
+GIST Emergency message from V.6415 reporting anchored with S.S. Finse with pumps out of order and query about quay berth vacancy.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671405
+FROM: N S
+[seal mark]
+
+3456 KC/S             T O O 2341              T O I 2233/30/4/45
+
+FROM: V 6415
+TO: ADMIRAL NORTH NORWEGIAN COAST
+
+EMERGENCY
+
+HAVE ANCHORED WITH S.S. 'FINSE' IN POSITION 6329.4 NORTH
+1002.8 EAST. PUMPS ARE OUT OF RXXXX ORDER, SO BE SURE TO
+HOLD QUAY-BERTH VACANT AND HAVE HARBOUR PILOT AVAILABLE.
+QUERY: IS THERE A BERTH AT THE QUAY VACANT.
+
+[seal mark]
+
+0252/1/5/45+++CEL/FA

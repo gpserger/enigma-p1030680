@@ -1,0 +1,19 @@
+META serial=368490 too=2045 toi=1910/1/5/45 freq=3015 from=H323 to=5THDEFENCEDIVISION
+GIST H 323 reports to 5th Defence Division that Duesseldorf is ready to sail at 2300 and requests escort to Cuxhaven.
+
+ADN (5)
+TO: I D B G                ZIP/ ZTPG/368490
+FROM: N S
+
+3015 KC/S     T O O 2045     T O I 1910/1/5/45
+
+FROM: H 323
+TO: 5TH DEFENCE DIVISION
+
+EMERGENCY
+
+DUESSELDORF READY TO SAIL AT 2300. REQUESTS ESCORT TO
+CUXHAVEN.
+
+
+1747/6/5/45 EE/MJU

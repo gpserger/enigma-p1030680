@@ -1,0 +1,33 @@
+META serial=367481 too=1259 toi=1920/30/4/45 freq=3015 from=Naval Chief Command North F (Croman) 3 to=Admiral Netherlands, S.O. S-Boats Ops, 1st Defence Division, K-Staff North Rotterdam, Admiral Heligoland Bight, Sea Defence Commandant East Frisia, Sea Defence Commandant Elbe-Weser, Sea Defence Commandant North Frisia, 5th Defence Division, S.O. S-Boats Org. Sonderburg
+GIST Distribution list to multiple commands including Admiral Netherlands and coastal defence commandants.
+
+ADM C1D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367481
+
+3015 KC/S        TOO 1259        TOI 1920/30/4/45
+
+FROM: NAVAL CHIEF COMMAND NORTH F (CROMAN) 3
+
+TO: ADMIRAL NETHERLANDS,
+
+S.O. S-BOATS OPS.
+
+1ST DEFENCE DIVISION,
+
+K-STAFF NORTH ROTTERDAM,
+
+ADMIRAL HELIGOLAND BIGHT,
+
+SEA DEFENCE COMMANDANT EAST FRISIA,
+
+SEA DEFENCE COMMANDANT ELBE-WESER,
+
+SEA DEFENCE COMMANDANT NORTH FRISIA,
+
+5TH DEFENCE DIVISION,
+
+S.O. S-BOATS ORG., SONDERBURG

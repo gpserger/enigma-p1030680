@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367850 too=1830 toi=1730/27/4/45 freq=4860 KC/S from=U 1407 (HEITZ) to=ADMIRAL (U/B)
+GIST U-boat U 1407 reporting arrival in Borgstedt with W/T watch closed down.
+
+ADMC4)
+TO: I D 8G                            ZIP/ZTPG/ 367850
+FROM: N S
+
+4860KC/S         TOO : 1830          TOI : 1730/27/4/45
+
+FROM: U 1407 (HEITZ)
+TO: ADMIRAL (U/B)
+    5TH U/B FLOTILLA
+    U- BOAT ACCEPTANCE COMMAND KIEL
+
+ARRIVING IN BORGSTEDT AT 1830. W/T WATCH CLOSED DOWN.
+COMMUNICATIONS VIA 5TH U/B FLOTILLA,.
+
+[handwritten: 2224/2/5/45]
+
+2226/2/5/45 EE/JG

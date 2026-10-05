@@ -1,0 +1,20 @@
+META serial=3671385 too=1345 toi=1506/28/4/45 freq=4860KC/S from=U.3016MEENTZEN to=ADMIRALCU/BD,4THU/BFLOTILLA
+GIST Continued passage order to Travemünde in convoy at 1330 with U.3023 and U.3521 at 5 knots speed.
+
+ADM C43
+To: I D 8 G                           ZIP/ZTPG/3671385
+FROM: N S
+
+4860 KC/S             T O O 1345              T O I 1506/28/4/45
+[seal mark]
+
+FROM: U.3016 (MEENTZEN)
+TO: ADMIRAL CU/BD
+4TH U/B FLOTILLA
+
+CONTINUED PASSAGE TO TRAVEMUNDE IN CONVOY AT 1330, IN COMPANY
+WITH U.3023 AND U 3521. SPEED 5 KNOTS.
+
+[seal mark]
+
+0311/1/5/45++CEL/FA

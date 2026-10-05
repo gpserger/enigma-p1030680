@@ -1,0 +1,16 @@
+META serial=367841 too=---- toi=1142/28/4/45 freq=4860 from=U 3058 (BRUENIG) to=4TH U/B FLOTILLA
+GIST Document reference most secret 1120/45 still with command; special secrecy ensured.
+
+ADM (C)
+TO: I D B GVX                                  ZIP/ZTPG/367841
+FROM: N S
+
+4860 KC/S            TOO ----            TOI 1142/28/4/45
+
+FROM: U 3058 (BRUENIG)
+TO: 4TH U/B FLOTILLA
+
+DOCUMENT REF. NO. MOST SECRET 1120/45 STILL WITH COMMAND.
+SPECIAL SECRECY ENSURED.
+
+2103/2/5/45+++++++EE/SMH

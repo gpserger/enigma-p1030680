@@ -1,0 +1,14 @@
+META serial=ZIP/ZTPG/367885 too=2100 toi=2107/27/4/45 freq=3764 from=U 2540 (SCHULZE) to=?
+GIST U-boat U 2540 reports left Swinemuende at 1830, anchored in the roads with W/T watch on 4860 KC/S.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367885
+FROM: N S
+
+3764 KC/S         TOO 2100            T O I 2107/27/4/45
+
+FROM: U 2540 ( SCHULZE)
+
+LEFT SWINEMUENDE AT 1830. ANCHORED IN THE ROADS. W/T 4860 KC/S.
+
+0209/3/5/45 EGT+HDT++

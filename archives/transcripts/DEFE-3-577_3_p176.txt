@@ -1,0 +1,14 @@
+META serial=367581A too=2019 toi=2019/28/4/45 freq=6300KC/S from=? to=?
+GIST Correction to message 367581 regarding reading of 2nd line about destroyer speed.
+
+ADM (3)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367581 . A
+
+6300 KC/S        T O O 2019/28/4/45
+
+IN 2ND LINE PLEASE READ ''.. ON AND OFF AT SLOW SPEED ...'' NOT ''.. ON AND AT SLOW SPEED ...''
+
+2045/1/5/45      EE/UAK++++

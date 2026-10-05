@@ -1,0 +1,15 @@
+META serial=ZIP/ZTPG/367863 too=1603 toi=1435/27/4/45 freq=4860 KC/S from=5TH U/B FLOTILLA (ENG.) to=U 924
+GIST Order from 5th U/B Flotilla to U 924 to return to Deutsche Werke Kiel as charging boat.
+
+ADM (5)
+TO: I D B G                            ZIP/ZTPG/367863
+FROM: NS
+
+4860 KC/S         T O O 1603          T O I 1435/27/4/45
+
+FROM: 5TH U/B FLOTILLA (ENG.)
+TO: U 924
+
+RETURN FORTHWITH TO DEUTSCHE WERKE KIEL AS CHARGING BOAT.
+
+2302/2/5/45+EE/MH+

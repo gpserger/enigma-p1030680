@@ -1,0 +1,17 @@
+META serial=367553 too=0935 toi=0755/1/5/45 freq=478 from=3RD COASTAL DEFENCE UNIT to=5916
+GIST 3rd Coastal Defence Unit emergency order to vessel 5916 to proceed to Namsos to replenish coal.
+
+ADM (C2)
+TO: I D 8 G       ZIP/ZTPG/367553
+FROM: N S
+
+478 KC/S       TOO 0935       TOI 0755/1/5/45
+
+FROM: 3RD COASTAL DEFENCE UNIT
+TO: 5916
+
+EMERGENCY
+
+YOU ARE DETACHED TO NAMSOS TO REPLENISH COAL.
+
+1618/1/5/45++++EE/SMH

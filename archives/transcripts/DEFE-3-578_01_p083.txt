@@ -1,0 +1,42 @@
+META serial=368066 too=2357 toi=2354/28/4/45 freq=382 from=10thDefenceDivisionDetachedStaff to=8thDefenceDivision,10thDefenceDivision
+GIST 10th Defence Division reports transport of refugees and wounded from East now intended to Nyborg per order; smaller ships through Smaalands Far Vandet.
+
+ADM C4D
+
+TO. ID8G                                                ZIP/ZTPG/ 368066
+
+FROM: N S
+
+
+[handwritten bullet]
+
+382 KC/S      TOO : 2357     TOI : 2354/28/4/45
+
+
+FROM: 10TH DEFENCE DIVISION, DETACHED STAFF
+
+TO: 8TH DEFENCE DIVISION
+
+    REPEATED :10TH DEFENCE DIVISION (WARNEMUENDE)
+
+              VIA 36TH M/S FLOTILLA
+
+
+EMERGENCY                    M
+
+                             MOST SECRET
+
+
+TRANSPORT OF REFUGEES AND WOUNDED FROM THE EAST IS NOW INTENDED,
+
+ACCORDING TO AN ORDER FROM NAVAL CHIEF COMMAND BALTIC, ALSO TO
+
+NYBORG. SMALLER SHIPS THROUGH SMAALANDS FAR VANDET. REQUEST
+
+BORDER - LINE IN CONNECTION WITH SIZE OF SHIPS, AND INSTRUCTIONS.
+
+
+CC READ AS :MOST SECRET
+
+
+0010/4/5/45 EE/JG

@@ -1,0 +1,16 @@
+META serial=367450 too=0215 toi=0041/1/5/45 freq=2115 from=S.O. SCHULZ'S GROUP to=?
+GIST S.O. Schulz's Group reports square AF 8736 with vessels V.5540/5541 on 1 May 1945.
+
+ADM (33)
+
+TO: I D 8 G
+
+FROM: N S
+
+2115 KC/S        TOO 0215                TOI 0041/1/5/45
+
+FROM: S.O. SCHULZ'S GROUP
+
+SQUARE AF 8736 - V.5540/5541.
+
+[handwritten marking at bottom] 0610/1/5/45++ EL/FA

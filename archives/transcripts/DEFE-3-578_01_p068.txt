@@ -1,0 +1,4 @@
+META serial=368052 too=? toi=? freq=? from=? to=?
+GIST Correction to decrypt 368052: in addressee read Nyborg not Byxxx Nybord.
+
+CC IN ZTPG/368052 . IN ADDRESSEE READ NYBORG NOT BYXXX NYBORD

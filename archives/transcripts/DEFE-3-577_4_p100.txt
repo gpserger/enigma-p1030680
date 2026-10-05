@@ -1,0 +1,21 @@
+META serial=ZIP/ZTPG/367710 too=1310 toi=1147/26/4/45 freq=382 KCS from='LOEWE' to=ADMIRAL (U/B), CAPTAIN (U/B) TRAINING
+GIST Loewe reports to Admiral U-boats and Captain U-boat Training that she left Roenne at 1300 for passage to Kiel.
+
+ADM(4)
+
+TO I D 8 G    ZIP/ZTPG/367710
+
+FROM NS
+
+382 KCS    TOO 1310    TOI 1147/26/4/45
+
+FROM ' LOEWE'
+
+TO  : ADMIRAL (U/B)
+     CAPTAIN (U/B) TRAINING
+
+LEFT ROEXNE AT 1300 FOR PASSAGE TO KIEL. W/T ' LO 1'.
+
+CTN READ ROENNE
+
+0741/2/5/45+++EGT/IW

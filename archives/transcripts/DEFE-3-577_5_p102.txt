@@ -1,0 +1,12 @@
+META serial=ZIP/ZTPG/367903A too=0854/28/4 toi=0715/28/4 freq=3764 from=? to=?
+GIST Correction: Please read TOI as 0715/28/4, not 1715 as sent.
+
+ADM(4)
+TO I D 8 G                                      ZIP/ZTPG/367903A
+FROM NS
+
+3764KCS         TOO 0854/28/4
+
+PLEASE READ TOI 0715/28/4. NOT 1715 AS SENT
+
+0408/3/5/45+++EGT/IW

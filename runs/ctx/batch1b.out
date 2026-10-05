@@ -1,0 +1,1 @@
+Terminated                 tools/bombe/bombe --ct ciphertext.txt "${args[@]}" --k $k --gmax $k --threads ${T:-8} "$@" --out $O/$name.tsv --climb corpus/ngrams/navalblend_quadgrams.txt --rank-out $O/$name.rank.tsv --topn 100 --maxhits 2000000 2> $O/$name.log

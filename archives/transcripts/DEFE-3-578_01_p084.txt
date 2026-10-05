@@ -1,0 +1,48 @@
+META serial=368067 too=1802 toi=1730/1/5/45 freq=4580 from=StoreShipUnitStaffNavalWarStaff to=10thDefenceDivision,36thM/SFlotilla
+GIST Store Ship Unit requests escort for fleet tanker Taifun at 1200/2/5 from Gellen Buoy westbound; 6700 GRT, armed with 10.5 CM and mountings, 3000 cubic metres cargo.
+
+ADMC4D
+
+TO: ID8G                                                ZIP/ZTPG/ 368067
+
+FROM: N S .
+
+
+4580KC/S      TOO : 1802     TOI : 1730/1/5/45
+
+
+[handwritten bullet]
+FROM: STORE SHIP UNIT STAFF AND NAVAL WAR STAFF ADM.QU. ((3)) THROUGH .
+
+      FLEET TANKER TAAFUN.
+
+TO: 10TH DEFENCE DIVISION
+
+    36TH M/S ILOTILLA
+
+
+MOST IMMEDIATE
+
+
+REQUEST ESCORT FOR FLEET TANKER 'TAIFUN' AT 1200/2/5 FROM GELLEN BUOY
+
+WESTBOUND. DISPLACEMENT 6700 GRT.
+
+
+[handwritten bullet]
+ARMAMENT: ONE 10.5 CM., ((ONE)) 3.7 TWIN MOUNTING,
+
+TWO 3.7 SINGLE MOUNTINGS, ONE FLAK QUADRUPLE, FOUR 2CM.
+
+CARGO: 3000 CUBIC METRES. SPEED 10 KNOTS. DEGAUSSING IN
+
+ORDER.
+
+
+CC ADDRESS FROM:TAIFUN
+
+
+CC ADDRESS TO: FLOTILLA NOT AS SENT
+
+
+0153/4/5/45 EE/JG

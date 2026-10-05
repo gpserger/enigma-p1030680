@@ -1,0 +1,15 @@
+META serial=367759 too=2256 toi=2137/30/4/45 freq=4860 from=25TH U/B FLOTILLA to=TF.19
+GIST 25th U/B Flotilla orders TF.19 to proceed directly to Kiel.
+
+ADM (40)
+TO: I D B G                                    ZIP/ZTPG/367759
+FROM: N S
+
+4860 KC/S            T O O 2256            T O I 2137/30/4/45
+
+FROM: 25TH U/B FLOTILLA
+TO: TF.19
+
+PROCEED DIRECT TO KIEL.
+
+1239/2/5/45++CEL/FA

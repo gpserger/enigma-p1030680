@@ -1,0 +1,14 @@
+META serial=367551 too=0007/29 toi=2228/28/4/45 freq=360 from=PLUNS to=?
+GIST Pluns reports return from firing exercise with V 221, 225, 226 and 227, arrived Lorient at 2340, V 222 continuing to Port Tudy.
+
+ADM(C1)
+TO I D 8 G       ZIP/ZTPG/367551
+FROM N S
+
+360 KC/S       T O O 0007/29       TOI: 2228/28/4/45
+
+FROM: PLUNS
+
+BACK FROM FIRING WITH V 221, 225, 226 AND 227, ARRIVED LORIENT AT 2340. V 222 ONWARD PASSAGE TO PORT TUDY.
+
+1617/1/5/45+++EE+PG

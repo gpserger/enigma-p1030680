@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367888 too=0817 toi=0705/28/4/45 freq=382 from=S.O. 4 TH U/B FLOTILLA THROUGH GUARDSHIP 22 to=ADMIRAL WESTERN BALTIC
+GIST Emergency report: the cargo ship Oceana has run aground at old berth.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367888
+FROM: N S
+
+382 KC/S         TOO 0817            T O I 0705/28/4/45
+
+FROM: S.O. 4 TH U/B FLOTILLA THROUGH GUARDSHIP 22
+TO:   ADMIRAL WESTERN BALTIC . CHIEF OF STAFF
+
+EMERGENCY
+
+'OCEANA' RAN AGROUND. (CCLYING)) AT PRESENT IN OLD BERTH.
+
+0204/3/5/45 EGT+HDT++

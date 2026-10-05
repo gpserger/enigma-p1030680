@@ -1,0 +1,18 @@
+META serial=367737 too=2334 toi=0156/27/4/45 freq=3764 from=U. 4701 to=
+
+GIST U. 4701 reports arrival at Sassnitz with U. 4702 and U. 4703 with radio watch being maintained.
+
+ADM  C4)
+
+TO: I D 8 G    ZIP/ZTPG/367737
+
+FROM: N S
+
+3764 KC/S    T O O    2334    T O I 0156/27/4/45
+
+FROM: U. 4701 ,
+
+HAVE ARRIVED SASSNITZ WITH U. 4702 AND U. 4703.
+W/T WATCH IS BEING MAINTAINED.
+
+1034/2/5/45    CEL/AHM++++

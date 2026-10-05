@@ -1,0 +1,18 @@
+META serial=3671388 too=2005 toi=1827/28/4/45 freq=4860KC/S from=S.O.4THUBFLOTILLA to=BOATSWAITING INSASSNITZ
+GIST Message from 4th U/B Flotilla Senior Officer cancelling W/T message 1606 with further orders to follow shortly.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671388
+FROM: N S
+[seal mark]
+
+4860 KC/S             T O O 2005              T O I 1827/28/4/45
+
+FROM: S.O. 4TH U/B FLOTILLA
+TO: BOATS WAITING IN SASSNITZ
+
+W/T MESSAGE 1606 CANCELLED. FURTHER ORDERS SHORTLY.
+
+[seal mark]
+
+0306/1/5/45++CEL/FA

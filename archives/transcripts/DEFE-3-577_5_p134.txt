@@ -1,0 +1,14 @@
+META serial=367928 too=1357/27/4 toi=? freq=4412 from=N S to=IDB G
+GIST Correction note from N S to IDB G about reading terminology in ZTPG message.
+
+ADM (4)
+TO: IDB G                                    Z IP/ZTPG/367928 A
+FROM: N S
+
+4412 EC/S         T O O 1357/27/4
+
+IN LINE ONE READ OWN NOT OUR
+
+
+
+0911/3/5/45+++EGT/FA

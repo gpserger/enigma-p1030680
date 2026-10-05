@@ -1,0 +1,19 @@
+META serial=367774 too=2231 toi=2055/30/4/45 freq=3978 from=FLEET TRAINING UNIT to=CAPTAIN (D)
+GIST Emergency: according to report, S.S. Schwansen is in Warnemuende.
+
+ADM (C)
+TO: I D B G                                    Z.IP/ZTPG/367774
+FROM: N S
+
+3978 KC/S            T O O 2231            T O I 2055/30/4/45
+
+FROM: FLEET TRAINING UNIT
+TO: CAPTAIN (D)
+
+EMERGENCY
+
+ACCORDING TO DOXXXX TODAY'S REPORT, S.S 'SCHWANSEN' IS IN
+WARNEMUENDE.
+
+CC FROM: FLEET TRAINING UNIT
+1335/2/5/45++CEL/FA

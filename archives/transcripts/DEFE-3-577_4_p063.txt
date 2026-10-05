@@ -1,0 +1,14 @@
+META serial=ZIP/ZTPG/367677 A too=1723/28/4 toi=? freq=368 KC/S from=N S to=?
+GIST Correction message: in 5th line read 'Ready to Proceed'.
+
+(C5)
+
+TO: I D 8 G    ZIP/ZTPG/367677 A
+
+FROM: N S
+
+368 KC/S    TOO 1723/28/4
+
+IN 5TH LINE READ ''READY TO PROCEED''
+
+0900/2/5/45 CEL/EB+

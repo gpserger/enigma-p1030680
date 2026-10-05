@@ -1,0 +1,15 @@
+META serial=367837 too=0912 toi=0819/1/5/45 freq=4860 from=S.O. 4TH U/B FLOTILLA to=U 2338
+GIST S.O. 4th U/B Flotilla orders U-boat 2338 detached to Rendsburg with U-boat 2361 for dockyard services.
+
+ADM (C)
+TO: I D B G                                    ZIP/ZTPG/367837
+FROM: N S
+
+4860 KC/S            TOO 0912            TOI 0819/1/5/45
+
+FROM: S.O. 4TH U/B FLOTILLA
+TO: U 2338
+
+DETACHED TO RENDSBURG WITH U 2361 FOR DOCKYARD SERVICES.
+
+2054/2/5/45++++++EE/SMH

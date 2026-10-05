@@ -1,0 +1,17 @@
+META serial=367763 too=0957 toi=0811/1/5/45 freq=382 from=NAVAL CHIEF COMMAND COPS. STAFF? to=M.611
+GIST Most immediate: proceed to Sonderburg with the fugitives.
+
+ADM (S)
+TO: I D B G                                    ZIP/ZTPG/367763
+FROM: N S
+
+382 KC/S            T O O 0957            T O I 0811/1/5/45
+
+FROM: NAVAL CHIEF COMMAND COPS. STAFF?
+TO: M.611
+
+MOST IMMEDIATE
+
+PROCEED TO SONDERBURG WITH THE FUGITIVES.
+
+1232/2/5/45++CEL/

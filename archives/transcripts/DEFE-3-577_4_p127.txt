@@ -1,0 +1,17 @@
+META serial=367734 too=1845 toi=1755/26/4/45 freq=4860 from=U 2350 (SCHAUER) to=
+
+GIST U 2350 (Schauer) reports arrival at Horten with watch maintained.
+
+ADM  C3))
+
+TO: I D 8 G    Z IP/ZTPG/367734
+
+FROM: N S
+
+4860 KC/S    T O O 1845    T O I 1755/26/4/45
+
+FROM: U 2350 (SCHAUER)
+
+ARRIVED HORTEN AT 1500. W/T WATCH ON 4860 KC/S
+
+1035/2/5/45+++CEL/FA

@@ -1,0 +1,18 @@
+META serial=3671392 too=0905 toi=0725/29/4/45 freq=4860KC/S from=U.2518WEIDNER to=?
+GIST U-boat 2518 reports departure from Rot 01 at 0830 in convoy for Flensburg at 4 knots speed.
+
+C52
+TO: I D 8 G                           ZIP/ZTPG/3671392
+FROM: N S
+[seal mark]
+
+4860 KC/S             T O O 0905              T O I 0725/29/4/45
+
+FROM: U.2518 (WEIDNER)
+
+LEFT ROT 01 AT 0830 IN CONVOY FOR FLENSBURG. SPEED 4 KNOTS.
+W/T WATCH ON 4860 KC/S.
+
+[seal mark]
+
+0257/1/5/45 CEL/EB+

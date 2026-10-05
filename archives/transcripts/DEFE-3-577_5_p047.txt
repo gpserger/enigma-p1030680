@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367857 too=0218 toi=0950/28/4/45 freq=3764 KC/S from=U 4702 to=4TH U/B FLOTILLA
+GIST U-boat U 4702 reporting repair work requirements to 4th U/B Flotilla.
+
+ADM (3)
+TO: I D B G                            ZIP/ZTPG/367857
+FROM: N S
+
+3764 KC/S         TOO 0218            TOI 0950/28/4/45
+
+FROM: U 4702
+TO: . 4TH U/B FLOTILLA
+
+EXTENT OF WORK:
+
+1) INSTALLATION OF 'SCHNORCHEL'.
+2) BOTH HYDROPLANES STIFF.
+3) RUDDER LOUD NOISES.
+4) SOUNDER DEFECTIVE.
+
+2225/2/5/45+++++EE/SHH

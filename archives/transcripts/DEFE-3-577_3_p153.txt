@@ -1,0 +1,34 @@
+META serial=367559 too=1158 toi=1052/1/5/45 freq=4020KC/S from='KURIER' BOKEL to=NAVAL WAR STAFF (2ND DIVISION), B.D.U., NAVAL WAR STAFF (4TH DIVISION), NAVAL COMMUNICATIONS DIVISION
+GIST 'KURIER' station at Bokel reports to Naval War Staff and B.D.U. that three control transmitters were received on Sunday evening and the station is operationally effective for transmitting and receiving with immediate effect.
+
+ADM (3)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367559
+
+4020 KC/S        T O O 1158        T O I 1052/1/5/45
+
+FROM: 'KURIER' BOKEL
+
+TO: NAVAL WAR STAFF ( 2ND DIVISION ), B.D.U.
+
+NAVAL WAR STAFF ( 4TH DIVISION )
+
+NAVAL COMMUNICATIONS DIVISION
+
+EMERGENCY
+
+1) 3 CONTROL TRANSMITTERS RECEIVED ON SUNDAY EVENING .
+
+2) 'KURIER' STATION OPERATIONALLY [?] EFFECTIVE FOR TRANSMITTING AND RECEIVING WITH IMMEDIATE EFFECT .
+
+3) EMERGENCY CURRENT GUARANTEED .
+
+4) REQUEST ORDERS .
+
+[handwritten] CC "War" code "NA"
+1046/1/1/45 EE/UAK++++
+[handwritten crosses and marks]
+CC "WAR" NOT "NA"
+1644/1/6/45 E/UAK++++

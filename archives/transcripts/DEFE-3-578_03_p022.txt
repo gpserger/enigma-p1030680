@@ -1,0 +1,22 @@
+META serial=368514 too=1551 toi=1402/6/5/45 freq=4265 from=DEFENCEUNITLORIENT to=SCHLEIFF
+GIST Defence Unit Lorient queries Schleiff asking whether they are bringing Alhorn with them.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368514
+
+FROM N S
+
+4265 KC/S     T O O 1551     T O I 1402/6/5/45
+
+FROM: DEFENCE UNIT LORIENT
+
+TO: SCHLEIFF
+
+MDST IMMEDIATE
+
+QUERY: ARE YOU BRINGING ALHORN WITH YOU?
+
+[handwritten circle with marking]
+
+1906/6/5/45+++EE/UC

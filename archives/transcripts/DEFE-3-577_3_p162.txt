@@ -1,0 +1,18 @@
+META serial=367567 too=1102 toi=0945/1/5/45 freq=4765KC/S from=10TH DEFENCE FLOTILLA to=VS 1003
+GIST 10th Defence Flotilla orders establishment of contact at once with M 293 lying near Anholt.
+
+ADM (3)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367567
+
+4765 KC/S        T O O 1102 .        T O I 0945/1/5/45 .
+
+FROM: 10TH DEFENCE FLOTILLA
+
+TO: VS 1003
+
+ESTABLISH CONTACT AT ONCEN WITH M 293, LYING NEAR ANHOLT .
+
+1718/1/5/45      EE/UAK+++

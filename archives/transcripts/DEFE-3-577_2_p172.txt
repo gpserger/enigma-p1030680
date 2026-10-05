@@ -1,0 +1,20 @@
+META serial=367369 too=2138 toi=2005/30/4/45 freq=2247 kcs from=V 6116 to=?
+GIST Vessel V 6116 departed BO at 2130 with intention BO 250 LD at 8.5 knots, shifting wireless watch at 2300 on 30 April 1945.
+
+ADM C 3J
+
+TO: I D 8 G
+
+FROM: N S
+
+2247 KC/S        T O O 2138                T O I 2005/30/4/45
+
+FROM: V 6116
+
+LEFT 'BO' AT 2130 WITH INTENTION 'BO 250 LD', SPEED 8.5 KNOTS,
+
+WAY ROT COUTER).
+
+ADDITION: SHALL SHIFT W/T WATCH FROM 'KNN' TO 'KP' AT 2300.
+
+0040/1/5/45++CEL/FA

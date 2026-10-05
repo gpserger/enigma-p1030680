@@ -1,0 +1,10 @@
+== LAMBDA=0 AW=1,0.6,0.3,1
+m4f10 R=20 poff=0 k=10: success 40/408 = 9.8%  evals/trial 26376  ns/eval 1736 (thread, contended)
+== LAMBDA=0 AW=1,0.6,0.3,2
+m4f10 R=20 poff=0 k=10: success 40/408 = 9.8%  evals/trial 26625  ns/eval 2547 (thread, contended)
+== LAMBDA=0 AW=1,0.6,0.3,4
+m4f10 R=20 poff=0 k=10: success 55/408 = 13.5%  evals/trial 27731  ns/eval 1471 (thread, contended)
+== LAMBDA=0 AW=1,1,1,2
+m4f10 R=20 poff=0 k=10: success 46/408 = 11.3%  evals/trial 27235  ns/eval 1673 (thread, contended)
+== LAMBDA=30 AW=1,0.6,0.6,0.5
+m4f10 R=20 poff=0 k=10: success 85/408 = 20.8%  evals/trial 28932  ns/eval 2245 (thread, contended)

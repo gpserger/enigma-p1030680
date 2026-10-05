@@ -1,0 +1,17 @@
+META serial=367761 too=0810 toi=0721/1/5/45 freq=382 from=10TH DEFENCE DIVISION to=SEA TRANSPORT M.151
+GIST Emergency: Fancturi to anchor at Rot 13A pending onward escort.
+
+ADM (S)
+TO: I D B G                                    ZIP/ZTPG/367761
+FROM: N S
+
+382 KC/S            T O O 0810            T O I 0721/1/5/45
+
+FROM: 10TH DEFENCE DIVISION
+TO: SEA TRANSPORT M.151
+
+EMERGENCY
+
+'FANCTURI' IS TO ANCHOR AT ROT 13A PENDING ONWARD ESCORT.
+
+1235/2/5/45++CEL/FA

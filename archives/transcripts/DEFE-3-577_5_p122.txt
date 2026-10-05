@@ -1,0 +1,21 @@
+META serial=ZIP/ZTPG/367917 too=0120 toi=0025/28/4/45 freq=382 from=M3608 to=10TH DEFENCE DIVISION
+GIST M3608 reports took up escort of tanker Binz, destination Kiel, at store ship unit anchorage at 0030, expect to take up 2 U-boats at 0400.
+
+ADM(4)
+TO I D 8 G                                      ZIP/ZTPG/367917
+FROM NS
+
+382 KCS         TOO 0120            T O I 0025/28/4/45
+
+FROM: M3608
+TO  : 10TH DEFENCE DIVISION
+      36TH M/S FLOTILLA
+      1ST DEFENCE FLOTILLA
+
+TOOK UP ESCORT OF TANKER 'BINZ', DESTINATION KIEL, 715 GRT,
+800 CBM 'H) CC?=NO.3 MIXTURE)) AT 0030 AT STORE SHIP UNIT
+ANCHORAGE. AT 0400 EXPECT TO TAKE UP 2 U.BOATS, 6*5 KNOTS.
+
+CTN READ 6.5 KNOTS
+
+0520/3/5/45++EGT/IW

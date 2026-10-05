@@ -1,0 +1,14 @@
+META serial=367550 too=2253 toi=2122/28/4/45 freq=4265 from=PLUNS to=?
+GIST Pluns reports departure from Lorient at 2200 with V 221, 222, 225, 226 and 227 for practice firing exercise.
+
+ADM(C1)
+TO I D 8 G       ZIP/ZTPG/367550
+FROM N S
+
+4265 KC/S       T O O 2253       TOI: 2122/28/4/45
+
+FROM: PLUNS
+
+LEFT LORIENT WITH V 221, 222, 225, 226 AND 227 AT 2200 FOR PRACTICE FIRING.
+
+1616/1/5/45+++++EE+PG

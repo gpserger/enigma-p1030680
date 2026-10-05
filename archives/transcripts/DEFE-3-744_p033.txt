@@ -1,0 +1,24 @@
+META serial=ZIP/ZTPGU/39028(ND) too=1005 toi=1030/2/5/45 freq=4955 KC/S from=CAPTAIN (U/B) NORTHERN WATERS to=?
+GIST Captain commands individual U-boats: Franze to continue attacking, Lange to return to Harstad, others to report positions and damage.
+
+ADM C1)
+
+TO I D 8 G                                   ZIP/ZTPGU/39028(ND)
+
+FROM N S
+
+4955 KC/S          T O O 1005                TOI 1030/2/5/45
+
+FROM: CAPTAIN (U/B) NORTHERN WATERS
+
+1) FRANZE: ATTACKING AREA SQUARE BLAU AK 1120/30.
+
+2) LANGE: RETURN PASSAGE TO HARSTAD.
+
+3) SCHWEIGER, KRUEGER, GAZA, DIETRICH:
+   REPORT POSITION, STOCKS AND BXX DAMAGE.
+
+(DEPT. NOTE: BLAU AK 1120 AND 1130 = NAVAL GRID SQUARES AC 8720
+   AND 8730)
+
+0736/7/5/45+GFG/AM

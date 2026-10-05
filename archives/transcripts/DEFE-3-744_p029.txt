@@ -1,0 +1,19 @@
+META serial=ZIP/ZTPGU/39025 (ND) too=? toi=0228/2/5/45 freq=8320 KC/S from=OOX (CU 278) to=?
+GIST U-boat reports position in naval grid square AC 8599 with 30-40 CBM of fuel remaining.
+
+ADM C4)
+
+TO I D 8 G                                   ZIP/ZTPGU/39025 (ND)
+
+FROM N S
+
+8320 KC/S
+
+0228/2/5/45  B' GXF
+
+MY POSITION IS NAVAL GRID SQUARE AC 8599, HAVE STILL 30 - 40
+CBM OF FUEL.
+
+OOX (CU 278)
+
+0537/7/5/45++GFG/WAB++++

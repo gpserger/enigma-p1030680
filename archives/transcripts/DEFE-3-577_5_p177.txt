@@ -1,0 +1,21 @@
+META serial=993 too=2006 toi=1915/29/4/45 freq=3764 KCYS from=U 903 C TINSCHERTD to=5TH U/B FLOTILLA
+
+GIST U-boat 903 reports location coordinates and queries port entry for flotilla operation.
+
+ADM C52
+
+TO: I D 8 G ZIP/ZTPG/367965
+
+FROM: N S
+
+3764 KCYS T O O 2006 T O I 1915/29/4/45
+
+FROM: U 903 C TINSCHERTD
+
+TO: 5TH U/B FLOTILLA
+
+EMERGENCY
+
+SHALL BE AT ROT 01 AT2200. QUERY: ENTER PORT.
+
+1045/3/5/45 CEL/MJU

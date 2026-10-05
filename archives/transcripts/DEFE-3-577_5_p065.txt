@@ -1,0 +1,22 @@
+META serial=ZIP/ZTPG/367870 too=2351 toi=2344/27/4/45 freq=3764 from=N S to=IDBG
+GIST TF 1 with Captain in U-boat training reporting arrival in Varnemuende and departure for Neustadt.
+
+ADM (3)
+TO IDBG                                         ZIP/ZTPG/367870
+FROM N S
+
+3764 KC/S         TOO 2351            TOI 2344/27/4/45
+
+FROM: TF 1 WITH CAPTAIN (U/B)
+      TRAINING (PERSONAL) THROUGH
+      26TH U/B FLOT ILLA
+TO: ADMIRAL U/B)
+    CAPTAIN (U/B) TRAINING
+    25TH U/B FLOTILLA
+
+ARRIVED IN VARNEMUENDE AT 1645, LEFT FOR NEUSTADT AT 2345, W/T
+WATCH ON 'BA' CC= 4020 KC/S>>.
+
+CC: PLS READ 1ST ADDRESSEE ADMIRAL U/B
+
+0014/3/5/45         EE+++HPS+++

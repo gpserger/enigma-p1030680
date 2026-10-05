@@ -1,0 +1,20 @@
+META serial=3671416 too=2015 toi=2145/28/4/45 freq=3764KC/S from=U.4703 to=S.O.4THUBFLOTILLA
+GIST U.4703 reports outstanding items of work: fitting schnorchel, changing ballast, forward hydroplane stiff.
+
+C52
+TO: I D 8 C                           ZIP/ZTPG/3671416
+FROM: N S
+[seal mark]
+
+3764 KC/S             T O O 2015              T O I 2145/28/4/45
+
+FROM: U.4703
+TO: S.O. 4TH U/B FLOTILLA
+
+OUTSTANDING ITEMS OF WORK:
+FITTING OF SCHNORCHEL, CHANGING BALLAST,
+FORWARD HYDROPLANE STIFF.
+
+[seal mark]
+
+0403/1/5/45 CEL/EB+

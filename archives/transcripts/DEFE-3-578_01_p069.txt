@@ -1,0 +1,35 @@
+META serial=368053 too=1705/1 toi=1230/2/5/45 freq=382 from=NavalChiefCommandBaltic to=NavyOfficeRostock,NavyOfficeWismar
+GIST Naval Chief Command Baltic orders S.S. Stolpe to proceed at once with refugees to Gjedser, then to Wismar for transport of refugees and wounded.
+
+ADMC4D
+
+TO ID8G                                                ZIP/ZTPG/368053
+
+FROM N S
+
+
+382 KC/S      TOO MXXXXX 1705/1     TOI 1230/2/5/45
+
+
+FROM: NAVAL CHIEF COMMAND BALTIC
+
+TO: NAVY OFFICE ROSTOCK
+
+    NAVY OFFICE WISMAR
+
+
+MOST SECRET
+
+
+S.S. STOLPE AT ONCE WITH REFUGEES TO GJEDSER, THEN IN BALLAST
+
+TO WISMAR TO BE AT DISPOSAL OF NAVY OFFICE FRXXX FOR ARANSPORT OF
+
+[handwritten bullet]
+REFUGEES AND WOUNDED.
+
+
+CC IN LINE 2 READ TRANSPORT
+
+
+2856/3/5/45++ EE/WAB++++

@@ -1,0 +1,14 @@
+META serial=367548 too=2016 toi=1840/28/4/45 freq=360 from=FEITZ to=?
+GIST Feitz reports leaving St. Nazaire at 2030 with V 230 and HS 08 via Le Palais and Port Maria for Lorient.
+
+ADM (C2)
+TO: I D 8 G       ZIP/ZTPG/367548
+FROM: N S
+
+360 KC/S       TOO 2016       TOI 1840/28/4/45
+
+FROM: FEITZ
+
+LEAVING ST. NAZAIRE AT 2030 WITH V 230 AND HS 08 VIA LE PALAIS. AND PORT MARIA FOR LORIENT.
+
+1630/1/5/45++++FF/SMH

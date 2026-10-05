@@ -1,0 +1,20 @@
+META serial=367513 too=2053/30/4 toi=0835/1/5/45 freq=6747 from=N.O.I.C. St. Nazaire D.C. Treatment Station to=D.G. Treatment Group Command Bad Schwartau Holstein
+GIST Treatment station reports measurement certificates will not be sent over.
+
+ADM C5D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ ZTPG/367513
+
+6747 KC/S        TOO 2053/30/4        TOI 0835/1/5/45
+
+FROM: N.O.I.C. ST NAZAIRE, D.C. TREATMENT STATION
+
+TO: D.G. TREATMENT GROUP COMMAND BAD SCHWARTAU IN HOLSTEIN
+
+D.G. TREATMENT STATION IN SERVICE, MEASUREMENT CERTIFICATES
+WILL NOT BE SENT OVER.
+
+1356/46/1/5/45 EE/HJU

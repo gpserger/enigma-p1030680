@@ -1,0 +1,19 @@
+META serial=367475 too=1205 toi=1038/26/4/45 freq=4265 from=Lorient Defence Unit to=?
+GIST Ship movement report for night 26/4 to 27/4: V. 230, HS. 08 with Ahlhorn to leave Le Palais for St. Nazaire, speed 8 knots.
+
+ADM    C4D
+
+TO:    IDBG
+FROM:  N S
+
+ZIP/ZTPG/367475
+
+4265 KC/S        TOO    1205        TOI    1038/26/4/45
+
+FROM: LORIENT DEFENCE UNIT
+
+SHIP MOVEMENT REPORTING SERVICE FOR THE NIGHT 26/4 TO 27/4:
+V. 230 AND HS. 08 (PLLNS) WITH 'AHLHORN' WILL LEAVE LE PALAIS
+FOR ST. NAZAIRE, SPEED 8 KNOTS. TIME OF DEPARTURE FOLLOWS.
+
+0926/1/5/45        CEL/AHM++++

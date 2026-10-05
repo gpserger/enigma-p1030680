@@ -1,0 +1,19 @@
+META serial=3671387 too=1958 toi=1817/28/4/45 freq=382KC/S from=SPERRBRECHER24 to=10THDEFENCEDIVISION
+GIST Report from Sperrbrecher 24 regarding termination of escort for Lothringen and T.35 at 1945 and return passage to Gruen 03.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671387
+FROM: N S
+[seal mark]
+
+382 KC/S              T O O 1958              T O I 1817/28/4/45
+
+FROM: SPERRBRECHER 24
+TO: 10TH DEFENCE DIVISION
+
+TERMINATED ESCORT OF 'LOTHRINGEN' AND T.35 AT 1945 AT GRUEN 10
+AND BEGAN RETURN PASSAGE TO GRUEN 03. REQUEST ORDERS.
+
+[seal mark]
+
+0309/1/5/45-+++CEL/FA

@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPGU/39018 (ND) too=2051 toi=2126/1/5/45 freq=4985 KC/S from=LANGE to=?
+GIST Lange reports U-boat 596 with port blower coupling, echo-sounder and D/F gear out of order.
+
+ADM C4)
+
+TO I D 8 G                                   ZIP/ZTPGU/39018 (ND)
+
+FROM N S
+
+4985 KC/S                    Too 2051           TOI 2126/1/5/45
+
+FROM: LANGE
+
+AM IN 596, PORT BLOWER COUPLING, ECHO-SOUNDER AND D/F GEAR
+OUT OF ORDER. 5CCFIGURE CORRUPT)) CBM, 3 'LUT'.
+
+0X 0444/7/5/45++GFG/WAB++++

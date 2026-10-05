@@ -1,0 +1,17 @@
+META serial=ADM (1) too=1342 toi=1355/1/5/45 freq=4835 from=FLOTTE to=I D 8 G
+GIST Most immediate, most secret: vessels Z.31 and Z.33 fitted with only one electric motor each, three 15cm guns, half flak armament; barely suitable as flak protection.
+
+FROM: FLOTTE
+TO: NAVAL CHIEF COMMAND NORTH
+    ADMIRAL HELIGOLAND BIGHT
+    5TH DEFENCE DIVISION
+
+MOST IMMEDIATE      MOST SECRET
+
+Z.31 AND Z.33 ARE BOTH ONLY FIT WITH ONE ELECTRIC MOTOR,
+((THREE)) 15 CM GUNS AND ONLY HALF THEIR FLAK ARMAMENT.
+THEY ARE SCARCELE SUITABLY AS FLAK PROTECTION.
+
+CC LINE ONE 'FITTED'
+
+103#/6/5/45++++CEL/SMH

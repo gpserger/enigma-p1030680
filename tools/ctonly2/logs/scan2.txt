@@ -1,0 +1,15 @@
+== FLOOR=10 LAMBDA=0 MCAP=0 KICK=10
+scorefail(best>truth, wrong) 0
+m4f10 R=20 poff=0 k=10: success 28/408 = 6.9%  evals/trial 26082  ns/eval 3409 (thread, contended)
+== FLOOR=10 LAMBDA=0 MCAP=0 KICK=6
+scorefail(best>truth, wrong) 0
+m4f10 R=20 poff=0 k=10: success 43/408 = 10.5%  evals/trial 25528  ns/eval 4232 (thread, contended)
+== FLOOR=30 LAMBDA=0 MCAP=0 KICK=8
+scorefail(best>truth, wrong) 0
+m4f10 R=20 poff=0 k=10: success 35/408 = 8.6%  evals/trial 25735  ns/eval 3195 (thread, contended)
+== FLOOR=10 LAMBDA=0 MCAP=0 KICK=4
+scorefail(best>truth, wrong) 0
+m4f10 R=20 poff=0 k=10: success 45/408 = 11.0%  evals/trial 25193  ns/eval 3911 (thread, contended)
+== steepest FLOOR=10 LAMBDA=0 MCAP=0 KICK=8
+scorefail(best>truth, wrong) 0
+m4f10s R=20 poff=0 k=10: success 30/408 = 7.4%  evals/trial 51985  ns/eval 1847 (thread, contended)

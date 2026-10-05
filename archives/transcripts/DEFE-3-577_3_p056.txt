@@ -1,0 +1,19 @@
+META serial=367467 too=1151 toi=1022/28/4/45 freq=360 from=Lorient Defence Unit to=?
+GIST Ship movement report: V 230 and HS 08 to leave St. Nazaire at 2030 on 28/4 for Lorient via Le Palais, speed 8 knots.
+
+ADM C5D
+
+TOGC IDBG
+FROM: N S
+
+ZIP/ ZTPG/367467
+
+360 KC/S        TOO 1151        TOI 1022/28/4/45
+
+FROM: LORIENT DEFENCE UNIT
+
+SHIP MOVEMENT REPORT SERVICE FOR THE NIGHT 28/4 TO 29/4:
+V 230 AND HS 08 ( PLLNS) TO LEAVE ST. NAZAIRE AT 2030 FOR
+LORIENT VIA LE PLAIS- PORT MARIA. SPEED 8 KNOTS.
+
+0920/1/5/4/5 CEL/HJU

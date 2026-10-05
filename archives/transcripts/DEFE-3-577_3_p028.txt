@@ -1,0 +1,16 @@
+META serial=367428 too=0102/1/5 toi=2321/30/4/45 freq=2115 from=S.O. 1ST S-BOAT TRAINING to=?
+GIST Hoist immediate: vessel 2.5 Blitze departing Egersund for the north at 0200 hours on 1 May 1945.
+
+C59
+
+TO: I D 8 G
+
+FROM: N S
+
+2115 KC/S        TOO 0102/1/5                TOI 2321/30/4/45
+
+FROM: S.O. 1ST S-BOAT TRAINING
+
+HOIST IMMEDIATE. 0200 2.5 'BLITZE' EX EGERSUND FOR THE NORTH.
+
+[handwritten marking at bottom] 0421/1/5/45 CEL/EB+

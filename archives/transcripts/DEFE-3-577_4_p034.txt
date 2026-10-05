@@ -1,0 +1,16 @@
+META serial=367649 too=1116/29/4 toi=? freq=368 from=NS to=I D 8 G
+GIST Correction to message 367649 - 2nd group should read ''PORTS'' not ''PARTS''.
+
+ADM: C3)
+TO: I D 8 G
+FROM: NS
+
+IBXX
+
+Z IP/ZTPG/367649A
+
+368 KCS              T00 1116/29/4
+
+2ND GROUP OF MESSAGE SHOULD READ PORTS NOT PARTS
+
+0504/2/5/45++EGT/IW

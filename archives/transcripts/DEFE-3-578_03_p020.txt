@@ -1,0 +1,26 @@
+META serial=368512 too=0537 toi=0434/3/5/45 freq=2170 from=G.A.F.GENERALINEDENMARSKI to=ADMIRALSKAGERRAKNAVALCHIEFCOMMANDNORTHADMIRALHELIGOLAND
+GIST G.A.F. General in E Denmark reports to Admiral Skagerrak, Naval Chief Command North, and Admiral Heligoland about protective reconnaissance 2235/2/5 - 0200/3/5 near Schleswig with no enemy sightings at 200 metres.
+
+ADM C5)
+
+TO: I D B G                ZIP/ ZTPG/368512
+
+FROM: N S
+
+2170 KC/S     T O O 0537     T O I 0434/3/5/45
+
+FROM: G.A.F. GENERAL IN E DENMARK I C
+TO: ADMIRAL SKAGERRAK
+    NAVAL CHIEF COMMAND NORTH
+    ADMIRAL HELIGOLAND [handwritten]BIGHT[/handwritten]
+
+MOST IMMEDIATE     MOST SECRET
+
+PROTECTIVE RECONNAISSANCE 2235/2/5 - 0200/3/5 SCHLESWIG 05 EAST
+8535 - 7519 - 5529 - 4518 - 3573 - 2449 - 3311 - 4472 - 4423
+- 5589 - 7573 - 7565 - 8565 SCHLESWIG.
+
+200 METRES. NO ENEMY SIGHTINGS.
+
+
+1902/6/5/45 EE/MJU

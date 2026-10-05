@@ -1,0 +1,17 @@
+META serial=367751 too=1915 toi=1815/30/4/45 freq=382 from=10TH DEFENCE DIVISION TSTB to=TS.6, TF.7
+GIST Emergency: at 0300 on 1 May from T.108 command, escort vessels Weserstrom and Sachsenwald proceeding to the east.
+
+(S)
+TO: I D B G                                    ZIP/ZTPG/367751
+FROM: N S
+
+382 KC/S            T O O 1915            T O I 1815/30/4/45
+
+FROM: 10TH DEFENCE DIVISION TSTB
+TO: TS.6, TF.7
+
+EMERGENCY.
+AT 0300/1/5 FROM T.108 (S.O. ESCORT) 'WESERSTROM' AND 'SACHSENWALD'
+TO THE EAST.
+
+1126/2/5/45 CEL/EB+

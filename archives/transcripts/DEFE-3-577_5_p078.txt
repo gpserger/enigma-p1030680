@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367881 too=1756 toi=1711/2/5/45 freq=2380 from=ADMIRAL NETHERLANDS F 4 to=WATER POLICE COMMAND IJSSELMEER
+GIST Admiral Netherlands F 4 reports W/T callsigns for three water police vessels.
+
+ADM (3)
+TO IDBG                                         ZIP/ZTPG/367881
+FROM N S
+
+2380 KC/S         TOO 1756            TOI 1711/2/5/45
+
+FROM: ADMIRAL NETHERLANDS F 4
+TO: WATER POLICE COMMAND IJSSELMEER
+
+W/T NAMES
+    WSCHPO 12 HNQD,
+    WSCHPO 22 HNNS
+    WSCHPO 35 HNPA
+
+0214/3/5/45         EGT+++MPS+++

@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367923 too=1156 toi=1708/30/4/45 freq=4412 from=S.O. GROUP BARTELT 8TH A-FLOTILLA to=SEA DEFENCE COMMANDANT POMERANIA
+GIST Most Immediate: S.O. Group Bartelt reports hard aground off Hohendorf under A/T fire at 1830.
+
+(5)
+TO I D 8 G                                      ZIP/ZTPG/367923
+FROM N S
+
+4412 KC/S         TOO 1156            T O I 1708/30/4/45
+
+FROM: S.O. GROUP BARTELT 8TH A-FLOTILLA
+TO:   SEA DEFENCE COMMANDANT POMERANIA
+      S.O. 8TH A-FLOTILLA
+
+MOST IMMEDIATE
+
+AM HARD AGROUND OFF HOHENDORF. UNDER A/T FIRE AT 1830-
+
+0613/3/5/45         EGT+++HPS+++

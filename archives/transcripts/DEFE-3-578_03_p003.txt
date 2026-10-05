@@ -1,0 +1,19 @@
+META serial=368497 too=1256 toi=1125/1/5/45 freq=4765 from=10THDEFENCEFLOTILLA to=VS1003
+GIST 10th Defence Flotilla orders VS 1003 to proceed into Aarhus.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368497
+
+FROM N S
+
+4765 KC/S     T O O 1256     T O I 1125/1/5/45
+
+FROM: 10TH DEFENCE FLOTILLA
+
+TO: VS 1003
+
+PROCEED INTO AARHUS.
+
+
+1801/6/5/45+++ED/UC

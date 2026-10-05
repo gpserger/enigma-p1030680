@@ -1,0 +1,20 @@
+META serial=367507 too=2014 toi=1856/29/4/45 freq=6747 from=? to=?
+GIST Channel Islands day report: despite good visibility no sighting reports of Cherbourg shipping traffic.
+
+ADM C1D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/36?XX 367507
+
+6747 KC/S        TOO 2014        TOI 1856/29/4/45
+
+EMERGENCY:
+
+CHANNEL ISLANDS DAY REPORT:
+
+DESPITE GOOD VISIBILITY NO SIGHTING-REPORTS OF CHERBOURG SHIPPING
+TRAFFIC.
+
+1338/1/5/45++ T EE/WAB++++

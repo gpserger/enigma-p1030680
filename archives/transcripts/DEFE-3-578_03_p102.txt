@@ -1,0 +1,21 @@
+META serial=368649 too=0840 toi=0813/5/5/45 freq=350 from=M.608 to=?
+GIST M. 608 issues correction to wireless message 0628: M. 806 should read U. 806.
+
+V
+
+ADM C1)
+
+TO: I D B G                ZIP/ZTPG/368649
+
+FROM: N S
+
+350 KC/S     T O O 0840     T O I 0813/5/5/45
+
+FROM: M. 608
+
+CORRECTION TO W/T MESSAGE 0628:
+
+M. 806 SHOULD READ U. 806.
+
+
+1216/7/5/45   CEL/AHM++++

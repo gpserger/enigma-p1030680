@@ -1,0 +1,15 @@
+META serial=ZIP/ZTPG/367877 too=0954 toi=0859/28/4/45 freq=3764 from=CAPTAIN (U/B) BALTIC to=U 1233,1230
+GIST Captain Baltic orders U 1233 and U 1230 to report their positions immediately.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367877
+FROM: N S
+
+3764 KC/S         TOO 0954            T O I 0859/28/4/45
+
+FROM: CAPTAIN (U/B) BALTIC
+TO:   U 1233,1230
+
+REPORT POSITION FORTHWITH.
+
+0022/3/5/45         EGT+HDT++

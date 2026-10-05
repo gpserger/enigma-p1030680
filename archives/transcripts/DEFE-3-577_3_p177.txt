@@ -1,0 +1,4 @@
+META serial=367580 too=1139 toi=1027/1/5/45 freq=3930KC/S from=2ND COASTAL DEFENCE UNIT to=ALL
+GIST 2nd Coastal Defence Unit broadcasts emergency to all units reporting that crash-boat is overdue and requesting observations.
+
+ADM (3) | TO: I D 8 G | FROM: N S | ZIP/ZTPG/367580 | 3930 KC/S | TOO: 1139 | TOI: 1027/1/5/45 | FROM: 2ND COASTAL DEFENCE UNIT | TO: ALL | EMERGENCY | CRASH-BOAT WHICH LEFT MELBO AT 2145/30/4 WITH COURSE SOUTH-WEST IS OVERDUE. REPORT OBSERVATIONS BY W/T. TOW BOAT INTO PORT. | 1904/1/5/45 EE/UAK++++

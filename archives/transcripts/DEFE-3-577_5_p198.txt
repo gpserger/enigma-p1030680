@@ -1,0 +1,23 @@
+META serial=1014 too=1554 toi=1449/29/4/45 freq=368 KC/S from=NAVY OFFICE STETTIN-AHLBECK to=((U'))
+
+GIST Navy office reports S.S. Weserstrom with flour and straw for Pillau anchored at Ruegen with request for new destination.
+
+ADM C2
+
+TO: I D 8 G ZIP/ZTPG/367985
+
+FROM: N S
+
+368 KC/S T O O 1554 T O I 1449/29/4/45
+
+FROM: NAVY OFFICE STETTIN-AHLBECK
+
+TO: ((U'))
+
+S.S. 'WESERSTROM' WITH FLOUR AND STRAW FOR PILLAU IS AT ANCHOR
+
+AT RUEGEN. IN VIEW OF THE SITUATION, REQUEST A NEW PORT OF
+
+DESTINATION.
+
+1140/3/5/45 CEL/EB+

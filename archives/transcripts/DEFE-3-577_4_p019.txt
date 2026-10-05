@@ -1,0 +1,21 @@
+META serial=367636 too=1155 toi=1028/27/4/45 freq=360 from=REITZ to=DEFENCE UNIT LORIENT
+GIST Emergency message from Reitz stating loading not possible to sail today, intentions to follow tomorrow.
+
+ADM(C2)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPC/367636
+
+360 KC/S.                 T00 1155                     T0I 1028/27/4/45
+
+FROM: REITZ
+TO:    DEFENCE UNIT LORIENT
+
+EMERGENCY
+
+() OWING TO LOADING NOT POSSIBLE TO SAIL TODAY.
+
+INTENTIONS FOR TOMORROW FOLLOW.
+
+0335/2/5/45             ECT727MPS+++

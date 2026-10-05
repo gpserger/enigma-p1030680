@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPGU/39075 too=1720 toi=1735/6/5/45 freq=5382 KC/S from=NAVAL WAR STAFF 4TH DIVISION/2 to=CAPTAIN (U/B) WEST FOR INFORMATION
+GIST Naval War Staff 4th Division transmits wave information to Captain commanding U-boats West.
+
+QO
+
+ADM C4)
+
+TO I D 8 G                                   ZIP/ZTPGU/39075
+
+FROM NS
+
+5382 KC/S           TOO 1720                ToI 1735/6/5/45
+
+FROM: NAVAL WAR STAFF 4TH DIVISION/2
+
+TO  : CAPTAIN (U/B) WEST FOR INFORMATION
+
+TRANSMITTING WAVES:

@@ -1,0 +1,23 @@
+META serial=367956 too=2206 toi=2044/29/4/45 freq=382 from=N S to=IDB G
+GIST Special Representative Naval Chief Command Baltic to Admiral Western Baltic regarding loading motor coasters for shipment to Roenne.
+
+ADM (5)
+
+TO: IDB G                                       Z IP/ ZTPG/367956
+
+FROM: N S
+
+382 KC/S         T O O 2206              T O I 2044/29/4/45
+
+FROM: SPECIAL REPRESENTATIVE OF NAVAL CHIEF COMMAND BALTIC
+
+TO:   ADMIRAL WESTERN BALTIC
+      REPEATED MINING AND BARRAGE ARSENAL SWINEMUENDE
+
+IN ACCORDANCE WITH NAVAL CHIEF COMMAND BALTIC'S SECRET 16572 OU 5,
+PLEASE LOAD MOTOR COASTERS ' GUDRUN' AND LATER ' GRETL' AND
+' MARGA' AND SEND THEM OFF TO ROENNE.
+
+[handwritten]0913/3/5/45 EGT/MJU
+
+0913/3/5/45 EGT/MJ-U

@@ -1,0 +1,13 @@
+META serial=? too=? toi=? freq=? from=? to=?
+GIST Continuation fragment (top of page torn, "TO CRO..." visible) of a message about boats becoming operational on the Weserstrom, fuel handovers between boats, and reporting "thinned-out" boats' fuel stocks.
+
+[torn fragment, top of page: "TO CRO..."]
+
+BECOMING OPERATIONAL ON THE WESERSTROM, THERE TO CONTINUE REPAIRS
+WITH THEIR OWN PERSONNEL, AFTER PREVIOUSLY HANDING OVER FUEL
+TO THOSE BECOMING OPERATIONAL. REPORT BOATS 'THINNED - OUT'
+GIVING THEIR FUEL STOCKS.
+
+CC LINE 5:GR 1:BECOMING
+
+2040/1/5/45 EE/JG

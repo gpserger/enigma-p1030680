@@ -1,0 +1,4 @@
+META serial=? too=? toi=? freq=? from=? to=?
+GIST Continuation: a torn slip with a single correction line saying to read "boats are to ensure etc"; no header.
+
+?TN READ BOATS ARE TO ENSURE ETC

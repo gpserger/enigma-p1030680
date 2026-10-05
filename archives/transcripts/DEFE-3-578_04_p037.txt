@@ -1,0 +1,17 @@
+META serial=3687/16 too=2237 toi=2134/1/5/45 freq=3082KC/S from=P.303 to=S.O. 21ST R.FLOTILLA
+GIST: P.303 reports that two army reporters were fired on at about 2200 in Foerde and a landing assault detachment was sent to investigate.
+
+ADM(C2)
+TO I D B G                                 ZIP/ZTPG/3687/16
+
+FROM N S
+
+3082 KC/S        T O O 2237        T O I 2134/1/5/45
+
+FROM: P.303
+TO:   S.O. 21ST R.FLOTILLA
+
+TWO ARMY REPORTERS WERE FIRED ON AT ABOUT 2200 IN FOERDE.
+AM LANDING AN ASSAULT DETACHMENT THERE TO INVESTIGATE.
+
+0615/9/5/45+CEL+DJL

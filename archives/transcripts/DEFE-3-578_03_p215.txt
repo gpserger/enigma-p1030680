@@ -1,0 +1,18 @@
+META serial=3687/56 too=1111 toi=0953/6/5/45 freq=3370KC/S from=S.O. to=U 170, 1108, 2502, 2513, 874
+GIST: Senior Officer informs specified U-boats that cessation of hostile facilities against English and Americans does not apply in Norwegian area per naval war staff instructions.
+
+ADM C3D
+TO I D B G                                 ZIP/ZTPG/3687/56
+
+FROM N S
+
+3370 KC/S        T O O 1111        T O I 0953/6/5/45
+
+FROM: S.O.
+TO:   U 170, 1108, 2502, 2513, 874
+
+ACCORDING TO TELEPHONED INSTRUCTIONS FROM NAVAL WAR STAFF THE
+CESSATION OF HOSTILKXXXX HOSTILITIES AGAINST THE ENGLISH AND
+AMERICANS DOES NOT APPLY IN NORWEGIAN AREA. ACKNOWLEDGE.
+
+0621/8/5/45+CFG+DJL

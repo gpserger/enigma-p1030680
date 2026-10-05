@@ -1,0 +1,20 @@
+META serial=367452 too=0326 toi=0157/1//5/45 freq=2115 from=DEPOT SHIP HILLE to=21ST R. FLOTILLA
+GIST For 1 May 1945, only use radio silence by W/T on 1 May 1945.
+
+ADM KC33)
+
+TO: I D 8 G
+
+FROM: N S
+
+2115 KC/S        TOO 0326                TOI 0157/1//5/45
+
+FROM: DEPOT SHIP 'HILLE'
+
+TO: 21ST R. FLOTILLA
+
+FOR 1/5, ONLY USE R/S BY W/T.
+
+CC TO I 0157/1/5/45
+
+[handwritten marking at bottom] 0606/1/5/45++CEL/FA

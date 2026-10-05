@@ -1,0 +1,18 @@
+META serial=367351 too=1903 toi=1801/30/4/45 freq=476 kcs from=3RD COAST DEFENCE UNIT to=V 5916, 5906
+GIST Vessels V 5916 and 5906 ordered to enter ROE at A/S speed on 30 April 1945.
+
+ADM C 3D
+
+TO I D 8 G
+
+FROM N S
+
+476 KC/S        TOO 1903                TOI 1801/30/4/45
+
+FROM: 3RD COAST DEFENCE UNIT
+
+TO: V 5916, 5906
+
+ENTER 'ROE' AT A/S SPEED.
+
+2331/30/4/45        EGT+++MPS+++

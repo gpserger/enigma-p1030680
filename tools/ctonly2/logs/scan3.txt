@@ -1,0 +1,12 @@
+== FLOOR=10 MCAP=0
+m4f10 R=20 poff=0 k=10: success 78/408 = 19.1%  evals/trial 28890  ns/eval 2250 (thread, contended)
+== FLOOR=10 PRE=ic MCAP=10
+m4f10 R=20 poff=0 k=10: success 78/408 = 19.1%  evals/trial 49808  ns/eval 1853 (thread, contended)
+== FLOOR=10 PRE=biic MCAP=10
+m4f10 R=20 poff=0 k=10: success 76/408 = 18.6%  evals/trial 49229  ns/eval 1507 (thread, contended)
+== FLOOR=10 PRE=bi MCAP=10
+m4f10 R=20 poff=0 k=10: success 71/408 = 17.4%  evals/trial 51386  ns/eval 1500 (thread, contended)
+== FLOOR=10 PRE=ic MCAP=4
+m4f10 R=20 poff=0 k=10: success 80/408 = 19.6%  evals/trial 42670  ns/eval 2062 (thread, contended)
+== FLOOR=10 PRE=tri MCAP=10
+m4f10 R=20 poff=0 k=10: success 73/408 = 17.9%  evals/trial 49586  ns/eval 1405 (thread, contended)

@@ -1,0 +1,18 @@
+META serial=367372 too=1128 toi=1159/28/4/45 freq=4860 kcs from=33RD U/B FLOTILLA to=I D 8 G
+GIST 33rd U/B Flotilla reports U.1903 leaving Flensburg at 1130 for Kiel at 12 knots on 28 April 1945.
+
+C 5J
+
+TO: I D 8 G
+
+FROM: N S
+
+4860 KC/S        T O O 1128                T O I 1159/28/4/45
+
+FROM: 33RD U/B FLOTILLA
+
+U.1903 (CHERGLOTZ) WILL LEAVE FLENSBURG AT 1130 FOR KIEL, SPEED
+
+12 KNOTS.
+
+0143/1/5/45 CEL/EB+

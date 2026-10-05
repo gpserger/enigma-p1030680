@@ -1,0 +1,25 @@
+META serial=367500 too=0126 toi=0443/1/5/45 freq=3160 from=C. in C. West (Croman) 1A to=Naval Chief Command West
+GIST C. in C. West reports on operational readiness of Naval Chief Command; intention subordination to 19th Army.
+
+ADM C4D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ZTPG/367500
+
+3160 KC/S        TOO 0126        TOI 0443/1/5/45
+
+FROM: C. IN C. WEST (CROMAN) 1A
+
+MAJOR-GENERAL ZIMMERMANN)
+
+TO: NAVAL CHIEF COMMAND WEST
+
+MOST IMMEDIATE        MOST SECRET NO.4551
+
+REPORT BY W/T STRENGTH AND TIME OF OPERATIONAL READINESS OF NAVAL
+CHIEF COMMAND WEST. INTENTION: SUBORDINATION TO AND OPERATION
+WITH 19TH ARMY.
+
+1313/1/5/45        EE/AHM++++

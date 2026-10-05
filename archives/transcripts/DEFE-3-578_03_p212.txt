@@ -1,0 +1,19 @@
+META serial=3687/53 too=2327/1 toi=0550/2/5/45 freq=382KC/S from=M 610 to=NAVAL HARBOURMASTER HYBORG
+GIST: M 610 reports to naval harbourmaster at Hyborg that about 2750 refugees will arrive at 1200/2/5 with assurance of victualling.
+
+ADM C3D
+TO I D B G                                 ZIP/ZTPG/3687/53
+
+FROM N S
+
+382 KC/S        T O O 2327/1        T O I 0550/2/5/45
+
+FROM: M 610
+TO:   NAVAL HARBOURMASTER HYBORG
+
+SHALL ARRIVE WITH ABOUT 2750 REFUGEES AT 1200/2/5. ENSURE
+VICTUALLING.
+
+CC READ TO: NAVAL HARBOURMASTER NYBORG
+
+0526/6/5/45+CFG+DJL

@@ -1,0 +1,15 @@
+META serial=367557 too=1409/25 toi=0043/26/4/45 freq=3515 from=U -BOAT BASE LA ROCHELLE to=B.D.U. COPS.
+GIST U-boat base La Rochelle sends 197-group message in special cipher No. 401 to B.D.U. (Befehlshaber der Unterseeboote).
+
+ADM (C4)
+TO: I D 8G       ZIP/ZTPG/ 367557
+FROM: N S
+
+3515 KC/S       TOO : 1409/25       TOI : 0043/26/4/45
+
+FROM: U -BOAT BASE LA ROCHELLE
+TO: B.D.U. COPS.)
+
+MESSAGE OF 197 GROUPS IN SPECIAL CIPHER NO.401.
+
+1640/1/5/45 EE/JG

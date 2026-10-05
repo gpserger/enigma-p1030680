@@ -1,0 +1,19 @@
+META serial=ZIP/ZTPG/367890 too=1404 toi=1305/7/4/45 freq=382 from=NETLAYER 8 to=10 TH DEFENCE DIVISION
+GIST Emergency request for confirmation whether fleet approves transfer of Proper Wiek anti-torpedo barrage.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367890
+FROM: N S
+
+382 KC/S         TOO 1404            T O I 1305/7/4/45
+
+FROM: NETLAYER 8
+TO:   10 TH DEFENCE DIVISION
+
+EMERGENCY
+
+URGENTLY REQUEST CONFIRMATION, WHETHER FLEET APPROVES OF TRANSFER
+OF PROPER WIEK ANTI-TORPEDO BARRAGE TO POSITION SUGGESTED
+BY YOU.
+
+0200/3/5/45 EGT+HDT++

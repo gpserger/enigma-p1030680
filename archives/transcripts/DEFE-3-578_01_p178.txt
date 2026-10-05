@@ -1,0 +1,16 @@
+META serial=ZI/ZTPc/368157 too=0937 toi=0950/5/4/45 freq=4860kc/s from=31ST U/B FLOTILLA to=ADMIRAL (U/B)
+GIST 31st U-Boat Flotilla requests appointment of Lieutenant Klukmeier as commanding officer of U-2340 to replace C.O. of U-2336 who has dropped out.
+
+FROM: 31ST U/B FLOTILLA
+TO: ADMIRAL (U/B)
+
+REQUEST THAT THE C.O. OF U. 2340, LIEUT. KLUKMEIER, BE
+XXM APPOINTED TO REPLACE THE C.O. OF U. 2336 WHO HAS DROPPED OUT.
+U. 2340 WAS SUNK ON 30/3/45.
+
+
+CC AT END FIRST LINE READ BE NOT NT
+SRI NOT BT
+
+
+1602/4/5/45++ CEL/VAB+++

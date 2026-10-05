@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367858 too=0802 toi=0633/27/4/45 freq=4860 KC/S from=S.O. 5TH U/B FLOTILLA to=U 3530
+GIST Order from S.O. 5th U/B Flotilla to U 3530 to proceed into Wiek.
+
+ADM (3)
+TO: I D B G                            ZIP/ZTPG/367858
+FROM: N S
+
+4860 KC/S         TOO 0802            TOI 0633/27/4/45
+
+FROM: S.O. 5TH U/B FLOTILLA
+TO: U 3530
+
+PROCEED INTO WIEK FORTHWITH.
+
+CC SERIAL NO. 'ZTPG/367858'
+
+2227/2/5/45'+++++++EE/SHH

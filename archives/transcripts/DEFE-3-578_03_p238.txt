@@ -1,0 +1,19 @@
+META serial=3687/79 too=1041 toi=0855/6/5/45 freq=4860KCS from=U-BOAT BASE WILHELMSHAVEN to=ALL
+GIST: U-boat base Wilhelmshaven announces occupation of base, destruction of secret matter, wireless station continues as repeating station, REGENBOGEN operation carried out.
+
+ADM(C4)
+TO I D B G                                 ZIP/ZTPG/3687/79
+
+FROM NS
+
+4860 KCS        TOO 1041        TOI 0855/6/5/45
+
+FROM: U-BOAT BASE WILHELMSHAVEN
+TO  : ALL
+
+WILHELMSHAVEN IS BEING OCCUPIED. SECRET MATTER DESTROYED. W/T
+((STATION)) WILL CONTINUE TO FUNCTION AS LONG AS POSSIBLE AS
+REPEATING STATION. 'REGENBOGEN' CARRIED OUT. LONG LIVE
+GERMANY AND THE PROUD U-BOAT ARM.
+
+2022/8/5/45+++AND/IW

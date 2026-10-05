@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPGU/39015 (ND) A too=1511/1/5/45 toi=1452 freq=7165 KC/S from=? to=?
+GIST Errata notice: TOI for message 39015 should read 1452 not 2452.
+
+ADM C4)
+
+TO I D 8 G                                   ZIP/ZTPGU/39015 (ND) A
+
+FROM N S
+
+7165 KC/S
+
+TOO 1511/1/5/45
+
+TOI SHOULD READ 1452 NOT 2452
+
+0534/7/5/45++ GFG/WAB++++

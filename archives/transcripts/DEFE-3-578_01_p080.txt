@@ -1,0 +1,42 @@
+META serial=368063 too=1810 toi=1752/27/4/45 freq=5215 from=AdmiralNetherlands to=NavalChiefCommandNorth
+GIST Admiral Netherlands reports: blocking of Zeehaven, Dordrecht and Dordsche Kil carried out; harassing fire on Westenschouwen Battery; ammunition and personnel on Goeree-Schouwen mainland.
+
+ADM C3D
+
+TO ID 8 G                                                ZIP/ZTPG/368063
+
+FROM N S
+
+
+5215 KC/S     TOO 1810     TOI 1752/27/4/45
+
+
+[handwritten bullet]
+FROM: ADMIRAL NETHERLANDS
+
+TO: NAVAL CHIEF COMMAND NORTH
+
+
+((CORRUPT GROUP)) 1800/27/4:
+
+
+1) THE BLOCKING OF ZEEHAVEN, DORDRECHT AND DORDSCHE KIL
+
+HAS BEEN CARRIED OUT.
+
+
+2) HARASSING FIRE ON WESTENSCHOUWEN BATTERY
+
+
+3) ((GOEREE -)) MAINLAND: 280 TONS OF AMMUNITION, ARMS,
+
+EQUIPMENT.
+
+
+[handwritten bullet]
+SCHOUWEN - GOEREE: ((25)) GUNS, ((22)90 SERVICE PERSONNEL
+
+120 TONS OF AMMUNITION, VICTUALS.
+
+
+2348/3/5/45 EE/HW

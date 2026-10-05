@@ -1,0 +1,21 @@
+META serial=367483 too=1308 toi=1132/26/4/45 freq=4500 from=Naval Chief Command West to=Part Staff Inst
+GIST Chief of Staff orders all officers except Lieut. Selbmann to Arzl at 1630 for conference.
+
+ADM C5D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ ZTPG/367483
+
+4500 KC /S        TOO 1308        TOI 1132/26/4/45
+
+FROM: NAVAL CHIEF COMMAND WEST
+
+TO: PART STAFF INST
+
+CHIEF OF STAFF ORDERS ALL OFFICERS WITH THE EXCEPTION OF
+LIEUT. C S.G) SELBMANN TO COME TO ARZL AT 1630 TO-DAY FOR
+A CONFERENCE.
+
+1126/1/5/45 EE/HJU

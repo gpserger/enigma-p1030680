@@ -1,0 +1,17 @@
+META serial=367539 too=0905 toi=0743/1/5/45 freq=3930 from=2ND COASTAL DEFENCE UNIT to=H 306
+GIST 2nd Coastal Defence Unit orders H 306 to discontinue Klavier for the time being with new request to follow.
+
+ADM (C5)
+TO: I D 8 G       ZIP/ZTPG/367539
+FROM: N S
+
+3930 KC/S       T O O 0905       T O I 0743/1/5/45
+
+FROM: 2ND COASTAL DEFENCE UNIT
+TO: H 306
+
+EMERGENCY
+
+DISCONTINUE ' KLAVIER' FOR THE TIME BEING. NEW REQUEST WILL FOLLOW.
+
+1545/1/5/45 EE/HJU

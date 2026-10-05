@@ -1,0 +1,5 @@
+crib 0 TONIANANCHEF..(16)@0 used=16 excluded=[] blocks=1 sizes: 16(pivot O, loops 1)
+DONE settings=23762752 time=5.6s rate=4.242M settings/s (2.121M/s/thread, 2 threads) T-evals/setting=6.5 stops=3910381
+crib 0 TONIANANCHEF..(16)@0: block-stops=3910381; verified g histogram: g0:420379 g1:741031 g2:1041029 g3:925791 g4:558178 g5:200700 g6:22846 g7:427
+5.60 s
+stats: 419931 lines in 23.3s

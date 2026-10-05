@@ -1,0 +1,15 @@
+META serial=ZTPG/367595 too=1302/1345 toi=1450/1504/28/4/45 freq=7285 kc/s from=NAVAL WAR STAFF (1ST DIVISION) 1 OP A to=NAVAL CHIEF COMMAND WEST
+GIST Naval War Staff (1st Division) sends Naval Chief Command West a short naval situation report of 0800/28, beginning with heavy fighting at Pillau (page is cut off after the first lines).
+
+ADM (5)
+TO: ? I D 8 G
+FROM: NS                                       ZIP/ZTPG/367595
+
+7285 KC/S     T O O 1302/1345       T O I 1450/1504/28/4/45
+
+FROM: NAVAL WAR STAFF (1ST DIVISION) 1 OP A
+TO:   NAVAL CHIEF COMMAND WEST
+
+XM SHORT NAVAL SITUATION REPORT (W/T). 0800/28.
+  1) NAVAL CHIEF COMMAND BALTIC:
+    IN PILLAU HEAVY FIGHTING CONTINUES. CONTINUAL ENEMY AIR

@@ -1,0 +1,18 @@
+META serial=367564 too=1433 toi=1820/23/4/45 freq=4860KC/S from=31ST U/B FLOTILLA to=ADMIRAL (U/B)
+GIST 31st U-boat Flotilla reports to Admiral (U/B) on remaining stocks of 'LUT' torpedoes loaded in freighter intended for transport to torpedo command.
+
+ADM(1)
+TO I D 8 G FOR 8 J
+FROM N S
+
+Z IP/ZTPG/367564
+
+4860 KC/S        T O O 1433        TOI: 1820/23/4/45
+
+FROM: 31ST U/B FLOTILLA
+
+TO: ADMIRAL (U/B)
+
+REMAINING STOCKS OF 'LUT'-TORPEDOES LOADED IN FREIGHTER [?] WAPPEN WHICH IS INTENDED FOR THE TRANSPORT AWAY OF THE TORPEDO COMMAND.
+
+1720/1/5/45+++EE+PG

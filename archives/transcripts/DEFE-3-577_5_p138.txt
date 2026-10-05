@@ -1,0 +1,20 @@
+META serial=367931 too=0704 toi=0526/30/4/45 freq=3764 from=NS to=IDB G
+GIST Message from TF 24 to Senior Officer 26th U-boat flotilla reporting secured position at Neustadt with watch maintained on 4860 KCS.
+
+EDM
+LBV
+
+ADM C4)
+To IDB G                                        Z IP/ZTPG/367931
+
+FROM NS
+
+3764 KCS         TOO 0704                TOI 0526/30/4/45
+
+FROM: TF 24
+
+TO  : S.O. 26TH U.B. FLOTILLA
+
+SECURED IN NEUSTADT AT 0700, WATCH BEING KEPT ON 4860 KCS
+
+0721/3/5/45+++EGT/IW

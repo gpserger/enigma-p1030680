@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367880 too=1715 toi=1655/2/5/45 freq=2360 from=ADMIRAL NETHERLANDS F 4 to=ALL
+GIST Admiral Netherlands F 4 reports naval communications equipment transferred from Amsterdam to Hembrug near Zaandam, joining 10th Naval detachment.
+
+ADM (3)
+TO IDBG                                         ZIP/ZTPG/367880
+FROM N S
+
+2360 KC/S         TOO 1715            TOI 1655/2/5/45
+
+FROM: ADMIRAL NETHERLANDS F 4
+TO: ALL
+
+NAVAL COMMUNICATIONS EQUIPMENT AXX MAINTENANCE DEPOT AMSTERDAM
+TRANSFERRED ON 1/5 TO HEMBURG NEAR ZAANDAM.TO JOIN 10TH NAVAL
+W/T ABTEILUNG. TELEPHONE NO. 146 VIA NAVAL EXCHANGE 'A' AMSTERDAM.
+T/P LINE AS HITHERTO.
+
+0215/3/5/45         EGT+++MPS+++

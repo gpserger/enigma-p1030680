@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367878 too=1924 toi=1812/27/4/45 freq=4860 from=CAPTAIN (U/B) BALTIC THROUGH TF 17 to=LEOPARD
+GIST Emergency order that vessel Leopard shall not arrive before 2400 hours.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367878
+FROM: N S
+
+4860 KC/S         TOO 1924            T O I 1812/27/4/45
+
+FROM: CAPTAIN (U/B) BALTIC THROUGH TF 17
+TO:   LEOPARD
+
+EMERGENCY
+
+SHALL NOT ARRIVE BEFORE 2400.
+
+0024/3/5/45 EGT+HDT++

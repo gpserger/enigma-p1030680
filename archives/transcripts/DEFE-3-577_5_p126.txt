@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367921 too=1142 toi=1132/1/5/45 freq=382 from=KREFELD to=ADMIRAL U-B
+GIST U-boat tender Krefeld reports left Warnemuende at 1140 under escort for Eckernfoerde.
+
+ADM (1)
+TO: IDBG                                         ZIP/ZTPG/367921
+FROM: N S
+
+382 KC/S         TOO 1142            T O I 1132/1/5/45
+
+FROM: KREFELD
+TO:   ADMIRAL U- B
+      CC 1 ADDRESSEE MISSED))
+      TORPEDO INSPECTORATE
+      U- B TENDER MOSEL
+
+LEFT WARNEMUENDE AT 1140 UNDER ESCORT FOR ECKERNFOERDE.
+
+0522/3/5/45 EGT+MDT++

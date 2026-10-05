@@ -1,0 +1,34 @@
+META serial=367365 too=2021 toi=1924/30/4/45 freq=3930 kcs from=V 6735 VIA V 6105 to=67TH V-FLOTILLA
+GIST Vessel V 6735 reports engine maintenance hours to 67th V-Flotilla on 30 April 1945.
+
+ADM C 3J
+
+TO I D 8 B
+
+FROM N S
+
+3930 KC/S        TOO 2021                TOI 1924/30/4/45
+
+FROM: V 6735 VIA V 6105
+
+TO: 67TH V-FLOTILLA
+
+A) 16.957
+
+B) 5.0
+
+C) 1.325
+
+D) 20.632
+
+PORTENGINE 8 HOURS
+
+STARBOARD '' 5.25 HOURS
+
+ELECTRIC MOTOR 1 13 ''
+
+'' '' 2 31 ''
+
+BOILER '' 36 ''
+
+2354/30/4/45        EGT+++MPS+++

@@ -1,0 +1,43 @@
+Ciphertext: 72 letters
+Scoring:    weighted all-orders + IC (language: wehrmacht)
+            n-gram files in tools/enigma/ngrams
+Hillclimb:  yes
+            1 restarts, 10-pair kick
+            staged: m4f10
+            quadgram-gain 2-ply+3-ply cascade once on the best board (--polish)
+            first-improvement climb (dynamic move order)
+            seed: 7
+Threads:    16
+Machine:    standard Enigma; reflector B, wheels 531
+            ring AA., start ...
+Plugboard:  (none)
+   Score W    R   G   S                                      Text
+ -8.9546 B531 AAA AAA AZ BU EH FS GP JL RX                   UUNDXARFAUPIXBOUBER
+ -8.8813 B531 AAA AAA AZ BU EH FS GP JL RX TY                UUNDXARFAUPIXBOUBER
+ -8.8760 B531 AAA HYA BC DT EM FR GQ HO IL KU NS VZ          LSGERKBGCAGJUEDICSD
+ -8.7856 B531 AAB KZE BF CT DM EZ GL IK JU OX PY             YABARTSZRTODSGRALIB
+ -8.7780 B531 AAB KZE BF CT DM EZ GL IK JU OX                PABARTSZRTODSGRALIB
+ -8.5171 B531 AAB KZE BF CT DM EZ GL IK JU OX PQ             QABARTSZRTODSGRALIB
+ -8.1615 B531 AAB KZE AR BF CT DM EZ GL IK JU OX PQ          QRBRATSZATODSGARLIB
+ -8.1369 B531 AAB KZE AR BF CT DM EZ GL IK JY OX PQ          QRBRATSZATODSGARLIB
+ -8.0478 B531 AAB FSK AQ CH DN EW FX LY MT OR PV             PEMHEEWBNOXGRNWELEE
+ -7.9812 B531 AAB FSO BG DO ER FS HL KX MW NU PT QY          SQTZSPRASRALPATTZEA
+ -7.9239 B531 AAA SRL AG CN DZ EJ KR LO MX PV                UETZEPUNNWARAXNREBE
+ -7.8676 B531 AAA VPC AC BD ES FW GQ HJ IP KM RY TZ          SKIVTVHOUFXOADISERE
+ -7.7871 B531 AAA VRC AL BO CV DR EJ FN GZ IS TX UW          TXSEAGIZEEOSEEEBISG
+ -7.7331 B531 AAB JNN AO CP DL GX HZ JU KR NS QV             SEANEUNUHRUISYERESH
+ -7.6978 B531 AAB YFP AZ BT CR DS HM IJ KQ UX VY             DIVUHREUESYBRMARORO
+ -7.6790 B531 AAB YFP AZ BT CR DS HM IJ KQ OP UX VY          DILUEREUESYBRMARPRP
+ -7.6777 B531 AAC SNK BG CX DU ES IO LM NQ PY TZ VW          HEILLSERTDVRANNAXEL
+ -7.6092 B531 AAE LBH AE BZ CI FK GR HY LW MN OU PT          IKINNANNZUSTERRZETE
+ -7.5060 B531 AAG VYN AN BS CM EO FJ GT HK IU RW             XUEERWENNMOXPFETSRC
+ -7.4982 B531 AAL ZOT BG CN DF EV HU IT JX KO LY PR          SBSFESEFRESNEEWSBUW
+ -7.4948 B531 AAQ HDG AY DX EW FG IO JQ KM NR PV TZ          HGVIESBFREWDREEUGEL
+ -7.4730 B531 AAS TJM EO GP HM IS JR LT NW UX YZ             EIGGLAINADFEINIEETE
+ -7.3280 B531 AAS TJM EO HM IS JR KP LT NW UX YZ             EIKKLAIDADFEINIEETE
+ -7.3198 B531 AAS TJM AP EO HM IS JR LT NW UX YZ             EIAALPINPDFEINIEETE
+
+Analysed 456976 rotor combinations, scored 1055153271 plugboards
+Finished in 11.27 s using 16 threads
+Precomputed 1 rotor table (0.4 MB); peak memory 10 MB
+wall=11.27 s

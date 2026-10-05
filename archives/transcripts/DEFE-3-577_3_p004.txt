@@ -1,0 +1,19 @@
+META serial=3671404 too=2315 toi=2211/30/4/45 freq=3082KC/S from=V5303 to=SEADEFENCECOMMANDANTBERGEN
+GIST V.5303 reports passing Korsfjord hydrophone screen at 0030 requesting opening west byfjord barrage at 0145.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671404
+FROM: N S
+[seal mark]
+
+3082 KC/S             T O O 2315              T O I 2211/30/4/45
+
+FROM: V 5303
+TO: SEA DEFENCE COMMANDANT BERGEN
+
+SHALL PASS THE KORSFJORD HYDROPHONE SCREEN AT 0030. REQUEST
+THE OPENING FXXXX OF THE WEST BYFJORD BARRAGE AT 0145.
+
+[seal mark]
+
+0254/1/5/45+++CEL/FA

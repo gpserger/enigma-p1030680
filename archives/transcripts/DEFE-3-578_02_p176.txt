@@ -1,0 +1,12 @@
+META serial=ADM C(2) too=1653 toi=1535/4/5/45 freq=3015 from=T 14 to=I D 8 G
+GIST Most immediate from T 14: encrypted message remainder of 27 groups in Officer cipher.
+
+FROM: T 14
+TO: S.O. 8TH 7 FLOTILLA
+    5TH DEFENCE DIVISION
+
+MOST IMMEDIATE
+
+REMAINDER 27 GROUPS OF OFFIZIER CPYXXXX CYPHER.
+
+0713/6/5/45 EGT/MW

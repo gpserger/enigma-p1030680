@@ -1,0 +1,21 @@
+META serial=367429 too=1211 toi=1050/30/4/45 freq=446 from=ADMIRAL NETHERLANDS to=NAVAL CHIEF COMMAND NORTH
+GIST Admiral Netherlands requests information on expected arrival time and route of Red Cross delegate Reuter being brought from there to Den Helder on 30 April 1945.
+
+ADM (4)
+
+TO: I D 8 G
+
+FROM: N S
+
+446 KC/S        TOO 1211                TOI 1050/30/4/45
+
+FROM: ADMIRAL NETHERLANDS
+
+TO: NAVAL CHIEF COMMAND NORTH
+
+ACCORDING TO INFORMATION FROM AMBASSADOR VON BEHLEN, RED CROSS
+DELEGATE REUTER IS BEING BROUGHT FROM THERE TO DEN HELDER. REQUEST
+I BE INFORMED OF HIS EXPECTED TIME OF ARRIVAL AND ROUTE HE IS
+TAKING.
+
+[handwritten marking at bottom] 0430/1/5/45++CEL/FA

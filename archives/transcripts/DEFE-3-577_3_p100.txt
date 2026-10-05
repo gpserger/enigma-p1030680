@@ -1,0 +1,18 @@
+META serial=367509_A too=1404/28/4/45 toi=? freq=4150 from=? to=?
+GIST Correction: 3rd group of addressee read K-REGT not K-REFT.
+
+ADM C4D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ZTPG/367509 A
+
+4150 KC/S        TOO 1404/28/4/45
+
+X
+
+3RD GROUP OF ADDRESSEE PLEASE READ ''K-REGT.'' NOT ''K-REFT''
+AS SENT.
+
+1450/1/5/45        EE/AHM++++

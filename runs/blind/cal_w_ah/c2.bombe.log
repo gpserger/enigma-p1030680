@@ -1,0 +1,5 @@
+crib 0 STUEKOWARNEM..(16)@0 used=16 excluded=[] blocks=1 sizes: 16(pivot Z, loops 1)
+DONE settings=23762752 time=18.2s rate=1.303M settings/s (0.651M/s/thread, 2 threads) T-evals/setting=5.1 stops=8790058
+crib 0 STUEKOWARNEM..(16)@0: block-stops=8790058; verified g histogram: g0:3312665 g1:2982163 g2:1663796 g3:674249 g4:145717 g5:11358 g6:110
+18.24 s
+stats: 3309462 lines in 120.7s

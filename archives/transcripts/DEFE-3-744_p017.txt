@@ -1,0 +1,21 @@
+META serial=ZIP/ZTPGU/39014 too=0122/2/5/45 toi=? freq=4960 KC/S from=? to=?
+GIST Query regarding U-boat Atlantic service and CCMY position in square AE 955.
+
+ADM (4)
+
+TO I D 8 G                                   ZIP/ZTPGU/39014
+
+FROM N S
+
+4960 KC/S
+
+0122/2/5/45  B'EQW
+
+CCMY POSITION IS SQUARE AE 955)).
+
+QUERY: U-BOAT ATLANTIC SERVICE 'IRELAND' ?
+
+NBP ((SIGNATURE CORRUPT))
+
+CDEPT. NOTE: SEE ZTPGU/38979;    [handwritten] 2222/4/5/45+++  EE/DC
+                T.O.O. 1105/2/5)

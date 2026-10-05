@@ -1,0 +1,14 @@
+META serial=ZTPG367806A too=1905/26/4/45 toi=none freq=4282 from=none to=none
+GIST Correction note regarding U-boat designation reading U.1110 not U.110 as sent.
+
+ADM(1)
+TO I D 8 G
+FROM N S
+
+ZIP/ZTPG/367806A
+
+4282 KC/S     TOO 1905/26/4/45
+
+IN SECOND LINE PLEASE READ ''U.1110'' NOT ''U.110'' AS SENT
+
+1646/2/5/45+EE+FG

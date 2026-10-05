@@ -1,0 +1,41 @@
+META serial=368049 too=0159 toi=0118/2/5/45 freq=368 from=T to=NavalFitting-OutDepotLiepaja
+GIST According to Supreme Command Navy, motor vessel Adrian loaded with coal for Liepaja, but only carried brown coal; operational units in Liepaja without coal.
+
+ADM C1D
+
+TO ID8G                                                ZIP/ZTPG/368049
+
+FROM N S
+
+
+[handwritten bullet]
+
+368 KC/S     TOO 0159     TOI 0118/2/5/45
+
+
+[handwritten bullet] FROM: 'T'
+
+REPEATED NAVAL FITTING-OUT DEPOT LIEPAJA
+
+      CALSO TO OTHER ADDRESSEES)
+
+
+EMERGENCY                    SECRET 2190 ENG.
+
+
+[handwritten bullet]
+ACCORDING TO SUPREME COMMAND OF THE NAVY, DIRECTOR OF 'EKV '
+
+SECRET 2488 OF 10/4, MOTOR VESSEL ADRIAN LOADED WITH 1000 TONS OF
+
+STONE-COAL FOR LIEPAJA. ACCORDING TO NAVAL FITTING-OUT DEPOT
+
+[handwritten parenthesis mark]
+LIEPAJA'S SECRET 1652 OF 29/4, ADRIAN CARRIED ONLY BROWN COAL.
+
+[handwritten bullet]
+CONSEQUENTLY OPERATIONAL UNITS IN LIEPAJA ARE WITHOUT COAL.
+
+CC 3RD LINE 3RD GRP: LIEPAJA.
+
+1856/3/5/45+++EE/UC

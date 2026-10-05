@@ -1,0 +1,22 @@
+META serial=367489 too=1401 toi=1329/29/4/45 freq=6747 from=Sea Defence Commandant Lorient to=Naval Chief Command West, B.D.U. Ops
+GIST Sea Defence Commandant Lorient reports 2 destroyers 30 km south of Belle Ile, course east.
+
+ADM C5D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ ZTPG/367489
+
+6747 KC/S        TOO 1401        TOI 1329/29/4/45
+
+FROM: SEA DEFENCE COMMANDANT LORIENT
+
+TO: NAVAL CHIEF COMMAND WEST
+
+B.D.U. OPS
+
+SOUTHERN TIP OF BELLE ILE REPORTS 2 DESTROYERS IN 180
+DEGREES, DISTANCE 30 KILOMETRES. COURSE EAST.
+
+1121/1/5/45 EE/HJU

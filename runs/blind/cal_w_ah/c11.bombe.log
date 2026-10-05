@@ -1,0 +1,5 @@
+crib 0 UUUJAGDKEINE..(16)@0 used=16 excluded=[] blocks=1 sizes: 16(pivot U, loops 2)
+DONE settings=23762752 time=0.5s rate=48.818M settings/s (24.409M/s/thread, 2 threads) T-evals/setting=0.2 stops=23733
+crib 0 UUUJAGDKEINE..(16)@0: block-stops=23733; verified g histogram: g0:3596 g1:7176 g2:7545 g3:4056 g4:1284 g5:76
+0.48 s
+stats: 3546 lines in 0.1s

@@ -1,0 +1,19 @@
+META serial=ZTPGU/39021 (N) too=1017 toi=0951/2/5/45 freq=7165 kc/s from=CAPTAIN (U/B) NORTHERN WATERS to=U/B BASE HARSTAD
+GIST Captain (U/B) Northern Waters gives U/B Base Harstad permission to put the petrol power unit into service.
+
+ADM(2)
+TO I D  8  G                                   ZIP/ZTPGU/39021 (N)
+FROM N S
+
+7165 KC/S        T O O 1017        T O I 0951/2/5/45
+
+FROM: CAPTAIN XX (U/B) NORTHERN WATERS
+TO: U/B BASE HARSTAD
+
+
+YOU HAVE PERMISSION TO PUT PETROL POWER UNIT INTO SERVICE.
+
+
+
+
+0508/7/5/45 GFG/MW

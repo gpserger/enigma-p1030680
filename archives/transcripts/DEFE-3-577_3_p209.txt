@@ -1,0 +1,18 @@
+META serial=367601 too=1814 toi=2000/23/4/45 freq=4282 from=CAPTAIN (U/B) BALTIC to=U-BOAT BASE WESERMUENDE, ALSO FOR AUTHORISED REPRESENTATIVE FOR U-BOATS
+GIST Captain (U-boats) Baltic replies to U-boat Base Wesermuende (and authorised U-boat representative) referencing W/T message 2037/22 on 'Grau 7': dispatch of Type 23 (XXIII) boats to the North Sea lapses, and orders on "thinning-out" boats; text continues onto the next page.
+
+ADM(4)
+TO: I D 8G                                     ZIP/ZTPG/ 367601
+FROM: N S
+
+4282 KC/S            TOO : 1814    TOI : 2000/23/4/45
+
+FROM: CAPTAIN (U/B) BALTIC
+TO:   U-BOAT BASE WESERMUENDE, ALSO FOR AUTHORISED REPRESENTATIVE
+      FOR U-BOATS
+
+REFERENCE YOUR W/T MESSAGE 2037/22 ON 'GRAU 7':
+
+TO (ROMAN) I) DISPATCH OF TYPE 23 BOATS LAPSES FOR THE NORTH SEA
+AREA. [handwritten, above garbled typed text: "To Roman"]
+TO (ROMAN) III) FOR THE PURPOSE OF 'THINNING - OUT', LAY BOATS NOT

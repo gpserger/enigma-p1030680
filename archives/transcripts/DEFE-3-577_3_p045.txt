@@ -1,0 +1,19 @@
+META serial=367456 too=0341 toi=0224/1/5/45 freq=3015 from=V 1270 to=5TH DEFENCE DIVISION
+GIST V 1270 arrived at Heligoland from Toenning with V.1224 and fishing smack at 0100 on 1 May 1945.
+
+ADM (33)
+
+TO: I D 8 G
+
+FROM: N S
+
+3015 KC/S        TOO 0341                TOI 0224/1/5/45
+
+FROM: V 1270
+
+TO: 5TH DEFENCE DIVISION
+
+ARRIVED HELIGOLAND FROM TOENNING WITH V.1224 AND A
+FISHING SMACK AT 0100.
+
+[handwritten marking at bottom] 0836/1/5/45++CEL/FA

@@ -1,0 +1,15 @@
+META serial=367520 too=1137 toi=1006/24/4/45 freq=4860 from=5TH U/B FLOTILLA to=U 2522
+GIST 5th U-boat flotilla orders U-boat 2522 to proceed into port forthwith.
+
+ADM (C4)
+TO: I D 8 G       ZIP/ZTPG/367520
+FROM: N S
+
+4860 KC/S       T O O 1137       T O I 1006/24/4/45
+
+FROM: 5TH U/B FLOTILLA
+TO: U 2522
+
+PROCEED INTO PORT FORTHWITH.
+
+1452/1/5/45       EE/AHM++++

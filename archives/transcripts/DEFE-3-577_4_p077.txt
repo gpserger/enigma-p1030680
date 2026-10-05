@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPG/367689 too=1242 toi=1120/26/4/45 freq=4412 KCS from=S.O. 5TH A-FLOTILLA to=AF 79, 80
+GIST S.O. 5th A-Flotilla orders immediate port entry.
+
+ADM KC4)
+
+TO I D 8 G    ZIP/ZTPG/367689
+
+FROM NS
+
+4412 KCS    TOO 1242    TOI 1120/26/4/45
+
+FROM: S.O. 5TH A-FLOTILLA
+
+TO  : AF 79, 80
+
+ENTER PORT IMMEDIATELY
+
+0631/2/5/45+++EGT/IV

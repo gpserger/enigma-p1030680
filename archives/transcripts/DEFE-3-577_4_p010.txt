@@ -1,0 +1,14 @@
+META serial=367615 too=0031 toi=? freq=3371 from=N S to=I D 8 G
+GIST Correction to read ''RADIO'' not ''RADION'' in 3rd line para 1 of message 367615.
+
+ADM: C53)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367615 A
+
+3371 KC/S        T00 0031 ETC/30/4
+
+IN 3 RD LINE PARA 1 READ '' RADIO '' NOT '' RADION ''
+
+003 1/2/5/45 EGT+HDT+++

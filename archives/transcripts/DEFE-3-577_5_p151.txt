@@ -1,0 +1,19 @@
+META serial=367940 too=0745 toi=0627/30/4/45 freq=3764 from=N S to=IDB G
+GIST U-boat U 903 reporting arrival at Kiel U-boat base with message traffic via 5th U-boat flotilla.
+
+ADM (3)
+
+TO IDB G                                        Z IP/ZTPG/367940
+
+FROM N S
+
+3764 KC/S         TOO 0745              TOI 0627/30/4/45
+
+FROM: U 903 (TINSCHERTY)
+
+ARRIVED IN KIEL U/B BASE AT 0730. CLOSING DOWN W/T WATCH.
+T/P'S VIA 5TH U/B FLOTILLA.
+
+CC: LINE 1.. CLOSING DOWN W/T...
+
+0713/3/5/45         EGT+++NPS+++

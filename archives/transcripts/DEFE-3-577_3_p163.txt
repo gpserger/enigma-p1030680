@@ -1,0 +1,18 @@
+META serial=367566 too=1326 toi=1150/23/4/45 freq=4860KC/S from=5TH U/B FLOTILLA to=U.3022
+GIST 5th U-boat Flotilla orders U-boat 3022 to enter port and moor alongside U 2520 to receive 10 cubic metres of heavy diesel oil.
+
+ADM(1)
+TO I D 8 G
+FROM N S
+
+Z IP/ZTPG/367566
+
+4860 KC/S        T O O 1326        TOI: 1150/23/4/45
+
+FROM: 5TH U/B FLOTILLA
+
+TO: U.3022
+
+BOAT WILL ENTER PORT FORTHWITH ALONGSIDE U 2520. GO TO BERTH 6 AND HAND OVER 10 CUBIC METRES HEAVY DIESEL OIL.
+
+1722/1/5/45+EE+PG

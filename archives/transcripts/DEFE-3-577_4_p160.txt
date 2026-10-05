@@ -1,0 +1,17 @@
+META serial=367767 too=0904 toi=0812/1/5/45 freq=4860 from=S.O. 4TH U/B FLOTILLA to=U.4701 RPTD. TO: U/BOAT BASE LUEBECK
+GIST S.O. 4th U/B Flotilla orders U.4701 to proceed to Flender Werft Luebeck with U.4702 and U.4703 for further instructions.
+
+PADH (S)
+TO: I D B G                                    ZIP/ZTPG/367767
+FROM: N S
+
+4860 KC/S            T O O 0904            T O I 0812/1/5/45
+
+FROM: S.O. 4TH U/B FLOTILLA
+TO: U.4701
+     RPTD. TO: U/BOAT BASE LUEBECK
+
+PROCEED TO THE FLENDER WERFT LUEBECK WITH U.4702 AND U.4703.
+FURTHER INSTRUCTIONS THERE.
+
+1256/2/5/45++CEL/FA

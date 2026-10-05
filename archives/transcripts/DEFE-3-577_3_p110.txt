@@ -1,0 +1,15 @@
+META serial=367522 too=0121 toi=0019/24/4/45 freq=3764 from=5TH U/B FLOTILLA to=U 1307
+GIST 5th U-boat flotilla reports taking up by escort postponed until 1400.
+
+ADM (C5)
+TO: I D 8 G       ZIP/ZTPG/367522
+FROM: N S
+
+3764 KC/S       T O O 0121       T O I 0019/24/4/45
+
+FROM: 5TH U/B FLOTILLA
+TO: U 1307
+
+TAKING UP BY ESCORT POSTPONED UNTIL 1400.
+
+1452/1/5/45 EE/HJU

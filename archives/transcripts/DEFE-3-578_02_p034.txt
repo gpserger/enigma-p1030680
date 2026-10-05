@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPc/368243 too=2026 toi=2052/1/5/45 freq=6747kc/s from=NAVAL CHIEF COMMAND WEST to=B D U OPS
+GIST Most immediate most secret message to B.D.U. Operations regarding U-255 operation against naval forces off Oleron and confirmation that U-485 is not in that sea area.
+
+FROM: NAVAL CHIEF COMMAND WEST
+TO: B D U OPS
+
+MOST IMMEDIATE MOST SECRET FOR S.O. ONLY BY HAND
+OF OFFICER
+
+SPECIAL SETTINGS NO. 161
+
+REGARDING OPERATION OF U 255 AGAINST NAVAL FORCES OFF OLERON ,
+HAVE WIRED TO LA ROCHELLE IN ANSWER TO QUERY , THAT U 485 IS
+NOT IN THAT SEA AREA .
+
+
+0516/5/5/45 EGT/UAK+++

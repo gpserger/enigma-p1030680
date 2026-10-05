@@ -1,0 +1,16 @@
+META serial=3687/76 too=0100/28 toi=2327/27/4/45 freq=3764KCS from=U3027 (MEHNER) to=?
+GIST: U3027 under command of Mehner reports onward passage at 0030 with U2535 (Bitter) under escort from Gruen 03 to Travemuende at speed 5 knots.
+
+ADM(C4)
+TO I D B G                                 ZIP/ZTPG/3687/76
+
+FROM NS
+
+3764 KCS        TOO 0100/28        TOI 2327/27/4/45
+
+FROM: U3027 (MEHNER)
+
+ONWARD PASSAGE AT 0030 WITH U 2535 (BITTER) UNDER ESCORT FROM
+GRUEN 03 TO TRAVEMUENDE. SPEED 5 KNOTS.
+
+1831/8/5/45++AND/IW

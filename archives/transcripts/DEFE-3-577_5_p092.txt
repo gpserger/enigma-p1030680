@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367893 too=2329 toi=2259/7/4/45 freq=3545 from=9 TH DEFENCE DIVISION to=ALL
+GIST Emergency order: Guardship 30 transferring to coordinates 5438.4 North, 1849.5 East.
+
+ADM (4)
+TO: IDBG                                         ZIP/ZTPG/367893
+FROM: N S
+
+3545 KC/S         TOO 2329            T O I 2259/7/4/45
+
+FROM: 9 TH DEFENCE DIVISION
+TO:   ALL
+
+EMERGENCY
+
+GUARDSHIP 30 TRANSFERRING TO 5438.4 NORTH, 1849.5 EAST.
+
+0152/3/5/45 EGT+MDT++

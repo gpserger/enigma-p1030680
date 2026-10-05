@@ -1,0 +1,16 @@
+META serial=367754 too=1625 toi=1507/30/4/45 freq=382 from=R 268 to=1ST DEFENCE FLOTILLA
+GIST S.S. Swakomund has not been taken into convoy as she is proceeding to Kiel.
+
+ADM (S)
+TO: I D B G                                    ZIP/ZTPG/367754
+FROM: N S
+
+382 KC/S            T O O 1625            T O I 1507/30/4/45
+
+FROM: R 268
+TO: 1ST DEFENCE FLOTILLA
+
+S.S 'SWAKOMUND' HAS NOT BEEN TAKEN INTO CONVOY AS SHE IS
+PROCEEDING TO KIEL.
+
+1244/2/5/45++CEL/FA

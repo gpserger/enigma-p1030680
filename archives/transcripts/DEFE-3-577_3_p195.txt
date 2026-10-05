@@ -1,0 +1,15 @@
+META serial=367590 too=1058 toi=0913/1/5/45 freq=2115 from=S-BOAT DEPOT SHIP LUEDERITZ to=NAVAL CHIEF COMMAND NORWAY
+GIST S-Boat Depot Ship Luederitz reports to Naval Chief Command Norway its stock of heavy diesel oil as of 1/5/45.
+
+ADM (5)
+TO: I D 8 G                                    ZIP/ZTPG/367590
+FROM: N S
+
+2115 KC/S            TOO 1058            TOI 0913/1/5/45
+
+FROM: S-BOAT DEPOT SHIP LUEDERITZ
+TO:   NAVAL CHIEF COMMAND NORWAY
+
+STOCK OF HEAVY DIESEL OIL, 1/5/45: 235 CBM.
+
+1911/1/5/45+++++EE/SMH

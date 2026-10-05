@@ -1,0 +1,25 @@
+META serial=367497 too=2047 toi=1913/29/4/45 freq=6747 from=Fortress Commandant La Rochelle to=Naval Chief Command West, B.D.U. Ops.
+GIST Fortress commandant reports 10 surface units south-west of Oleron, 15 miles off, including 2 large units and 3-funnelled destroyer similar to Purza.
+
+ADM C4D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ZTPG/367497
+
+6747 KC/S        TOO 2047        TOI 1913/29/4/45
+
+FROM: FORTRESS COMMANDANT LA ROCHELLE
+
+TO: NAVAL CHIEF COMMAND WEST
+
+B.D.U. OPS.
+
+MOST IMMEDIATE
+
+THROUGHOUT THE DAY 10 SURFACE UNITS HAVE BEEN LYING SOUTH-WEST OF
+OLERON, 15 MILES OFF. AMONG THEM 2 LARGE UNITS AND A 3-FUNNELLED
+DESTROYER, SIMILAR TO THE PURZA.
+
+1246/1/5/45        EE/AHM++++

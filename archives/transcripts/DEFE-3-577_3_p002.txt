@@ -1,0 +1,23 @@
+META serial=3671402 too=2137 toi=2014/30/4/45 freq=446KC/S from=NAVALCHIEFCOMMANDNORTH to=ADMIRALNETHERLANDS
+GIST Naval Chief Command North references Most Secret ZEQTP 3150 reporting no recoilless anti-tank grenades or high explosives available at ordnance inspectorate.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671402
+FROM: N S
+[seal mark]
+
+446 KC/S              T O O 2137              T O I 2014/30/4/45
+
+FROM: NAVAL CHIEF COMMAND NORTH
+TO: ADMIRAL NETHERLANDS
+
+MOST SECRET 080/45
+
+[handwritten] 3150
+REFERENCE YOUR MOST SECRET ZEQTP OF 15/4/45:
+NO RECOILLESS ANTI-TANK GRENADE DISCHARGERS OR HIGH EXPLOSIVES
+ARE AVAILABLE AT THE ORDNANCE INSPECTORATE.
+
+[seal mark]
+
+0258/1/5/45++CEL/FA

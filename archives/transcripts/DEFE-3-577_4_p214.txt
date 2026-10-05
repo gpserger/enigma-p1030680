@@ -1,0 +1,15 @@
+META serial=ZTPG367815A too=1320/5/4/45 toi=none freq=382 from=none to=none
+GIST Correction note regarding transmission reading TRIALS not TRAILS as sent.
+
+ADM C4)
+TO: I D 8G
+FROM: N S
+
+ZIP/ZTPG/367815A
+
+382 KC/S     TOO : 1320/5/4/45
+
+5TH GROUP OF PARA. 1). PLEASE READ ''TRIALS'' NOT
+''TRAILS'' AS SENT
+
+1727/2/5/45 EE/JG

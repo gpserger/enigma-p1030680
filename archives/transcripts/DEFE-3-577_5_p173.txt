@@ -1,0 +1,18 @@
+META serial=367962 too=1741 toi=1606/29/4/45 freq=4860 from=N S to=IDB G
+GIST 33rd U-boat flotilla reporting U-boat U 2518 Weidnerd arrival at Flensburg.
+
+ADM (4)
+
+TO: IDB G                                       Z IP/ZTPG/367962
+
+FROM: N S
+
+4860 KC+S         T O O 1741              T O I 1606/29/4/45
+
+FROM: 33RD U/B FLOTILLA
+
+U 2518 (WEIDNERD) ARRIVED FLENSBURG AT 1730/29/4.
+
+CC T OI 1606/29/4/45
+
+1044/3/5/45++++CEL/FA

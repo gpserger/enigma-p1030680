@@ -1,0 +1,18 @@
+META serial=367427 too=2326 toi=2?18/30/4/45 freq=2115 from=6TH COASTAL DEFENCE UNIT to=UJ.1757 SUBDIVISION
+GIST Emergency: U.2322 has put into Stavanger, ordered to return to position on 30 April 1945.
+
+C59
+
+TO: I D 8 G
+
+FROM: N S
+
+2115 KC/S        TOO 2326                TOI 2?18/30/4/45
+
+FROM: 6TH COASTAL DEFENCE UNIT
+
+TO: UJ.1757 'S SUBDIVISION
+
+EMERGENCY. U.2322 HAS PUT INTO STAVANGER. RETURN TO POSITION.
+
+[handwritten marking at bottom] 0423/1/5/45 CEL/EB+

@@ -1,0 +1,17 @@
+META serial=ZIP/ZTPG/367876 too=2325 toi=2205/27/4/45 freq=3764 from=5TH U/B FLOTILLA to=U 3017,3523
+GIST 5th U/B Flotilla orders U 3017 and U 3523 to await onward escort at point Rot 13 A.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367876
+FROM: N S
+
+3764 KC/S         TOO 2325            T O I 2205/27/4/45
+
+FROM: 5 TH U/B FLOTILLA
+TO:   U 3017,3523
+
+AWAIT ONWARD ESCORT AT POINT ROT 13 A.
+
+[handwritten] 0020/3/5/45 EGT+ MJT++
+
+0026/3/5/45 EGT+HDT++

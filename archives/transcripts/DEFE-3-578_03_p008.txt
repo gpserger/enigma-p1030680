@@ -1,0 +1,19 @@
+META serial=368502 too=2201 toi=2113/1/5/45 freq=3015 from=R134 to=?
+GIST R 134 reports that ship left with R 136 for Heligoland in ship movement reporting service.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368502
+
+FROM N S
+
+3015 KC/S     T O O 2201     T O I 2113/1/5/45
+
+FROM: R 134
+
+SHIP MOVEMENT REPORTING SERVICE:
+
+LEFT WITH R 136 FOR HELIGOLAND.
+
+
+1753/6/5/45+++EE/UC

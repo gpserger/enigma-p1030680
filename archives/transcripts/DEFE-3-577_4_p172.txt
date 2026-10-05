@@ -1,0 +1,18 @@
+META serial=367778 too=1156 toi=1424/1/5/45 freq=382 from=SPERBRECHER 132 to=10TH DEFENCE DIVISION
+GIST Emergency: Sperbrecher 132 anchored on anchorage H; still no permission to enter port.
+
+ADM (40)
+TO: I D B G                                    ZIP/ZTPG/367778
+FROM: N S
+
+382 KC/S            T O O 1156            HT O I 1424/1/5/45
+
+FROM: SPERBRECHER 132
+TO: 10TH DEFENCE DIVISION
+
+EMERGENCY
+
+HAVE ANCHORED ON ANCHORAGE 'H'. STILL NO PERMISSION TO ENTER
+KR PORT.
+
+1427/2/5/45 CEL/AHM++++

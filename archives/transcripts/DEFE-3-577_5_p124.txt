@@ -1,0 +1,20 @@
+META serial=ZIP/ZTPG/367919 too=1041 toi=0910/1/5/45 freq=382 from=T 10(C7)) to=10 TH DEFENCE DIVISION
+GIST Emergency: Pregel tow anchored at Gruen 03, must join company with next convoy to Vismar, as no navigational equipment on board.
+
+ADM (1)
+TO: I D 8 G                                     ZIP/ZTPG/367919
+FROM: N S
+
+382 KC/s         TOO 1041            T O I 0910/1/5/45
+
+FROM: T 10(C7))
+TO:   10 TH DEFENCE DIVISION
+
+EMERGENCY
+
+'PREGEL' TOW ANCHORED AT GRUEN 03. MUST JOIN COMPANY WITH  NEXT
+CONVOY TO VISMAR, AS NO NAVIGATIONAL EQUIPMENT ON BOARD.
+
+[handwritten marking]
+
+0526/3/5/45 EGT+MDT++

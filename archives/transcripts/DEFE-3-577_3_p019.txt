@@ -1,0 +1,22 @@
+META serial=3671419 too=0056/29 toi=2341/28/4/45 freq=3764KC/S from=U.3029CLARBY to=ADMIRALCU/BD,U/BOATZXXXACCEPTANCECOMMAND,5THUBFLOTILLA
+GIST U.3029 reports main steering CC2 groups corrupted out of order with spares being procured, at anchor near Falkenstein unable to manoeuvre.
+
+C52
+TO: I D 8 G                           ZIP/ZTPG/3671419
+FROM: N S
+[seal mark]
+
+3764 KC/S             T O O 0056/29              T O I 2341/28/4/45
+
+FROM: U.3029 (CLARBY)
+TO: ADMIRAL CU/BD
+U/BOAT ZXXX ACCEPTANCE COMMAND
+5TH U/B FLOTILLA
+
+MAIN STEERING CC2 GROUPS CORRUPTED IS OUT OF ORDER. SPARES
+ARE BEING PROCURED. AM AT PRESENT LYING AT ANCHOR NEAR FALKENSTEIN.
+UNABLE TO MANOEUVRE.
+
+[seal mark]
+
+0356/1/5/45 CEL/EB+

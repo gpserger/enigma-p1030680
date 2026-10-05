@@ -1,0 +1,16 @@
+META serial=ZIP/ZTPG/367884 too=1800 toi=2001/27/4/45 freq=3920 from=ADMIRAL (U/B) to=25 TH, 26 TH U-FLOTILLA
+GIST Admiral U/B orders 25th and 26th U-Flotillas regarding Captain training flotillas regarding training flotillas regarding duties.
+
+ADM (5)
+TO: IDBG                                         ZIP/ZTPG/367884
+FROM: N S
+
+3920 KC/S         TOO 1800            T O I 2001/27/4/45
+
+FROM: ADMIRAL (U/B)
+TO:   25 TH, 26 TH U-FLOTILLA
+      CAPTAIN (U/B) TRAINING
+
+[rest of page continues on next]
+
+0024/3/5/45 EGT+HDT++

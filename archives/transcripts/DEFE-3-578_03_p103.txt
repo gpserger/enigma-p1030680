@@ -1,0 +1,27 @@
+META serial=368650 too=1936 toi=1846/1/5/45 freq=2115 from=6THCOASTALDEFENCEUNIT to=?
+GIST 6th Coastal Defence Unit reports encounter message about convoys with U-boats: UJ.1702 with 1-2 plus 2 U-boats from Kristiansand south, 4 U-boats to Point Krieger, and separate convoys from Joessingfjord and Egersund heading to KS.
+
+ADM C4)
+
+TO: I D B G                ZIP/ZTPG/ 368650
+
+FROM: N S
+
+2115 KC/S     TOO : 1936     TOI : 1846/1/5/45
+
+FROM: 6TH COASTAL DEFENCE UNIT
+
+ENCOUNTER W/T MESSAGE:
+
+TO THE NORTH: FROM KRISTIANSAND SOUTH AT 2130, UJ.1702 WITH 1 TO 2
+PLUS 2 U-BOATS 10 KNOTS, TO 'ES' PLUS 4 U-BOATS AS FAR AS POINT
+KRIEGER.
+
+TO THE SOUTH: FROM JOESSINGFJORD AT 2200 UJ.1706 WITH 2 STEAMSHIPS,
+8.5 KNOTS TO 'KS', FROM EGERSUND AT 2200 NK.08 WITH 2 STEAMSHIPS,
+7 KNOTS TO 'KS'.
+
+CC GR 11: WITH
+
+
+1234/7/5/45 CEL/JG

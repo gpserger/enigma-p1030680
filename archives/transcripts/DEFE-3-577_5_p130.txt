@@ -1,0 +1,21 @@
+META serial=ZIP/ZTPG/367925 too=2321 toi=2319/29/4/45 freq=3978 from=40TH M/S FLOTILLA to=M 502
+GIST Emergency Most Secret 9: 8th Defence Division orders barrage and flak fire forbidden, all fire must be aimed only, cessation of ammunition deliveries makes strict adherence essential.
+
+(5)
+TO I D 8 G                                      ZIP/ZTPG/367925
+FROM N S
+
+3978 KC/S         TOO 2321            T O I 2319/29/4/45
+
+FROM: 40TH M/S FLOTILLA
+TO:   M 502
+
+EMERGENCY                  MOST SECRET 9
+
+8TH DEFENCE DIVISION WIRES WITH MOST SECRET 04761:
+OUR T/P MOST SECRET 04446 OF 18/4 FORBADE WITH IMMEDIATE
+EFFECT ALL BARRAGE AND FLAK FIRE AND ORDERED EXTREME ECONOMY
+IN AIMED FIRE. CESSATION OF ALL AMMUNITION DELIVERIES MAKES IT
+ESSENTIAL TO ADHERE STRICTLY TO THIS ORDER.
+
+0608/3/5/45         EGT+++MPS+++

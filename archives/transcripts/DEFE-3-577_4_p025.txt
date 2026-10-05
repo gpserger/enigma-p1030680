@@ -1,0 +1,20 @@
+META serial=367642 too=1431 toi=1309/26/4/45 freq=360 from=DEFENCE UNIT LORIENT to=?
+GIST Emergency Lorient ship movement report with reference to departure time 2200.
+
+ADM: C3)
+TO: I D 8 G
+FROM: NS
+
+Z IP/ZTPG/367642
+
+360KCS            T O O 1431                T0I 1309/26/4/45
+
+FROM: DEFENCE UNIT LORIENT
+
+EMERGENCY
+
+LORIENT SHIP MOVEMENT REPORT:
+
+REF. W/T MESSAGE 1205: DEPARTURE TIME 2200.
+
+0420/2/5/45+++EGT/IW

@@ -1,0 +1,19 @@
+META serial=368496 too=1636 toi=1500/1/5/45 freq=350 from=HXYG386 to=8THDEFENCEDIVISION
+GIST H XYG 386 reports to 8th Defence Division that Enigma machine is in order again and acknowledges wireless message 1236.
+
+ADM C5)
+
+TO: I D B G                ZIP/ ZTPG/368496
+
+FROM: N S
+
+350 KC/S     T O O 1636     T O I 1500/1/5/45
+
+FROM: H XYG 386
+TO: 8TH DEFENCE DIVISION
+
+ENIGMA MACHINE IN ORDER AGAIN.
+HEREBY ACKNOWLEDGE W/T MESSAGE 1236.
+
+
+1806/6/5/45 EE/MJU

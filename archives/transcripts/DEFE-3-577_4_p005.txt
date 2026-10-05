@@ -1,0 +1,19 @@
+META serial=367613 too=1637 toi=1535/23/4/45 freq=4860 from=TF 17 to=CAPTAIN (U/B) BALTIC
+GIST TF 17 reports U-boat left Wesemuende at 1630 with passage to Bremen.
+
+ADM: C52)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367613
+
+4860 KC/S                   T00 1637              TOI 1535/23/4/45
+
+FROM: TF 17
+TO:    CAPTAIN (U/B) BALTIC
+RPTD: U-BOAT BASE WESEMUENDE
+      U-BOAT BASE BREMEN.
+
+LEFT WESEMUENDE AT 1630.  PASSAGE TO BREMEN.
+
+2217/1/5/45+++++EE/SMH

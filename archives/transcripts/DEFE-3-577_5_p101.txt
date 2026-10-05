@@ -1,0 +1,15 @@
+META serial=ZIP/ZTPG/367902 too=2318 toi=2130/7/4/45 freq=4018 from=FLOTILLA ENGINEER to=ALL UNITS
+GIST Flotilla Engineer requests all units report forthwith whether they have a mobile S/T installation on board.
+
+ADM(4)
+TO: IDBG                                         ZIP/ZTPG/367902
+FROM: NS
+
+4018 KCS         TOO 2318            TOI 2130/7/4/45
+
+FROM: FLOTILLA ENGINEER
+TO  : ALL UNITS
+
+REPORT FORTHWITH WHETHER YOU HAVE A MOBILE S/T INSTALLATION ON BOARD.
+
+0340/3/5/45+++EGT/IW

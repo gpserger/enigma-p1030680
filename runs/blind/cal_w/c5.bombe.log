@@ -1,0 +1,5 @@
+crib 0 KOMXADMXUUUB..(16)@0 used=16 excluded=[] blocks=1 sizes: 16(pivot O, loops 2)
+DONE settings=17822064 time=0.8s rate=21.065M settings/s (10.533M/s/thread, 2 threads) T-evals/setting=0.3 stops=247535
+crib 0 KOMXADMXUUUB..(16)@0: block-stops=247535; verified g histogram: g0:48875 g1:51150 g2:52944 g3:55561 g4:31771 g5:6865 g6:369
+0.84 s
+stats: 48839 lines in 2.6s

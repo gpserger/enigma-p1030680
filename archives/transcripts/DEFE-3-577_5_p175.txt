@@ -1,0 +1,15 @@
+META serial=991 too=1656 toi=unknown freq=unknown from=N S to=I D 8 G
+
+GIST Re-message sent at 1045/3/5/45 with serial number reference.
+
+ADM
+
+TO: I D 8 G
+
+FROM: N S
+
+RE MESSAGE SENT AT 1045/3/5/45 T O O 1656 PLEASE READ
+
+SERIAL NO. AS ZIP/ZTPG/367963 NOT RPT NOT ZIP/ZTNQ / ETC
+
+[handwritten: ++++.x-]

@@ -1,0 +1,17 @@
+META serial=ZTPG/367813 too=0105/8 toi=2352/7/4/45 freq=3764 kc/s from=U 2540 (SCHULTZE) to=?
+GIST U 2540 (Schultze) reports it is with U 3037 at 1800 in convoy from Rot 01 to Roenne at 5.5 knots, with W/T watch on 4860 kc/s.
+
+ADM (3)
+TO: I D 8 G                                    ZIP/ZTPG/367813
+FROM: N S
+
+3764 KC/S        T O O 0105/8            T O I 2352/7/4/45
+
+FROM: U 2540 ( SCHULTZE )
+
+WITH U 3037 AT 1800 IN CONVOY FROM ROT 01 TO ROENNE .
+SPEED 5.5 KNOTS . W/T WATCH ON 4860 KC/S .
+
+
+
+1655/2/5/45        EE/UAK+++

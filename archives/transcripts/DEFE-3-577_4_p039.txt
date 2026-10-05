@@ -1,0 +1,27 @@
+META serial=367653 too=2128 toi=2035/28/4/45 freq=382 from=10TH. DEFENCE DIVISION to=SPERBRECHER 17
+GIST Most secret emergency order from Supreme Command regarding heavy diesel oil U-boat quality now restricted to U-boats only.
+
+ABD: C4
+AKD
+ADM: C3)
+TO: I D 8 G
+FROM: NS
+
+Z IF/ZTPG/367653
+
+382 KCS             T00 2128                T0I 2035/28/4/45
+
+FROM: 10TH. DEFENCE DIVISION
+TO:    SPERBRECHER 17
+
+MOST SECRET
+
+EMERGENCY
+
+SUPREME COMMAND OF THE NAVY, NAVAL WAR STAFF ADM. QU 3 WIRES:
+
+WITH IMMEDIATE EFFECT, HEAVY DIESEL OIL U/B QUALITY NOW FOR
+
+U-BOATS ONLY.
+
+0403/2/5/45+++EGT/IW

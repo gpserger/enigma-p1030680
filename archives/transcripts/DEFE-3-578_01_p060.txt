@@ -1,0 +1,39 @@
+META serial=368046 too=1625 toi=1515/1/5/45 freq=382 from=NavalHarbourmasterWismar to=NavalChiefCommandBaltic,SupremeCommandNavy
+GIST Naval Harbourmaster Wismar reports Der Deutsche is operationally effective as hospital ship but not ready to proceed due to lack of coal.
+
+ADM C3D
+
+TO ID8G                                                ZIP/ZTPG/368046
+
+[handwritten bullet]
+FROM N S
+
+
+382 KC/S.     TOO 1625     TOI 1515/1/5/45
+
+
+FROM: NAVAL HARBOURMASTER WISMAR FOR MEDICAL OFFICER
+
+      IN CHARGE OF DER DEUTCHE THROUGH M.3200
+
+TO: NAVAL CHIEF COMMAND BALTIC QU 3 AND QU 3 G. KIEL
+
+    SUPREME COMMAND OF THE NAVY, NAVAL WAR STAFF QU 6
+
+    S FLENSBURG.
+
+
+[handwritten bullet]
+MOST IMMEDIATE
+
+
+[handwritten bullet]
+DER DEUTSCHE IS OPERATIONALLY EFFECTIVE AS A HOSPITAL SHIP.
+
+SURGEONS, NURSES AND MEDICAL ORDERLIES ARE ON.BOARD. SHIP IS .
+
+NOT READY TO PROCEED OWING TO LACK OF COAL. COAL URGENTLY .
+
+REQUIRED IN ORDER TO MAINTAIN SERVICES.
+
+1746/3/5/45 EE/HW

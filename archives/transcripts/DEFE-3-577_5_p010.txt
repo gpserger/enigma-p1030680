@@ -1,0 +1,22 @@
+META serial=367825 too=0351 toi=0230/1/5/45 freq=3978 from=S.O. 2ND T-FLOTILLA IN T 4 to=NAVAL CHIEF COMMAND BALTIC NAVAL CHIEF COMMAND NORTH
+GIST Emergency: T 8 defective, anchored at Rot 07; oil supply difficulties to burner; to follow with next convoy.
+
+ADM (3)
+TO: I D B G                                    Z.IP/ZTPG/367825
+FROM: N S
+
+3978 KC/S            T O O 0351            T O I 0230/1/5/45
+
+FROM: S.O. 2ND T-FLOTILLA IN T 4
+TO: NAVAL CHIEF COMMAND BALTIC
+     NAVAL CHIEF COMMAND NORTH
+
+EMERGENCY
+
+AT 0050 T 8 AGAIN DEFECTIVE : HAS ANCHORED AT ROT 07 . IN BOTH
+CASES DIFFICULTIES IN OIL SUPPLY TO THE BURNER . SHE HAS ORDERS
+TO FOLLOW WITH THE NEXT CONVOY.
+
+[handwritten] 2050/2/5/45 EE/UAK+++
+
+[handwritten] 2050/2/5/45           EE/UAK+++

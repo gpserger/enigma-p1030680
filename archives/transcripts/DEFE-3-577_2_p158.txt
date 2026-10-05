@@ -1,0 +1,24 @@
+META serial=367356 too=2051 toi=1950/30/4/45 freq=403 kcs from=5TH FLIEGERDIVISION to=CAPTAIN U/B NORTHERN WATERS AND OTHERS
+GIST Fifth Fliegerdivision message addressed to multiple recipients including Captain U/B Northern Waters on 30 April 1945.
+
+C 5J
+
+TO: I D 8 G
+
+FROM: N S
+
+403 KC/S        T O O 2051.                T O I 1950/30/4/45
+
+FROM: 5TH FLIEGERDIVISION
+
+TO: CAPTAIN U/B NORTHERN WATERS
+
+    SEA DEFENCE COMMANDANT TROMSOE
+
+    2ND COAST DEFENCE UNIT
+
+    ADMIRAL COMMANDING POLAR COAST
+
+    MAIN NAVAL D/F STATION FINSNES
+
+[handwritten P.T.O.]

@@ -1,0 +1,18 @@
+META serial=367606 too=0821 toi=0843/1/5/45 freq=3930 from=V 6721 to=2ND COASTAL DEFENCE UNIT
+GIST V 6721 reports leaving Svolvaer at 0800 bound for Loedingen via 2nd Coastal Defence Unit 67th V-flotilla.
+
+ADM: (33)
+TO: I D 8 G
+FROM: N S
+
+Z IP/ZTPG/367606
+
+3930 KC/S        T OO 0821           T O I 0843/1/5/45
+
+FROM: V 6721 THROUGH NAVAL W/T STATION SVOLVAER
+TO: 2ND COASTAL DEFENCE UNIT
+     67TH V-FLOTILLA .
+
+LEFT SVOLVAER AT 0800 FOR CC ? LOEDINGEN )).
+
+2110/1/5/45                EE/UAK+++

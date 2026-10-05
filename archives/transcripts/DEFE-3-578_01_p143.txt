@@ -1,0 +1,32 @@
+META serial=368124 too=0716 toi=0545/12/4/45 freq=3764 from=U3030Clutmann to=Admiral(U/B),5thU/BFlotilla,19thU/BFlotilla
+GIST U 3030 (Clutmann) reports leaving Kiel in convoy for Roenne at 0730; speed unknown.
+
+ADM C4D
+
+TO: ID 8 G                                                ZIP/ZTPG/368124
+
+FROM: N S
+
+
+3764 KC/S      TOO 0716     TOI 0545/12/4/45
+
+
+[handwritten bullet]
+FROM: U 3030 (CLUTMANN)
+
+[handwritten bullet]
+TO: ADMIRAL (U/B)
+
+    5TH U/B FLOTILLA
+
+    19TH U/B FLOTILLA
+
+    FRONT LINE TRAINING GROUP
+
+
+LEAVING KIEL IN CONVOY FOR ROENNE AT 0730. SPEED UNKNOWN.
+
+4860 KC/S.
+
+[handwritten bullet]
+0627/4/5/45++++EGT/SMH

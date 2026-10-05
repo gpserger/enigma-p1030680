@@ -1,0 +1,18 @@
+META serial=367373 too=2030 toi=1949/28/4/45 freq=3764 kcs from=U.3016 (CHEENTZEN) to=I D 8 G
+GIST U.3016 passed 13 degrees east at 1630 bound west in convoy with U.3023 and U.3521 on 28 April 1945.
+
+C 5J
+
+TO: I D 8 G
+
+FROM: N S
+
+3764 KC/S        T O O 2030                T O I 1949/28/4/45
+
+FROM: U.3016 (CHEENTZEN)
+
+PASSED 13 DEGREES EAST AT 1630, BOUND WEST IN CONVOY WITH U.3023
+
+AND U.3521.
+
+0149/1/5/45 CEL/EB+

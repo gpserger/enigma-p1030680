@@ -1,0 +1,20 @@
+META serial=367462 too=1500 toi=1655/27/4/45 freq=360 from=S.O. Lorient Defence Unit to=Pllns
+GIST S.O. Lorient Defence Unit awaiting written report on loading delay; departure on 28/4 must be ensured.
+
+(5)
+TO: IDBG
+FROM: N S
+
+ZIP/ZTPG/367462
+
+360 KC/S        TOO 1500        TOI 1655/27/4/45
+
+FROM: S.O. LORIENT DEFENCE UNIT
+
+TO: PLLNS (CREIAZ)
+
+AM AWAITING A WRITTEN REPORT FROM THE LOADING STAFF AS TO WHY
+LOADING WAS NOT COMPLETED BY 27/4. DEPARTURE ON 28/4 MUST NOW
+BE ENSURED BEYOND ALL DOUBT.
+
+0837/1/5/45 CEL/B+

@@ -1,0 +1,24 @@
+META serial=367377 too=2023 toi=2010/30/4/45 freq=3930 kcs from=V.6721 to=67TH V-FLOTILLA (CENGINEERING OFFICE)
+GIST V.6721 reports heavy diesel oil status to 67th V-Flotilla for period 16-30 April 1945.
+
+C 5J
+
+TO: I D 8 G
+
+FROM: N S
+
+3930 KC/S        T O O 2023                T O I 2010/30/4/45
+
+FROM: V.6721
+
+TO: 67TH V-FLOTILLA (CENGINEERING OFFICE)
+
+HEAVY DIESEL OIL REPORT FOR 16/4 TO 30/SXXX 30/4/45:
+
+A) 5.2 B) NIL C) 0.7 D) 4.5.
+
+WORKING HOURS 1/4 TO 15/4: 39.
+
+16/4 TO 30/4: 34.
+
+0137/1/5/45 CEL/EB+

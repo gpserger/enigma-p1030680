@@ -1,0 +1,13 @@
+META serial=ZIP/ZTPg/368237 too=0119 toi=0143/2/5/45 freq=4880kc/s from=C IN C NAVAL CHIEF COMMAND WEST to=O.C. LA ROCHELLE FORTRESS
+GIST Naval Chief Command West instructs La Rochelle Fortress that plan to fetch away specialists from Oleron by M-boat or HS-boat must be dropped due to general situation and discipline of fighting troops.
+
+FROM: C IN C NAVAL CHIEF COMMAND WEST
+TO: O.C. LA ROCHELLE FORTRESS
+
+REF. YOUR 1341, 1420/1: IF IT IS YOUR INTENTION TO FETCH
+AWAY SPECIALISTS FROM OLERON BY M-BOAT OR HS-BOAT, IT MUST
+BE DROPPED IN VIEW OF THE GENERAL SITUATION AND PREJUDICE
+TO DISCIPLINE OF FIGHTING TROOPS.
+
+
+0350/5/5/45+++++EGT/SMH

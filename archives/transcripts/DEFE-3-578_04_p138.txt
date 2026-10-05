@@ -1,0 +1,16 @@
+META serial=3687/15 too=1803 toi=1658/1/5/45 freq=4860KC/S from=26 TH U/B FLOTILLA to=5 TH U/B FLOTILLA
+GIST: 26th U-boat Flotilla reports F.T.A. U 2365 in Kiel at 3/5.
+
+ADM (C2)
+TO: I D B G                                 ZIP/ZTPG/3687/15
+
+FROM: N S
+
+4860 KC/S        TOO 1803        T O I 1658/1/5/45
+
+FROM: 26 TH U/B FLOTILLA
+TO:   5 TH U/B FLOTILLA
+
+F.T.A. U 2365 IN KIEL: 3/5.
+
+1349/13/5/45 ECT+MDT++

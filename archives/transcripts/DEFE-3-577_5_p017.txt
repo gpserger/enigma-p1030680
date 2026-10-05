@@ -1,0 +1,16 @@
+META serial=367831 too=1927 toi=1540/30/4/45 freq=4860 from=CAPTAIN (U/B) BALTIC to=U 291 (NEUMEISTER)
+GIST Break off training; come to Rendsburg immediately; report on board Saar (70).
+
+ADM (3)
+TO: I D B G                                    ZIP/ZTPG/367831
+FROM: N S
+
+4860 KC/S            T O O 1927            T O I 1540/30/4/45
+
+FROM: CAPTAIN (U/B) BALTIC
+TO: U 291 C NEUMEISTER >
+
+BREAK OFF TRAINING . COME TO RENDSBURG IMMEDIATELY . RP XXXXXX
+REPORT ON BOARD SAAR C 70 >.
+
+2105/2/5/45            EE/UAK+++

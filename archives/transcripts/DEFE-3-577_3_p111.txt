@@ -1,0 +1,17 @@
+META serial=367521 too=1005 toi=0950/24/4/45 freq=4860 from=U 2545 to=ADMIRAL (U/B) 5TH U/B FLOTILLA
+GIST U-boat 2545 reports made fast at Gross-Koenigs Foerde and awaiting reopening orders.
+
+ADM (C3)
+TO I D 8 G       Z1P/ZTPG/367521
+FROM N S
+
+4860 KC/S       T O O 1005       T O I 0950/24/4/45
+
+FROM: U 2545
+TO: ADMIRAL (U/B)
+5TH U/B FLOTILLA
+
+HAVE MADE FAST AT GROSS-KOEN IGSFOERDE. AM WAITING FOR REOPEN ING.     CC: [handwritten] Read KOEN IGSFOERDE
+
+CC: [handwritten, struck through] READ: KOENIGSFOERDE
+1453/1/5/45 EE/HW

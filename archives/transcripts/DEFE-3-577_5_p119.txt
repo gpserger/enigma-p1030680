@@ -1,0 +1,11 @@
+META serial=ZIP/ZTPG/367915 A too=1551/27/4 toi=? freq=460 from=N S to=IDBG
+GIST Correction: 2nd group of message should read 'requires not request' as sent.
+
+TO I D 8 G                                      ZIP/ZTPG/367915 A
+FROM N S
+
+460 KC/S                       TOO 1551/27/4
+
+2ND GROUP OF MESSAGE SHOULD READ 'REQUIRES NOT REQUEST' AS SENT.
+
+0604/3/5/45         EGT+++HPS+++

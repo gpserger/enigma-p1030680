@@ -1,0 +1,17 @@
+META serial=3687/17 too=0009/4 toi=2237/3/5/45 freq=433KC/S from=V.6505 to=S.O. 65TH V.FLOTILLA
+GIST: V.6505 references wireless message 2136 and reports intention to leave Fallvik at 0100.
+
+ADM(C2)
+TO I D B G                                 ZIP/ZTPG/3687/17
+
+FROM N S
+
+433 KC/S        T O O 0009/4        T O I 2237/3/5/45
+
+FROM: V.6505
+TO:   S.O. 65TH V.FLOTILLA
+
+REFERENCE W/T MESSAGE 2136:
+SHALL LEAVE FALLVIK AT 0100.
+
+0614/9/5/45+CEL+DJL

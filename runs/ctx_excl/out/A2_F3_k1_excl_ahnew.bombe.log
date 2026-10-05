@@ -1,0 +1,272 @@
+crib 0 FUENFXUUUFLO..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot O, loops 4) 14(pivot U, loops 5)
+crib 1 FUENFXUUUFLO..(35)@0 used=30 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot V, loops 5) 15(pivot U, loops 5)
+crib 2 FUENFXUUUFLO..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot F, loops 4) 14(pivot U, loops 4)
+crib 3 FUENFXUUUFLO..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 5) 14(pivot F, loops 4)
+crib 4 FUENFUUUFLOT..(32)@0 used=28 excluded=[1 10 20 25 ] blocks=2 sizes: 14(pivot U, loops 1) 14(pivot F, loops 5)
+crib 5 FUENFUUUFLOT..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot U, loops 4) 14(pivot F, loops 3)
+crib 6 FUNFXUUUFLOT..(32)@0 used=28 excluded=[1 10 20 25 ] blocks=2 sizes: 14(pivot X, loops 4) 14(pivot F, loops 3)
+crib 7 FUNFXUUUFLOT..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot S, loops 3) 14(pivot R, loops 3)
+crib 8 FUNFUUUFLOTT..(32)@0 used=28 excluded=[1 10 20 25 ] blocks=2 sizes: 14(pivot F, loops 4) 14(pivot X, loops 2)
+crib 9 FUNFUUUFLOTT..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot U, loops 3) 14(pivot X, loops 3)
+crib 10 FUNFUUUFLOTT..(28)@0 used=24 excluded=[1 10 20 25 ] blocks=2 sizes: 12(pivot U, loops 3) 12(pivot V, loops 2)
+crib 11 FUNFUUUFLOTT..(29)@0 used=25 excluded=[1 10 20 25 ] blocks=2 sizes: 13(pivot U, loops 2) 12(pivot X, loops 3)
+crib 12 ZWOFUENFXUUU..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 2) 14(pivot X, loops 5)
+crib 13 ZWOFUENFXUUU..(35)@0 used=30 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 5) 15(pivot F, loops 5)
+crib 14 ZWOFUENFXUUU..(36)@0 used=31 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot O, loops 6) 15(pivot U, loops 4)
+crib 15 ZWOFUENFXUUU..(37)@0 used=32 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot O, loops 6) 16(pivot X, loops 5)
+crib 16 ZWOFUENFXUUU..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot F, loops 3) 14(pivot U, loops 3)
+crib 17 ZWOFUENFXUUU..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot V, loops 4) 14(pivot U, loops 4)
+crib 18 ZWOFUENFUUUF..(36)@0 used=31 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot U, loops 5) 15(pivot O, loops 5)
+crib 19 ZWOFUENFUUUF..(37)@0 used=32 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot F, loops 5) 16(pivot X, loops 5)
+crib 20 ZWOFUENFUUUF..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot S, loops 3) 14(pivot U, loops 3)
+crib 21 ZWOFUENFUUUF..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 4) 14(pivot X, loops 4)
+crib 22 ZWOFUENFUUUF..(35)@0 used=30 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot X, loops 4) 15(pivot U, loops 4)
+crib 23 ZWOFUENFUUUF..(36)@0 used=31 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot O, loops 4) 15(pivot F, loops 5)
+crib 24 ZWOFUENFUUUF..(32)@0 used=28 excluded=[1 10 20 25 ] blocks=2 sizes: 14(pivot F, loops 3) 14(pivot U, loops 3)
+crib 25 ZWOFUNFXUUUF..(36)@0 used=31 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot F, loops 5) 15(pivot U, loops 5)
+crib 26 ZWOFUNFXUUUF..(37)@0 used=32 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot S, loops 6) 16(pivot X, loops 5)
+crib 27 ZWOFUNFXUUUF..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot F, loops 3) 14(pivot R, loops 4)
+crib 28 ZWOFUNFXUUUF..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot V, loops 5) 14(pivot U, loops 4)
+crib 29 ZWOFUNFXUUUF..(35)@0 used=30 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 4) 15(pivot F, loops 6)
+crib 30 ZWOFUNFXUUUF..(36)@0 used=31 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot F, loops 4) 15(pivot U, loops 6)
+crib 31 ZWOFUNFXUUUF..(32)@0 used=28 excluded=[1 10 20 25 ] blocks=2 sizes: 14(pivot F, loops 4) 14(pivot V, loops 3)
+crib 32 ZWOFUNFXUUUF..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot F, loops 5) 14(pivot X, loops 3)
+crib 33 ZWOFUNFUUUFL..(35)@0 used=30 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot F, loops 4) 15(pivot U, loops 5)
+crib 34 ZWOFUNFUUUFL..(36)@0 used=31 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot O, loops 4) 15(pivot U, loops 4)
+crib 35 ZWOFUNFUUUFL..(32)@0 used=28 excluded=[1 10 20 25 ] blocks=2 sizes: 14(pivot F, loops 3) 14(pivot U, loops 3)
+crib 36 ZWOFUNFUUUFL..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot F, loops 3) 14(pivot U, loops 3)
+crib 37 ZWOFUNFUUUFL..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 4) 14(pivot O, loops 4)
+crib 38 ZWOFUNFUUUFL..(35)@0 used=30 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 4) 15(pivot F, loops 4)
+crib 39 VIERXUUUFLOT..(32)@0 used=28 excluded=[1 10 20 25 ] blocks=2 sizes: 14(pivot U, loops 3) 14(pivot R, loops 3)
+crib 40 VIERXUUUFLOT..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot U, loops 3) 14(pivot R, loops 3)
+crib 41 VIERUUUFLOTT..(32)@0 used=28 excluded=[1 10 20 25 ] blocks=2 sizes: 14(pivot R, loops 3) 14(pivot O, loops 4)
+crib 42 VIERUUUFLOTT..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot O, loops 3) 14(pivot R, loops 4)
+crib 43 VIERUUUFLOTT..(28)@0 used=24 excluded=[1 10 20 25 ] blocks=2 sizes: 12(pivot U, loops 3) 12(pivot S, loops 3)
+crib 44 CHEFFUENFXUU..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot X, loops 4) 14(pivot F, loops 5)
+crib 45 CHEFFUENFXUU..(35)@0 used=30 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot X, loops 5) 15(pivot R, loops 5)
+crib 46 CHEFFUENFUUU..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot F, loops 6) 14(pivot U, loops 4)
+crib 47 CHEFFUENFUUU..(35)@0 used=30 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot R, loops 4) 15(pivot F, loops 6)
+crib 48 CHEFFUENFUUU..(36)@0 used=31 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot F, loops 5) 15(pivot U, loops 5)
+crib 49 CHEFFUENFUUU..(37)@0 used=32 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot X, loops 6) 16(pivot F, loops 5)
+crib 50 CHEFFUENFUUU..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 5) 14(pivot V, loops 4)
+crib 51 CHEFFUNFXUUU..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 4) 14(pivot F, loops 4)
+crib 52 CHEFFUNFXUUU..(35)@0 used=30 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 5) 15(pivot F, loops 4)
+crib 53 CHEFFUNFXUUU..(36)@0 used=31 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot F, loops 5) 15(pivot U, loops 5)
+crib 54 CHEFFUNFXUUU..(37)@0 used=32 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot X, loops 6) 16(pivot F, loops 5)
+crib 55 CHEFFUNFXUUU..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot U, loops 3) 14(pivot F, loops 3)
+crib 56 CHEFFUNFXUUU..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 3) 14(pivot V, loops 6)
+crib 57 CHEFFUNFUUUF..(36)@0 used=31 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot O, loops 5) 15(pivot U, loops 5)
+crib 58 CHEFFUNFUUUF..(37)@0 used=32 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot F, loops 5) 16(pivot R, loops 5)
+crib 59 CHEFFUNFUUUF..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot U, loops 4) 14(pivot F, loops 4)
+crib 60 CHEFFUNFUUUF..(34)@0 used=29 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 5) 14(pivot X, loops 4)
+crib 61 CHEFFUNFUUUF..(35)@0 used=30 excluded=[1 10 20 25 32 ] blocks=2 sizes: 15(pivot U, loops 5) 15(pivot V, loops 5)
+crib 62 CHEFFUNFUUUF..(36)@0 used=31 excluded=[1 10 20 25 32 ] blocks=2 sizes: 16(pivot N, loops 4) 15(pivot U, loops 5)
+crib 63 CHEFFUNFUUUF..(32)@0 used=28 excluded=[1 10 20 25 ] blocks=2 sizes: 14(pivot F, loops 4) 14(pivot U, loops 3)
+crib 64 CHEFFUNFUUUF..(33)@0 used=28 excluded=[1 10 20 25 32 ] blocks=2 sizes: 14(pivot F, loops 3) 14(pivot U, loops 5)
+[200/28392 items] 186s settings=91395200 (0.49M/s) stops=180350
+[400/28392 items] 370s settings=182790400 (0.49M/s) stops=361665
+[600/28392 items] 555s settings=274185600 (0.49M/s) stops=541791
+[800/28392 items] 740s settings=365580800 (0.49M/s) stops=725490
+[1000/28392 items] 925s settings=456976000 (0.49M/s) stops=907344
+[1200/28392 items] 1110s settings=548371200 (0.49M/s) stops=1088695
+[1400/28392 items] 1294s settings=639766400 (0.49M/s) stops=1272039
+[1600/28392 items] 1479s settings=731161600 (0.49M/s) stops=1453812
+[1800/28392 items] 1663s settings=822556800 (0.49M/s) stops=1636456
+[2000/28392 items] 1847s settings=913952000 (0.49M/s) stops=1818313
+[2200/28392 items] 2030s settings=1005347200 (0.50M/s) stops=2001289
+[2400/28392 items] 2214s settings=1096742400 (0.50M/s) stops=2181705
+[2600/28392 items] 2398s settings=1188137600 (0.50M/s) stops=2361134
+[2800/28392 items] 2585s settings=1279532800 (0.50M/s) stops=2542815
+[3000/28392 items] 2768s settings=1370928000 (0.50M/s) stops=2724409
+[3200/28392 items] 2953s settings=1462323200 (0.50M/s) stops=2904349
+[3400/28392 items] 3137s settings=1553718400 (0.50M/s) stops=3086009
+[3600/28392 items] 3320s settings=1645113600 (0.50M/s) stops=3268453
+[3800/28392 items] 3505s settings=1736508800 (0.50M/s) stops=3449188
+[4000/28392 items] 3689s settings=1827904000 (0.50M/s) stops=3630817
+[4200/28392 items] 3873s settings=1919299200 (0.50M/s) stops=3813096
+[4400/28392 items] 4057s settings=2010694400 (0.50M/s) stops=3993891
+[4600/28392 items] 4241s settings=2102089600 (0.50M/s) stops=4175871
+[4800/28392 items] 4427s settings=2193484800 (0.50M/s) stops=4356259
+[5000/28392 items] 4610s settings=2284880000 (0.50M/s) stops=4536828
+[5200/28392 items] 4792s settings=2376275200 (0.50M/s) stops=4718191
+[5400/28392 items] 4976s settings=2467670400 (0.50M/s) stops=4899054
+[5600/28392 items] 5158s settings=2559065600 (0.50M/s) stops=5080720
+[5800/28392 items] 5341s settings=2650460800 (0.50M/s) stops=5261161
+[6000/28392 items] 5525s settings=2741856000 (0.50M/s) stops=5442637
+[6200/28392 items] 5709s settings=2833251200 (0.50M/s) stops=5624183
+[6400/28392 items] 5892s settings=2924646400 (0.50M/s) stops=5805633
+[6600/28392 items] 6076s settings=3016041600 (0.50M/s) stops=5987331
+[6800/28392 items] 6261s settings=3107436800 (0.50M/s) stops=6167821
+[7000/28392 items] 6444s settings=3198832000 (0.50M/s) stops=6347947
+[7200/28392 items] 6629s settings=3290227200 (0.50M/s) stops=6529719
+[7400/28392 items] 6813s settings=3381622400 (0.50M/s) stops=6710782
+[7600/28392 items] 6997s settings=3473017600 (0.50M/s) stops=6892559
+[7800/28392 items] 7180s settings=3564412800 (0.50M/s) stops=7075460
+[8000/28392 items] 7364s settings=3655808000 (0.50M/s) stops=7256701
+[8200/28392 items] 7548s settings=3747203200 (0.50M/s) stops=7438850
+[8400/28392 items] 7732s settings=3838598400 (0.50M/s) stops=7619832
+[8600/28392 items] 7916s settings=3929993600 (0.50M/s) stops=7801129
+[8800/28392 items] 8101s settings=4021388800 (0.50M/s) stops=7982416
+[9000/28392 items] 8287s settings=4112784000 (0.50M/s) stops=8163395
+[9200/28392 items] 8473s settings=4204179200 (0.50M/s) stops=8343787
+[9400/28392 items] 8657s settings=4295574400 (0.50M/s) stops=8524998
+[9600/28392 items] 8840s settings=4386969600 (0.50M/s) stops=8706820
+[9800/28392 items] 9025s settings=4478364800 (0.50M/s) stops=8889814
+[10000/28392 items] 9208s settings=4569760000 (0.50M/s) stops=9071841
+[10200/28392 items] 9392s settings=4661155200 (0.50M/s) stops=9252137
+[10400/28392 items] 9576s settings=4752550400 (0.50M/s) stops=9433192
+[10600/28392 items] 9761s settings=4843945600 (0.50M/s) stops=9614166
+[10800/28392 items] 9945s settings=4935340800 (0.50M/s) stops=9797067
+[11000/28392 items] 10130s settings=5026736000 (0.50M/s) stops=9977543
+[11200/28392 items] 10313s settings=5118131200 (0.50M/s) stops=10159261
+[11400/28392 items] 10498s settings=5209526400 (0.50M/s) stops=10340795
+[11600/28392 items] 10681s settings=5300921600 (0.50M/s) stops=10522272
+[11800/28392 items] 10866s settings=5392316800 (0.50M/s) stops=10703210
+[12000/28392 items] 11050s settings=5483712000 (0.50M/s) stops=10883115
+[12200/28392 items] 11234s settings=5575107200 (0.50M/s) stops=11064482
+[12400/28392 items] 11417s settings=5666502400 (0.50M/s) stops=11245516
+[12600/28392 items] 11601s settings=5757897600 (0.50M/s) stops=11427466
+[12800/28392 items] 11786s settings=5849292800 (0.50M/s) stops=11609261
+[13000/28392 items] 11970s settings=5940688000 (0.50M/s) stops=11791797
+[13200/28392 items] 12154s settings=6032083200 (0.50M/s) stops=11972304
+[13400/28392 items] 12339s settings=6123478400 (0.50M/s) stops=12153677
+[13600/28392 items] 12521s settings=6214873600 (0.50M/s) stops=12334140
+[13800/28392 items] 12706s settings=6306268800 (0.50M/s) stops=12515418
+[14000/28392 items] 12889s settings=6397664000 (0.50M/s) stops=12694219
+[14200/28392 items] 13073s settings=6489059200 (0.50M/s) stops=12876372
+[14400/28392 items] 13256s settings=6580454400 (0.50M/s) stops=13056526
+[14600/28392 items] 13441s settings=6671849600 (0.50M/s) stops=13237872
+[14800/28392 items] 13624s settings=6763244800 (0.50M/s) stops=13420186
+[15000/28392 items] 13810s settings=6854640000 (0.50M/s) stops=13599138
+[15200/28392 items] 13994s settings=6946035200 (0.50M/s) stops=13781124
+[15400/28392 items] 14178s settings=7037430400 (0.50M/s) stops=13963240
+[15600/28392 items] 14363s settings=7128825600 (0.50M/s) stops=14144308
+[15800/28392 items] 14548s settings=7220220800 (0.50M/s) stops=14326961
+[16000/28392 items] 14733s settings=7311616000 (0.50M/s) stops=14507154
+[16200/28392 items] 14916s settings=7403011200 (0.50M/s) stops=14687609
+[16400/28392 items] 15101s settings=7494406400 (0.50M/s) stops=14868699
+[16600/28392 items] 15286s settings=7585801600 (0.50M/s) stops=15049974
+[16800/28392 items] 15470s settings=7677196800 (0.50M/s) stops=15232553
+[17000/28392 items] 15656s settings=7768592000 (0.50M/s) stops=15416218
+[17200/28392 items] 15840s settings=7859987200 (0.50M/s) stops=15595725
+[17400/28392 items] 16025s settings=7951382400 (0.50M/s) stops=15778857
+[17600/28392 items] 16209s settings=8042777600 (0.50M/s) stops=15958707
+[17800/28392 items] 16394s settings=8134172800 (0.50M/s) stops=16139725
+[18000/28392 items] 16578s settings=8225568000 (0.50M/s) stops=16319544
+[18200/28392 items] 16762s settings=8316963200 (0.50M/s) stops=16502680
+[18400/28392 items] 16947s settings=8408358400 (0.50M/s) stops=16683219
+[18600/28392 items] 17132s settings=8499753600 (0.50M/s) stops=16864388
+[18800/28392 items] 17317s settings=8591148800 (0.50M/s) stops=17045508
+[19000/28392 items] 17501s settings=8682544000 (0.50M/s) stops=17226973
+[19200/28392 items] 17684s settings=8773939200 (0.50M/s) stops=17407290
+[19400/28392 items] 17868s settings=8865334400 (0.50M/s) stops=17587321
+[19600/28392 items] 18052s settings=8956729600 (0.50M/s) stops=17768342
+[19800/28392 items] 18237s settings=9048124800 (0.50M/s) stops=17950221
+[20000/28392 items] 18422s settings=9139520000 (0.50M/s) stops=18130654
+[20200/28392 items] 18606s settings=9230915200 (0.50M/s) stops=18313063
+[20400/28392 items] 18790s settings=9322310400 (0.50M/s) stops=18492591
+[20600/28392 items] 18975s settings=9413705600 (0.50M/s) stops=18674277
+[20800/28392 items] 19159s settings=9505100800 (0.50M/s) stops=18855137
+[21000/28392 items] 19344s settings=9596496000 (0.50M/s) stops=19035237
+[21200/28392 items] 19527s settings=9687891200 (0.50M/s) stops=19215767
+[21400/28392 items] 19712s settings=9779286400 (0.50M/s) stops=19396378
+[21600/28392 items] 19899s settings=9870681600 (0.50M/s) stops=19578134
+[21800/28392 items] 20082s settings=9962076800 (0.50M/s) stops=19759368
+[22000/28392 items] 20266s settings=10053472000 (0.50M/s) stops=19940770
+[22200/28392 items] 20451s settings=10144867200 (0.50M/s) stops=20124552
+[22400/28392 items] 20636s settings=10236262400 (0.50M/s) stops=20307705
+[22600/28392 items] 20821s settings=10327657600 (0.50M/s) stops=20489151
+[22800/28392 items] 21006s settings=10419052800 (0.50M/s) stops=20670207
+[23000/28392 items] 21191s settings=10510448000 (0.50M/s) stops=20851521
+[23200/28392 items] 21375s settings=10601843200 (0.50M/s) stops=21034237
+[23400/28392 items] 21560s settings=10693238400 (0.50M/s) stops=21215308
+[23600/28392 items] 21744s settings=10784633600 (0.50M/s) stops=21395838
+[23800/28392 items] 21928s settings=10876028800 (0.50M/s) stops=21578704
+[24000/28392 items] 22111s settings=10967424000 (0.50M/s) stops=21759567
+[24200/28392 items] 22296s settings=11058819200 (0.50M/s) stops=21940195
+[24400/28392 items] 22483s settings=11150214400 (0.50M/s) stops=22121414
+[24600/28392 items] 22666s settings=11241609600 (0.50M/s) stops=22302388
+[24800/28392 items] 22851s settings=11333004800 (0.50M/s) stops=22482812
+[25000/28392 items] 23036s settings=11424400000 (0.50M/s) stops=22665223
+[25200/28392 items] 23221s settings=11515795200 (0.50M/s) stops=22845598
+[25400/28392 items] 23404s settings=11607190400 (0.50M/s) stops=23025886
+[25600/28392 items] 23589s settings=11698585600 (0.50M/s) stops=23207161
+[25800/28392 items] 23773s settings=11789980800 (0.50M/s) stops=23388211
+[26000/28392 items] 23960s settings=11881376000 (0.50M/s) stops=23569750
+[26200/28392 items] 24143s settings=11972771200 (0.50M/s) stops=23751243
+[26400/28392 items] 24328s settings=12064166400 (0.50M/s) stops=23932854
+[26600/28392 items] 24515s settings=12155561600 (0.50M/s) stops=24114997
+[26800/28392 items] 24700s settings=12246956800 (0.50M/s) stops=24296505
+[27000/28392 items] 24885s settings=12338352000 (0.50M/s) stops=24476062
+[27200/28392 items] 25068s settings=12429747200 (0.50M/s) stops=24658440
+[27400/28392 items] 25254s settings=12521142400 (0.50M/s) stops=24837899
+[27600/28392 items] 25438s settings=12612537600 (0.50M/s) stops=25018744
+[27800/28392 items] 25622s settings=12703932800 (0.50M/s) stops=25199648
+[28000/28392 items] 25808s settings=12795328000 (0.50M/s) stops=25381477
+[28200/28392 items] 25994s settings=12886723200 (0.50M/s) stops=25564017
+DONE settings=12974462592 time=26171.3s rate=0.496M settings/s (0.248M/s/thread, 2 threads) T-evals/setting=4.8 stops=25739013
+crib 0 FUENFXUUUFLO..(34)@0: block-stops=456; verified g histogram: g2:1 g3:8 g4:8 g5:7 g6:21 g7:36 g8:73 g9:67 g10:84 g11:80 g12:53 g13:18
+crib 1 FUENFXUUUFLO..(35)@0: block-stops=137; verified g histogram: g3:1 g4:1 g5:10 g6:9 g7:5 g8:4 g9:19 g10:19 g11:22 g12:18 g13:23 g14:4 g15:2
+crib 2 FUENFXUUUFLO..(33)@0: block-stops=7412; verified g histogram: g2:117 g3:216 g4:293 g5:435 g6:575 g7:843 g8:938 g9:1141 g10:1010 g11:928 g12:641 g13:237 g14:37 g15:1
+crib 3 FUENFXUUUFLO..(34)@0: block-stops=6343; verified g histogram: g2:31 g3:86 g4:101 g5:207 g6:312 g7:406 g8:627 g9:783 g10:923 g11:1030 g12:846 g13:695 g14:272 g15:24
+crib 4 FUENFUUUFLOT..(32)@0: block-stops=3544725; verified g histogram: g1:2 g2:5002 g3:15103 g4:35223 g5:71053 g6:124914 g7:198943 g8:292915 g9:392177 g10:468325 g11:512479 g12:502027 g13:440222 g14:332429 g15:139510 g16:14315 g17:86
+crib 5 FUENFUUUFLOT..(33)@0: block-stops=153502; verified g histogram: g2:438 g3:1282 g4:3283 g5:6617 g6:11340 g7:17070 g8:21670 g9:24679 g10:24032 g11:19581 g12:13313 g13:7805 g14:2291 g15:101
+crib 6 FUNFXUUUFLOT..(32)@0: block-stops=156686; verified g histogram: g2:516 g3:1431 g4:3356 g5:6246 g6:10554 g7:16218 g8:21719 g9:25530 g10:25461 g11:20892 g12:14294 g13:8016 g14:2287 g15:166
+crib 7 FUNFXUUUFLOT..(33)@0: block-stops=35067; verified g histogram: g1:2 g2:77 g3:243 g4:699 g5:1356 g6:2098 g7:3225 g8:4007 g9:5064 g10:5757 g11:5310 g12:4458 g13:2236 g14:507 g15:28
+crib 8 FUNFUUUFLOTT..(32)@0: block-stops=19378; verified g histogram: g2:39 g3:124 g4:310 g5:647 g6:1104 g7:1644 g8:2100 g9:2767 g10:3126 g11:3390 g12:2525 g13:1287 g14:306 g15:9
+crib 9 FUNFUUUFLOTT..(33)@0: block-stops=553916; verified g histogram: g2:1676 g3:4368 g4:10619 g5:21030 g6:34728 g7:52610 g8:70068 g9:83386 g10:86132 g11:77226 g12:61736 g13:38086 g14:11538 g15:713
+crib 10 FUNFUUUFLOTT..(28)@0: block-stops=4418497; verified g histogram: g0:1 g1:42 g2:24732 g3:64912 g4:147807 g5:298356 g6:520273 g7:748705 g8:885697 g9:847352 g10:598506 g11:243207 g12:37800 g13:1107
+crib 11 FUNFUUUFLOTT..(29)@0: block-stops=3888022; verified g histogram: g0:8 g1:174 g2:52649 g3:96040 g4:149985 g5:231240 g6:340960 g7:501102 g8:672074 g9:730059 g10:616093 g11:360164 g12:123872 g13:13449 g14:153
+crib 12 ZWOFUENFXUUU..(34)@0: block-stops=874920; verified g histogram: g1:1 g2:864 g3:2905 g4:7207 g5:14476 g6:24755 g7:40895 g8:55577 g9:73755 g10:89682 g11:110366 g12:133414 g13:136991 g14:110270 g15:59691 g16:13527 g17:544
+crib 13 ZWOFUENFXUUU..(35)@0: block-stops=996; verified g histogram: g3:5 g4:35 g5:31 g6:62 g7:102 g8:90 g9:119 g10:159 g11:148 g12:127 g13:87 g14:26 g15:5
+crib 14 ZWOFUENFXUUU..(36)@0: block-stops=238; verified g histogram: g4:6 g5:5 g6:13 g7:14 g8:15 g9:34 g10:21 g11:38 g12:20 g13:43 g14:10 g15:17 g16:2
+crib 15 ZWOFUENFXUUU..(37)@0: block-stops=14; verified g histogram: g7:4 g11:6 g12:3 g15:1
+crib 16 ZWOFUENFXUUU..(33)@0: block-stops=724828; verified g histogram: g2:505 g3:2172 g4:6585 g5:16800 g6:35103 g7:62342 g8:91489 g9:115749 g10:127687 g11:117785 g12:86576 g13:47867 g14:13314 g15:854
+crib 17 ZWOFUENFXUUU..(34)@0: block-stops=24331; verified g histogram: g2:27 g3:138 g4:304 g5:665 g6:1187 g7:1988 g8:2717 g9:3340 g10:3814 g11:3977 g12:3302 g13:2187 g14:664 g15:21
+crib 18 ZWOFUENFUUUF..(36)@0: block-stops=248; verified g histogram: g4:5 g5:4 g6:8 g7:7 g8:18 g9:25 g10:21 g11:34 g12:58 g13:41 g14:23 g15:3 g16:1
+crib 19 ZWOFUENFUUUF..(37)@0: block-stops=2; verified g histogram: g12:2
+crib 20 ZWOFUENFUUUF..(33)@0: block-stops=202300; verified g histogram: g2:139 g3:751 g4:2447 g5:5742 g6:11297 g7:18118 g8:25579 g9:32991 g10:34989 g11:31164 g12:23599 g13:12029 g14:3238 g15:217
+crib 21 ZWOFUENFUUUF..(34)@0: block-stops=23795; verified g histogram: g2:67 g3:255 g4:417 g5:694 g6:1020 g7:1598 g8:2342 g9:3273 g10:3765 g11:3946 g12:3642 g13:2065 g14:668 g15:43
+crib 22 ZWOFUENFUUUF..(35)@0: block-stops=1780; verified g histogram: g2:7 g3:15 g4:34 g5:46 g6:55 g7:86 g8:111 g9:177 g10:262 g11:300 g12:269 g13:222 g14:160 g15:34 g16:2
+crib 23 ZWOFUENFUUUF..(36)@0: block-stops=233; verified g histogram: g2:1 g4:1 g5:2 g6:5 g7:18 g8:17 g9:46 g10:28 g11:50 g12:19 g13:24 g14:16 g15:6
+crib 24 ZWOFUENFUUUF..(32)@0: block-stops=3823322; verified g histogram: g2:7104 g3:23600 g4:59550 g5:130203 g6:243812 g7:390012 g8:521638 g9:603641 g10:612841 g11:523685 g12:384779 g13:237711 g14:78109 g15:6637
+crib 25 ZWOFUNFXUUUF..(36)@0: block-stops=64; verified g histogram: g5:1 g6:2 g7:1 g8:9 g9:3 g10:8 g11:16 g12:4 g13:13 g14:7
+crib 26 ZWOFUNFXUUUF..(37)@0: block-stops=34; verified g histogram: g5:1 g6:1 g7:1 g9:5 g10:11 g11:5 g12:4 g13:4 g14:2
+crib 27 ZWOFUNFXUUUF..(33)@0: block-stops=155836; verified g histogram: g2:749 g3:1770 g4:4009 g5:6673 g6:8914 g7:13342 g8:18455 g9:21456 g10:21828 g11:19275 g12:20374 g13:14861 g14:3872 g15:258
+crib 28 ZWOFUNFXUUUF..(34)@0: block-stops=1640; verified g histogram: g2:3 g3:17 g4:33 g5:68 g6:77 g7:169 g8:173 g9:201 g10:258 g11:316 g12:191 g13:116 g14:8 g15:10
+crib 29 ZWOFUNFXUUUF..(35)@0: block-stops=1345; verified g histogram: g2:2 g3:2 g4:13 g5:29 g6:64 g7:95 g8:87 g9:177 g10:149 g11:192 g12:184 g13:156 g14:119 g15:73 g16:3
+crib 30 ZWOFUNFXUUUF..(36)@0: block-stops=56; verified g histogram: g6:2 g7:4 g8:6 g9:12 g10:11 g11:3 g12:4 g13:14
+crib 31 ZWOFUNFXUUUF..(32)@0: block-stops=7318; verified g histogram: g2:40 g3:88 g4:197 g5:411 g6:626 g7:899 g8:1042 g9:1113 g10:1139 g11:874 g12:694 g13:190 g14:5
+crib 32 ZWOFUNFXUUUF..(33)@0: block-stops=1559275; verified g histogram: g2:9903 g3:21350 g4:38523 g5:66211 g6:107502 g7:158050 g8:202858 g9:228707 g10:233953 g11:195916 g12:150638 g13:102342 g14:40060 g15:3262
+crib 33 ZWOFUNFUUUFL..(35)@0: block-stops=6029; verified g histogram: g2:2 g3:11 g4:50 g5:92 g6:210 g7:380 g8:561 g9:829 g10:798 g11:838 g12:942 g13:661 g14:445 g15:191 g16:19
+crib 34 ZWOFUNFUUUFL..(36)@0: block-stops=228; verified g histogram: g4:1 g5:3 g6:11 g7:14 g8:45 g9:23 g10:19 g11:46 g12:25 g13:25 g14:12 g15:4
+crib 35 ZWOFUNFUUUFL..(32)@0: block-stops=11415; verified g histogram: g2:5 g3:77 g4:145 g5:372 g6:702 g7:1194 g8:1615 g9:1770 g10:1808 g11:1805 g12:1371 g13:477 g14:74
+crib 36 ZWOFUNFUUUFL..(33)@0: block-stops=155662; verified g histogram: g2:328 g3:1062 g4:2775 g5:5610 g6:10128 g7:15792 g8:21566 g9:24928 g10:24465 g11:20353 g12:16156 g13:9794 g14:2570 g15:135
+crib 37 ZWOFUNFUUUFL..(34)@0: block-stops=1764; verified g histogram: g3:9 g4:29 g5:60 g6:120 g7:145 g8:224 g9:299 g10:296 g11:263 g12:204 g13:85 g14:28 g15:2
+crib 38 ZWOFUNFUUUFL..(35)@0: block-stops=254; verified g histogram: g3:3 g4:1 g5:4 g6:9 g7:4 g8:21 g9:41 g10:30 g11:44 g12:42 g13:30 g14:21 g15:4
+crib 39 VIERXUUUFLOT..(32)@0: block-stops=6154; verified g histogram: g2:19 g3:69 g4:139 g5:273 g6:500 g7:652 g8:944 g9:980 g10:1035 g11:807 g12:498 g13:226 g14:12
+crib 40 VIERXUUUFLOT..(33)@0: block-stops=40247; verified g histogram: g2:18 g3:89 g4:466 g5:1061 g6:2307 g7:3853 g8:5635 g9:6774 g10:7082 g11:6401 g12:4187 g13:1921 g14:451 g15:2
+crib 41 VIERUUUFLOTT..(32)@0: block-stops=7134; verified g histogram: g2:9 g3:92 g4:199 g5:374 g6:587 g7:765 g8:1119 g9:1120 g10:1210 g11:986 g12:463 g13:189 g14:21
+crib 42 VIERUUUFLOTT..(33)@0: block-stops=36357; verified g histogram: g2:40 g3:219 g4:665 g5:1184 g6:2069 g7:3057 g8:4455 g9:5435 g10:5902 g11:5592 g12:4560 g13:2601 g14:555 g15:23
+crib 43 VIERUUUFLOTT..(28)@0: block-stops=1578273; verified g histogram: g1:12 g2:28153 g3:59815 g4:105439 g5:160786 g6:207530 g7:254290 g8:278944 g9:253452 g10:168175 g11:56172 g12:5436 g13:69
+crib 44 CHEFFUENFXUU..(34)@0: block-stops=22578; verified g histogram: g2:30 g3:85 g4:246 g5:597 g6:1127 g7:1680 g8:2467 g9:3394 g10:3887 g11:3614 g12:3002 g13:1829 g14:573 g15:47
+crib 45 CHEFFUENFXUU..(35)@0: block-stops=885; verified g histogram: g2:1 g3:3 g4:7 g5:28 g6:49 g7:72 g8:87 g9:121 g10:111 g11:140 g12:147 g13:86 g14:31 g15:2
+crib 46 CHEFFUENFUUU..(34)@0: block-stops=1403; verified g histogram: g2:19 g3:22 g4:27 g5:45 g6:70 g7:121 g8:174 g9:181 g10:208 g11:184 g12:199 g13:123 g14:30
+crib 47 CHEFFUENFUUU..(35)@0: block-stops=24401; verified g histogram: g2:18 g3:17 g4:122 g5:230 g6:527 g7:988 g8:1881 g9:2581 g10:3398 g11:3916 g12:4101 g13:3218 g14:2286 g15:985 g16:133
+crib 48 CHEFFUENFUUU..(36)@0: block-stops=22; verified g histogram: g5:2 g8:1 g9:4 g11:10 g12:3 g13:2
+crib 49 CHEFFUENFUUU..(37)@0: block-stops=14; verified g histogram: g6:4 g8:2 g10:1 g12:2 g13:5
+crib 50 CHEFFUENFUUU..(34)@0: block-stops=67009; verified g histogram: g2:271 g3:625 g4:1462 g5:2408 g6:3502 g7:4719 g8:6227 g9:8954 g10:10645 g11:11379 g12:8888 g13:5645 g14:2063 g15:221
+crib 51 CHEFFUNFXUUU..(34)@0: block-stops=45676; verified g histogram: g2:120 g3:291 g4:662 g5:1008 g6:1804 g7:2967 g8:4418 g9:6814 g10:8178 g11:8689 g12:6332 g13:3280 g14:1050 g15:63
+crib 52 CHEFFUNFXUUU..(35)@0: block-stops=1651; verified g histogram: g3:1 g4:6 g5:14 g6:21 g7:81 g8:174 g9:199 g10:254 g11:314 g12:238 g13:212 g14:110 g15:27
+crib 53 CHEFFUNFXUUU..(36)@0: block-stops=289; verified g histogram: g3:4 g4:2 g5:5 g6:9 g7:17 g8:26 g9:30 g10:46 g11:48 g12:38 g13:27 g14:23 g15:14
+crib 54 CHEFFUNFXUUU..(37)@0: block-stops=2; verified g histogram: g7:1 g13:1
+crib 55 CHEFFUNFXUUU..(33)@0: block-stops=3304612; verified g histogram: g2:12696 g3:34834 g4:70264 g5:116170 g6:175553 g7:254174 g8:362019 g9:479578 g10:558060 g11:545924 g12:405049 g13:218751 g14:66455 g15:5085
+crib 56 CHEFFUNFXUUU..(34)@0: block-stops=164012; verified g histogram: g2:342 g3:930 g4:1772 g5:3359 g6:6370 g7:10920 g8:14380 g9:17974 g10:21879 g11:24928 g12:25488 g13:20637 g14:11584 g15:3253 g16:196
+crib 57 CHEFFUNFUUUF..(36)@0: block-stops=9; verified g histogram: g8:2 g10:2 g11:3 g12:2
+crib 58 CHEFFUNFUUUF..(37)@0: block-stops=0; verified g histogram:
+crib 59 CHEFFUNFUUUF..(33)@0: block-stops=25099; verified g histogram: g2:213 g3:566 g4:1121 g5:1653 g6:2414 g7:3364 g8:3720 g9:3874 g10:3455 g11:2749 g12:1495 g13:446 g14:29
+crib 60 CHEFFUNFUUUF..(34)@0: block-stops=6552; verified g histogram: g2:29 g3:77 g4:135 g5:245 g6:383 g7:366 g8:547 g9:864 g10:953 g11:1079 g12:1069 g13:635 g14:163 g15:7
+crib 61 CHEFFUNFUUUF..(35)@0: block-stops=15; verified g histogram: g5:1 g6:1 g7:2 g8:4 g9:3 g10:4
+crib 62 CHEFFUNFUUUF..(36)@0: block-stops=261; verified g histogram: g4:2 g5:4 g6:4 g7:7 g8:16 g9:16 g10:51 g11:31 g12:55 g13:40 g14:27 g15:8
+crib 63 CHEFFUNFUUUF..(32)@0: block-stops=7718; verified g histogram: g2:27 g3:68 g4:194 g5:352 g6:557 g7:877 g8:1053 g9:1163 g10:1155 g11:1166 g12:764 g13:314 g14:28
+crib 64 CHEFFUNFUUUF..(33)@0: block-stops=36572; verified g histogram: g2:521 g3:840 g4:1213 g5:1587 g6:2377 g7:3062 g8:4139 g9:5462 g10:5234 g11:4833 g12:4258 g13:2446 g14:591 g15:9

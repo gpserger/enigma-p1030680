@@ -1,0 +1,13 @@
+META serial=ZIP/ZTPc368133 too=0815 toi=0655/12/4/45 freq=3764kc/s from=U 3040 (ROBBERTS) to=5TH U/B FLOTILLA CC2 GROUPS
+GIST U-3040 Robberts reports limited ability to proceed due to both electric motors out of order and repairing at Heikendorf Bay.
+
+FROM: U 3040 (ROBBERTS)
+TO: 5TH U/B FLOTILLA
+CC2 GROUPS))
+
+
+ABILITY TO PROCEED LIMITED. BOTH ELECTRIC MOTORS OUT OF ORDER. AM
+IN HEIKENDORF BAY. REPAIRING . W/T 4860 KC/S.
+
+
+0616/4/5/45+EGT/MH+

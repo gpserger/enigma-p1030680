@@ -1,0 +1,18 @@
+META serial=ZIP/ZTPc/36784 too=0550 toi=0425/28/4/45 freq=382 KC/S from=M 3635 to=10TH DEFENCE DIVISION
+GIST Message from M 3635 to defence divisions and flotillas reporting passage of U-boats 3027 and 2535 at Gruen and expected arrival at ROT 13A.
+
+ADM (5)
+TO: I D B G                            ZIP/ZTPc/36784
+FROM: N S
+
+382 KC/S        TOO 0550             TOI 0425/28/4/45
+
+FROM: M 3635
+TO: 10TH DEFENCE DIVISION
+    36TH H/S FLOTILLA
+    1ST DEFENCE FLOTILLA
+
+PASSED GRUEN 02 AT 0550 WITH U 3027, 2535. SHALL ARRIVE
+AT ROT 13A AT 1300.
+
+2107/2/5/45+++++EE/SWH

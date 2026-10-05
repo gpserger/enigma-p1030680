@@ -1,0 +1,26 @@
+META serial=368744 too=1701/1720 toi=1532/1530/1/5/45 freq=3082/2115 from=5THCOASTALDEFENCEUNIT to=?
+GIST 5th Coastal Defence Unit reports convoy movements southbound from BE at 2100 and northbound from ST at 1600, and U 802 on independent passage at 2200 with escort vessel Dahme providing escort from point of encounter.
+
+ADM C4)
+
+TO I D B G                ZIP/ZTPG/368744
+
+FROM N S
+
+3082/2115 KC/S     T O O 1701/1720     T O I 1532/1530/1/5/45
+
+FROM: 5TH. COASTAL DEFENCE UNIT
+
+SOUTHBOUND FROM 'BE' AT 2100:
+
+CCV)) 5523, 551(CFIGURE CORRUPT)) PLUS ONE SHIP, 8 KNOTS.
+
+NORTHBOUND FROM 'ST' AT 1600:
+
+CCV)) 5110 PLUS 2 PLUS 2 SHIPS, ONE TUG, 7 KNOTS. AT 2200 U 802
+ON IX INDEPENDENT PASSAGE, 12 KNOTS. AT 2200 CCV)) 5312 PLUS ONE
+SHIP, 9.5 KNOTS. A/S VESSEL 'DAHME' WILLL PROVIDE ESCORT FROM
+POINT OF ENCOUNTER.
+
+
+0441/8/5/45+++GFG/UC

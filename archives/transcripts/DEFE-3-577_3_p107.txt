@@ -1,0 +1,21 @@
+META serial=367512 too=0948 toi=0830/1/5/45 freq=403 from=? to=?
+GIST Emergency: U 318 (Will) and U 992 (Falke) leaving Harstad; A/S Hunt Andenes group missed on 1/5.
+
+ADM C4D
+
+TO IDBG
+FROM N S
+
+ZIP/ZTPG/367512
+
+403 KC/S        TOO 0948        TOI 0830/1/5/45
+
+((ORIGINATOR MISSED))
+
+EMERGENCY:
+
+FOR U 318 (WILL) AND U 992 (FALKE) LEAVING HARSTAD AT ABOUT
+1200, A/S HUNT IN ANDENES ((GROUP MISSED)) ON 1/5 FROM 1 ((CREST
+MISSED)).
+
+1353/1/5/45++ EE/WAB++++

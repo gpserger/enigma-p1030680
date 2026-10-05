@@ -1,0 +1,11 @@
+META serial=368000-368999 too=? toi=3/5/45-17/5/45 freq=? from=? to=?
+GIST Cover page for ZTPG decrypts numbered 368000-368999, dated 3 May 1945 to 17 May 1945.
+
+DEFE 3/578
+E
+/371
+
+ZTPG
+368000-368999
+
+3/5/45—17/5/45

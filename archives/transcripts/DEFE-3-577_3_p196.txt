@@ -1,0 +1,18 @@
+META serial=367589 too=0955 toi=0815/1/5/45 freq=3658 from=V 5513 to=5TH COASTAL DEFENCE UNIT, 11TH U/B FLOTILLA
+GIST V 5513 signals emergency to 5th Coastal Defence Unit and 11th U-boat Flotilla that it has U 256 in convoy.
+
+ADM (5)
+TO: I D 8 G                                    ZIP/ZTPG/367589
+FROM: N S
+
+3658 KC/S            TOO 0955            TOI 0815/1/5/45
+
+FROM: V 5513
+TO:   5TH COASTAL DEFENCE UNIT
+      11TH U/B FLOTILLA
+
+EMERGENCY
+
+I HAVE U 256 IN CONVOY.
+
+1909/1/5/45+++++E/SMH

@@ -1,0 +1,16 @@
+META serial=367592 too=0937 toi=0920/1/5/45 freq=3270 from=FORTRESS COMMANDANT HELIGOLAND to=NAVAL CHIEF COMMAND NORTH 'QU' (ROMAN) II 'W', SEA DEFENCE COMMANDANT ELBE/WESER
+GIST Fortress Commandant Heligoland reports to Naval Chief Command North and Sea Defence Commandant Elbe/Weser that the daily report is unchanged.
+
+ADM AK(5)
+TO: I D 8 G                                    ZIP/ZTPG/367592
+FROM: N S
+
+3270 KC/S            TOO 0937            TOI 0920/1/5/45
+
+FROM: FORTRESS COMMANDANT HELIGOLAND
+TO:   NAVAL CHIEF COMMAND NORTH 'QU' (ROMAN) II 'W'
+      SEA DEFENCE COMMANDANT ELBE/WESER
+
+DAILY REPORT: UNCHANGED.
+
+1915/1/5/45++++++++EE/SMH

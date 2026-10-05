@@ -1,0 +1,19 @@
+META serial=367491 too=1725 toi=1659/2 1/4/45 freq=3460 from=S 19 to=Tanga
+GIST S 19 reports departure from Kiel at 1700.
+
+ADM C5D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ ZTPG/367491
+
+3460 KC/S        TOO 1725        TOI 1659/2 1/4/45
+
+FROM: S 19
+
+TO: TANGA
+
+LEFT KIEL AT 1700.
+
+1156/1/5/45 EE/HJU

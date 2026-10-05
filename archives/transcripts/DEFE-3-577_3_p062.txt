@@ -1,0 +1,20 @@
+META serial=367473 too=2037 toi=1845/30/4/45 freq=4265 from=Lorient Defence Unit to=?
+GIST Correction to ship movement reporting service: Breuer's convoy will proceed without HS.I Heinrich.
+
+ADM C5D
+
+TO: IDBG
+FROM: N S
+
+ZIP/ ZTPG/367473
+
+HEX 4265 KC/S        TOO 2037        TOI 1845/30/4/45
+
+FROM: LORIENT DEFENCE UNIT
+
+MOST IMMEDIATE
+
+CORRECTION OT SHIP MOVEMENT REPORTING SERVICE:
+BREUER'S CONVOY WILL PROCEED WITHOUT 'HS'.'I HEINRICH'.
+
+0921/1/5/45 CEL/HJU

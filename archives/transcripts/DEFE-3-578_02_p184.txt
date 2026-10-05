@@ -1,0 +1,9 @@
+META serial=ADM C(1) too=0344 toi=0209/5/5/45 freq=3015 from=SPERRBRECHER 177 to=I D 8 G
+GIST Sperrbrecher 177 requests measure 'P' from now to Regional Command Wilhelmshaven.
+
+FROM: SPERRBRECHER 177
+TO: REGIONAL CDT. WILHELMSHAVEN
+
+REQUEST MEASURE 'P' FROM NOW
+
+0721/6/5/45+EGT/AM

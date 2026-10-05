@@ -1,0 +1,18 @@
+META serial=3671403 too=2303 toi=2132/30/4/45 freq=2115KC/S from=5THCOASTALDEFENCEUNIT to=?
+GIST V.5310 with one MFP will leave Bergen northbound at 2315 at 8 knots speed.
+
+ADM C43
+TO: I D 8 G                           ZIP/ZTPG/3671403
+FROM: N S
+[seal mark]
+
+2115 KC/S             T O O 2303              T O I 2132/30/4/45
+
+FROM: 5TH COASTAL DEFENCE UNIT
+
+V.5310 WITH ONE MFP WILL LEAVE BERGEN, NORTHBOUND, AT 2315,
+SPEED 8 KNOTS.
+
+[seal mark]
+
+0255/1/5/45++CEL/FA

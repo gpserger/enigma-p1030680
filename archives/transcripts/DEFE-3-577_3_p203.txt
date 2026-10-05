@@ -1,0 +1,20 @@
+META serial=? too=? toi=? freq=? from=? to=?
+GIST Fuel report, page one, of the same V-boat data message as the header on p-202 (ZTPG/367596, 67th V-Flotilla to 2nd Coastal Defence Unit (Engineer)) and pages 2/3 that follow it: entries V 6702/6705/6711 with values A-D.
+
+FUEL REPORT:
+
+V 6702: A) 93
+         B) 138
+         C) 105
+         D) 126.
+
+V 6705: A) 6.27
+         B) C) 0
+         D) 6.27.
+
+V 6711: A) 3.80
+         B) 0
+         C) 0.685
+         D) 3.115.
+
+ENFO PAGE ONE

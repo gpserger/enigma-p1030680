@@ -1,0 +1,16 @@
+META serial=367840 too=1102 toi=1104/28/4/45 freq=4860 from=U 1407 (CHEITZ) to=5TH U/B FLOTILLA FOR U-BOAT ACCEPTANCE COMMAND KIEL
+GIST U-boat 1407 shall arrive tomorrow; requests sounder expert to Borgstedt.
+
+ADM (C)
+TO: I D B G                                    ZIP/ZTPG/367840
+FROM: N S
+
+4860 KC/S            TOO 1102            TOI 1104/28/4/45
+
+FROM: U 1407 (CHEITZ)
+TO: 5TH U/B FLOTILLA FOR U-BOAT ACCEPTANCE COMMAND KIEL.
+
+SHALL ARRIVE TOMORROW. REQUEST SOUNDER EXPERT TO
+BORGSTEDT.
+
+2102/2/5/45+++++++EE/SMH

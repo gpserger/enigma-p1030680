@@ -1,0 +1,19 @@
+META serial=3687/55 too=1456 toi=1330/1/5/45 freq=382KC/S from=VS 202 to=10TH DEFENCE DIVISION
+GIST: Emergency message from VS 202 reports escort of Deutschland to Gruen 03 at 1400 with intent to enter Sassnitz for harbour services and coal.
+
+ADM C3D
+TO I D B G                                 ZIP/ZTPG/3687/55
+
+FROM N S
+
+382 KC/S        T O O 1456        T O I 1330/1/5/45
+
+FROM: VS 202
+TO:   10TH DEFENCE DIVISION
+
+EMERGENCY
+
+AT 1400 BEGAN ESCORT OF 'DEUTSCHLAND' TO 'GRUEN 03'.
+INTENTION: TO ENTER SASSNITZ FOR HARBOUR SERVICES, SAVING COAL.
+
+0624/8/5/45+CFG+DJL
